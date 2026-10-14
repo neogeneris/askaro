@@ -226,7 +226,7 @@ ASK-SUS-0227,ECONOMIA,Economia,merkádo,merkádo,mercado,market,mercato,Sustanti
 ASK-SUS-0228,ECONOMIA,Economia,déñero,déñero,dinero,money,denario,Sustantivo,dēnārius (lat.),N2,,Canon,,5,4,agdéñero,akdéñero,lokdéñero,instdéñero,déñerdor,déñeros,déñerom,déñerem,V11.0,2026-10-14,"n+i nasal -> ñ; Prefijos: kwal:kwaldéñero, kol:koldéñero, dim:dimdéñero, aug:augdéñero, dok:dokdéñero, pra:pradéñero"
 ASK-SUS-0229,ECONOMIA,Economia,bánko,bánko,banco,bank,banco,Sustantivo,banco (germ./lat.),N1,tilde auto-añadida: banko->bánko,Canon,,5,3,agbánko,akbánko,lokbánko,instbánko,bánkdor,bánkos,bánkom,bánkem,V11.0,2026-10-14,"Prefijos: kwal:kwalbánko, kol:kolbánko, dim:dimbánko, aug:augbánko, dok:dokbánko, pra:prabánko"
 ASK-PRO-0230,NSM,Primitivas,Kā,Kā,ella,she (fem.),illa,Pronombre,ecce haec (lat.),N3,,Canon,,1,5,,,,,,,,,V11.0,2026-10-14,
-ASK-PRO-0231,NSM,Primitivas,Ēo,Eo,ello (neutro),it (neutro),id,Pronombre,"is, id (lat.)",N2,,Canon,,1,5,,,,,,,,,V11.0,2026-10-14,Macrón exigido en pronombres; resuelve tilde (ē largo)
+ASK-PRO-0231,NSM,Primitivas,Eo,Eo,ello (neutro),it (neutro),id,Pronombre,"is, id (lat.)",N2,,Canon,,1,5,,,,,,,,,V11.0,2026-10-14,Macrón exigido en pronombres; resuelve tilde (ē largo)
 ASK-PRO-0232,NSM,Primitivas,Ílo,Ílo,lo mencionado (anforico),the aforementioned,ille dictu,Pronombre,ille (lat.),N2,tilde en í (bisílaba),Canon,,1,4,,,,,,,,,V11.0,2026-10-14,"Anafórico ""lo mencionado"""
 ASK-PRO-0233,NSM,Primitivas,Lo,Lo,él mismo (énfasis),himself (emphatic),ipse,Pronombre,ipse (lat.),N2,,Canon,,1,4,,,,,,,,,V11.0,2026-10-14,
 ASK-PRO-0234,NSM,Primitivas,On,On,uno (indefinido),one (indef.),un,Pronombre,homo (lat.),N2,,Canon,,1,5,,,,,,,,,V11.0,2026-10-14,
@@ -236,7 +236,7 @@ ASK-PRO-0237,NSM,Primitivas,Tōs,Tōs,ustedes (masc.),you (pl. masc.),vos,Pronom
 ASK-PRO-0238,NSM,Primitivas,Tās,Tās,ustedes (fem.),you (pl. fem.),vas,Pronombre,tās (lat.),N3,,Canon,,1,5,,,,,,,,,V11.0,2026-10-14, | macrón en vocal final según regla pronominal
 ASK-PRO-0239,NSM,Primitivas,Kōs,Kōs,ellos (pers.),they (masc. pers.),illos,Pronombre,ecce hos (lat.),N3,,Canon,,1,5,,,,,,,,,V11.0,2026-10-14, | macrón en vocal final según regla pronominal
 ASK-PRO-0240,NSM,Primitivas,Kās,Kās,ellas (pers.),they (fem. pers.),illas,Pronombre,ecce has (lat.),N3,,Canon,,1,5,,,,,,,,,V11.0,2026-10-14, | macrón en vocal final según regla pronominal
-ASK-PRO-0241,NSM,Primitivas,Ēos,Eos,ellos (objetos),they (objects),illos,Pronombre,ei (lat.),N2,,Canon,,1,5,,,,,,,,,V11.0,2026-10-14,Macrón plural de Ēo
+ASK-PRO-0241,NSM,Primitivas,Eos,Eos,ellos (objetos),they (objects),illos,Pronombre,ei (lat.),N2,,Canon,,1,5,,,,,,,,,V11.0,2026-10-14,Macrón plural de Ēo
 ASK-PRO-0242,NSM,Primitivas,No,No,ninguno / nadie / nada,nobody / nothing / none,nemo,Pronombre,nōmo (lat.),N2,,Canon,,1,5,,,,,,,,,V11.0,2026-10-14,Pronombre negativo de existencia (sin macrón). ≠ Nōs (nosotros excl.)
 ASK-PRO-0244,NSM,Cuerpo,kápo,kápo,cabeza,head,capite,Pronombre,caput (lat.),N2,,Canon,,2,5,,,,,,,,,V11.0,2026-10-14,gen=inanime
 ASK-PRO-0246,NSM,Cuerpo,pédo,pédo,pie,foot,pede,Pronombre,pēs pedis (lat.),N2,,Canon,,2,5,,,,,,,,,V11.0,2026-10-14,gen=inanime
