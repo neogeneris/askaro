@@ -1,4 +1,4 @@
-# Askáro �� Especificación Formal V10.4 (Documento Maestro Unificado Monolítico)
+# Askáro — Especificación Formal V10.4 (Documento Maestro Unificado Monolítico)
 ## Interlingua Auxiliar de Base Neolatina (Romance Asiático)
 **Fecha de Compilación:** 2026-10-10  
 **Estado:** *Especificación Oficial Completa y Monolítica (V1.0 a V10.3)*
@@ -41,7 +41,7 @@ El sistema está diseñado con una alta **resiliencia y tolerancia a fallos** fr
 ### 1.6 Principio de Invariancia de la Raíz
 Se establece como axioma fundamental de la arquitectura la **Invariancia Absoluta de la Raíz Léxica**:
 
-1. **Carga Operativa a la Izquierda (Prefijación e Infijación)**: Toda la carga funcional y modificatoria de la oración ��incluyendo tiempo (`pr��`, `prō`), aspecto (`dūr`, `sinc`), modales (`mând`, `d��v`, `pōt`), negación (`no`), voz pasiva (`pās` / `-pas-`), derivaciones nominales (`ag-`, `ak-`, `kual-`, `inst-`, `lok-`, `kol-`, `dim-`, `aug-`, `dok-`, `pra-`) y prefijos verbales operativos (`-de-`, `-fal-`, `-kos-`, `-dos-`, `-re-`)�� es **estrictamente prefixal e infijal a la izquierda**.
+1. **Carga Operativa a la Izquierda (Prefijación e Infijación)**: Toda la carga funcional y modificatoria de la oración —incluyendo tiempo (`prē`, `prō`), aspecto (`dūr`, `sinc`), modales (`mând`, `dēv`, `pōt`), negación (`no`), voz pasiva (`pās` / `-pas-`), derivaciones nominales (`ag-`, `ak-`, `kual-`, `inst-`, `lok-`, `kol-`, `dim-`, `aug-`, `dok-`, `pra-`) y prefijos verbales operativos (`-de-`, `-fal-`, `-kos-`, `-dos-`, `-re-`)— es **estrictamente prefixal e infijal a la izquierda**.
 2. **Raíz Intacta e Inmune**: La raíz o lexema base (`procés-`, `fok-`, `sistém-`, `dát-`, `kós-`, `ped-`) **permanece totalmente intacta, uniforme y libre de apofonía o deformaciones derivativas/conjugativas** en cualquier contexto sintáctico o discursivo.
 3. **Casos Nasales Directos a la Raíz**: Las marcas de caso nasales (`-o` nominativo, `-om` acusativo, `-em` dativo, `-im` adverbial) y las envolturas verbales (`-ár`, `-ér`, `-ír`) se añaden directamente al extremo final de la raíz.
 4. **Reconocimiento del Límite Argumental en $O(1)$**: Al no competir con sufijos derivativos deformantes en la cola del vocablo, el *parser* computacional y el receptor humano reconocen el límite argumental y el rol sintáctico de la entidad en complejidad $O(1)$ sin requerir *lookahead*.
@@ -49,7 +49,7 @@ Se establece como axioma fundamental de la arquitectura la **Invariancia Absolut
 
 ---
 
-### 1.7 Nota de Diseño �� Transiciones de Estado y Evaluación de `ad-`
+### 1.7 Nota de Diseño — Transiciones de Estado y Evaluación de `ad-`
 
 Se consideró la posibilidad de marcar transiciones con el prefijo **`ad-`** (del latín *ad*, "hacia"), aplicable tanto a estados (`adabérto` = abriéndose) como a sustantivos. La idea refleja un patrón frecuente en muchas lenguas: marcar el estado intermedio entre dos polos, con dirección de tránsito ("en tránsito hacia").
 
@@ -104,7 +104,7 @@ El sistema formaliza el espectro fonónico completo del Sánscrito (IAST / Devan
 | Punto de Articulación | Sorda Simple | Sorda Aspirada | Sonora Simple | Sonora Aspirada | Nasal de Clase |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | **Velares (*Kanthya*)** | **`k`** | **`kh`** | **`g`** | **`gh`** | **`ṅ`** / **`ng`** |
-| **Palatales (*Tālavya*)** | **`c`** (`/tʃ/`) | **`ch`** | **`j`** (`/��/`) | **`jh`** | **`ñ`** |
+| **Palatales (*Tālavya*)** | **`c`** (`/tʃ/`) | **`ch`** | **`j`** (`/ʒ/`) | **`jh`** | **`ñ`** |
 | **Retroflejas (*Mūrdhanya*)** | **`ṭ`** | **`ṭh`** | **`ḍ`** | **`ḍh`** | **`ṇ`** |
 | **Dentales (*Dantya*)** | **`t`** | **`th`** | **`d`** | **`dh`** | **`n`** |
 | **Labiales (*Oṣṭhya*)** | **`p`** | **`ph`** | **`b`** | **`bh`** | **`m`** |
@@ -120,7 +120,7 @@ Para lectura humana y marcado prosódico, el sistema ofrece dos notaciones 1:1 e
 
 | Categoría Funcional | Notación Unicode / Macrón | Notación ASCII Puro (`^`) | Metáfora Operativa | Ejemplos |
 | :--- | :---: | :---: | :--- | :--- |
-| **Pila Preverbal / Auxiliares** | **Macrón (`¯`)** | **Circunflejo (`^`)** | *Rueditas laterales* (TAM/Modal) | `pr��` / `prê`, `prō` / `prô`, `d��v` / `dêv`, `pās` / `pâs` |
+| **Pila Preverbal / Auxiliares** | **Macrón (`¯`)** | **Circunflejo (`^`)** | *Rueditas laterales* (TAM/Modal) | `prē` / `prê`, `prō` / `prô`, `dēv` / `dêv`, `pās` / `pâs` |
 | **Sustantivos / Declinación** | **Nasal (`-m`) / Anusvāra (`̇`)** | **Nasal (`-m`) / Punto (`.`)** | *Anclas argumentales* | `sistémom`, `kérvė` / `kérve.` |
 | **Núcleo Verbal (Envoltura)** | **Tilde Aguda (`´`) en `-ár/-ér/-ír`** | **Tilde Aguda (`´`) en `-ár/-ér/-ír`** | *Pedal principal* (Colapso de pila) | `askvisár`, `asktenér`, `askaudír` |
 
@@ -171,15 +171,15 @@ Para proteger la integridad de la raíz nominal y reservar la cola de la palabra
 ### 3.2 Formación de Reflexivos y Recíprocos Mediante `rel` + Acusativo
 Askáro elimina la necesidad de pronombres reflexivos independientes acoplando la partícula de visión relativa **`rel`** con la forma acusativa del pronombre correspondiente:
 
-* **`rel Mom`** $\rightarrow$ `Mo pr��s rel Mom asklavár.` *(Me lavo a mí mismo).*
-* **`rel Tom`** $\rightarrow$ `To pr��s rel Tom asklavár.` *(Te lavas a ti mismo).*
-* **`rel Kom`** $\rightarrow$ `Ko pr��s rel Kom askvisár.` *(Se ve a sí mismo).*
-* **`rel Kam`** $\rightarrow$ `Ka pr��s rel Kam askvisár.` *(Se ve a sí misma).*
-* **`rel Korm`** $\rightarrow$ `Kor pr��s rel Korm askvisár.` *(Se ve a sí mismo).*
-* **`rel Eom`** $\rightarrow$ `Eo pr��s rel Eom askmodifikár.` *(Se modifica a sí mismo).*
-* **`rel Mosom`** $\rightarrow$ `Mos pr��s rel Mosom askvisár.` *(Nos vemos a nosotros mismos).*
-* **`rel Tosom`** $\rightarrow$ `Tos pr��s rel Tosom askvisár.` *(Se ven a ustedes mismos).*
-* **`rel Kosom`** $\rightarrow$ `Kos pr��s rel Kosom askvisár.` *(Se ven el uno al otro / mutuamente).*
+* **`rel Mom`** $\rightarrow$ `Mo prēs rel Mom asklavár.` *(Me lavo a mí mismo).*
+* **`rel Tom`** $\rightarrow$ `To prēs rel Tom asklavár.` *(Te lavas a ti mismo).*
+* **`rel Kom`** $\rightarrow$ `Ko prēs rel Kom askvisár.` *(Se ve a sí mismo).*
+* **`rel Kam`** $\rightarrow$ `Ka prēs rel Kam askvisár.` *(Se ve a sí misma).*
+* **`rel Korm`** $\rightarrow$ `Kor prēs rel Korm askvisár.` *(Se ve a sí mismo).*
+* **`rel Eom`** $\rightarrow$ `Eo prēs rel Eom askmodifikár.` *(Se modifica a sí mismo).*
+* **`rel Mosom`** $\rightarrow$ `Mos prēs rel Mosom askvisár.` *(Nos vemos a nosotros mismos).*
+* **`rel Tosom`** $\rightarrow$ `Tos prēs rel Tosom askvisár.` *(Se ven a ustedes mismos).*
+* **`rel Kosom`** $\rightarrow$ `Kos prēs rel Kosom askvisár.` *(Se ven el uno al otro / mutuamente).*
 
 ### 3.3 Desambiguación $O(1)$ sin Lookahead y Regla de Mayúscula Obligatoria
 Para garantizar que un parser evalúe cada token en $O(1)$ sin requerir *lookahead* ($k=1$):
@@ -208,7 +208,7 @@ Askáro canoniza el Cuadrado de Aristóteles puro para cuantificadores e indefin
 | **Universal (Todo/Todos)** | **`ómno kóso`** *(todas las cosas / todo)* | **`no ómno kóso`** *(no todas las cosas)* |
 | **Particular (Alguno/Uno)** | **`úno kóso`** *(alguna cosa / algo)* | **`no úno kóso`** *(ninguna cosa / nada)* |
 
-#### ���� Ventaja Arquitectónica:
+#### 🔑 Ventaja Arquitectónica:
 * **Cero Alias e Irregularidades:** Se erradica la necesidad de memorizar tablas arbitrarias e irregulares de pronombres indefinidos.
 * **Composicionalidad 100% Transparente:** La cuantificación (universal `ómno` / particular `úno`), el dominio semántico (`persóno` / `kóso`) y la negación (`no`) interactúan algebraicamente sin excepciones sintácticas.
 
@@ -229,22 +229,22 @@ Para evitar la ambigüedad en discursos con múltiples participantes u objetos d
 #### Ejemplos de Desambiguación con Pronombres Especiales (V6.1)
 
 1. **Plural Exclusivo (`Nos` vs. `Mos`):**
-   * `Nos pr��s askpartír, to To pr��s askmanér.`  
-     ���� *"Nosotros (sin ti) nos vamos, tú te quedas."*
+   * `Nos prēs askpartír, to To prēs askmanér.`  
+     👉 *"Nosotros (sin ti) nos vamos, tú te quedas."*
 
 2. **Pronombre Logofórico (`Lo` - Discurso Indirecto Desambiguado):**
-   * `Ko1 pr�� askdicér ke Lo pro askfakár ílom.`  
-     ���� *"Él1 dijo que él mismo (Ko1) lo haría."* (frente a `ke Ko2 pro askfakár` = que otro lo haría).
+   * `Ko1 prē askdicér ke Lo pro askfakár ílom.`  
+     👉 *"Él1 dijo que él mismo (Ko1) lo haría."* (frente a `ke Ko2 pro askfakár` = que otro lo haría).
 
 3. **Pronombre Negativo (`No`):**
-   * `No pr��s askvenír.`  
-     ���� *"Nadie viene."*
-   * `Mo pr��s askvisár Nom.`  
-     ���� *"No veo a nadie / a nada."*
+   * `No prēs askvenír.`  
+     👉 *"Nadie viene."*
+   * `Mo prēs askvisár Nom.`  
+     👉 *"No veo a nadie / a nada."*
 
 4. **Variables Ordinales Fusionadas (`Eúnin`, `Edúin`, `Púnin`, `Pdúin`):**
-   * `Púnin pr�� askenviár Eúnim to Pdúin.`  
-     ���� *"La Persona 1 envió la Entidad 1 a la Persona 2."*
+   * `Púnin prē askenviár Eúnim to Pdúin.`  
+     👉 *"La Persona 1 envió la Entidad 1 a la Persona 2."*
 **Regla de Mayúscula Gramatical Obligatoria en Pronombres:**  
 La mayúscula inicial en todos los pronombres personales, pro-formas y comodines (`Mo`, `To`, `Ko`, `Ka`, `Kor`, `Eo`, `Ílo`, `Lo`, `No`, `On`, `Mos`, `Nos`, `Mas`, `Tos`, `Tas`, `Kos`, `Kas`, `Eos`) es un **rasgo gramatical obligatorio** que distingue unívocamente la categoría pronombral de partículas, preposiciones o determinantes (evitando que `de To` se confunda con *"de hacia"*). Esta regla aplica de forma estricta en todas las posiciones sintácticas, **incluso en scriptio continua**.
 
@@ -274,7 +274,7 @@ Se canoniza **`mag`** (proveniente del latín *magis*) para "más" con el fin de
 
 ## 6. Jerarquía Sintáctica, Pila Preverbal y Álgebra Condicional
 
-### 6.1 Jerarquía de ��rdenes Sintácticos: Preferencia Canónica SOV vs. Libertad del Usuario
+### 6.1 Jerarquía de Órdenes Sintácticos: Preferencia Canónica SOV vs. Libertad del Usuario
 En Askáro, el orden sintáctico se rige por una jerarquía clara entre la norma canónica y la flexibilidad discursiva:
 1. **Orden Preferente y Canónico: SOV (Sujeto - Objeto - Verbo)**:
    * **Fundamento Estadístico**: Tipológicamente y en universales lingüísticos (Greenberg), el orden SOV es el más estable y común en lenguajes con marcación explícita de caso.
@@ -291,13 +291,13 @@ La Pila Preverbal se coloca entre el Sujeto y el Verbo. Sus 5 capas se evalúan 
 
 #### 6.2.1 Principio de Dispersión y Opcionalidad (0 a 5 Slots)
 * **Opcionalidad Total (Pila Dispersa / *Sparse Stack*):** Ninguno de los slots de la pila preverbal es obligatorio. Una oración válida puede tener desde **0 auxiliares** (estado base indicativo/atemporal) hasta un máximo estricto de **5 auxiliares** (exactamente uno por cada capa).
-* **Graduación de Complejidad (0��5 Slots):**
+* **Graduación de Complejidad (0–5 Slots):**
   * **0 Slots (Base atemporal / presente indicativo):** `Ko askfakár.` *(Él hace).*
-  * **1 Slot (Tiempo simple):** `Ko pr�� askfakár.` *(Él hizo).*
-  * **2 Slots (Tiempo + Modo):** `Ko pr�� dev askfakár.` *(Él debía hacer).*
-  * **3 Slots (Tiempo + Epistémico + Deóntico):** `Ko pr�� prob dev askfakár.` *(Él probablemente debía hacer).*
-  * **4 Slots (Tiempo + Fase + Epistémico + Deóntico):** `Ko pr�� dur prob dev askfakár.` *(Él probablemente debía continuar haciendo).*
-  * **5 Slots (Pila Completa Saturada):** `Ko pr�� dur prob dev no askfakár.` *(Él probablemente debía continuar NO haciendo).*
+  * **1 Slot (Tiempo simple):** `Ko prē askfakár.` *(Él hizo).*
+  * **2 Slots (Tiempo + Modo):** `Ko prē dev askfakár.` *(Él debía hacer).*
+  * **3 Slots (Tiempo + Epistémico + Deóntico):** `Ko prē prob dev askfakár.` *(Él probablemente debía hacer).*
+  * **4 Slots (Tiempo + Fase + Epistémico + Deóntico):** `Ko prē dur prob dev askfakár.` *(Él probablemente debía continuar haciendo).*
+  * **5 Slots (Pila Completa Saturada):** `Ko prē dur prob dev no askfakár.` *(Él probablemente debía continuar NO haciendo).*
 * **Regla de Exclusión Mutua:** Dentro de cada capa individual solo puede seleccionarse **un único operador** a la vez.
 
 #### 6.2.2 Naturaleza Semántica de la Polaridad `no` (Capa 5: Operador Lógico vs. Auxiliar)
@@ -305,7 +305,7 @@ La desinencia de polaridad **`no`** ubicada en la Capa 5 actúa formalmente como
 eg$)** acoplado a la pila:
 1. **Alcance de Negación Verbal ($
 eg$):** A diferencia de las partículas de tiempo o modo que añaden propiedades temporales o volitivas, **`no`** invierte la verdad del núcleo verbal directamente antes del colapso de envoltura (`ask-...-ár`).
-2. **Evaluación de Alcance de Izquierda a Derecha:** Al situarse en la Capa 5 (la más cercana al verbo), la negación queda bajo el alcance (*scope*) de los modales y tiempos a su izquierda. Por ejemplo, `pr�� dev no askfakár` significa *"tenía la obligación de no hacer"*, mientras que `no pr�� dev askfakár` niega la obligación misma (*"no tenía la obligación de hacer"*).
+2. **Evaluación de Alcance de Izquierda a Derecha:** Al situarse en la Capa 5 (la más cercana al verbo), la negación queda bajo el alcance (*scope*) de los modales y tiempos a su izquierda. Por ejemplo, `prē dev no askfakár` significa *"tenía la obligación de no hacer"*, mientras que `no prē dev askfakár` niega la obligación misma (*"no tenía la obligación de hacer"*).
 3. **Diferenciación con `nok`:** Mientras que **`no`** es el operador lógico de negación preverbal ($
 eg$), **`nok`** es la respuesta fáctica proposicional independiente ($0$ / *falso*).
 
@@ -315,34 +315,34 @@ eg$), **`nok`** es la respuesta fáctica proposicional independiente ($0$ / *fal
 
 | Capa | Código Macrón | Notación ASCII (`^`) | Categoría Gramatical | Significado Exacto |
 | :---: | :---: | :---: | :--- | :--- |
-| **1. Tiempo (τ)** | **`pr��`** | `prê` | Pasado Absoluto | *Ocurrió / Pasó* |
-| | **`pr��s`** | `prês` | Presente Continuo / Actual | *Ocurre ahora / Está pasando* |
+| **1. Tiempo (τ)** | **`prē`** | `prê` | Pasado Absoluto | *Ocurrió / Pasó* |
+| | **`prēs`** | `prês` | Presente Continuo / Actual | *Ocurre ahora / Está pasando* |
 | | **`prō`** | `prô` | Futuro Absoluto | *Ocurrirá / Pasará* |
 | **2. Fase/Sincronía (φ)**| **`dūr`** | `dûr` | Durativo / Progresivo | *Continúa ocurriendo / Sigue* |
 | | **`sinc`** | `sinc` | Sincrónico / Tiempo Real | *En tiempo real / alineado* |
 | | **`desinc`**| `desinc`| Asincrónico | *Ejecución en diferido* |
 | | **`pās`** | `pâs` | Pasiva Analítica | *Es / fue / será [hecho]* |
-| **3. Epistémico (M_ep)**| **`c��r`** | `cêr` | Certeza Fáctica (100%) | *Ciertamente / Sin duda* |
+| **3. Epistémico (M_ep)**| **`cēr`** | `cêr` | Certeza Fáctica (100%) | *Ciertamente / Sin duda* |
 | | **`prōb`** | `prôb` | Probabilidad Alta (~80%) | *Probablemente* |
 | | **`pōs`** | `pôs` | Posibilidad (~50%) | *Es posible que / Quizás* |
 | | **`hīp`** | `hîp` | Hipotético / Irreal | *En escenario hipotético / Habría* |
 | | **`asūm`** | `asûm` | Asunción / Inferencia | *Se asume / Aparentemente* |
 | | **`mne`** | `mne` | Registro / Memoria | *Según constancia en registro* |
 | **4. Deóntico (M_de)** | **`pōt`** | `pôt` | Capacidad / Facultad | *Puede / Tiene la capacidad de* |
-| | **`d��v`** | `dêv` | Obligación / Deber | *Debe / Tiene la obligación de* |
+| | **`dēv`** | `dêv` | Obligación / Deber | *Debe / Tiene la obligación de* |
 | | **`vōl`** | `vôl` | Volición / Deseo | *Quiere / Desea ejecutar* |
 | | **`mând`** | `mând` | Mandato / Imperativo | *Ordena / Instruye ejecutar (¡Hazlo!)* |
-| **5. Polaridad (P)** | **`n��`** | `nê` | Inversión Lógica del Predicado ($\neg P$) | *Operador de polaridad del predicado (inversión de verdad)* |
+| **5. Polaridad (P)** | **`nē`** | `nê` | Inversión Lógica del Predicado ($\neg P$) | *Operador de polaridad del predicado (inversión de verdad)* |
 
 
 ### 6.3 La Tetralogía de la Negación y Distinción Aritmética/Lógica
 
 Para evitar cualquier solapamiento en lógica de predicados y parsing determinista, Askáro distingue cuatro niveles de negación análogos a la distinción en aritmética entre la **polaridad del número** (signo `-`) y la **operación de sustracción**:
 
-1. **`n��`** / **`nê` (Inversión Lógica de Polaridad del Predicado $\neg P$):**  
+1. **`nē`** / **`nê` (Inversión Lógica de Polaridad del Predicado $\neg P$):**  
    Ubicado exclusivamente en la **Capa 5 de la Pila Preverbal**. Es el operador unario de inversión lógica sobre el resultado del predicado verbal (análogo al signo de polaridad negativa en un valor verdadero/falso). Invierte la ejecución de la acción ($
 eg P(x)$).
-   * *Ejemplo:* `Ko pr�� d��v n�� askfakár.` *(Tiene la obligación de invertir el resultado de la acción: NO-hacer).*
+   * *Ejemplo:* `Ko prē dēv nē askfakár.` *(Tiene la obligación de invertir el resultado de la acción: NO-hacer).*
 
 2. **`no` (Operador Relacional y de Alcance Nominal):**  
    Utilizado antes de cuantificadores, adjetivos o grupos nominales para indicar el complemento o conjunto vacío parcial (análogo a la relación de resta/complemento).
@@ -350,17 +350,17 @@ eg P(x)$).
 
 3. **`No` (Pronombre Negativo Sustantivo - *"Ninguno / Nadie"*):**  
    Surge de la matriz pronombral por analogía asociativa (*Mos* -> *Mo* :: *Nos* -> *No*). Lleva mayúscula gramatical obligatoria.
-   * *Ejemplo:* `No pr��s askvenír.` *(Nadie / Ninguno viene).*
+   * *Ejemplo:* `No prēs askvenír.` *(Nadie / Ninguno viene).*
 
 4. **`nok` / `sik` / `dok` (Tokens Fácticos Independientes - Valores de Verdad $0$, $1$ y $1_{adv}$):**  
    Tokens de respuesta fáctica proposicional completa fuera de la pila.
-   * *Ejemplo:* `�� ¿Ko pr�� askvenír? �� Nok.` *(�� ¿Vino? �� Falso/0).*
+   * *Ejemplo:* `— ¿Ko prē askvenír? — Nok.` *(— ¿Vino? — Falso/0).*
 
 
 ### 6.4 Operador de Envoltura Verbal `ask-...-ár/-ér/-ír`
 * Prefijo invariable **`ask-`** (Apertura).
 * Infijos operativos opcionales (`-pas-` pasiva sintética, `-n-` nulidad, `-de-` reverso, `-fal-` fallo, `-kos-` acoplamiento, `-dos-` disyunción, `-re-` repetición).
-* Sufijos eufónicos continentales **`-ár`**, **`-ér`**, **`-ír`** (de las 3 conjugaciones latinas *-āre*, *-��re/-ěre*, *-īre*).
+* Sufijos eufónicos continentales **`-ár`**, **`-ér`**, **`-ír`** (de las 3 conjugaciones latinas *-āre*, *-ēre/-ěre*, *-īre*).
 * Tilde gráfica obligatoria como gatillo de colapso de la pila verbal (*stack collapse*).
 
 ### 6.5 Álgebra Condicional, Anidamientos Excluyentes y Conectores de Rama (`étunc`, `áutunc`, `véltunc`, `áutsi`, `vélsi`, `secus`)
@@ -382,21 +382,21 @@ eg P(x)$).
 
 | Función Sintáctica | Forma Canónica | Vocales | Tilde (Prosodia) | Ejemplo Canónico en Askáro |
 | :--- | :---: | :---: | :---: | :--- |
-| **Sujeto** | **`ko`** | 1 | **No** | `La usuário ko pr��s askadministrár...` |
-| **Objeto Directo** | **`kom`** | 1 | **No** | `La kárto kom To pr�� askenviár...` |
-| **Dativo** | **`koém`** | 2 (`o`, `e`) | **Sí (aguda)** | `La usuário koém Mo pr�� askenviár...` |
-| **Posesivo** | **`kúi`** | 2 (`u`, `i`) | **Sí (llana)** | `La sistémo kúi servóro pr��s askoperár...` |
-| **Locativo** | **`kur`** | 1 | **No** | `La dómo kur Ko pr��s askvivír...` |
-| **Temporal** | **`kan`** | 1 | **No** | `La diáno kan Ko pr�� askarivár...` |
-| **Modal** | **`kómo`** | 2 (`o`, `o`) | **Sí (llana)** | `La módo kómo Ko pr�� askfakár...` |
+| **Sujeto** | **`ko`** | 1 | **No** | `La usuário ko prēs askadministrár...` |
+| **Objeto Directo** | **`kom`** | 1 | **No** | `La kárto kom To prē askenviár...` |
+| **Dativo** | **`koém`** | 2 (`o`, `e`) | **Sí (aguda)** | `La usuário koém Mo prē askenviár...` |
+| **Posesivo** | **`kúi`** | 2 (`u`, `i`) | **Sí (llana)** | `La sistémo kúi servóro prēs askoperár...` |
+| **Locativo** | **`kur`** | 1 | **No** | `La dómo kur Ko prēs askvivír...` |
+| **Temporal** | **`kan`** | 1 | **No** | `La diáno kan Ko prē askarivár...` |
+| **Modal** | **`kómo`** | 2 (`o`, `o`) | **Sí (llana)** | `La módo kómo Ko prē askfakár...` |
 
 #### Tabla de Cláusulas Subordinadas Sustantivas (Completivas e Interrogativas Indirectas):
 
 | Tipo de Cláusula | Introductor | Función Sintáctica | Ejemplo Canónico en Askáro |
 | :--- | :--- | :--- | :--- |
-| **Completiva Declarativa** | **`ke`** | Sustituye argumento verbal | `Mo pr��s asksabér ke la servóro pr��s askoperár.` |
-| **Interrogativa Indirecta Sí/No** | **`an`** | Sustituye argumento verbal | `Mo pr��s askpreguntár an la servóro pr��s askoperár.` |
-| **Interrogativa Indirecta Parcial**| **`Kv-`** (`kvo`, `kve`...) | Sustituye argumento verbal | `Mo no pr��s asksabér kvo la usuário pr��s askfakár.` |
+| **Completiva Declarativa** | **`ke`** | Sustituye argumento verbal | `Mo prēs asksabér ke la servóro prēs askoperár.` |
+| **Interrogativa Indirecta Sí/No** | **`an`** | Sustituye argumento verbal | `Mo prēs askpreguntár an la servóro prēs askoperár.` |
+| **Interrogativa Indirecta Parcial**| **`Kv-`** (`kvo`, `kve`...) | Sustituye argumento verbal | `Mo no prēs asksabér kvo la usuário prēs askfakár.` |
 
 ### 6.7 Tríada de Perspectiva (`abs`, `rel`, `su`) y Partícula Evidencial Directa (`dir`)
 
@@ -416,30 +416,30 @@ Askáro resuelve de forma determinista la perspectiva pragmática, el foco sobre
 
 | Estructura | Enfoque Semántico | Ejemplo Canónico | Significado Exacto |
 | :--- | :--- | :--- | :--- |
-| **Base Neutra** | Enunciado neutro estándar | `Ko pr��s askfakár.` | *Él hace.* |
-| **Foco Sujetivo (`su`)** | Foco exclusivo en el sujeto | `Su Ko pr��s askfakár.` | *Solo él hace / Enfoque propio de él.* |
-| **Atestiguamiento (`dir`)**| Evidencia visual/directa | `Ko dir pr��s askfakár.` | *Él hace (lo vi directamente).* |
-| **Foco + Atestiguamiento** | Sujeto exclusivo + Evidencia directa | `Sū Ko dīr pr��s askfakár.` | *Solo él hace, y lo vi directamente.* |
-| **Visión Absoluta (`abs`)**| Perspectiva universal | `abs Mo pr��s askvisár la kósom.` | *Vi la cosa en su totalidad.* |
-| **Visión Relativa (`rel`)**| Perspectiva referencial | `rel Mo, la kóso pr��s askesér díficil.` | *Para mí, la cosa es difícil.* |
+| **Base Neutra** | Enunciado neutro estándar | `Ko prēs askfakár.` | *Él hace.* |
+| **Foco Sujetivo (`su`)** | Foco exclusivo en el sujeto | `Su Ko prēs askfakár.` | *Solo él hace / Enfoque propio de él.* |
+| **Atestiguamiento (`dir`)**| Evidencia visual/directa | `Ko dir prēs askfakár.` | *Él hace (lo vi directamente).* |
+| **Foco + Atestiguamiento** | Sujeto exclusivo + Evidencia directa | `Sū Ko dīr prēs askfakár.` | *Solo él hace, y lo vi directamente.* |
+| **Visión Absoluta (`abs`)**| Perspectiva universal | `abs Mo prēs askvisár la kósom.` | *Vi la cosa en su totalidad.* |
+| **Visión Relativa (`rel`)**| Perspectiva referencial | `rel Mo, la kóso prēs askesér díficil.` | *Para mí, la cosa es difícil.* |
 
 
 ### 6.8 Taxonomía Formal de Pro-Formas Gramaticales vs. Comodines Léxicos
 
 | Categoría | Forma | Tipo Gramatical | Función Sintáctica y Pragmática | Ejemplo Canónico en Askáro |
 | :--- | :--- | :--- | :--- | :--- |
-| **Anáfora** | **`Ílo` / `Eo`** | Pro-nombre | Sustituye a una entidad/sustantivo antecedente conocido | `Mo pr��s askvisár ílom.` *(Lo vi).* |
+| **Anáfora** | **`Ílo` / `Eo`** | Pro-nombre | Sustituye a una entidad/sustantivo antecedente conocido | `Mo prēs askvisár ílom.` *(Lo vi).* |
 | **Anáfora** | **`fak`** | Pro-verbo | Sustituye a una acción/verbo antecedente conocido | `Ko prō askfakár fak.` *(Él lo hará / ejecutará esa acción).* |
-| **Anáfora** | **`On`** | Pro-agente | Sustituye a un agente humano genérico o indeterminado | `On pr��s askdicér ke...` *(Se dice / Uno dice que...).* |
-| **Comodín** | **`kóso`** | Comodín nominal | Llena un vacío léxico cuando se ignora o no se nombra el objeto | `To to Mo la kósom pr��s askdar.` *(Dame esa cosa).* |
-| **Comodín** | **`askkosár`** | Pro-verbo genérico | Llena un vacío de acción sobre un objeto sin nombrar el verbo técnico | `Mo eom pr�� askkosár.` *(Lo cosié / procesé la cosa).* |
-| **Comodín** | **`askobrár`** | Verbo de intervención | Llena un vacío de labor o trabajo físico sobre una estructura | `Mos pr�� askobrár en la dómo.` *(Estuvimos obrando en la casa).* |
+| **Anáfora** | **`On`** | Pro-agente | Sustituye a un agente humano genérico o indeterminado | `On prēs askdicér ke...` *(Se dice / Uno dice que...).* |
+| **Comodín** | **`kóso`** | Comodín nominal | Llena un vacío léxico cuando se ignora o no se nombra el objeto | `To to Mo la kósom prēs askdar.` *(Dame esa cosa).* |
+| **Comodín** | **`askkosár`** | Pro-verbo genérico | Llena un vacío de acción sobre un objeto sin nombrar el verbo técnico | `Mo eom prē askkosár.` *(Lo cosié / procesé la cosa).* |
+| **Comodín** | **`askobrár`** | Verbo de intervención | Llena un vacío de labor o trabajo físico sobre una estructura | `Mos prē askobrár en la dómo.` *(Estuvimos obrando en la casa).* |
 
 ---
 
 ## 7. Sistema Numérico Base 10, Multiplicadores Posicionales y Sufijos Funcionales
 
-### 7.1 Dígitos Primarios (0��9) y Regla del Conteo de Vocales
+### 7.1 Dígitos Primarios (0–9) y Regla del Conteo de Vocales
 El sistema numérico de Askáro opera en **Base 10 pura** con concatenación lineal posicional de izquierda a derecha. Los diez dígitos fundamentales se construyen sobre raíces monosilábicas (excepto `kúa`, que posee 2 vocales y lleva tilde en la `ú` para cumplir estrictamente la Regla del Conteo de Vocales):
 
 | Cifra | Dígito Canónico | Vocales | Tilde (Prosodia) | Significado |
@@ -467,7 +467,7 @@ Las órdenes de magnitud se construyen mediante multiplicadores posicionales tra
 ### 7.3 Reglas de Composición Lineal (Decenas, Centenas y Millares)
 Los números compuestos se forman multiplicando la cifra por la base posicional y sumando las unidades sucesivas en orden directo:
 
-#### A. Decenas (10��99):
+#### A. Decenas (10–99):
 * **10** ($1 	imes 10$) $
 ightarrow$ **`un-ten`** (o **`ten`**)
 * **11** ($10 + 1$) $
@@ -485,7 +485,7 @@ ightarrow$ **`kúa-ten-kin`**
 * **99** ($9 	imes 10 + 9$) $
 ightarrow$ **`nov-ten-nov`**
 
-#### B. Centenas (100��999):
+#### B. Centenas (100–999):
 * **100** ($1 	imes 100$) $
 ightarrow$ **`un-cen`** (sustantivo: **`la cénto`**)
 * **200** ($2 	imes 100$) $
@@ -520,8 +520,8 @@ Los números generan derivados gramaticales unívocos según su rol en el enunci
 
 ### 7.5 Economía Cuantitativa de Plurales (Estilo Mandarín)
 Cuando un sustantivo está precedido por un número o cuantificador explícito, la marca de plural **`-s`** en el sustantivo se **suprime strictly** para evitar redundancia:
-* `dúo dátom` *(dos datos �� no dúo dátoms)*
-* `kúa-cen dómo` *(cuatrocientas casas �� no kúa-cen dómos)*
+* `dúo dátom` *(dos datos — no dúo dátoms)*
+* `kúa-cen dómo` *(cuatrocientas casas — no kúa-cen dómos)*
 * `omno sistémo` *(todos los sistemas)*
 
 ---
@@ -596,40 +596,40 @@ Cuando un sustantivo está precedido por un número o cuantificador explícito, 
 
 ## 9. Compilación del Benchmark de Casos de Prueba (V6.0)
 
-### ���� Caso 01: Estado Base Neutro y Secuencia Narrativa con `étunc`
+### 🧪 Caso 01: Estado Base Neutro y Secuencia Narrativa con `étunc`
 > *"El usuario presiona el botón, y entonces la máquina arranca."*
-* **Traducción (SOV Canónico)**: `La usuário la botónom pr�� askpresiónár, étunc la mákino pr�� askarrancár.`
+* **Traducción (SOV Canónico)**: `La usuário la botónom prē askpresiónár, étunc la mákino prē askarrancár.`
 * **Análisis**: Sujeto + Acusativo (`botónom`) + Verbo + Conector secuencial (`étunc`) + Cláusula consecuente.
 
-### ���� Caso 02: Condicional Complejo con `áutsi` (`else if`), `áutunc` y `secus` (`else`)
+### 🧪 Caso 02: Condicional Complejo con `áutsi` (`else if`), `áutunc` y `secus` (`else`)
 > *"Si la máquina procesa el dato, envía la respuesta; o si el servidor de respaldo procesa, envía hacia allí; de lo contrario, notifica el error."*
-* **Traducción**: `si la mákino la dátom askprocesár tunc la responsóm askenviár; áutsi la backup-servóro pr��s askprocesár áutunc to híco askenviár; secus la errórom asknotifikár.`
+* **Traducción**: `si la mákino la dátom askprocesár tunc la responsóm askenviár; áutsi la backup-servóro prēs askprocesár áutunc to híco askenviár; secus la errórom asknotifikár.`
 * **Análisis**: Condicional `si` + Rama alternativa excluyente `áutsi` con consecuencia `áutunc` + Rama por defecto `secus` (`else`).
 
-### ���� Caso 03: Expresión de Grandes Cantidades y Economía de Plurales
+### 🧪 Caso 03: Expresión de Grandes Cantidades y Economía de Plurales
 > *"Cuatrocientas cuarenta y cuatro personas procesaron mil doscientos datos en dos veces."*
-* **Traducción**: `Kúa-cen-kúa-ten-kúa persono un-mil-du-cen dátom du-vece pr�� askprocesár.`
+* **Traducción**: `Kúa-cen-kúa-ten-kúa persono un-mil-du-cen dátom du-vece prē askprocesár.`
 * **Análisis**: Sujeto numeral (`Kúa-cen-kúa-ten-kúa persono` sin `-s` en `persono`) + Objeto numeral (`un-mil-du-cen dátom` sin `-s` en `dátom`) + Adverbio distributivo (`du-vece`) + Verbo pasado.
 
 
-### ���� Caso 04: Demostración de Perspectiva Sujetiva (`su`) y Evidencia Directa (`dir`)
+### 🧪 Caso 04: Demostración de Perspectiva Sujetiva (`su`) y Evidencia Directa (`dir`)
 
 Demostración de la graduación de foco y evidencia empírica en Askáro V6.0:
 
 1. **Afirmación Base Neutra:**  
-   ���� **`Ko pr��s askfakár.`**  
+   👉 **`Ko prēs askfakár.`**  
    *(Él hace).*
 
 2. **Aislamiento de Foco Sujetivo (`su`):**  
-   ���� **`Su Ko pr��s askfakár.`**  
+   👉 **`Su Ko prēs askfakár.`**  
    *(Solo él hace / Enfoque exclusivo en el sujeto).*
 
 3. **Inclusión de Evidencia Directa Presencial (`dir`):**  
-   ���� **`Ko dir pr��s askfakár.`**  
+   👉 **`Ko dir prēs askfakár.`**  
    *(Él hace [lo vi directamente]).*
 
 4. **Síntesis Completa (Foco + Evidencia Directa):**  
-   ���� **`Sū Ko dīr pr��s askfakár.`**  
+   👉 **`Sū Ko dīr prēs askfakár.`**  
    *(Solo él hace, y lo vi directamente).*
 
 
@@ -663,9 +663,9 @@ Se canoniza el verbo **`askandár`** (Stem: `and-`, Prosodia: 3 sílabas, tilde 
 2. **Uso como Auxiliar Progresivo (Iberorromance `andar + gerundio`)**: `Mo askandár trabahândo.` $\rightarrow$ *Ando trabajando.*
 
 #### Interacción con la Pila Preverbal:
-* `Mo pr�� askandár trabahândo.` $\rightarrow$ *Anduve trabajando.*
+* `Mo prē askandár trabahândo.` $\rightarrow$ *Anduve trabajando.*
 * `Mo prō askandár trabahândo.` $\rightarrow$ *Andaré trabajando.*
-* `Mo d��v askandár trabahândo.` $\rightarrow$ *Debo andar trabajando.*
+* `Mo dēv askandár trabahândo.` $\rightarrow$ *Debo andar trabajando.*
 * `Mo dūr askandár trabahândo.` $\rightarrow$ *Sigo andando trabajando.*
 
 
@@ -735,7 +735,7 @@ Askáro formaliza un modelo multicapa de cortesía pragmática que permite modul
 * **Días de la Semana:** **`Día Un`** (Lunes), **`Día Du`** (Martes), **`Día Tri`** (Miércoles), **`Día Kúa`** (Jueves), **`Día Kin`** (Viernes), **`Día Seks`** (Sábado), **`Día Sépte`** (Domingo).
 * **Desambiguación:** **`ánno`** (año astronómico/calendárico) vs. **`anúso`** (ano / anatomía).
 
-### 14.2 Expresiones Horarias y Partes del Día (`��ra-Sistémo`)
+### 14.2 Expresiones Horarias y Partes del Día (`Óra-Sistémo`)
 * **¿Qué hora es?:** *¿Ké óra es?*
 * **Son las 3:** *Es óra tri.*
 * **Son las 3 y cuarto:** *Es óra tri et minúto ten kin.*
@@ -822,11 +822,11 @@ Askáro formaliza un modelo multicapa de cortesía pragmática que permite modul
 | **Invertir** | **`askinvestír`** | `ask-` + `invest-` + `-ír` |
 
 ### 17.3 Ejemplos Sintácticos Transaccionales
-1. **`La empréso pr��s askpagár la débitom.`** *(La empresa paga la deuda).*
-2. **`Ko pr��s askvendér la dómom pro prétio álto.`** *(Él vende la casa por un precio alto).*
-3. **`Mo pr��s askkobrár kin monédos.`** *(Cobré cinco monedas).*
-4. **`Ko pr��s askdebér mil monédos.`** *(Él debe mil monedas).*
-5. **`Mos pr��s askahorrár du sen monédos.`** *(Ahorramos doscientas monedas).*
+1. **`La empréso prēs askpagár la débitom.`** *(La empresa paga la deuda).*
+2. **`Ko prēs askvendér la dómom pro prétio álto.`** *(Él vende la casa por un precio alto).*
+3. **`Mo prēs askkobrár kin monédos.`** *(Cobré cinco monedas).*
+4. **`Ko prēs askdebér mil monédos.`** *(Él debe mil monedas).*
+5. **`Mos prēs askahorrár du sen monédos.`** *(Ahorramos doscientas monedas).*
 
 ---
 
@@ -868,7 +868,7 @@ En Askáro V10.4, el sistema de casos nominales incluye el modo **Ergativo-Absol
 
 1. **Caso Absolutivo (Forma Base Neutra `-o` / `-a`):**
    - Se utiliza para el sujeto de verbos intransitivos (*"La grándo río prō asksekár"*).
-   - Se utiliza para el objeto paciente de verbos transitivos (*"La cérvo la kasadóro-og pr��s askkásar"*).
+   - Se utiliza para el objeto paciente de verbos transitivos (*"La cérvo la kasadóro-og prēs askkásar"*).
    - **Economía:** El paciente no requiere desinencia nasal acusativa (`-om`), permaneciendo en la forma base limpia.
 
 2. **Caso Ergativo (Sufijo `-og`):**
@@ -880,7 +880,7 @@ En este modo, los argumentos nominales permanecen en su forma base neutra (`-o`)
 - **`pāc`**: Foco Paciente / Objeto afectado.
 - **`lōk`**: Foco Locativo / Escenario.
 - **`īns`**: Foco Instrumental / Herramienta.
-- **`b��n`**: Foco Beneficiario.
+- **`bēn`**: Foco Beneficiario.
 - **`dīr`**: Evidencia Directa presencial.
 
 ### 19.3 La Combinación Híbrida: Pila Macro-Foco + Marcación Micro (Invarianza $O(1)$)
@@ -891,9 +891,9 @@ La mayor innovación arquitectónica de Askáro V10.4 ocurre al acoplar la **Pil
    - **Nivel Macro (Pila Preverbal):** Establece el *zoom*, la focalización y el ángulo de cámara de la escena mental.
 2. **Invarianza y Orden Totalmente Libre (*Free Word Order*):**
    Cualquier permutación de los argumentos dentro del enunciado mantiene exactamente la misma validez lógica sin requerir *lookahead*:
-   - `lōk dīr pr�� askkásar ag-kasadóro inst-radáro pac-cérvo en la bósko.`
-   - `pac-cérvo inst-radáro ag-kasadóro Pāc dīr pr�� askkásar.`
-   - `inst-radáro ag-kasadóro pac-cérvo Īns dīr pr�� askkásar.`
+   - `lōk dīr prē askkásar ag-kasadóro inst-radáro pac-cérvo en la bósko.`
+   - `pac-cérvo inst-radáro ag-kasadóro Pāc dīr prē askkásar.`
+   - `inst-radáro ag-kasadóro pac-cérvo Īns dīr prē askkásar.`
 
 3. **Diferenciación de Pronombres Tónicos y Partículas (Sostén de Macrón):**
    Para evitar colisiones entre preposiciones/negaciones monosilábicas y pronombres tónicos, se estandariza el macrón/circunflejo en pronombres:
