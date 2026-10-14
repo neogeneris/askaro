@@ -1,0 +1,319 @@
+# Palabras problemáticas — askaro_lexico_v11.csv (1438 filas)
+
+Resumen: duplicados puros 34 | homonimias 31 | tilde 26 | geminadas 148 | c/qu 6 | adj sin -e 23 | sust en -a 16 | verbos sin sufijo 3 | entradas con '?': 11
+
+## 1. DUPLICADOS PUROS (eliminar uno)
+- **amâr** → ASK-VER-0072, ASK-VER-0261 (amar)
+- **deo** → ASK-SUS-0107, ASK-SUS-0753 (dios)
+- **eksplikâr** → ASK-VER-0148, ASK-VER-0266 (explicar)
+- **fórte** → ASK-ADJ-0080, ASK-ADJ-0781 (fuerte)
+- **impósto** → ASK-SUS-0226, ASK-SUS-0587 (impuesto)
+- **intrâr** → ASK-VER-0168, ASK-VER-0286 (entrar)
+- **kaminâr** → ASK-VER-0068, ASK-VER-0257 (caminar)
+- **kláre** → ASK-ADJ-0145, ASK-ADJ-0799 (claro)
+- **kolíno** → ASK-SUS-0136, ASK-SUS-0523 (colina)
+- **komprâr** → ASK-VER-0154, ASK-VER-0272 (comprar)
+- **kámpo** → ASK-SUS-0133, ASK-SUS-0470 (campo)
+- **káno** → ASK-SUS-0119, ASK-SUS-0506 (perro)
+- **kárto** → ASK-SUS-0059, ASK-SUS-1343 (carta)
+- **lavâr** → ASK-VER-0177, ASK-VER-0295 (lavar)
+- **lénte** → ASK-ADJ-0079, ASK-ADJ-0784 (lento)
+- **lúpo** → ASK-SUS-0126, ASK-SUS-0496 (lobo)
+- **máno** → ASK-SUS-0049, ASK-PRO-0245 (mano)
+- **múndo** → ASK-SUS-0109, ASK-SUS-0752 (mundo)
+- **pagâr** → ASK-VER-0155, ASK-VER-0273 (pagar)
+- **parlâr** → ASK-VER-0065, ASK-VER-0254 (hablar)
+- **pensâr** → ASK-VER-0074, ASK-VER-0263 (pensar)
+- **perdonâr** → ASK-VER-0187, ASK-VER-0305 (perdonar)
+- **prekâr** → ASK-VER-0188, ASK-VER-0306 (rezar)
+- **profúnde** → ASK-ADJ-0146, ASK-ADJ-0837 (profundo)
+- **pórta** → ASK-SUS-0054, ASK-SUS-0372 (puerta)
+- **rekordâr** → ASK-VER-0160, ASK-VER-0278 (recordar)
+- **sekâr** → ASK-VER-0174, ASK-VER-0292 (cortar)
+- **serrâr** → ASK-VER-0182, ASK-VER-0300 (cerrar)
+- **sonâr** → ASK-VER-0192, ASK-VER-0310 (sonar)
+- **súmmo** → ASK-SUS-0222, ASK-SUS-0645 (suma)
+- **tentâr** → ASK-VER-0185, ASK-VER-0303 (intentar)
+- **velóse** → ASK-ADJ-0138, ASK-ADJ-0834 (veloz)
+- **víno** → ASK-SUS-0061, ASK-SUS-0441 (vino)
+- **ósso** → ASK-SUS-0044, ASK-SUS-0366 (hueso)
+
+## 2. HOMONIMIAS REALES (desambiguar)
+- **No**: ASK-PRO-0004=nosotros / ASK-PRO-0242=nadie / nada
+- **aúro**: ASK-SUS-0318=oreja / ASK-SUS-0485=oro
+- **bánko**: ASK-SUS-0229=banco / ASK-SUS-0414=banco (asiento) / ASK-SUS-0590=banco
+- **bárko**: ASK-SUS-0116=barca / ASK-SUS-0674=barco
+- **filío**: ASK-SUS-0949=hijo / ASK-SUS-0950=hija
+- **gioio**: ASK-SUS-0911=alegria / ASK-SUS-1125=joya
+- **gólfo**: ASK-SUS-0530=golfo / ASK-SUS-0769=golf
+- **kodíko**: ASK-SUS-0716=codigo / ASK-SUS-1148=codigo legal
+- **konyáto**: ASK-SUS-0967=cunado / ASK-SUS-0968=cunada
+- **kousíno**: ASK-SUS-0959=primo / ASK-SUS-0960=prima
+- **kussíno**: ASK-SUS-0419=almohada / ASK-SUS-0422=cojin
+- **káso**: ASK-SUS-0005=cosa / ASK-SUS-0429=queso
+- **kórdo**: ASK-SUS-0047=corazon / ASK-SUS-1088=cuerda
+- **lúto**: ASK-SUS-0482=barro / ASK-SUS-0771=lucha
+- **ménso**: ASK-SUS-0369=mesa / ASK-SUS-0853=mes
+- **métro**: ASK-SUS-1094=metro (instrumento) / ASK-SUS-1262=metro (transporte) / ASK-SUS-1431=metro
+- **mórte**: ASK-SUS-0009=muerte / ASK-ADJ-0832=muerto
+- **múro**: ASK-SUS-0127=raton / ASK-SUS-0500=raton / ASK-SUS-0580=muro
+- **nipóto**: ASK-SUS-0961=sobrino / ASK-SUS-0962=sobrina
+- **nóto**: ASK-SUS-0609=nota / ASK-SUS-1375=nota musical
+- **partíto**: ASK-SUS-0591=partido / ASK-SUS-0597=partido politico
+- **pláto**: ASK-SUS-0200=plata / ASK-SUS-0385=plato
+- **skhérmo**: ASK-SUS-0689=pantalla / ASK-SUS-1378=esgrima
+- **sálo**: ASK-SUS-0380=sala / ASK-SUS-0466=sal
+- **séko**: ASK-SUS-1195=garbanzo / ASK-SUS-1430=segundo (unidad SI)
+- **sínyo**: ASK-SUS-0114=seno / ASK-SUS-1229=cisne
+- **túbo**: ASK-SUS-1091=tubo / ASK-SUS-1367=tuba
+- **víto**: ASK-SUS-0008=vida / ASK-SUS-1069=tornillo
+- **zio**: ASK-SUS-0957=tio / ASK-SUS-0958=tia
+- **álte**: ASK-ADJ-0076=bono-altivo / ASK-ADJ-0791=alto
+- **ávo**: ASK-SUS-0510=ave / ASK-SUS-0953=abuelo / ASK-SUS-0954=abuela
+
+## 3. VIOLACIONES DE TILDE
+- **deo** (2voc/0til) [Sustantivo] ASK-SUS-0107
+- **Eo** (2voc/0til) [Pronombre] ASK-PRO-0231
+- **Íló** (2voc/2til) [Pronombre] ASK-PRO-0232
+- **Eos** (2voc/0til) [Pronombre] ASK-PRO-0241
+- **baio** (3voc/0til) [Sustantivo] ASK-SUS-0531
+- **vio** (2voc/0til) [Sustantivo] ASK-SUS-0682
+- **deo** (2voc/0til) [Sustantivo] ASK-SUS-0753
+- **real** (2voc/0til) [Adjetivo] ASK-ADJ-0819
+- **blau** (2voc/0til) [Adjetivo] ASK-ADJ-0840
+- **dio** (2voc/0til) [Sustantivo] ASK-SUS-0855
+- **gioio** (4voc/0til) [Sustantivo] ASK-SUS-0911
+- **zio** (2voc/0til) [Sustantivo] ASK-SUS-0957
+- **zio** (2voc/0til) [Sustantivo] ASK-SUS-0958
+- **duin** (2voc/0til) [ParticulaNumerica] ASK-NUM-1015
+- **triin** (2voc/0til) [ParticulaNumerica] ASK-NUM-1016
+- **pau** (2voc/0til) [ParticulaNumerica] ASK-NUM-1021
+- **aut** (2voc/0til) [Conjuncion] ASK-CONJ-1039
+- **quam** (2voc/0til) [Conjuncion] ASK-CONJ-1044
+- **gioio** (4voc/0til) [Sustantivo] ASK-SUS-1125
+- **soio** (3voc/0til) [Sustantivo] ASK-SUS-1197
+- **realtào** (3voc/0til) [Sustantivo] ASK-SUS-1284
+- **identitào** (4voc/0til) [Sustantivo] ASK-SUS-1301
+- **generosità** (4voc/0til) [Adjetivo] ASK-ADJ-1327
+- **sinserità** (3voc/0til) [Adjetivo] ASK-ADJ-1333
+- **onestà** (2voc/0til) [Adjetivo] ASK-ADJ-1337
+- **skio** (2voc/0til) [Sustantivo] ASK-SUS-1383
+
+## 4. GEMINADAS PROHIBIDAS (ss/mm/tt/pp/cc/dd/ff/gg/nn/rr)
+- **térro** (rr) ASK-SUS-0012
+- **ósso** (ss) ASK-SUS-0044
+- **sérrate** (rr) ASK-ADJ-0083
+- **písse** (ss) ASK-SUS-0129
+- **arribâr** (rr) ASK-VER-0166
+- **serrâr** (rr) ASK-VER-0182
+- **prógrammo** (mm) ASK-SUS-0204
+- **súmmo** (mm) ASK-SUS-0222
+- **soffrâr** (ff) ASK-VER-0282
+- **arrivâr** (rr) ASK-VER-0284
+- **montar? assendâr** (ss) ASK-VER-0287
+- **dessendâr** (ss) ASK-VER-0288
+- **serrâr** (rr) ASK-VER-0300
+- **nassereâr** (ss) ASK-VER-0307
+- **tússo** (ss) ASK-SUS-0335
+- **gríppo** (pp) ASK-SUS-0336
+- **inflammatióno** (mm) ASK-SUS-0354
+- **ósso** (ss) ASK-SUS-0366
+- **forkappa? tenedóro** (pp) ASK-SUS-0389
+- **buttikuláro** (tt) ASK-SUS-0391
+- **pettíno** (tt) ASK-SUS-0397
+- **prográmmo** (mm) ASK-SUS-0410
+- **materásso** (ss) ASK-SUS-0418
+- **kussíno** (ss) ASK-SUS-0419
+- **kussíno** (ss) ASK-SUS-0422
+- **súppo** (pp) ASK-SUS-0434
+- **káffo** (ff) ASK-SUS-0439
+- **bírro** (rr) ASK-SUS-0442
+- **karótto** (tt) ASK-SUS-0456
+- **appúlo** (pp) ASK-SUS-0459
+- **férro** (rr) ASK-SUS-0484
+- **kátto** (tt) ASK-SUS-0507
+- **gátto** (tt) ASK-SUS-0508
+- **písso** (ss) ASK-SUS-0511
+- **strétto** (tt) ASK-SUS-0532
+- **professóro** (ss) ASK-SUS-0545
+- **sittadíno** (tt) ASK-SUS-0559
+- **guérro** (rr) ASK-SUS-0569
+- **túrro** (rr) ASK-SUS-0581
+- **klásso** (ss) ASK-SUS-0606
+- **ssientío** (ss) ASK-SUS-0610
+- **erróro** (rr) ASK-SUS-0636
+- **littéro** (tt) ASK-SUS-0639
+- **súmmo** (mm) ASK-SUS-0645
+- **assiómo** (ss) ASK-SUS-0656
+- **konossentío** (ss) ASK-SUS-0662
+- **apprendiménto** (pp) ASK-SUS-0663
+- **bisiklétto** (tt) ASK-SUS-0675
+- **ferrovío** (rr) ASK-SUS-0683
+- **korriéro** (rr) ASK-SUS-0692
+- **messagío** (ss) ASK-SUS-0693
+- **batterío** (tt) ASK-SUS-0698
+- **anténno** (nn) ASK-SUS-0700
+- **elettróno** (tt) ASK-SUS-0701
+- **prosessóro** (ss) ASK-SUS-0714
+- **drámmo** (mm) ASK-SUS-0725
+- **komeddío** (dd) ASK-SUS-0726
+- **trageddío** (dd) ASK-SUS-0727
+- **dánsso** (ss) ASK-SUS-0731
+- **guitárro** (rr) ASK-SUS-0735
+- **ritrátto** (tt) ASK-SUS-0744
+- **paesaggío** (gg) ASK-SUS-0745
+- **tenníso** (nn) ASK-SUS-0768
+- **punteggío** (gg) ASK-SUS-0778
+- **básse** (ss) ASK-ADJ-0792
+- **strétte** (tt) ASK-ADJ-0796
+- **nesessaríe** (ss) ASK-ADJ-0811
+- **possibíle** (ss) ASK-ADJ-0812
+- **impossibíle** (ss) ASK-ADJ-0813
+- **kómmun** (mm) ASK-ADJ-0821
+- **serráte** (rr) ASK-ADJ-0830
+- **diffisíle** (ff) ASK-ADJ-0839
+- **rússe** (ss) ASK-ADJ-0841
+- **ánno** (nn) ASK-SUS-0852
+- **passáto** (ss) ASK-SUS-0873
+- **territorío** (rr) ASK-SUS-0906
+- **tristésso** (ss) ASK-SUS-0912
+- **terróro** (rr) ASK-SUS-0938
+- **irritatióno** (rr) ASK-SUS-0941
+- **tásso** (ss) ASK-SUS-0976
+- **kommersío** (mm) ASK-SUS-0983
+- **múltto** (tt) ASK-NUM-1022
+- **sérro** (rr) ASK-SUS-1064
+- **rosétto** (tt) ASK-SUS-1072
+- **assío** (ss) ASK-SUS-1076
+- **záppo** (pp) ASK-SUS-1080
+- **makhétto** (tt) ASK-SUS-1081
+- **sissóro** (ss) ASK-SUS-1082
+- **bottóno** (tt) ASK-SUS-1086
+- **kompásso** (ss) ASK-SUS-1095
+- **ssiárpo** (ss) ASK-SUS-1103
+- **kravátto** (tt) ASK-SUS-1105
+- **kappukío** (pp) ASK-SUS-1106
+- **siabátto** (tt) ASK-SUS-1109
+- **gónno** (nn) ASK-SUS-1112
+- **reggiséno** (gg) ASK-SUS-1117
+- **fazzolétto** (tt) ASK-SUS-1121
+- **brakialétto** (tt) ASK-SUS-1128
+- **vittímo** (tt) ASK-SUS-1136
+- **innosénto** (nn) ASK-SUS-1138
+- **delítto** (tt) ASK-SUS-1141
+- **risétto** (tt) ASK-SUS-1156
+- **trattaménto** (tt) ASK-SUS-1158
+- **pressione arterióso** (ss) ASK-SUS-1166
+- **frattúro** (tt) ASK-SUS-1168
+- **kamossío** (ss) ASK-SUS-1174
+- **tónno** (nn) ASK-SUS-1176
+- **passéro** (ss) ASK-SUS-1221
+- **pappagállo** (pp) ASK-SUS-1223
+- **fenikottéro** (tt) ASK-SUS-1225
+- **kavallétto** (tt) ASK-SUS-1250
+- **autopattuglío** (tt) ASK-SUS-1265
+- **elikottéro** (tt) ASK-SUS-1267
+- **sottomaríno** (tt) ASK-SUS-1270
+- **zattéro** (tt) ASK-SUS-1274
+- **monopattíno** (tt) ASK-SUS-1275
+- **slítto** (tt) ASK-SUS-1277
+- **karrétto** (rrtt) ASK-SUS-1278
+- **karrózzo** (rr) ASK-SUS-1279
+- **trattóro** (tt) ASK-SUS-1280
+- **apparénzo** (pp) ASK-SUS-1285
+- **essénzo** (ss) ASK-SUS-1286
+- **tútto** (tt) ASK-SUS-1289
+- **progrésso** (ss) ASK-SUS-1297
+- **differénzo** (ff) ASK-SUS-1302
+- **effétto** (fftt) ASK-SUS-1307
+- **autúnno** (nn) ASK-SUS-1313
+- **debésse** (ss) ASK-ADJ-1320
+- **koraggíe** (gg) ASK-ADJ-1325
+- **arrogánze** (rr) ASK-ADJ-1332
+- **telegrámmo** (mm) ASK-SUS-1344
+- **mitténto** (tt) ASK-SUS-1349
+- **posta elettroníko** (tt) ASK-SUS-1352
+- **annunsío** (nn) ASK-SUS-1359
+- **kontrabbásso** (ss) ASK-SUS-1361
+- **klarinétto** (tt) ASK-SUS-1362
+- **fagótto** (tt) ASK-SUS-1364
+- **sassofóno** (ss) ASK-SUS-1368
+- **kanottaggío** (ggtt) ASK-SUS-1380
+- **pattinaggío** (ggtt) ASK-SUS-1384
+- **arrampikáto** (rr) ASK-SUS-1386
+- **offérto** (ff) ASK-SUS-1404
+- **pellegrinaggío** (gg) ASK-SUS-1405
+- **kolonnéllo** (nn) ASK-SUS-1411
+- **battaglío** (tt) ASK-SUS-1416
+- **tattíko** (tt) ASK-SUS-1418
+- **assedío** (ss) ASK-SUS-1419
+- **skonfítto** (tt) ASK-SUS-1421
+
+## 5. c/qu PROHIBIDOS
+- **óculo** (c+a/o/u→k) ASK-SUS-0051
+- **páce** (c+e/i→s) ASK-SUS-0105
+- **difícile** (c+e/i→s) ASK-ADJ-0142
+- **ácido** (c+e/i→s) ASK-SUS-0194
+- **cen** (c+e/i→s) ASK-NUM-1011
+- **quam** (qu→kv) ASK-CONJ-1044
+
+## 6. ADJETIVOS SIN -e
+- **mund** (limpio) ASK-ADJ-0797
+- **óbskur** (oscuro) ASK-ADJ-0800
+- **sik** (seco) ASK-ADJ-0801
+- **rik** (rico) ASK-ADJ-0806
+- **plen** (lleno) ASK-ADJ-0808
+- **real** (real) ASK-ADJ-0819
+- **imaginári** (imaginario) ASK-ADJ-0820
+- **kómmun** (comun) ASK-ADJ-0821
+- **rar** (raro) ASK-ADJ-0822
+- **nórmal** (normal) ASK-ADJ-0823
+- **spesíal** (especial) ASK-ADJ-0824
+- **genéral** (general) ASK-ADJ-0825
+- **partikúlar** (particular) ASK-ADJ-0826
+- **públik** (publico) ASK-ADJ-0827
+- **étern** (eterno) ASK-ADJ-0835
+- **blau** (azul) ASK-ADJ-0840
+- **blank** (blanco) ASK-ADJ-0843
+- **brun** (marron) ASK-ADJ-0848
+- **viltà** (cobardia) ASK-ADJ-1326
+- **generosità** (generosidad) ASK-ADJ-1327
+- **sinserità** (sinceridad) ASK-ADJ-1333
+- **onestà** (honestidad) ASK-ADJ-1337
+- **skhiavítu** (esclavitud) ASK-ADJ-1339
+
+## 7. SUSTANTIVOS EN -a FUERA DE CAPA 2 (revisar género)
+- **montáña** (montana) ASK-SUS-0038
+- **pétra** (piedra) ASK-SUS-0042
+- **búka** (boca) ASK-SUS-0052
+- **káza** (casa) ASK-SUS-0053
+- **pórta** (puerta) ASK-SUS-0054
+- **fenéstra** (ventana) ASK-SUS-0055
+- **mésa** (mesa) ASK-SUS-0056
+- **sílla** (silla) ASK-SUS-0057
+- **káma** (cama) ASK-SUS-0058
+- **soróra** (hermana) ASK-SUS-0087
+- **fília** (hija) ASK-SUS-0089
+- **guéra** (guerra) ASK-SUS-0104
+- **káta** (gata) ASK-SUS-0121
+- **váka** (vaca) ASK-SUS-0122
+- **gallína** (gallina) ASK-SUS-0125
+- **pórta** (puerta) ASK-SUS-0372
+
+## 8. VERBOS SIN -âr/-êr/-îr
+- **konstruír** ASK-VER-0151
+- **destruír** ASK-VER-0152
+- **krêser** ASK-VER-0190
+
+## 9. ENTRADAS CON INCÓGNITA '?' (sin acuñar aún)
+- ASK-VER-0274: **ganyer? lukrareâr**
+- ASK-VER-0287: **montar? assendâr**
+- ASK-SUS-0313: **gamba? pédo**
+- ASK-SUS-0319: **napo? náso**
+- ASK-SUS-0324: **hedera? jekóro**
+- ASK-SUS-0371: **lekto? kaméro**
+- ASK-SUS-0386: **tazza? pokúlo**
+- ASK-SUS-0389: **forkappa? tenedóro**
+- ASK-SUS-0396: **skopazzo? sepéllo**
+- ASK-SUS-0448: **ovedika? ovíno**
+- ASK-SUS-0913: **ptime? pauróo**
