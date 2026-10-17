@@ -661,6 +661,19 @@ El gerundio se construye agregando la desinencia con macrÃ³n a la raÃ­z seg�
 * **2.Âª ConjugaciÃ³n (`-Ã©r`)**: **`-Ãªndo`** (ASCII: `-endo`) $\rightarrow$ `komÃªndo`, `procesÃªndo`.
 * **3.Âª ConjugaciÃ³n (`-Ã­r`)**: **`-Ã®ndo`** (ASCII: `-indo`) $\rightarrow$ `vivÃ®ndo`, `escribÃ®ndo`.
 
+### 2.1.bis Axioma de Cierre Nominal Reforzado — Prohibición de sustantivos en -e *(Ratificada 2026-10-17)*
+
+Ningún sustantivo del lexigo puede finalizar en `-e`. Estrategias de cierre admitidas:
+
+1. **Restauración de vocal temática + cierre neutro -o** para temas consonánticos latinos:
+   máre → **máro**, sále → **sálo**, lége → **légo**, kárne → **kárno**, lákte → **lákto**, sángine → **sanguíno**.
+2. **Sufijo derivativo transparente** cuando la raíz termina en vocal: ave → **avéso**, avestruz → **avéstruso**.
+3. **Raíz pura etimológica** en parentesco: abuelo → **ávo** (< avus), abuela → **áva** (< ava; capa biológica -a legítima).
+4. El femenino biológico en **-a** NO viola esta regla (áva, lúna, stélla, kúa).
+
+Léxico fijado por el acuñador: **ávo** (abuelo), **áva** (abuela), **avéso** (ave), **avéstruso** (avestruz).
+Además, quedan eliminadas del lexigo las palabras compuestas con espacio (§4): se expresan por composición analítica o prefijación.
+
 ### 2.10 Verbo de Aspecto Continuo `askandÃ¡r` (Andar / Caminar / Auxiliar)
 Se canoniza el verbo **`askandÃ¡r`** (Stem: `and-`, Prosodia: 3 sÃ­labas, tilde en `Ã¡`) con doble funciÃ³n sintÃ¡ctica:
 1. **Uso como Verbo Pleno (Movimiento)**: `Mo askandÃ¡r.` $\rightarrow$ *Ando / camino.*

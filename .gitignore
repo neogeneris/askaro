@@ -1,6 +1,2 @@
-__pycache__/
-*.pyc
-build/
-data/
-*.sqlite
-askaro_lexico.db.bak-*
+*.bak
+*.bak_*
