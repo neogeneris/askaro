@@ -113,7 +113,11 @@ El sistema formaliza el espectro fonÃ³nico completo del SÃ¡nscrito (IAST / D
   1. `/k/` $\rightarrow$ **`k`** fija siempre. ErradicaciÃ³n de `q` y `c` dura.
   2. `/s/` $\rightarrow$ **`s`** fija siempre.
   3. `/tÊƒ/` ("ch") $\rightarrow$ **`c`** fija siempre (siguiendo el estÃ¡ndar IAST).
-  4. `/É¡/` $\rightarrow$ **`g`** dura fija siempre.
+  4. `/É¡/` $\rightarrow$ **`g`** dura fija siempre. **Sin `u` muda**: se elimina la `u` en grupos `gu+e/i` (`sÃ¡ngine`, `gitÃ¡rro`, `pengÃ­no`). Se conserva `gu` solo donde la `u` es pronunciada como semivocal etimolÃ³gica (`guÃ©ra`, `guardÃ¢r`, `guÃ¡nto`, `guadÃ¡nyo`).
+  5. *(Ratificada 2026-10-17)* **`x` = `/ks/` legÃ­tima** ante cualquier contexto, p.ej. `ex` ('desde'), `komplÃ©xe`. No se podan estas formas.
+  6. *(Ratificada 2026-10-17)* **`z` legitima** en prÃ©stamos con redoblamiento o sibilante africada italorromance, p.ej. `pÃ­zzo`, `tazza`, `merlÃºzzo`, `kÃ³zzo`, `strÃºzzo`. No se convierte automÃ¡ticamente en `s`.
+  7. *(Ratificada 2026-10-17)* **`w` admitida** en extranjerismos vivos, p.ej. `softwÃ¡re`, `hardwÃ¡ro`.
+  8. El alfabeto se inspira en el sÃ¡nscrito (matriz *varÅ·a* IAST de Â§2.6); las letras `z`, `x`, `w` funcionan como prÃ©stamo-tipográficas al estilo de las letras marginales del DevanÄgarÄ«, sin integrarse en las cinco clases de articulaciÃ³n.
 
 ### 2.7 Sistema de Capas DiacrÃ­ticas e Isomorfismo ASCII (`^`)
 Para lectura humana y marcado prosÃ³dico, el sistema ofrece dos notaciones 1:1 equivalentes:
