@@ -671,7 +671,7 @@ Ningún sustantivo del lexigo puede finalizar en `-e`. Estrategias de cierre adm
 3. **Raíz pura etimológica** en parentesco: abuelo → **ávo** (< avus), abuela → **áva** (< ava; capa biológica -a legítima).
 4. El femenino biológico en **-a** NO viola esta regla (áva, lúna, stélla, kúa).
 
-Léxico fijado por el acuñador: **ávo** (abuelo), **áva** (abuela), **avéso** (ave), **avéstruso** (avestruz).
+Léxico fijado por el acuñador: **ávo** (abuelo), **áva** (abuela), **avéso** (ave), **avéstruso** (avestruz), **lúno** (mes; < lat. mēnsis, familia de lúna 'luna' — se descartan *menso* / *mesío*).
 Además, quedan eliminadas del lexigo las palabras compuestas con espacio (§4): se expresan por composición analítica o prefijación.
 
 ### 2.10 Verbo de Aspecto Continuo `askandÃ¡r` (Andar / Caminar / Auxiliar)
