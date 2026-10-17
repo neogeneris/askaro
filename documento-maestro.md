@@ -10,7 +10,7 @@
 ### 1.1 Principio de Isomorfismo y Neutro Base (`-o`)
 La versión V5.7 de la Arquitectura de Lenguaje Comprimido y Determinista se fundamenta en un principio de **isomorfismo de traducción bidireccional (lossless translation)** e **invariancia funcional**:
 
-1. **La terminación `-o` como Neutro Base Universal (Erradicación del Género Gramatical en Inanimados)**: A diferencia de los lenguajes naturales romances (donde *la carta*, *la mesa* o *el problema* tienen género gramatical arbitrario), en esta arquitectura **TODOS los objetos inanimados, conceptos y entidades abstractas utilizan strictly el Neutro Base en `-o`** (`kárto`, `méso`, `sistémo`, `dáto`, `káso`, `kóso`). Queda **estrictamente prohibido asignar la desinencia `-a` a objetos inanimados**.
+1. **La terminación `-o` como Neutro Base Universal (Erradicación del Género Gramatical en Inanimados)**: A diferencia de los lenguajes naturales romances (donde *la carta*, *la mesa* o *el problema* tienen género gramatical arbitrario), en esta arquitectura **TODOS los objetos inanimados, conceptos y entidades abstractas utilizan estrictamente el Neutro Base en `-o`** (`kárto`, `méso`, `sistémo`, `dáto`, `káso`, `kóso`). Queda **estrictamente prohibido asignar la desinencia `-a` a objetos inanimados**.
 2. **Flexión `-a` / `-or` Exclusiva para Sexo Biológico en Seres Vivos**: La flexión femenina en **`-a`** (o masculino específico en **`-or`**) se reserva **únicamente para seres vivos y agentes con sexo biológico** (`káto` -> `káta` *gata*, `usuário` -> `usuária` *usuaria*).
 3. **Casos Nasales de Objetos Inanimados**: Al ser neutros en **`-o`**, el acusativo de todo objeto inanimado termina siempre en **`-om`** (`kártom`, `dátom`, `sistémom`, `kósom`), jamás en `-am`.
 
@@ -92,6 +92,16 @@ El posesivo en Askáro utiliza la preposición **`de`** seguida del pronombre o 
 Para garantizar que la pronunciación y acentuación sean 100% predecibles:
 1. **Palabras de 1 vocal (Monosilábicas)**: **NUNCA** llevan tilde gráfica (`Mo`, `To`, `Ko`, `ko`, `kom`, `kur`, `kan`, `pre`, `pro`, `vi`, `va`, `hic`, `is`, `al`, `mag`, `min`, `no`, `si`, `sik`, `nok`, `dok`, `so`, `re`, `to`, `de`, `en`, `kun`, `falls`, `On`, `rel`, `abs`, `pās`, `nul`, `un`, `du`, `tri`, `kin`, `seks`, `sep`, `ok`, `nov`, `ten`, `cen`, `mil`).
 2. **Palabras de 2 o más vocales**: **SIEMPRE** llevan **exactamente 1 tilde gráfica** en la vocal que recibe el golpe de voz tónico (`dáto`, `sistémo`, `servóro`, `kártom`, `módim`, `sistémim`, `síi`, `alíter`, `étunc`, `áutunc`, `véltunc`, `áutsi`, `vélsi`, `koém`, `kúi`, `kómo`, `Úbi`, `Kíotem`, `Kvándo`, `Kvomódo`, `kóso`, `kúa`, `cénto`).
+
+#### 2.4.bis El trío k-s-o: desambiguación por vocal tónica (V11.4)
+La raíz consonántica k-s se desambigua exclusivamente mediante la vocal tónica, sin colisiones para el parser:
+
+| Término | Significado | Etimología | Notas |
+|---|---|---|---|
+| **kóso** | cosa (comodín nominal, primitiva NSM) | lat. vulg. CAUSA(M) > cast. ant. *cosa* (origen de "cosa"); cf. colombianismo *coso* | Prefijadas conservan la ó: `kwalizó`, `kolkizó`, `dimizó`, `augizó`, `dokizó`, `prakizó`. Cuadrado aristotélico: `ómno kóso`, `úno kóso` |
+| **káso** | caso (case / gramatical y genérico) | lat. CASUS | NO confundir con kóso ni con dómo |
+| **dómo** | casa (house) | lat. DOMUS | Adoptado V11.3 para liberar la serie k-s |
+| **kásar** | cazar (to hunt) | lat. CAPTARE > *capsiare* — **raíz cinegética independiente**, no relacionada con causam ni casus | Agente: **kásoro** (cazador, ejemplo fundacional del alfabeto); entorno ASCII: `kazo`/`agkazo` |
 
 ### 2.5 Economía Cuantitativa de Plurales (Estilo Mandarín)
 El plural en **`-s`** es estricto y transparente:
