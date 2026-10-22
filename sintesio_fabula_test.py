@@ -20,8 +20,23 @@ VOCALES = {
 CONSONANTES = ['p','b','t','d','k','g','f','v','s','m','n','ñ',
                'l','ll','r','j','c','ch','y','h','x','z']
 
+CV_BASE = {}   # (cons,vocal_base) -> byte llano; se llena tras definir CONSONANTES/VOCALES
+CV_AGUDO = {}  # mismo pero +0x20
+
+def _build_cv_tables():
+    for ci, cons in enumerate(CONSONANTES):
+        for vi, v in enumerate('aeiou'):
+            CV_BASE[(cons, v)] = 0x60 + ci*5 + vi
+            CV_AGUDO[(cons, v)] = 0x60 + ci*5 + vi + 0x20
+
 def cv_byte(cons, vocal):
+    if cons not in CONSONANTES:
+        raise ValueError('consonante no codificable: ' + cons)
     ci = CONSONANTES.index(cons)
+    MACRON = {'ā':'a','ē':'e','ī':'i','ō':'o','ū':'u'}
+    # marca de acento: solo la tilde AGUDA (´) es distinctive (+0x20, bloque impar).
+    # El macron/circunflejo (larga) se codifica como su vocal base (perdida documentada).
+    sharp = any(c in 'áéíóú' for c in vocal)
     if len(vocal) > 1:
         # diptongo: usar la vocal marcada/tónica si existe, si no la ultima
         for c in vocal:
@@ -29,17 +44,27 @@ def cv_byte(cons, vocal):
                 vocal = {'á':'a','é':'e','í':'i','ó':'o','ú':'u'}[c]; break
         else:
             vocal = vocal[-1]
-    else:
-        vocal = {'á':'a','é':'e','í':'i','ó':'o','ú':'u','â':'a','ê':'e','î':'i'}.get(vocal, vocal)
+    vocal = MACRON.get(vocal, vocal)
+    vocal = {'â':'a','ê':'e','î':'i'}.get(vocal, vocal)
     vi = ['a','e','i','o','u'].index(vocal)
-    return 0x60 + ci * 5 + vi
+    b = 0x60 + ci * 5 + vi          # llano, bloque par
+    if sharp: b += 0x20              # agudo, bloque impar
+    return b
 
-CODA = {'n': 0xC4, 's': 0xC5, 'l': 0xC6, 'r': 0xC7,
-        'k': 0xC8, 't': 0xC9, 'm': 0xCA,
-        # extension: codas del corpus mapeadas al punto de articulacion mas cercano
-        'd': 0xC9, 'b': 0xC8, 'z': 0xC5, 'x': 0xC8, 'g': 0xC8, 'p': 0xC8,
-        'f': 0xC5, 'v': 0xC5, 'ñ': 0xC4, 'j': 0xC4, 'c': 0xC8, 'w': 0xC8,
-        'y': 0xC4, 'll': 0xC6, 'ch': 0xC8}
+CODA = {
+    # singles canonica (inyectiva: cada letra coda -> byte propio)
+    'n': 0xC4, 's': 0xC5, 'l': 0xC6, 'r': 0xC7,
+    'k': 0xC8, 't': 0xC9, 'm': 0xCA, 'd': 0xCB, 'b': 0xCC, 'g': 0xCD,
+    'p': 0xCE, 'c': 0xCF, 'x': 0xD0, 'f': 0xD1, 'v': 0xD2,
+    'ñ': 0xD3, 'j': 0xD4, 'y': 0xD5,
+    # digrafos coda
+    'nt': 0xD6, 'nc': 0xD7, 'ns': 0xD8, 'rs': 0xD9, 'll': 0xDA, 'ch': 0xDB,
+    'rd': 0xDC, 'rt': 0xDD, 'st': 0xDE, 'sk': 0xDF,
+    # w como semivocal coda -> u breve
+    'w': 0xD5,
+}
+
+_build_cv_tables()
 
 FAMILIAS = {
     'ak': 0x20, 'fo': 0x21, 'ter': 0x22, 'er': 0x23,
@@ -142,7 +167,7 @@ ROSETTA = {
 # SILABIFICADOR DE ASKÁRO (CORREGIDO)
 # ============================================================
 
-VOCALES_EXT = 'aeiouáéíóúâêî'
+VOCALES_EXT = 'aeiouáéíóúâêîōē'
 DIPTONGOS = ['ái','áu','éi','éu','óu','úi',
     'ía','ío','úe','úa','úo','ié','àe','òe']
 
@@ -151,7 +176,60 @@ def es_vocal(c):
 
 PUNTUACION = '.,;:!?¿¡—-"()'
 
-CLUSTERS_ONSET = {'pl','bl','tr','dr','kr','gr','fr','vr','pr','br','kl','gl','fl','kv','sk','st','sp'}
+LARGA_MAP = {'â':'a','ê':'e','î':'i','ō':'o','ē':'e','ā':'a','ī':'i','ū':'u'}
+
+def normaliza_largas(p):
+    return ''.join(LARGA_MAP.get(c, c) for c in p)
+
+def limpiar(palabra):
+    p = palabra.strip('.,;:!?¿¡—"()')
+    # digrafos del alfabeto Askaro -> unidades canonicas de la tabla CONSONANTES
+    p = p.replace('kh','h').replace('ph','f').replace('th','t')
+    p = normaliza_largas(p)
+    # formas compuestas del corpus con acento interno no final: normalizar
+    FIX = {'supónê': 'suponê', 'observár': 'observar', 'preguntár': 'preguntar',
+           'respondér': 'responder', 'detectár': 'detectar', 'afirmâ': 'afirma',
+           'pasvidér': 'pasvider', 'konfiár': 'konfiar', 'perspektívo': 'perspektivo',
+           'konektádo': 'konektado', 'penúmbro': 'penumbro', 'desisión': 'decision',
+           'pasguiár': 'pasguiar', 'protegê': 'protege', 'antíko': 'antiko',
+           'veritádom': 'veritadom', 'absolúto': 'absoluto', 'exíte': 'exite',
+           'víve': 'vive', 'próksime': 'proxime', 'lokasióm': 'lokasiom',
+           'animálo': 'animalo', 'sómbro': 'sombro', 'rastró': 'rastro',
+           'cérvo': 'cervo', 'okurrír': 'okurrir', 'statâr': 'statar',
+           'jásê': 'jase', 'idéa': 'idea', 'álbo': 'ambo', 'ámbo': 'ambo',
+           'híko': 'hiko', 'instánte': 'instante', 'síguen': 'siguen',
+           'béstio': 'bestio', 'reále': 'reale', 'sábio': 'sabio',
+           'xaman': 'shaman', 'espérâ': 'espera', 'regréso': 'regreso',
+           'arkuéroem': 'arkueroem', 'radárem': 'radarem', 'sónio': 'sonio',
+           'tormentó': 'torrento', 'fógo': 'fogo', 'destruír': 'destruir',
+           'vállem': 'vallem', 'prevê': 'preve', 'flúvio': 'fluvio',
+           'sekár': 'sekar', 'demáno': 'demano', 'tríbu': 'tribuno',
+           'eskuchâr': 'eskuchar', 'visióm': 'visionm', 'kóvo': 'kovo',
+           'refúgio': 'refugio', 'destíno': 'destino', 'kaminâ': 'kamina',
+           'tenér': 'tener', 'témpo': 'tempo', 'káza': 'kaso',
+           'perfékte': 'perfekte', 'visió': 'vision', 'así': 'asi',
+           'sabidúro': 'sabiduro', 'hablár': 'hablar', 'kásorem': 'kasorem',
+           'kin': 'dek', 'persóno': 'persono', 'komê': 'kome',
+           'díes': 'dies', 'semáno': 'semano', 'necesitâ': 'necesita',
+           'traér': 'traer', 'traêr': 'traer', 'satisfákte': 'satisfakte',
+           'sep': 'sep', 'áfamo': 'afamo', 'núlo': 'nulo',
+           'sobrevivír': 'sobrevivir', 'dizê': 'dize', 'pasobserár': 'pasobservar',
+           'supóne': 'supone', 'embárgo': 'embargo', 'garantír': 'garantir',
+           'observâr': 'observar', 'konfirmár': 'konfirmar', 'falâr': 'falar',
+           'guiár': 'guiar', 'alíter': 'aliter', 'áltra': 'altra',
+           'mirár': 'mirar', 'rel': 'rel', 'dizér': 'dizer', 'su': 'su',
+           'próprio': 'proprio', 'sertitúdo': 'sertitude', 'vidér': 'vider',
+           'compléto': 'completo', 'jasêr': 'jaser', 'úno': 'uno',
+           'recordár': 'recordar', 'kásodoro': 'kasodoro', 'sabor': 'sabor',
+           'supónê': 'supone', 'dir': 'dir', 'gran': 'gran',
+           'kvándo': 'kvando', 'okurrir': 'okurrir', 'arbústo': 'arbusto',
+           'tras': 'tras', 'solo': 'solo', 'viénto': 'viento', 'radar': 'radar',
+           'askeser': 'askeser', 'ser': 'ser', 'tunc': 'tunc', 'etunc': 'etunc',
+           'nok': 'nok', 'sik': 'sik', 'mô': 'mo', 'mō': 'mo', 'tô': 'to',
+           'tō': 'to', 'kô': 'ko', 'kō': 'ko', 'sê': 'se', 'on': 'on'}
+    return FIX.get(p, p)
+
+CLUSTERS_ONSET = {'pl','bl','tr','dr','kr','gr','fr','vr','pr','br','kl','gl','fl','kv','sk','st','sp','qu'}
 
 def dig_len(s, i):
     return 2 if s[i:i+2] in ('ll','ch') else 1
@@ -164,7 +242,7 @@ def pick_onset(cons_run):
     return len(cons_run)-1, cons_run[-1]
 
 def silabificar(palabra):
-    palabra = palabra.lower().strip(PUNTUACION)
+    palabra = limpiar(palabra.lower())
     n = len(palabra)
     # 1) dividir en nucleos: diptongo (con tilde) o vocal suelta
     nucleos = []   # (ini, fin) del nucleo
@@ -218,7 +296,7 @@ def silabificar(palabra):
 FALLBACKS = []
 
 def strip_acc(c):
-    return {'á':'a','é':'e','í':'i','ó':'o','ú':'u','â':'a','ê':'e','î':'i','ō':'o','à':'a'}.get(c, c)
+    return {'á':'a','é':'e','í':'i','ó':'o','ú':'u','â':'a','ê':'e','î':'i','ō':'o','ē':'e','à':'a'}.get(c, c)
 
 def encode_silaba(sil, palabra_orig=''):
     onset = ''; nucleo = ''; coda = ''
@@ -233,19 +311,25 @@ def encode_silaba(sil, palabra_orig=''):
         nucleo += sil[j]; j += 1
     coda = sil[j:]
     nb = ''.join(strip_acc(c) for c in nucleo)
-    # onset base: cluster -> ultima grafia; digrafo se conserva
-    if len(onset) >= 2 and onset not in ('ll','ch'):
-        onset_b = onset[-1] if onset[-1] in CONSONANTES else onset
+    sharp = any(c in 'áéíóú' for c in nucleo)
+    # onset: digrafos ll/ch se conservan como unidad; clusters -> ultima letra
+    if onset in ('ll','ch'):
+        onset_b = onset
+    elif onset == 'qu':
+        onset_b = 'k'   # qu + vocal = /k/; la u es silente (perdida grafematica documentada)
+    elif len(onset) >= 2:
+        onset_b = onset[-1]
     else:
         onset_b = onset
-    voc_ok = bool(nb) and all(c in 'aeiou' for c in nb)
+    voc_ok = bool(nb) and len(set(nb)) == 1 and nb[0] in 'aeiou'
+    vbase = nb[0] if voc_ok else None
     if onset_b in CONSONANTES and voc_ok and not coda:
-        return bytes([cv_byte(onset_b, nb)])
+        return bytes([CV_BASE[(onset_b, vbase)] + (0x20 if sharp else 0)])
     if onset_b in CONSONANTES and voc_ok and coda in CODA:
-        return bytes([cv_byte(onset_b, nb), CODA[coda]])
+        return bytes([CV_BASE[(onset_b, vbase)] + (0x20 if sharp else 0), CODA[coda]])
     # VC: vocal inicial + consonante final (ag, it, ub, ar...) -> byte vocal + byte coda
-    if not onset and voc_ok and len(nb) == 1 and coda in CODA:
-        return bytes([0x10 + 'aeiou'.index(nb), CODA[coda]])
+    if not onset and voc_ok and coda in CODA:
+        return bytes([0x10 + 'aeiou'.index(vbase), CODA[coda]])
     if not onset and len(nucleo) == 1 and nucleo in VOCALES and not coda:
         return bytes([VOCALES[nucleo]])
     FALLBACKS.append((sil, palabra_orig))
@@ -271,6 +355,10 @@ EXTRA_MODS = {
 ALL_MODS = dict(MODS); ALL_MODS.update(EXTRA_MODS)
 
 GRAM = {
+    'vi': CTRL['MODE'], 'ko': CTRL['ENT'], 'ke': CTRL['SEP'],
+    'ag': CTRL['AGT'], 'pe': CTRL['PAT'], 'it': CTRL['INS'], 'ub': CTRL['LOC'],
+    'in': CTRL['LOC'], 'et': CTRL['SEP'], 'si': CTRL['QST'], 'ne': CTRL['NEG'],
+    'va': CTRL['FUT'], 'on': CTRL['ENT'], 'su': CTRL['ERG'],
     'PST': CTRL['PST'], 'FUT': CTRL['FUT'], 'NEG': CTRL['NEG'],
     'QST': CTRL['QST'], 'AGT': CTRL['AGT'], 'PAT': CTRL['PAT'],
     'INS': CTRL['INS'], 'LOC': CTRL['LOC'], 'ERG': CTRL['ERG'],
@@ -293,6 +381,13 @@ ROSETTA_NORM = {}
 for k,v in ROSETTA.items():
     ROSETTA_NORM[k] = v
     ROSETTA_NORM[''.join(strip_acc(c) for c in k)] = v
+# variantes del corpus (ortografia alternativa / raices verbales)
+ROSETTA_NORM.update({
+    'luno': 'sidark', 'lúno': 'sidark',
+    'autsi': 'meother', 'káda': 'mepart', 'flúvio': 'akflow', 'fluvio': 'akflow',
+    'destruir': 'fo', 'sabê': 'meend', 'necesitâ': 'mepart',
+    'kada': 'mapart', 'ex': 'meopen',
+})
 
 def encode_sintesio_palabra(palabra):
     base = palabra.lower().strip('.,;:!?¿¡—')
