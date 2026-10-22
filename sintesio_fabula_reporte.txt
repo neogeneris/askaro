@@ -1,0 +1,51 @@
+============================================================
+COMPRESIÓN DE LA FÁBULA — TRES MODOS (V2 corregido)
+============================================================
+P1: alfa=  349  sil=  210  sin=  82
+P2: alfa=  336  sil=  202  sin=  69
+P3: alfa=  269  sil=  164  sin=  65
+P4: alfa=  221  sil=  135  sin=  48
+P5: alfa=  369  sil=  212  sin=  85
+P6: alfa=  204  sil=  127  sin=  48
+P7: alfa=  181  sil=  114  sin=  39
+P8: alfa=  287  sil=  172  sin=  65
+------------------------------------------------------------
+TOTAL: alfa= 2216  sil= 1336  sin= 501
+Compresión silábica: 1.66x
+Compresion Sintesio: 4.42x
+Fallbacks silabicos: 21 / 686 silabas = 3.1%
+Cobertura Sintesio: 363/373 palabras (97%)
+============================================================
+
+FALLBACKS SILABICOS:
+  kō (de Kō)
+  cēr (de cēr)
+  tō (de Tō)
+  mō (de Mō)
+  c (de etunc)
+  tō (de Tō)
+  mō (de Mō)
+  cēr (de cēr)
+  kō (de Kō)
+  c (de tunc)
+  kō (de Kō.)
+  t (de ent)
+  t (de ent)
+  c (de tunc)
+  c (de tunc)
+  c (de tunc)
+  t (de ent)
+  c (de tunc)
+  c (de tunc)
+  t (de ent)
+  kō (de Kō,)
+
+PALABRAS NO TRADUCIDAS A SINTESIO:
+  flúvio x2
+  káda x2
+  destruír x1
+  necesitâ x1
+  sabê x1
+  autsi x1
+  lúno x1
+  ex x1
