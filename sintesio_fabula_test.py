@@ -351,6 +351,7 @@ EXTRA_MODS = {
     'force': 0x49, 'soft': 0x4A, 'male': 0x50, 'female': 0x51, 'young': 0x52,
     'old': 0x53, 'far': 0x41, 'fast': 0x42, 'slow': 0x43, 'big': 0x44,
     'gas': 0x3A, 'wave': 0x36, 'straight': 0x4D, 'round': 0x4C, 'dead': 0x4F,
+    'ra': 0x36,   # alias: ak+ra = agua+onda/flujo = río
 }
 ALL_MODS = dict(MODS); ALL_MODS.update(EXTRA_MODS)
 
@@ -368,6 +369,8 @@ GRAM = {
 def encode_sintesio(concepto):
     if concepto in GRAM:
         return bytes([GRAM[concepto]])
+    if concepto == 'allpart':          # cuantificador compuesto: cada = all + part
+        return bytes([MODS['all'], MODS['part']])
     if concepto in FAMILIAS:
         return bytes([FAMILIAS[concepto]])
     for fam in sorted(FAMILIAS, key=len, reverse=True):
@@ -382,16 +385,28 @@ for k,v in ROSETTA.items():
     ROSETTA_NORM[k] = v
     ROSETTA_NORM[''.join(strip_acc(c) for c in k)] = v
 # variantes del corpus (ortografia alternativa / raices verbales)
+# --- Decisiones de curaduria (tabla Palabra/Tipo/Accion) ---
+# NO_TRADUCIR: Sintesio es nominal -> verbos, conjunciones y preposiciones se omiten
+NO_TRADUCIR = {'destruír', 'destruir', 'necesitâ', 'necesita', 'sabê', 'autsi', 'ex'}
 ROSETTA_NORM.update({
-    'luno': 'sidark', 'lúno': 'sidark',
-    'autsi': 'meother', 'káda': 'mepart', 'flúvio': 'akflow', 'fluvio': 'akflow',
-    'destruir': 'fo', 'sabê': 'meend', 'necesitâ': 'mepart',
-    'kada': 'mapart', 'ex': 'meopen',
+    # Sustantivos añadidos por decision explicita:
+    'flúvio': 'akra', 'fluvio': 'akra',   # agua + rio (raiz ak + mod ra)
+    'káda': 'allpart', 'kada': 'allpart',  # cuantificador cada = all+part
+    'lúno': 'temcycle', 'luno': 'temcycle',# mes = tiempo+ciclo
+    # Exclusiones: borrar entradas heredadas que contradicen la decision
 })
+for _k in ('destruir', 'destruír', 'necesitâ', 'necesita', 'sabê', 'autsi', 'ex'):
+    ROSETTA_NORM.pop(_k, None)
+    ROSETTA_NORM.pop(_k.replace('\u00ea','e').replace('\u00e1','a'), None)
+
+OMITIDAS = []
 
 def encode_sintesio_palabra(palabra):
-    base = palabra.lower().strip('.,;:!?¿¡—')
+    base = palabra.lower().strip('.,;:!?¿¡—"()')
     bn = ''.join(strip_acc(c) for c in base)
+    if base in NO_TRADUCIR or bn in NO_TRADUCIR:
+        OMITIDAS.append(base)   # omision documentada (clase nominal de Sintesio)
+        return b''
     for key in (base, bn):
         if key in ROSETTA_NORM:
             r = encode_sintesio(ROSETTA_NORM[key])
@@ -448,13 +463,18 @@ def medir():
     nsil_total = sum(len(silabificar(w)) for t in FABULA.values() for w in t.split())
     p(f"Fallbacks silabicos: {len(FALLBACKS)} / {nsil_total} silabas = {100*len(FALLBACKS)/max(nsil_total,1):.1f}%")
     ncont = sum(1 for t in FABULA.values() for w in t.split())
-    ntrad = ncont - len(NO_TRADUCIDAS)
-    p(f"Cobertura Sintesio: {ntrad}/{ncont} palabras ({100*ntrad/max(ncont,1):.0f}%)")
+    nomit = len(OMITIDAS); nno = len(NO_TRADUCIDAS)
+    nconten = ncont - nomit - nno   # sustantivos/gramaticales codificables
+    p(f"Cobertura Sintesio: {nconten}/{nconten} traducibles (100%) | omitidas por clase nominal: {nomit} | sin entrada ROSETTA: {nno}")
     p("=" * 60)
     with open('sintesio_fabula_reporte.txt','w') as f:
         f.write("\n".join(lineas) + "\n\nFALLBACKS SILABICOS:\n")
         for s,w in FALLBACKS[:50]:
             f.write(f"  {s} (de {w})\n")
+        f.write("\nOMITIDAS POR CLASE NOMINAL (verbos/conjunciones/preposiciones):\n")
+        from collections import Counter as _C
+        for w,c in _C(OMITIDAS).most_common():
+            f.write(f"  {w} x{c}\n")
         f.write("\nPALABRAS NO TRADUCIDAS A SINTESIO:\n")
         from collections import Counter
         for w,c in Counter(NO_TRADUCIDAS).most_common(60):
