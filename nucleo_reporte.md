@@ -194,3 +194,48 @@ Reglas aplicadas a la tabla `imports` (45 filas con forma en `imports_forma`):
 6. **Deuda registrada**: "marmota" recibe glifo 🐿️ que Unicode reserva a la ardilla — si en un lote futuro entra *ardilla* habrá colisión real; candidato a desambiguación con núcleo compuesto.
 
 **Totales tras ciclo 9**: imports 64 (45 previos + 19 nuevos), imports_forma 64, integrity ok, grafo/matriz/núcleo intactos.
+
+
+## §15 — Columna `glifo` + Ciclo 10 (transporte, música, herramientas, ropa)
+
+**Pendiente saldado:** los lotes de glifos no guardaban el emoji fuente. Se añadió
+la columna `imports.glifo TEXT` y se re-rellenaron los 19 términos del ciclo 9
+(nieve ❄️ … dromedario 🐪). Ahora los 44 auto-glifo tienen su glifo registrado.
+
+**Ciclo 10 (+25):** dominio transporte/música/herramientas/ropa. Formas askarizadas
+con el normalizador `scripts/askaro_norm.py` (c→s/k, z→s, ch→c, qu→k, h→x, j→x,
+y→i, tilde explícito ≥2 vocales):
+
+| glifo | es | sugerencia | forma askâro | criterio |
+|---|---|---|---|---|
+| 🚢 | barco | barca | bárka | cognado_universal |
+| ⛵ | velero | veliero | veliéro | consenso_romance |
+| ✈️ | avión | avión | ávion | cognado_universal |
+| 🚆 | tren | tren | tren | termino_internacional |
+| 🚲 | bicicleta | bicicleta | bisikléta | consenso_romance |
+| 🚗 | automóvil | auto | aúto | internacional (regla longitud: auto < automóvil) |
+| 🚜 | tractor | tractor | tráktor | cognado_universal |
+| 💍 | anillo | anello | anéllo | consenso_romance |
+| 🕐 | reloj | orologio | orologío | consenso_romance |
+| 🔨 | martillo | martello | martéllo | consenso_romance |
+| 🪛 | destornillador | divelle | divélle | interlingua_prestamo |
+| ✂️ | tijeras | forcipe | forsípe | interlingua_prestamo |
+| 🔑 | llave | clave | kláve | cognado_universal |
+| 🪚 | sierra | serra | sérra | consenso_romance |
+| 🪜 | escala | scala | skála | cognado_universal |
+| 🎩 | sombrero | cappello | kappéllo | consenso_romance |
+| 👞 | zapato | sapato | sapáto | consenso_romance |
+| 👔 | corbata | cravatta | kravátta | termino_internacional |
+| 🎸 | guitarra | guitarra | guitárra | cognado_universal |
+| 🎹 | piano | piano | piáno | cognado_universal |
+| 🥁 | tambor | tamburo | tambúro | consenso_romance |
+| 🪈 | flauta | flauto | flaúto | consenso_romance |
+| 🎺 | trompeta | trompetta | trompétta | consenso_romance |
+| 🎻 | violín | violino | violíno | cognado_universal |
+| 🎤 | micrófono | microfono | mikrofóno | cognado_universal |
+
+**Colisiones detectadas:** 1 blanda — `tren` vs corpus `tréno`. Raíz `tren` ⊂
+`trén`; son parónimos etimológicos (TRAHERE), no homónimos: *tren* queda propuesto
+con nota para decisión manual. Igualdad exacta de raíz: 0. Auto-colisiones internas: 0.
+
+**Totales:** imports 89 · auto-glifo 44 · con glifo 44 · integrity ok.
