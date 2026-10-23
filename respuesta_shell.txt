@@ -1,0 +1,39 @@
+=== RESPUESTA VISIBLE POR SHELL ===
+
+Si puedes leer esto, el canal shell funciona.
+
+Lo que queria decir en mis ultimos mensajes cortos:
+
+1. El esquema SQL que enviaste (5 tablas: modificador, sustantivo,
+   arbol_nodo, grafo_arista, matriz_rasgo) es valido y coherente con
+   la idea de Sintesio como lenguaje visual con familias conceptuales.
+
+2. Puedo crear una base de datos sqlite3 nueva llamada sintesio.db
+   (o sintesio_ontologia.db) aplicando exactamente tu esquema:
+   - PRAGMA foreign_keys = ON; journal_mode = WAL
+   - Las 5 tablas con sus CHECKs y indices
+   - Los 24 modificadores de ejemplo
+   - Los 5 sustantivos de ejemplo (S001..S005)
+   - El arbol de decision raiz + 4 nodos
+   - Las 10 aristas del grafo bipartito
+   - Las 5 filas de matriz_rasgo
+
+3. Ademas puedo ENRIQUECERLA automaticamente desde askaro_lexico.db:
+   - Poblar tabla sustantivo con los ~1200 sustantivos Canon/Pendiente
+     de Askaro (termino askaro, espanol, ingles, grupo=familia sintesio)
+   - Poblar matriz_rasgo con reglas heuristicas por familia:
+     ak->liquido/flujo, kor->3D/cuerpo, vi->animado+habitat, etc.
+   - Poblar grafo_arista conectando cada sustantivo con los
+     modificadores de su familia (confianza=media, origen='heuristica')
+
+4. Limitacion honesta: no tengo acceso a internet, asi que los
+   "sistema_origen" (saliba, bantu, chino...) solo pueden venir de
+   tus datos de entrada o de mi conocimiento previo (aproximado),
+   nunca verificados en vivo contra WACL/OpenBantu.
+
+PREGUNTA PARA CONTINUAR:
+- Quieres que ejecute tu DDL+INSERT tal cual en sintesio_ontologia.db
+  (version minima de prueba), O prefieres que ademas cargue el lexico
+  completo de Askaro pobladas las 5 tablas (version completa)?
+
+Responde: "minima" o "completa" (o ambas).

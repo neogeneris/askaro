@@ -1,0 +1,43 @@
+== BASE ONTOLÓGICA SINTESIO (sintesio.db) ==
+conceptos: 1341
+familias: 23
+rasgos WACL: 1577
+núcleo manual conf=1.0: 222
+
+-- Distribución --
+so   SOCIEDAD       268
+me   MENTE          120
+vi   VIDA           115
+gv   VERBO          106
+sk   SONIDO         95
+adj  CALIFICATIVO   94
+nu   COMIDA         85
+kor  CUERPO         84
+er   HERRAMIENTA    76
+ter  TIERRA         51
+ka   CASA           49
+tem  TIEMPO         48
+mu   MOVIMIENTO     39
+si   CIELO          25
+mor  MUERTE         25
+fn   FUNCIONAL      14
+ak   AGUA           12
+pp   PREPOSICIÓN    10
+cc   CONJUNCIÓN     10
+ax   AUXILIAR       8
+fo   FUEGO          4
+vr   VARIABLE       3
+
+-- Familia ak (prototipo visual: agua→río→lluvia→mar) --
+   ('ákvo', 'agua')
+   ('flumíno', 'rio')
+   ('láko', 'lago')
+   ('oseáno', 'oceano')
+   ('glasío', 'hielo')
+   ('pluvío', 'lluvia')
+   ('báio', 'bahia')
+   ('strétto', 'estrecho (accidente geo.)')
+   ('kanálo', 'canal')
+   ('máro', 'mar')
+   ('paragúo', 'paraguas')
+   ('kavallukío', 'caballito de mar')

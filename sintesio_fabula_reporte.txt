@@ -1,0 +1,41 @@
+============================================================
+COMPRESIÓN DE LA FÁBULA — TRES MODOS (V2 corregido)
+============================================================
+P1: alfa=  349  sil=  207  sin=  82
+P2: alfa=  336  sil=  191  sin=  69
+P3: alfa=  269  sil=  162  sin=  67
+P4: alfa=  221  sil=  137  sin=  48
+P5: alfa=  369  sil=  216  sin=  89
+P6: alfa=  204  sil=  126  sin=  50
+P7: alfa=  181  sil=  116  sin=  41
+P8: alfa=  287  sil=  170  sin=  65
+------------------------------------------------------------
+TOTAL: alfa= 2216  sil= 1325  sin= 511
+Compresión silábica: 1.67x
+Compresion Sintesio: 4.34x
+Fallbacks silabicos: 12 / 695 silabas = 1.7%
+Cobertura Sintesio: 368/368 traducibles (100%) | omitidas por clase nominal: 5 | sin entrada ROSETTA: 0
+============================================================
+
+FALLBACKS SILABICOS:
+  c (de etunc)
+  m (de visióm,)
+  c (de tunc)
+  t (de ent)
+  t (de ent)
+  c (de tunc)
+  c (de tunc)
+  c (de tunc)
+  t (de ent)
+  c (de tunc)
+  c (de tunc)
+  t (de ent)
+
+OMITIDAS POR CLASE NOMINAL (verbos/conjunciones/preposiciones):
+  destruír x1
+  necesitâ x1
+  sabê x1
+  autsi x1
+  ex x1
+
+PALABRAS NO TRADUCIDAS A SINTESIO:
