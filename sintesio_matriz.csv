@@ -1,0 +1,1042 @@
+sustantivo_id,animado,humano,abstracto,dimensionalidad,funcion,consistencia,tamano,habitat,comestible,peligro,sagrado,estatus,genero,flujo,auto_clasif,forma_esp,cuerpo,cantidad,sintesis,confianza,notas
+ASK-SUS-0005,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,media,pendiente: dimensionalidad no determinable por reglas; dimensionalidad indeterminada
+ASK-SUS-0006,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤,alta,
+ASK-SUS-0007,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-0008,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-0009,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-0010,no,no,no,3D,N/A,liquido,N/A,N/A,vegetal,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🍽🌱 💧 ○,alta,
+ASK-SUS-0011,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0012,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0013,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-0033,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0034,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0035,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0038,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0039,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0042,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0043,no,no,no,3D,N/A,liquido,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,💧 👤○ ○,alta,
+ASK-SUS-0044,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,● 👤○ ○,alta,
+ASK-SUS-0046,no,no,no,1D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ↑ 〜,alta,
+ASK-SUS-0047,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ○,alta,
+ASK-SUS-0048,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ○,alta,
+ASK-SUS-0049,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,par,par,●● 👤●● ○,alta,
+ASK-SUS-0050,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,par,par,●● 👤●● ○,alta,
+ASK-SUS-0051,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,par,par,●● 👤●● ○,alta,
+ASK-SUS-0052,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ○,alta,
+ASK-SUS-0053,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,abovedado,N/A,N/A,○ ⌒,alta,
+ASK-SUS-0054,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,■,alta,
+ASK-SUS-0055,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,■,alta,
+ASK-SUS-0057,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0058,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0059,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,💬,media,
+ASK-SUS-0061,no,no,no,3D,N/A,liquido,N/A,N/A,vegetal,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🍽🌱 💧 ○,alta,
+ASK-SUS-0063,si,no,no,N/A,N/A,N/A,N/A,terrestre,carne,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🍽🐾 🐾↑,alta,
+ASK-SUS-0087,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤 ♀,alta,
+ASK-SUS-0088,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤,alta,
+ASK-SUS-0089,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤,alta,
+ASK-SUS-0090,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0091,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-0092,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0093,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0094,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ○,alta,
+ASK-SUS-0095,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0097,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0098,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-0099,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,💬,media,
+ASK-SUS-0102,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0104,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0105,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-0106,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0107,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,si,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜 👤✦↑ 👤✦,media,
+ASK-SUS-0109,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0110,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,⏳ ⏳●,media,
+ASK-SUS-0111,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0112,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0114,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0116,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-0117,no,no,no,3D,vehiculo,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ 🚶○,alta,
+ASK-SUS-0118,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾↑ ♥ ↑,alta,
+ASK-SUS-0119,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾↑ ♥,alta,
+ASK-SUS-0120,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾↑ ♥,alta,
+ASK-SUS-0121,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0122,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾↑ ♀ ♥ ↑,alta,
+ASK-SUS-0124,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾🌱 🐾↑ ♥,alta,
+ASK-SUS-0125,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾🌱 🐾↑ ♥,alta,
+ASK-SUS-0126,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,si,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾↑ ⊘⚡,alta,
+ASK-SUS-0127,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾🌱 🐾↑ ↓,alta,
+ASK-SUS-0130,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0132,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0133,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0134,no,no,no,1D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,↑,alta,
+ASK-SUS-0135,no,no,no,1D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,↑,alta,
+ASK-SUS-0136,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0194,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0196,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0197,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0198,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0199,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0201,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0202,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-0203,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0204,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0206,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0210,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0213,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ○,alta,
+ASK-SUS-0215,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ○,alta,
+ASK-SUS-0216,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0217,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0222,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0224,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0226,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0227,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0228,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0229,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0312,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,par,par,●● 👤●● ○,alta,
+ASK-SUS-0313,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,par,par,●● 👤●● ○,alta,
+ASK-SUS-0314,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,◇ 👤○,media,pendiente: dimensionalidad no determinable por reglas; dimensionalidad indeterminada
+ASK-SUS-0315,no,no,no,1D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ↑,alta,
+ASK-SUS-0316,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,◇ 👤○,media,pendiente: dimensionalidad no determinable por reglas; dimensionalidad indeterminada
+ASK-SUS-0317,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,par,par,●● 👤●● ○,alta,
+ASK-SUS-0318,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,par,par,●● 👤●● ○,alta,
+ASK-SUS-0319,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ○,alta,
+ASK-SUS-0320,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ○,alta,
+ASK-SUS-0321,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ○,alta,
+ASK-SUS-0322,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ○,alta,
+ASK-SUS-0323,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ○,alta,
+ASK-SUS-0324,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,🧠〜 👤○,media,
+ASK-SUS-0325,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,par,par,🐾 ●● 👤●● 🐾↑ ↑,alta,
+ASK-SUS-0326,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,par,par,🧠〜 ●● 👤●●,alta,
+ASK-SUS-0327,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ○,alta,
+ASK-SUS-0328,no,no,no,1D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ↑ 〜,alta,
+ASK-SUS-0329,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ○,alta,
+ASK-SUS-0330,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ○,alta,
+ASK-SUS-0331,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,no_par,N/A,👤 👤○,alta,
+ASK-SUS-0332,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ○,alta,
+ASK-SUS-0333,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ○,alta,
+ASK-SUS-0334,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,◇ 👤○,media,pendiente: dimensionalidad no determinable por reglas; dimensionalidad indeterminada
+ASK-SUS-0335,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ○,alta,
+ASK-SUS-0336,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,◇ 👤○,media,pendiente: dimensionalidad no determinable por reglas; dimensionalidad indeterminada
+ASK-SUS-0337,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,◇ 👤○,media,pendiente: dimensionalidad no determinable por reglas; dimensionalidad indeterminada
+ASK-SUS-0338,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,◇ 👤○,media,pendiente: dimensionalidad no determinable por reglas; dimensionalidad indeterminada
+ASK-SUS-0339,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,◇ 👤○,media,pendiente: dimensionalidad no determinable por reglas; dimensionalidad indeterminada
+ASK-SUS-0340,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,◇ 👤○,media,pendiente: dimensionalidad no determinable por reglas; dimensionalidad indeterminada
+ASK-SUS-0341,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,◇ 👤○,media,pendiente: dimensionalidad no determinable por reglas; dimensionalidad indeterminada
+ASK-SUS-0342,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ○,alta,
+ASK-SUS-0343,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,◇ 👤○,media,pendiente: dimensionalidad no determinable por reglas; dimensionalidad indeterminada
+ASK-SUS-0344,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ○,alta,
+ASK-SUS-0345,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ○,alta,
+ASK-SUS-0346,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ○,alta,
+ASK-SUS-0347,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ○,alta,
+ASK-SUS-0348,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ○,alta,
+ASK-SUS-0349,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ○,alta,
+ASK-SUS-0350,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ○,alta,
+ASK-SUS-0351,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ○,alta,
+ASK-SUS-0352,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ○,alta,
+ASK-SUS-0353,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ○,alta,
+ASK-SUS-0354,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,◇ 👤○,media,pendiente: dimensionalidad no determinable por reglas; dimensionalidad indeterminada
+ASK-SUS-0355,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,◇ 👤○,media,pendiente: dimensionalidad no determinable por reglas; dimensionalidad indeterminada
+ASK-SUS-0356,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,◇ 👤○,media,pendiente: dimensionalidad no determinable por reglas; dimensionalidad indeterminada
+ASK-SUS-0357,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,◇ 👤○,media,pendiente: dimensionalidad no determinable por reglas; dimensionalidad indeterminada
+ASK-SUS-0358,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,◇ 👤○,media,pendiente: dimensionalidad no determinable por reglas; dimensionalidad indeterminada
+ASK-SUS-0359,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,◇ 👤○,media,pendiente: dimensionalidad no determinable por reglas; dimensionalidad indeterminada
+ASK-SUS-0360,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,◇ 👤○,media,pendiente: dimensionalidad no determinable por reglas; dimensionalidad indeterminada
+ASK-SUS-0361,no,no,no,1D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ↑ 〜,alta,
+ASK-SUS-0362,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ○,alta,
+ASK-SUS-0363,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ○,alta,
+ASK-SUS-0364,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,◇ 👤○,media,pendiente: dimensionalidad no determinable por reglas; dimensionalidad indeterminada
+ASK-SUS-0365,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,👤○ ○,alta,
+ASK-SUS-0367,no,no,no,3D,N/A,N/A,N/A,N/A,vegetal,no,no,N/A,N/A,no,no,N/A,no_par,N/A,🍽🌱 👤○ ○,alta,
+ASK-SUS-0368,no,no,no,3D,N/A,liquido,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,no_par,N/A,💧 👤○ ○,alta,
+ASK-SUS-0369,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,■,alta,
+ASK-SUS-0370,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,■,alta,
+ASK-SUS-0371,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0373,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,■,alta,
+ASK-SUS-0374,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,■,alta,
+ASK-SUS-0375,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,media,pendiente: dimensionalidad no determinable por reglas; dimensionalidad indeterminada
+ASK-SUS-0376,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0377,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0378,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0379,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0380,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-0381,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0382,no,no,no,3D,mango,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ ↑○,alta,
+ASK-SUS-0383,no,no,no,3D,contenedor,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,olla,N/A,N/A,○ ●◇ ○,alta,
+ASK-SUS-0384,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,■,alta,
+ASK-SUS-0385,no,no,no,3D,contenedor,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ ○,alta,
+ASK-SUS-0386,no,no,no,3D,contenedor,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ ○,alta,
+ASK-SUS-0387,no,no,no,3D,contenedor,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ ○,alta,
+ASK-SUS-0388,no,no,no,3D,mango,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ ↑○,alta,
+ASK-SUS-0389,no,no,no,3D,mango,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ ↑○,alta,
+ASK-SUS-0390,no,no,no,3D,mango,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ ↑○,alta,
+ASK-SUS-0391,no,no,no,3D,contenedor,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ ○,alta,
+ASK-SUS-0392,no,no,no,3D,contenedor,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,olla,N/A,N/A,○ ●◇ ○,alta,
+ASK-SUS-0393,no,no,no,3D,N/A,blando,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,〰 ○,alta,
+ASK-SUS-0394,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,■,alta,
+ASK-SUS-0395,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-0396,no,no,no,3D,mango,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ ↑○,alta,
+ASK-SUS-0397,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-0398,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0399,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,〰 ■,alta,
+ASK-SUS-0400,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,〰 ■,alta,
+ASK-SUS-0401,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,〰 ■,alta,
+ASK-SUS-0402,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,abovedado,N/A,N/A,○ ⌒,alta,
+ASK-SUS-0403,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,〰 ■,alta,
+ASK-SUS-0404,no,no,no,3D,contenedor,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ ○,alta,
+ASK-SUS-0405,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-0406,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,■,alta,
+ASK-SUS-0407,no,no,no,1D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,↑,alta,
+ASK-SUS-0408,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-0409,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0410,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0411,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0412,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0413,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-0414,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0415,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,■,alta,
+ASK-SUS-0416,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,■,alta,
+ASK-SUS-0417,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-0418,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0419,no,no,no,3D,N/A,blando,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,〰 ○,alta,
+ASK-SUS-0420,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,■,alta,
+ASK-SUS-0421,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,■,alta,
+ASK-SUS-0422,no,no,no,3D,N/A,blando,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,〰 ○,alta,
+ASK-SUS-0423,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0424,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-0425,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-0426,no,no,no,3D,N/A,blando,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,〰 ○,alta,
+ASK-SUS-0427,no,no,no,3D,N/A,granular,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,∵ ○,alta,
+ASK-SUS-0428,no,no,no,3D,N/A,N/A,N/A,N/A,vegetal,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🍽🌱 ○,alta,
+ASK-SUS-0429,no,no,no,3D,N/A,blando,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,〰 ○,alta,
+ASK-SUS-0430,no,no,no,3D,N/A,blando,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,〰 ○,alta,
+ASK-SUS-0431,no,no,no,3D,N/A,granular,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,∵ ○,alta,
+ASK-SUS-0432,no,no,no,3D,N/A,liquido,N/A,N/A,vegetal,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🍽🌱 💧 ○,alta,
+ASK-SUS-0433,no,no,no,3D,N/A,N/A,N/A,N/A,vegetal,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🍽🌱 ○,alta,
+ASK-SUS-0434,no,no,no,3D,N/A,liquido,N/A,N/A,vegetal,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🍽🌱 💧 ○,alta,
+ASK-SUS-0435,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0436,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0437,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0438,no,no,no,3D,N/A,N/A,N/A,N/A,vegetal,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🍽🌱 ○,alta,
+ASK-SUS-0439,no,no,no,3D,N/A,liquido,N/A,N/A,vegetal,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🍽🌱 💧 ○,alta,
+ASK-SUS-0440,no,no,no,3D,N/A,liquido,N/A,N/A,vegetal,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🍽🌱 💧 ○,alta,
+ASK-SUS-0442,no,no,no,3D,N/A,liquido,N/A,N/A,vegetal,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🍽🌱 💧 ○,alta,
+ASK-SUS-0443,no,no,no,3D,N/A,liquido,N/A,N/A,vegetal,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🍽🌱 💧 ○,alta,
+ASK-SUS-0444,no,no,no,3D,N/A,N/A,N/A,N/A,vegetal,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🍽🌱 ○,alta,
+ASK-SUS-0445,si,no,no,N/A,N/A,N/A,N/A,terrestre,carne,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🍽🐾 🐾🌱 🐾↑,alta,
+ASK-SUS-0446,si,no,no,N/A,N/A,N/A,N/A,terrestre,carne,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🍽🐾 🐾↑ ♥,alta,
+ASK-SUS-0447,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾↑ ♀ ♥ ↑,alta,
+ASK-SUS-0448,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾↑ ♥,alta,
+ASK-SUS-0449,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾🌱 🐾↑ ♥,alta,
+ASK-SUS-0450,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾🌱 🐾↑ ♥,alta,
+ASK-SUS-0451,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾🌱 🐾↑ ♥,alta,
+ASK-SUS-0452,no,no,no,3D,N/A,N/A,N/A,N/A,vegetal,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🍽🌱 ○,alta,
+ASK-SUS-0453,no,no,no,3D,N/A,N/A,N/A,N/A,vegetal,no,si,N/A,N/A,no,no,N/A,N/A,N/A,🍽🌱 ○ 👤✦,alta,
+ASK-SUS-0454,no,no,no,3D,N/A,N/A,N/A,N/A,vegetal,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🍽🌱 ○,alta,
+ASK-SUS-0455,no,no,no,3D,N/A,N/A,N/A,N/A,vegetal,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🍽🌱 ○,alta,
+ASK-SUS-0456,no,no,no,3D,N/A,N/A,N/A,N/A,vegetal,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🍽🌱 ○,alta,
+ASK-SUS-0457,no,no,no,3D,N/A,N/A,N/A,N/A,vegetal,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🍽🌱 ○,alta,
+ASK-SUS-0458,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0459,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,esferico_artificial,N/A,N/A,○ ○↓,alta,
+ASK-SUS-0460,no,no,no,3D,N/A,N/A,N/A,N/A,vegetal,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🍽🌱 ○,alta,
+ASK-SUS-0461,no,no,no,3D,N/A,N/A,N/A,N/A,vegetal,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🍽🌱 ○,alta,
+ASK-SUS-0462,no,no,no,3D,N/A,liquido,N/A,N/A,vegetal,no,no,N/A,N/A,no,no,N/A,no_par,N/A,🍽🌱 💧 👤○ ○,alta,
+ASK-SUS-0463,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0464,no,no,no,3D,N/A,N/A,N/A,N/A,vegetal,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🍽🌱 ○,alta,
+ASK-SUS-0465,no,no,no,3D,N/A,liquido,N/A,N/A,vegetal,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🍽🌱 💧 ○,alta,
+ASK-SUS-0467,si,no,no,N/A,N/A,N/A,N/A,terrestre,carne,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🍽🐾 🐾↑,alta,
+ASK-SUS-0468,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0469,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0471,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0472,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0473,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0474,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0475,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0476,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0477,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0478,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0479,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0480,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0481,no,no,no,3D,N/A,granular,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,∵ ○,alta,
+ASK-SUS-0482,no,no,no,3D,N/A,blando,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,〰 ○,alta,
+ASK-SUS-0483,no,no,no,3D,N/A,granular,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,∵ ○,alta,
+ASK-SUS-0484,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0486,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0487,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0488,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0489,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0490,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0491,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0492,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0493,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾↑ ⊘⚡,alta,
+ASK-SUS-0494,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,si,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾↑ ⊘⚡,alta,
+ASK-SUS-0495,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,si,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾↑ ↑ ⊘⚡,alta,
+ASK-SUS-0497,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾🌱 🐾↑,alta,
+ASK-SUS-0498,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾↑ ↑,alta,
+ASK-SUS-0499,si,no,no,N/A,N/A,N/A,N/A,terrestre,carne,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🍽🐾 🐾↑ ♥ ↓,alta,
+ASK-SUS-0501,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,si,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾↑ ⊘⚡,alta,
+ASK-SUS-0502,si,no,no,N/A,N/A,N/A,N/A,acuatico,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾💧 🐾↑,alta,
+ASK-SUS-0503,si,no,no,N/A,N/A,N/A,N/A,acuatico,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾💧 🐾↑ ↓,alta,
+ASK-SUS-0504,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,si,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾↑ ↑ ⊘⚡,alta,
+ASK-SUS-0505,si,no,no,N/A,N/A,N/A,N/A,acuatico,no,si,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾💧 ↑ ⊘⚡,alta,
+ASK-SUS-0507,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾↑ ♥,alta,
+ASK-SUS-0508,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0509,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,si,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾↑ ♂ ↑ ⊘⚡,alta,
+ASK-SUS-0510,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0511,si,no,no,N/A,N/A,N/A,N/A,acuatico,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾💧,alta,
+ASK-SUS-0512,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾🌱 🐾↑ ↓,alta,
+ASK-SUS-0513,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾🌱 🐾↑ ↓,alta,
+ASK-SUS-0514,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾↑ ♥ ↑,alta,
+ASK-SUS-0515,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0516,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0517,no,no,no,3D,N/A,blando,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,〰 ○,alta,
+ASK-SUS-0518,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0519,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0520,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0521,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,si,N/A,N/A,no,no,N/A,N/A,N/A,○ 👤✦,alta,
+ASK-SUS-0522,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0524,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0525,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0526,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0527,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0528,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0529,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0531,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0532,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0533,no,no,no,1D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,↑,alta,
+ASK-SUS-0534,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0535,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0536,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0537,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0538,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0539,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,■,alta,
+ASK-SUS-0540,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0541,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0542,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0543,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0544,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤,alta,
+ASK-SUS-0545,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤,alta,
+ASK-SUS-0546,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤,alta,
+ASK-SUS-0547,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0548,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0549,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0550,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0551,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤,alta,
+ASK-SUS-0552,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜 👤↑,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0553,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,divino,N/A,no,no,N/A,N/A,N/A,👤 👤✦↑,alta,
+ASK-SUS-0554,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,divino,N/A,no,no,N/A,N/A,N/A,👤 👤✦↑,alta,
+ASK-SUS-0555,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤,alta,
+ASK-SUS-0556,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤,alta,
+ASK-SUS-0557,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0558,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0559,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤,alta,
+ASK-SUS-0560,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤,alta,
+ASK-SUS-0561,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0562,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0563,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0564,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-0565,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0566,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0567,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0568,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-0569,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0570,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0571,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0572,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0573,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0574,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0575,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0576,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0577,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0578,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0579,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0580,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0581,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0582,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,si,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜 👤✦,media,
+ASK-SUS-0583,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0584,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0585,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0586,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0588,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0589,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0591,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0592,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0593,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0594,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0595,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,💬,media,
+ASK-SUS-0596,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0598,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0599,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0600,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0601,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0602,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0603,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0604,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0605,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0606,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,💬,media,
+ASK-SUS-0607,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,💬,media,
+ASK-SUS-0608,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0609,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0610,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-0611,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0612,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0613,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0614,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0615,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0616,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0617,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0618,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0619,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-0620,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0621,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-0622,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0623,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0624,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-0625,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0626,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0627,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-0628,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-0629,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-0630,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-0631,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0632,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0633,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0634,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-0635,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-0636,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-0637,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-0638,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,💬,media,
+ASK-SUS-0639,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,💬,media,
+ASK-SUS-0640,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0641,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,💬,media,
+ASK-SUS-0642,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,💬,media,
+ASK-SUS-0643,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0644,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-0646,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0647,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0648,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0649,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0650,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,⏳ ⏳●,media,
+ASK-SUS-0651,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0652,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0653,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0654,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0655,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0656,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0657,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0658,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0659,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0660,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0661,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0662,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-0663,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0664,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0665,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0666,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0667,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0668,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0669,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-0670,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,esferico_artificial,N/A,N/A,○ ○↓,alta,
+ASK-SUS-0671,no,no,no,3D,vehiculo,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ 🚶○,alta,
+ASK-SUS-0672,no,no,no,3D,vehiculo,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ 🚶○,alta,
+ASK-SUS-0673,no,no,no,3D,vehiculo,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ 🚶○,alta,
+ASK-SUS-0675,no,no,no,3D,vehiculo,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ 🚶○,alta,
+ASK-SUS-0676,no,no,no,3D,vehiculo,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ 🚶○,alta,
+ASK-SUS-0677,no,no,no,3D,vehiculo,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ 🚶○,alta,
+ASK-SUS-0678,no,no,no,3D,vehiculo,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ 🚶○,alta,
+ASK-SUS-0679,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,media,pendiente: dimensionalidad no determinable por reglas; dimensionalidad indeterminada
+ASK-SUS-0680,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,media,pendiente: dimensionalidad no determinable por reglas; dimensionalidad indeterminada
+ASK-SUS-0681,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,⏳ ⏳●,media,
+ASK-SUS-0682,no,no,no,1D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,↑,alta,
+ASK-SUS-0683,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-0684,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0685,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0686,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0687,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0688,no,no,no,3D,mango,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ ↑○,alta,
+ASK-SUS-0689,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,■,alta,
+ASK-SUS-0690,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0691,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-0692,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,💬,media,
+ASK-SUS-0693,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,💬,media,
+ASK-SUS-0694,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,■,alta,
+ASK-SUS-0695,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0696,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-0697,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0698,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0699,no,no,no,1D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,↑ 〜,alta,
+ASK-SUS-0700,no,no,no,1D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,↑,alta,
+ASK-SUS-0701,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0702,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0703,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0704,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0705,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0706,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0707,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0708,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-0709,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-0710,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0711,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0712,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0713,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-0714,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0715,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0716,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-0717,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0718,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,media,pendiente: dimensionalidad no determinable por reglas; dimensionalidad indeterminada
+ASK-SUS-0719,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0720,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0721,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0722,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0723,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0724,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,💬,media,
+ASK-SUS-0725,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0726,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0727,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0728,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0729,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0730,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0731,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0732,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,💬,media,
+ASK-SUS-0733,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0734,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0735,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0736,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0737,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0738,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0739,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,⏳ ⏳●,media,
+ASK-SUS-0740,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0741,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0742,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0743,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0744,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0745,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0746,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0747,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0748,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0749,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤,alta,
+ASK-SUS-0750,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤,alta,
+ASK-SUS-0751,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0754,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,si,N/A,N/A,no,no,N/A,N/A,N/A,🧠 👤✦,media,
+ASK-SUS-0755,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-0756,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0757,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-0758,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-0759,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-0760,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-0761,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-0762,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-0763,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0764,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,〰 ■,alta,
+ASK-SUS-0765,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0766,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0767,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0768,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0769,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0770,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0771,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0772,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,media,pendiente: dimensionalidad no determinable por reglas; dimensionalidad indeterminada
+ASK-SUS-0773,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-0774,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,media,pendiente: dimensionalidad no determinable por reglas; dimensionalidad indeterminada
+ASK-SUS-0775,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-0776,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-0777,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-0778,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-0779,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0780,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-0852,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,⏳ ⏳●,media,
+ASK-SUS-0853,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,⏳ ⏳●,media,
+ASK-SUS-0854,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,⏳ ⏳●,media,
+ASK-SUS-0855,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,⏳ ⏳●,media,
+ASK-SUS-0856,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,⏳ ⏳●,media,
+ASK-SUS-0857,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,⏳ ⏳●,media,
+ASK-SUS-0859,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,⏳ ⏳●,media,
+ASK-SUS-0860,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,⏳ ⏳●,media,
+ASK-SUS-0861,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,⏳ ⏳●,media,
+ASK-SUS-0862,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,⏳ ⏳●,media,
+ASK-SUS-0863,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0864,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,⏳ ⏳●,media,
+ASK-SUS-0865,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,⏳ ⏳●,media,
+ASK-SUS-0866,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0867,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0868,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,⏳ ⏳●,media,
+ASK-SUS-0869,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,⏳ ⏳●,media,
+ASK-SUS-0870,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0871,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,⏳ ⏳●,media,
+ASK-SUS-0872,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0873,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,⏳ ⏳●,media,
+ASK-SUS-0874,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,⏳ ⏳●,media,
+ASK-SUS-0875,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,⏳ ⏳●,media,
+ASK-SUS-0876,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0877,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0878,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0879,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0880,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0881,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0882,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0883,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0884,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0885,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0886,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0887,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0888,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0889,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0890,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0891,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0892,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0893,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0894,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-0895,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0896,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0897,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0898,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0899,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0900,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0901,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0902,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0903,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0904,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0905,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0906,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0907,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0908,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0909,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0910,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-0911,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-0912,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-0913,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-0914,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-0915,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0916,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0917,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0918,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-0919,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-0920,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0921,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0922,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0923,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-0924,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-0925,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0926,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0927,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0928,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-0929,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-0930,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0931,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0932,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-0933,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0934,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0935,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0936,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0937,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0938,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0939,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0940,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0941,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0942,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0943,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0944,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-0945,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0946,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0947,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤 ♂,alta,
+ASK-SUS-0948,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤 ♀,alta,
+ASK-SUS-0951,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤 ♂,alta,
+ASK-SUS-0952,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤 ♀,alta,
+ASK-SUS-0953,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤,alta,
+ASK-SUS-0954,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤,alta,
+ASK-SUS-0955,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤,alta,
+ASK-SUS-0956,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤,alta,
+ASK-SUS-0957,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤,alta,
+ASK-SUS-0958,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤,alta,
+ASK-SUS-0959,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤,alta,
+ASK-SUS-0960,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤,alta,
+ASK-SUS-0961,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤,alta,
+ASK-SUS-0962,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤,alta,
+ASK-SUS-0963,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤,alta,
+ASK-SUS-0964,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤,alta,
+ASK-SUS-0965,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤,alta,
+ASK-SUS-0966,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤,alta,
+ASK-SUS-0967,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤,alta,
+ASK-SUS-0968,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤,alta,
+ASK-SUS-0969,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤,alta,
+ASK-SUS-0970,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤,alta,
+ASK-SUS-0971,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤,alta,
+ASK-SUS-0972,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0973,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0974,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0975,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0976,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0977,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0978,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0979,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0980,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0981,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0982,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0983,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0984,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0985,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,💬,media,
+ASK-SUS-0986,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0987,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0988,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0989,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0990,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0991,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0992,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0993,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0994,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0995,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-0996,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0997,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0998,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-0999,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1063,no,no,no,3D,mango,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ ↑○,alta,
+ASK-SUS-1064,no,no,no,3D,mango,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○ ↑○,alta,
+ASK-SUS-1065,no,no,no,3D,mango,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ ↑○,alta,
+ASK-SUS-1066,no,no,no,3D,mango,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ ↑○,alta,
+ASK-SUS-1067,no,no,no,3D,mango,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ ↑○,alta,
+ASK-SUS-1068,no,no,no,3D,mango,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ ↑○,alta,
+ASK-SUS-1069,no,no,no,1D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,↑,alta,
+ASK-SUS-1070,no,no,no,1D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,↑ ✂,alta,
+ASK-SUS-1071,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-1072,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-1073,no,no,no,3D,mango,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ ↑○,alta,
+ASK-SUS-1074,no,no,no,3D,mango,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ ↑○,alta,
+ASK-SUS-1075,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-1076,no,no,no,3D,mango,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ ↑○,alta,
+ASK-SUS-1077,no,no,no,3D,mango,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○ ↑○,alta,
+ASK-SUS-1078,no,no,no,1D,mango,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,↑ ↑○,alta,
+ASK-SUS-1079,no,no,no,3D,mango,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ ↑○,alta,
+ASK-SUS-1080,no,no,no,3D,mango,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ ↑○,alta,
+ASK-SUS-1081,no,no,no,3D,mango,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ ↑○,alta,
+ASK-SUS-1082,no,no,no,3D,mango,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ ↑○,alta,
+ASK-SUS-1083,no,no,no,1D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,↑ ✂,alta,
+ASK-SUS-1084,no,no,no,1D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,↑ ✂,alta,
+ASK-SUS-1085,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-1086,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,〰 ■,alta,
+ASK-SUS-1087,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-1088,no,no,no,1D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,↑ 〜,alta,
+ASK-SUS-1089,no,no,no,1D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,↑,alta,
+ASK-SUS-1090,no,no,no,1D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,↑ 〜,alta,
+ASK-SUS-1091,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,tubular,N/A,N/A,○ ○◇,alta,
+ASK-SUS-1092,no,no,no,3D,mango,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ ↑○,alta,
+ASK-SUS-1093,no,no,no,1D,mango,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,↑ ↑○,alta,
+ASK-SUS-1094,no,no,no,3D,vehiculo,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ 🚶○,alta,
+ASK-SUS-1095,no,no,no,3D,mango,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ ↑○,alta,
+ASK-SUS-1096,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-1097,no,no,no,3D,mango,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ ↑○,alta,
+ASK-SUS-1098,no,no,no,3D,mango,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○ ↑○,alta,
+ASK-SUS-1099,no,no,no,3D,mango,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,par,par,●● ● 👤●● ○ ↑○,alta,
+ASK-SUS-1100,no,no,no,3D,mango,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ ↑○,alta,
+ASK-SUS-1101,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,〰 ■,alta,
+ASK-SUS-1102,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-1103,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,〰 ■,alta,
+ASK-SUS-1104,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,〰 ■,alta,
+ASK-SUS-1105,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,〰 ■,alta,
+ASK-SUS-1106,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,abovedado,N/A,N/A,○ ⌒,alta,
+ASK-SUS-1107,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-1108,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,〰 ■,alta,
+ASK-SUS-1109,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,〰 ■,alta,
+ASK-SUS-1110,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,〰 ■,alta,
+ASK-SUS-1111,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,〰 ■,alta,
+ASK-SUS-1112,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,〰 ■,alta,
+ASK-SUS-1113,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,〰 ■,alta,
+ASK-SUS-1114,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-1115,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,〰 ■,alta,
+ASK-SUS-1116,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-1117,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-1118,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,〰 ■,alta,
+ASK-SUS-1119,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,〰 ■,alta,
+ASK-SUS-1120,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-1121,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-1122,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,〰 ■,alta,
+ASK-SUS-1123,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-1124,no,no,no,3D,mango,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,abovedado,N/A,N/A,○ ⌒ ↑○,alta,
+ASK-SUS-1125,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-1126,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,〰 ■,alta,
+ASK-SUS-1127,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,〰 ■,alta,
+ASK-SUS-1128,no,no,no,2D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,〰 ■,alta,
+ASK-SUS-1129,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1130,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,💬,media,
+ASK-SUS-1131,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1132,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤,alta,
+ASK-SUS-1133,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1134,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1135,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1136,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1137,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1138,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1139,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1140,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1141,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1142,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1143,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1144,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1145,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1146,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1147,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1148,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1149,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,💬,media,
+ASK-SUS-1150,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1151,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,💬,media,
+ASK-SUS-1152,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1153,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1154,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1155,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1156,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1157,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1158,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1159,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1160,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1161,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1162,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1163,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1164,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1165,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1166,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1167,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1168,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1169,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1170,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1171,si,no,no,N/A,N/A,N/A,N/A,terrestre,carne,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🍽🐾 🐾↑,alta,
+ASK-SUS-1172,si,no,no,N/A,N/A,N/A,N/A,terrestre,carne,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🍽🐾 🐾🌱 🐾↑ ♥,alta,
+ASK-SUS-1173,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1174,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1175,si,no,no,N/A,N/A,N/A,N/A,acuatico,carne,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🍽🐾 🐾💧,alta,
+ASK-SUS-1176,si,no,no,N/A,N/A,N/A,N/A,acuatico,carne,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🍽🐾 🐾💧,alta,
+ASK-SUS-1177,si,no,no,N/A,N/A,N/A,N/A,acuatico,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾💧,alta,
+ASK-SUS-1178,si,no,no,N/A,N/A,N/A,N/A,acuatico,carne,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🍽🐾 🐾💧,alta,
+ASK-SUS-1179,si,no,no,N/A,N/A,N/A,N/A,acuatico,carne,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🍽🐾 🐾💧,alta,
+ASK-SUS-1180,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1181,si,no,no,N/A,N/A,N/A,N/A,acuatico,carne,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🍽🐾 🐾💧,alta,
+ASK-SUS-1182,si,no,no,N/A,N/A,N/A,N/A,acuatico,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾💧,alta,
+ASK-SUS-1183,si,no,no,N/A,N/A,N/A,N/A,acuatico,carne,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🍽🐾 🐾💧,alta,
+ASK-SUS-1184,si,no,no,N/A,N/A,N/A,N/A,acuatico,carne,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🍽🐾 🐾💧,alta,
+ASK-SUS-1185,si,no,no,N/A,N/A,N/A,N/A,acuatico,carne,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🍽🐾 🐾💧,alta,
+ASK-SUS-1186,si,no,no,N/A,N/A,N/A,N/A,acuatico,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾💧,alta,
+ASK-SUS-1187,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1188,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1189,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1190,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1191,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1192,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1193,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1194,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1195,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1196,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1197,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1198,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1199,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1200,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1201,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1202,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1203,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1204,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1205,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1206,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1207,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1208,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1209,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1210,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1211,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1212,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1213,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1214,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1215,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1216,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾🌱 🐾↑,alta,
+ASK-SUS-1217,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾🌱 🐾↑,alta,
+ASK-SUS-1218,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾🌱 🐾↑,alta,
+ASK-SUS-1219,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾🌱 🐾↑,alta,
+ASK-SUS-1220,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾🌱 🐾↑,alta,
+ASK-SUS-1221,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1222,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾🌱 🐾↑,alta,
+ASK-SUS-1223,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾🌱 🐾↑,alta,
+ASK-SUS-1224,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾↑,alta,
+ASK-SUS-1225,si,no,no,N/A,N/A,N/A,N/A,acuatico,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾💧 🐾🌱,alta,
+ASK-SUS-1226,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1227,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾↑,alta,
+ASK-SUS-1228,si,no,no,N/A,N/A,N/A,N/A,terrestre,carne,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🍽🐾 🐾🌱 🐾↑,alta,
+ASK-SUS-1229,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾🌱 🐾↑,alta,
+ASK-SUS-1230,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾🌱 🐾↑ ♥,alta,
+ASK-SUS-1231,si,no,no,N/A,N/A,N/A,N/A,acuatico,no,si,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾💧 🐾↑ ↑ ⊘⚡,alta,
+ASK-SUS-1232,si,no,no,N/A,N/A,N/A,N/A,acuatico,no,si,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾💧 ⊘⚡,alta,
+ASK-SUS-1233,si,no,no,N/A,N/A,N/A,N/A,acuatico,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾💧,alta,
+ASK-SUS-1234,si,no,no,N/A,N/A,N/A,N/A,acuatico,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾💧,alta,
+ASK-SUS-1235,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾↑,alta,
+ASK-SUS-1236,si,no,no,N/A,N/A,N/A,N/A,acuatico,no,si,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾💧 ⊘⚡,alta,
+ASK-SUS-1237,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-1238,no,no,no,3D,N/A,denso,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,● ○,alta,
+ASK-SUS-1239,si,no,no,N/A,N/A,N/A,N/A,acuatico,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾💧,alta,
+ASK-SUS-1240,si,no,no,N/A,N/A,N/A,N/A,acuatico,no,si,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾💧 🐾↑ ⊘⚡,alta,
+ASK-SUS-1241,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾↑,alta,
+ASK-SUS-1242,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾↑,alta,
+ASK-SUS-1243,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾↑,alta,
+ASK-SUS-1244,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,si,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾↑ ⊘⚡,alta,
+ASK-SUS-1245,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,si,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾↑ ⊘⚡,alta,
+ASK-SUS-1246,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,si,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾🌱 🐾↑ ↓ ⊘⚡,alta,
+ASK-SUS-1247,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,si,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾🌱 🐾↑ ↓ ⊘⚡,alta,
+ASK-SUS-1248,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,si,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾🌱 🐾↑ ⊘⚡,alta,
+ASK-SUS-1249,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾🌱 🐾↑ ↓,alta,
+ASK-SUS-1250,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾🌱 🐾↑,alta,
+ASK-SUS-1251,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾🌱 🐾↑,alta,
+ASK-SUS-1252,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾🌱 🐾↑,alta,
+ASK-SUS-1253,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾🌱 🐾↑ ↓,alta,
+ASK-SUS-1254,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾🌱 🐾↑ ↓,alta,
+ASK-SUS-1255,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾🌱 🐾↑ ↓,alta,
+ASK-SUS-1256,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾🌱 🐾↑ ↓,alta,
+ASK-SUS-1257,si,no,no,N/A,N/A,N/A,N/A,terrestre,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾🌱 🐾↑,alta,
+ASK-SUS-1258,si,no,no,N/A,N/A,N/A,N/A,acuatico,carne,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🍽🐾 🐾💧 🐾🌱 ↓,alta,
+ASK-SUS-1259,si,no,no,N/A,N/A,N/A,N/A,acuatico,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾💧 🐾🌱 ↓,alta,
+ASK-SUS-1260,si,no,no,N/A,N/A,N/A,N/A,acuatico,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🐾 🐾💧 🐾🌱 ↓,alta,
+ASK-SUS-1261,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-1262,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1263,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-1264,no,no,no,3D,vehiculo,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ 🚶○,alta,
+ASK-SUS-1265,no,no,no,3D,vehiculo,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ 🚶○,alta,
+ASK-SUS-1266,no,no,no,3D,vehiculo,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ 🚶○,alta,
+ASK-SUS-1267,no,no,no,3D,vehiculo,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ 🚶○,alta,
+ASK-SUS-1268,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-1269,no,no,no,3D,vehiculo,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,esferico_artificial,N/A,N/A,○ ○↓ 🚶○,alta,
+ASK-SUS-1270,no,no,no,3D,vehiculo,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ 🚶○,alta,
+ASK-SUS-1271,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-1272,no,no,no,3D,vehiculo,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ 🚶○,alta,
+ASK-SUS-1273,no,no,no,3D,vehiculo,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ 🚶○,alta,
+ASK-SUS-1274,no,no,no,3D,vehiculo,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ 🚶○,alta,
+ASK-SUS-1275,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-1276,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-1277,no,no,no,3D,vehiculo,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ 🚶○,alta,
+ASK-SUS-1278,no,no,no,3D,vehiculo,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○ 🚶○,alta,
+ASK-SUS-1279,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-1280,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-1281,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-1282,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-1283,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-1284,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1285,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1286,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1287,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1288,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1289,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1290,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1291,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1292,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,⏳ ⏳●,media,
+ASK-SUS-1293,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1294,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1295,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1296,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1297,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1298,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1299,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1300,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,⏳ ⏳●,media,
+ASK-SUS-1301,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1302,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1303,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1304,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1305,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1306,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1307,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1308,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,⏳ ⏳●,media,
+ASK-SUS-1309,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-1310,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1311,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,⏳ ⏳●,media,
+ASK-SUS-1312,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,⏳ ⏳●,media,
+ASK-SUS-1313,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1314,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,⏳ ⏳●,media,
+ASK-SUS-1340,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,💬,media,
+ASK-SUS-1341,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1342,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1343,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,💬,media,
+ASK-SUS-1344,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,💬,media,
+ASK-SUS-1345,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1346,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1347,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1348,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1349,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1350,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1351,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1352,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,💬,media,
+ASK-SUS-1353,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1354,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1355,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1356,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1357,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1358,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,💬,media,
+ASK-SUS-1359,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1360,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-1361,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-1362,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,tubular,N/A,N/A,○ ○◇,alta,
+ASK-SUS-1363,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,tubular,N/A,N/A,○ ○◇,alta,
+ASK-SUS-1364,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,tubular,N/A,N/A,○ ○◇,alta,
+ASK-SUS-1365,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,tubular,N/A,N/A,○ ○◇,alta,
+ASK-SUS-1366,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,tubular,N/A,N/A,○ ○◇,alta,
+ASK-SUS-1367,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,tubular,N/A,N/A,○ ○◇,alta,
+ASK-SUS-1368,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,tubular,N/A,N/A,○ ○◇,alta,
+ASK-SUS-1369,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-1370,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-1371,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-1372,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-1373,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-1374,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-1375,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-1376,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1377,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1378,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1379,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1380,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1381,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1382,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1383,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1384,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1385,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1386,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1387,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1388,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1389,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1390,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1391,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1392,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜 👤✦,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1393,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,si,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜 👤✦,media,
+ASK-SUS-1394,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,si,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜 👤✦,media,
+ASK-SUS-1395,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,si,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜 👤✦,media,
+ASK-SUS-1396,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,si,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜 👤✦,media,
+ASK-SUS-1397,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,si,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜 👤✦,media,
+ASK-SUS-1398,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1399,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1400,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,💬,media,
+ASK-SUS-1401,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1402,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,si,N/A,N/A,no,no,N/A,N/A,N/A,⏳ ⏳● 👤✦,media,
+ASK-SUS-1403,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,si,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜 👤✦,media,
+ASK-SUS-1404,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,si,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜 👤✦,media,
+ASK-SUS-1405,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,si,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜 👤✦,media,
+ASK-SUS-1406,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1407,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-1408,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1409,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,si,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜 👤✦,media,
+ASK-SUS-1410,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1411,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1412,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1413,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1414,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1415,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1416,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1417,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠,media,
+ASK-SUS-1418,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1419,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1420,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1421,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1422,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1423,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1424,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1425,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1426,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1427,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1428,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1429,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1430,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,⏳ ⏳●,media,
+ASK-SUS-1431,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,media,
+ASK-SUS-1432,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,🧠〜,baja,caso pendiente: sin senal lexical para el nucleo universal
+ASK-SUS-1439,no,no,si,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,⏳ ⏳●,media,
+ASK-SUS-1440,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-1441,si,si,no,N/A,N/A,N/A,N/A,N/A,no,no,no,comun,N/A,no,no,N/A,N/A,N/A,👤,alta,
+ASK-SUS-ENTO-0,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-ENTO-1,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-ENTO-2,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,baja,pendiente: dimensionalidad no determinable por reglas; caso pendiente: sin senal lexical para el nucleo universal; dimensionalidad indeterminada
+ASK-SUS-ENTO-3,no,no,no,3D,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,○,alta,
+ASK-SUS-ENTO-4,no,no,no,N/A,N/A,N/A,N/A,N/A,no,no,no,N/A,N/A,no,no,N/A,N/A,N/A,◇,media,pendiente: dimensionalidad no determinable por reglas; dimensionalidad indeterminada

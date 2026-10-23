@@ -1,1 +1,3 @@
-*.bak_*
+sintesio.db.bak-*
+sintesio_grafo.dot
+sintesio_matriz.csv
