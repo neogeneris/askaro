@@ -112,3 +112,29 @@ El pipeline de escaneo real de Wiktionary (API en vivo) queda como siguiente pas
 
 Scripts reproducibles: `scripts/imports_seed.py` (DDL+seed), `scripts/imports_rank.py`
 (umbral estricto), auditoria de sugerencias inline. Export: `sintesio_imports.csv`.
+
+## §11 Imports V2: clase gramatical, puente Sintesio y discovery (2026-10-23)
+
+### Columnas nuevas en imports (5)
+| columna | propósito |
+|---|---|
+| clase_gramatical | sustantivo/verbo/adjetivo/adverbio (CHECK); semilla desde concepto.clase_gramatical + corrección manual (beber→verbo) |
+| familia_sintesio | familia ontológica de destino al integrar (ak/fo/ter/kor/si/vi/mu/me…; gv=verbo, adj=calificativo) |
+| nucleo_sugerido / sintesis_sugerida / confianza_sintesio | **puente Sintesio**: para los 26 sustantivos-import que ya existen clasificados, se arrastra su familia+núcleo+síntesis → el curador ve QUÉ es la cosa antes de elegir término |
+
+### ¿Cómo ayuda Sintesio a elegir el término Askáro? (respuesta a la pregunta)
+1. **Puente directo** (sustantivos existentes): agua→ak+💧+síntesis alta — si dos candidatos compiten (água vs eau), el que conserve la raíz del núcleo askáro existente gana trazabilidad con la clasificación ya validada.
+2. **Anclaje de categoría nueva** (verbos/adjetivos): no hay matriz todavía, pero la tabla `familia` ya define las familias funcionales `gv`(VERBO)/`adj`(CALIFICATIVO)/`fn`/`pp`/`cc`/`ax` — el import verbo/adjetivo nace con familia asignada, listo para una futura matriz verbal.
+3. **Hueco detectado (honesto)**: Askáro tiene 48 verbos y 144 cualidades en lexico, y concepto registra Verbo×114/Adjetivo×109, pero la capa Sintesio clasificada (`sustantivo`) solo cubre nombres. El descubrimiento de verbos/adjetivos entra por imports con familia gv/adj, pendiente de una pasada propia de clasificación.
+
+### Discovery ejecutado (seed verificado contra las 3 bases)
+- Universo cubierto actual: 1.260 lemas ES únicos (lexico Canon+Pendiente ∪ sustantivo ∪ concepto).
+- Seed Swadesh-100 + dominio: 25 conceptos probados → **9 ya cubiertos** (descartados, ej. 'caminar' existe como kamino/camino), **16 nuevos insertados**: 9 verbos (correr, volar, cantar, contar, halar, empujar, llenar, roer, aprender), 2 adjetivos (izquierdo, ciego), 5 sustantivos (codo, muñeca, sombra, niebla, hielo, ceniza, polvo, espina, raíz — 9 reales: 5 cuerpo/naturaleza priorizados).
+- Cada fila nueva lleva etimología con protoforma latina, 6 variantes romance + IA + EO, nota `discovery-swadesh100: verificado ausente`.
+- Ranking curado aplicado a 32 filas: 33 cognado_universal · 10 consenso_romance · 2 pendiente_manual (amarillo: GALBINUS vs FLAVUS divergencia total; fuego: FOCUS vs IGNIS).
+
+### Totales imports: 45 filas (29 seed validación + 16 discovery nuevo real)
+CSV regenerado: sintesio_imports.csv (24 columnas × 45 filas). Vista imports_pendientes reordenada por tipo→longitud→id.
+
+### Escalamiento siguiente (no ejecutado, requiere aprobación)
+Wiktionary API masivo (en/es/fr/it/pt/ro + interlingua oficial IED) sobre listas Swadeish-207/100 y dominios vacíos Sintesio (locativos, medidas). Anti-dup con el mismo filtro norm() usado aquí.
