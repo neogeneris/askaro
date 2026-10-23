@@ -165,3 +165,32 @@ dirección inversa; verificar homófonos normalizados antes de cualquier matchin
 - `sintesio_grafo.dot` — 1.721 aristas coloreadas por confianza; 11 nodos sin uso en gris discontinuo
 - `sintesio_arbol.yaml` — 24 nodos
 - `sintesio_reporte.md` — este documento
+
+---
+
+## 9. Gold Standard — Selección de 100 términos (TAREA 1, iteración gold)
+
+**Tabla:** `gold_standard` (separada de la clasificación automática; no la reemplaza, la valida).
+**Estado:** los 100 términos están SELECCIONADOS pero NO clasificados a mano (`clasificado_por='pendiente'`). La curaduría es trabajo del humano/curador.
+**Reproducible con:** `python gold_select_final.py` (semilla fija: ROW_NUMBER por id + random.seed(100)).
+**CSV para curar:** `sintesio_gold.csv` (columnas lista para anotar veredicto del curador).
+
+### Estratificación solicitada y cumplida
+| Estrato | n | Función |
+|---|---|---|
+| media | 40 | candidatos a promoción |
+| baja | 30 | casos que el agente no supo clasificar |
+| alta | 20 | control de bugs |
+| azar (seed=100) | 10 | control de sesgo |
+
+### Diversidad
+- **16 grupos distintos representados** (≥10 requerido): sociedad 13, cuerpo 14, tecnologia 11, naturaleza 9, educacion 8, deporte 8, economia 7, casa 6, nsm 5, geografia 5, comida 4, arte 3, sin-grupo 3, parentesco 2, familia-k 1, abstracto 1.
+- **Máximo por grupo: 14** (≤15 requerido).
+- Mezcla animados/abstractos/inanimados: animados(matriz)=10, abstractos=38, inanimados=52 (en total; por estrato abajo).
+
+### Desviaciones documentadas respecto al enunciado
+1. **Estratos media y baja no contienen NINGÚN sustantivo con animado='si'** en matriz_rasgo (los 131 animados del corpus son todos confianza alta; consecuencia de las pasadas de fauna previas). Para garantizar mezcla de animacidad se incluyeron **5 proxies animales del estrato baja** (káta/gata, gátto/gata, avéso/ave, passéro/gorrion, pengíno/pengüino), marcados en `nota_curador='proxy-animal (matriz dice animado=no)'`. Estos casos son además **detectores de error sistemático**: si el curador confirma que son animados, la heurística de animacidad tiene un bug de asignación de confianza. En el estrato media no existe ni siquiera un candidato animal (0 sustantivos naturaleza/comida en media), por lo que ese estrato queda abstracto/inanimado por construcción — registrado como limitación del muestreo, no forzado.
+2. El enunciado se cortó tras "TAREA 1" (faltan TAREAS 2+). Solo se ejecutó la selección; no se midió tasa de acierto porque aún no hay clasificaciones manuales que comparar.
+
+### Siguiente paso (fuera de esta tarea)
+El curador completa `sintesio_gold.csv` / `gold_standard.clasificado_por`; entonces se calcula la tasa de acierto por estrato y se decide la promoción media→alta término por término (nunca por regla ciega del grafo — ver decisión §8).

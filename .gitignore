@@ -1,3 +1,2 @@
-sintesio.db.bak-*
-sintesio_grafo.dot
-sintesio_matriz.csv
+*.db-shm
+*.db-wal
