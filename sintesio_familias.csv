@@ -1,4 +1,9 @@
 familia,nombre,termino_askaro,espanol,ingles,confianza,metodo
+adj,CALIFICATIVO,amáre,amargo,bitter,0.6,corrección p5 falso positivo substring
+adj,CALIFICATIVO,brun,marron,brown,0.6,corrección p5 falso positivo substring
+adj,CALIFICATIVO,fríde,frio,cold,0.6,corrección p5 falso positivo substring
+adj,CALIFICATIVO,imaginári,imaginario,imaginary,0.6,corrección p5 falso positivo substring
+adj,CALIFICATIVO,nesessaríe,necesario,necessary,0.6,corrección p5 falso positivo substring
 adj,CALIFICATIVO,abérte,abierto,open,0.55,"adjetivo (rasgos, no familia nominal)"
 adj,CALIFICATIVO,antíkve,antiguo,ancient,0.55,"adjetivo (rasgos, no familia nominal)"
 adj,CALIFICATIVO,apérte,abierto,open,0.55,"adjetivo (rasgos, no familia nominal)"
@@ -95,37 +100,9 @@ ak,AGUA,láko,lago,lake,1.0,núcleo manual/ROSETTA
 ak,AGUA,máro,mar,sea,1.0,núcleo manual/ROSETTA
 ak,AGUA,oseáno,oceano,ocean,1.0,núcleo manual/ROSETTA
 ak,AGUA,ákvo,agua,water,1.0,núcleo manual/ROSETTA
-ak,AGUA,amár,amar,love,0.6,keyword «mar»
-ak,AGUA,amáre,amargo,bitter,0.6,keyword «mar»
-ak,AGUA,biankherío,ropa interior,underwear,0.6,keyword «río»
-ak,AGUA,brun,marron,brown,0.6,keyword «mar»
-ak,AGUA,destinatarío,destinatario,recipient,0.6,keyword «río»
-ak,AGUA,emisferío,hemisferio,hemisphere,0.6,keyword «río»
-ak,AGUA,fríde,frio,cold,0.6,keyword «río»
-ak,AGUA,gambéro,camaron,shrimp,0.6,keyword «mar»
-ak,AGUA,giornalísto,periodista,journalist,0.6,keyword «río»
-ak,AGUA,giornálo,periodico,newspaper,0.6,keyword «río»
-ak,AGUA,imaginári,imaginario,imaginary,0.6,keyword «río»
-ak,AGUA,kalamáro,calamar,squid,0.6,keyword «mar»
-ak,AGUA,kaméra,camara,camera,0.6,keyword «mar»
 ak,AGUA,kavallukío,caballito de mar,seahorse,0.6,keyword «mar»
-ak,AGUA,komárko,comarca,county,0.6,keyword «mar»
-ak,AGUA,kvartéro,barrio,neighborhood,0.6,keyword «río»
-ak,AGUA,mardedío,martes,Tuesday,0.6,keyword «mar»
-ak,AGUA,martéllo,martillo,hammer,0.6,keyword «mar»
-ak,AGUA,merkádo,mercado,market,0.6,keyword «mar»
-ak,AGUA,merkáto,mercado,market,0.6,keyword «mar»
-ak,AGUA,nesessaríe,necesario,necessary,0.6,keyword «río»
 ak,AGUA,paragúo,paraguas,umbrella,0.6,keyword «agua»
-ak,AGUA,passéro,gorrion,sparrow,0.6,keyword «río»
 ak,AGUA,pluvío,lluvia,rain,0.6,keyword «lluvia»
-ak,AGUA,salarío,salario,salary,0.6,keyword «río»
-ak,AGUA,skriptorío,escritorio,desk,0.6,keyword «río»
-ak,AGUA,sottomaríno,submarino,submarine,0.6,keyword «mar»
-ak,AGUA,territorío,territorio,territory,0.6,keyword «río»
-ak,AGUA,visináto,vecindario,neighborhood,0.6,keyword «río»
-ak,AGUA,vítro,vidrio,glass,0.6,keyword «río»
-ak,AGUA,ámpo,amperio,ampere,0.6,keyword «río»
 ak,AGUA,báio,bahia,bay,0.55,manual-pase3
 ak,AGUA,strétto,estrecho (accidente geo.),strait,0.55,manual-pase3
 ax,AUXILIAR,cēr,certeza (auxiliar),certainty,0.9,clase funcional
@@ -154,6 +131,7 @@ er,HERRAMIENTA,ekografío,ecografia,ultrasound,0.6,corrección falso positivo p4
 er,HERRAMIENTA,hardwáro,hardware,hardware,0.6,keyword «hardware»
 er,HERRAMIENTA,instruménto,instrumento,instrument,0.6,keyword «instrumento»
 er,HERRAMIENTA,kakiavíto,destornillador,screwdriver,0.6,corrección falso positivo p4
+er,HERRAMIENTA,kaméra,camara,camera,0.6,corrección p5 falso positivo substring
 er,HERRAMIENTA,katéno,cadena,chain,0.6,keyword «cadena»
 er,HERRAMIENTA,khióvo,clavo,nail,0.6,keyword «clavo»
 er,HERRAMIENTA,kolláno,collar,necklace,0.6,keyword «olla»
@@ -163,6 +141,7 @@ er,HERRAMIENTA,kultéllo,cuchillo,knife,0.6,keyword «cuchillo»
 er,HERRAMIENTA,kávo,cable,cable,0.6,keyword «cable»
 er,HERRAMIENTA,kórda,cuerda,rope,0.6,keyword «cuerda»
 er,HERRAMIENTA,lampáno,lampara,lamp,0.6,keyword «lampara»
+er,HERRAMIENTA,martéllo,martillo,hammer,0.6,corrección p5 falso positivo substring
 er,HERRAMIENTA,mesuridóro,metro (instrumento),tape measure,0.6,keyword «instrumento»
 er,HERRAMIENTA,mikrokhípo,chip,chip,0.6,keyword «chip»
 er,HERRAMIENTA,pláto,plato,plate,0.6,keyword «plato»
@@ -182,6 +161,7 @@ er,HERRAMIENTA,sérro,sierra,saw,0.6,keyword «sierra»
 er,HERRAMIENTA,tastiéro,teclado,keyboard,0.6,keyword «teclado»
 er,HERRAMIENTA,telefóno,telefono,telephone,0.6,keyword «telefono»
 er,HERRAMIENTA,torníllo,tornillo,screw,0.6,keyword «tornillo»
+er,HERRAMIENTA,vítro,vidrio,glass,0.6,corrección p5 falso positivo substring
 er,HERRAMIENTA,ágo,aguja,needle,0.6,keyword «aguja»
 er,HERRAMIENTA,óllo,olla,pot,0.6,keyword «olla»
 er,HERRAMIENTA,algorítmo,algoritmo,algorithm,0.55,categoría BD «Tecnologia»
@@ -237,6 +217,7 @@ fo,FUEGO,fulgúro,rayo,lightning,1.0,núcleo manual/ROSETTA
 fo,FUEGO,fógo,fuego,fire,1.0,núcleo manual/ROSETTA
 fo,FUEGO,volkáno,volcan,volcano,1.0,núcleo manual/ROSETTA
 fo,FUEGO,gáso,gas,gas,0.55,manual-pase3
+gv,VERBO,amár,amar,love,0.6,corrección p5 falso positivo substring
 gv,VERBO,adiutár,ayudar,help,0.55,verbo (fuera de familias nominales)
 gv,VERBO,adjutár,ayudar,help,0.55,verbo (fuera de familias nominales)
 gv,VERBO,akendár,encender,"turn on, light",0.55,verbo (fuera de familias nominales)
@@ -376,6 +357,7 @@ ka,CASA,mongolfiéro,globo aerostatico,hot air balloon,0.6,keyword «atico»
 ka,CASA,méso,mesa,table,0.6,keyword «mesa»
 ka,CASA,paviménto,piso,floor,0.6,keyword «piso»
 ka,CASA,pórta,puerta,door,0.6,keyword «puerta»
+ka,CASA,skriptorío,escritorio,desk,0.6,corrección p5 falso positivo substring
 ka,CASA,séllo,silla,chair,0.6,keyword «silla»
 ka,CASA,villágo,aldea,village,0.6,keyword «aldea»
 ka,CASA,abríko,abrigo,coat,0.55,categoría BD «Casa»
@@ -410,6 +392,7 @@ kor,CUERPO,sangúino,sangre,blood,1.0,núcleo manual/ROSETTA
 kor,CUERPO,serébro,cerebro,brain,1.0,núcleo manual/ROSETTA
 kor,CUERPO,stomáko,estomago,stomach,1.0,núcleo manual/ROSETTA
 kor,CUERPO,ungúlo,una,nail,1.0,núcleo manual/ROSETTA
+kor,CUERPO,biankherío,ropa interior,underwear,0.6,corrección p5 falso positivo substring
 kor,CUERPO,búka,boca,mouth,0.6,keyword «boca»
 kor,CUERPO,jekóro,higado,liver,0.6,keyword «higado»
 kor,CUERPO,kordío,corazon,heart,0.6,keyword «corazon»
@@ -482,6 +465,7 @@ me,MENTE,ubénto,Ente Locativo (recinto/espacio de ubicación),,1.0,núcleo manu
 me,MENTE,énto,Entidad / Ente neutro genérico,,1.0,núcleo manual/ROSETTA
 me,MENTE,amarélo,amarillo,yellow,0.6,corrección falso positivo p4
 me,MENTE,indolentío,indolencia,indolence,0.6,corrección falso positivo p4
+me,MENTE,ámpo,amperio,ampere,0.6,corrección p5 falso positivo substring
 me,MENTE,aktóro,actor,actor,0.55,categoría BD «Arte»
 me,MENTE,alégro,alegria,joy,0.55,categoría BD «Emocion»
 me,MENTE,ambivalentío,ambivalencia,ambivalence,0.55,categoría BD «Emocion»
@@ -636,6 +620,7 @@ mu,MOVIMIENTO,móto,moto,motorcycle,0.6,keyword «moto»
 mu,MOVIMIENTO,návo,navio,ship,0.6,keyword «navio»
 mu,MOVIMIENTO,pónto,puente,bridge,0.6,keyword «puente»
 mu,MOVIMIENTO,róto,rueda,wheel,0.6,keyword «rueda»
+mu,MOVIMIENTO,sottomaríno,submarino,submarine,0.6,keyword «mar»
 mu,MOVIMIENTO,to,a (direccion),to,0.6,keyword «direccion»
 mu,MOVIMIENTO,trámo,tranvia,tram,0.6,keyword «via»
 mu,MOVIMIENTO,tréno,tren,train,0.6,keyword «tren»
@@ -777,6 +762,7 @@ si,CIELO,orbíto,orbita,orbit,0.55,manual-pase3
 si,CIELO,vénto,viento,wind,0.55,manual-pase2
 sk,SONIDO,bibliothéko,biblioteca,library,0.6,corrección falso positivo p4
 sk,SONIDO,fláuto,flauta,flute,0.6,keyword «flauta»
+sk,SONIDO,giornálo,periodico,newspaper,0.6,corrección p5 falso positivo substring
 sk,SONIDO,gitárro,guitarra,guitar,0.6,keyword «guitarra»
 sk,SONIDO,intervísto,entrevista,interview,0.6,corrección falso positivo p4
 sk,SONIDO,kansío,cancion,song,0.6,keyword «cancion»
@@ -899,6 +885,7 @@ so,SOCIEDAD,bánko,banco,bank,0.6,keyword «banco»
 so,SOCIEDAD,definisío,definicion,definition,0.6,keyword «tio»
 so,SOCIEDAD,delítto,delito,crime,0.6,keyword «delito»
 so,SOCIEDAD,denarío,dinero,money,0.6,keyword «dinero»
+so,SOCIEDAD,destinatarío,destinatario,recipient,0.6,corrección p5 falso positivo substring
 so,SOCIEDAD,dev,obligacion (auxiliar),obligation,0.6,keyword «tio»
 so,SOCIEDAD,deñéro,dinero,money,0.6,keyword «dinero»
 so,SOCIEDAD,dispréto,desprecio,contempt,0.6,keyword «precio»
@@ -916,6 +903,7 @@ so,SOCIEDAD,funkzío,funcion,function,0.6,keyword «tio»
 so,SOCIEDAD,fíla,hija,daughter,0.6,keyword «hija»
 so,SOCIEDAD,fílo,hijo,son,0.6,keyword «hijo»
 so,SOCIEDAD,giokatóro,jugador,player,0.6,keyword «jugador»
+so,SOCIEDAD,giornalísto,periodista,journalist,0.6,corrección p5 falso positivo substring
 so,SOCIEDAD,gobiérno,gobierno,government,0.6,keyword «gobierno»
 so,SOCIEDAD,govérno,gobierno,government,0.6,keyword «gobierno»
 so,SOCIEDAD,guéra,guerra,war,0.6,keyword «guerra»
@@ -936,14 +924,18 @@ so,SOCIEDAD,juvéne,joven,young,0.6,keyword «joven»
 so,SOCIEDAD,júro,derecho,"right, law",0.6,keyword «derecho»
 so,SOCIEDAD,karséro,carcel,prison,0.6,keyword «carcel»
 so,SOCIEDAD,kommersío,comercio,commerce,0.6,keyword «comercio»
+so,SOCIEDAD,komárko,comarca,county,0.6,corrección p5 falso positivo substring
 so,SOCIEDAD,konstitusío,constitucion,constitution,0.6,keyword «tio»
 so,SOCIEDAD,konsúmo,consumo,consumption,0.6,keyword «tio»
 so,SOCIEDAD,kontrabbásso,contrabajo,double bass,0.6,keyword «trabajo»
 so,SOCIEDAD,koraggíe,valentia,courage,0.6,keyword «tia»
+so,SOCIEDAD,kvartéro,barrio,neighborhood,0.6,corrección p5 falso positivo substring
 so,SOCIEDAD,kvestío,pregunta,question,0.6,keyword «tio»
 so,SOCIEDAD,légo,ley,law,0.6,keyword «ley»
 so,SOCIEDAD,maéstro,maestro,teacher,0.6,keyword «maestro»
 so,SOCIEDAD,medalío,medalla,medal,0.6,keyword «medalla»
+so,SOCIEDAD,merkádo,mercado,market,0.6,corrección p5 falso positivo substring
+so,SOCIEDAD,merkáto,mercado,market,0.6,corrección p5 falso positivo substring
 so,SOCIEDAD,mne,memoria (auxiliar),evidential memoria,0.6,keyword «tia»
 so,SOCIEDAD,monéto,moneda,currency,0.6,keyword «moneda»
 so,SOCIEDAD,mátro,madre,mother,0.6,keyword «madre»
@@ -969,6 +961,7 @@ so,SOCIEDAD,risétto,receta,prescription,0.6,keyword «tio»
 so,SOCIEDAD,rivolusío,revolucion,revolution,0.6,keyword «tio»
 so,SOCIEDAD,ro,rey,king,0.6,keyword «rey»
 so,SOCIEDAD,ríto,rito,rite,0.6,keyword «rito»
+so,SOCIEDAD,salarío,salario,salary,0.6,corrección p5 falso positivo substring
 so,SOCIEDAD,serimonío,ceremonia,ceremony,0.6,keyword «ceremonia»
 so,SOCIEDAD,sivilisasío,civilizacion,civilization,0.6,keyword «tio»
 so,SOCIEDAD,sivitáno,ciudadano,citizen,0.6,keyword «ciudadano»
@@ -977,12 +970,14 @@ so,SOCIEDAD,skriptóro,escritor,writer,0.6,keyword «rito»
 so,SOCIEDAD,sobríno,sobrino,nephew,0.6,keyword «sobrino»
 so,SOCIEDAD,soróro,hermana,sister,0.6,keyword «hermana»
 so,SOCIEDAD,spórto,deporte,sport,0.6,keyword «deporte»
+so,SOCIEDAD,territorío,territorio,territory,0.6,corrección p5 falso positivo substring
 so,SOCIEDAD,tradisío,tradicion,tradition,0.6,keyword «tio»
 so,SOCIEDAD,transakzío,transaccion,transaction,0.6,keyword «tio»
 so,SOCIEDAD,trisávo,tatarabuelo,great-great-grandfather,0.6,keyword «abuelo»
 so,SOCIEDAD,témplo,templo,temple,0.6,keyword «templo»
 so,SOCIEDAD,tía,tia,aunt,0.6,keyword «tia»
 so,SOCIEDAD,universitáto,universidad,university,0.6,keyword «universidad»
+so,SOCIEDAD,visináto,vecindario,neighborhood,0.6,corrección p5 falso positivo substring
 so,SOCIEDAD,vol,volicion (auxiliar),volition,0.6,keyword «tio»
 so,SOCIEDAD,váto,vatio,watt,0.6,keyword «tio»
 so,SOCIEDAD,vólto,voltio,volt,0.6,keyword «tio»
@@ -1158,6 +1153,7 @@ tem,TIEMPO,estasío,estacion,station,0.6,keyword «estacion»
 tem,TIEMPO,eternitáto,eternidad,eternity,0.6,keyword «eternidad»
 tem,TIEMPO,invidío,envidia,envy,0.6,keyword «dia»
 tem,TIEMPO,komeddío,comedia,comedy,0.6,keyword «dia»
+tem,TIEMPO,mardedío,martes,Tuesday,0.6,corrección p5 falso positivo substring
 tem,TIEMPO,melodío,melodia,melody,0.6,keyword «dia»
 tem,TIEMPO,messagío,mensaje,message,0.6,keyword «mes»
 tem,TIEMPO,passáto,pasado,past,0.6,keyword «pasado»
@@ -1197,6 +1193,7 @@ ter,TIERRA,resífo,arrecife,reef,1.0,núcleo manual/ROSETTA
 ter,TIERRA,rúpo,acantilado,cliff,1.0,núcleo manual/ROSETTA
 ter,TIERRA,térro,tierra,"earth, land",1.0,núcleo manual/ROSETTA
 ter,TIERRA,vétro,vidrio,glass,1.0,núcleo manual/ROSETTA
+ter,TIERRA,emisferío,hemisferio,hemisphere,0.6,corrección p5 falso positivo substring
 ter,TIERRA,ferrovío,ferrocarril,railway,0.6,keyword «roca»
 ter,TIERRA,féro,hierro,iron,0.6,keyword «hierro»
 ter,TIERRA,férro,hierro,iron,0.6,keyword «hierro»
@@ -1304,10 +1301,12 @@ vi,VIDA,famóse,famoso,famous,0.6,keyword «oso»
 vi,VIDA,filosófo,filosofo,philosopher,0.6,keyword «oso»
 vi,VIDA,florarío,florero,vase,0.6,keyword «flor»
 vi,VIDA,gallíno,gallina,hen,0.6,keyword «gallina»
+vi,VIDA,gambéro,camaron,shrimp,0.6,animal marino -> VIDA
 vi,VIDA,gravitáto,gravedad,gravity,0.6,keyword «ave»
 vi,VIDA,gravíta,gravedad,gravity,0.6,keyword «ave»
 vi,VIDA,gállo,gallo,rooster,0.6,keyword «gallo»
 vi,VIDA,habér,tener,have,0.6,keyword «ave»
+vi,VIDA,kalamáro,calamar,squid,0.6,animal marino -> VIDA
 vi,VIDA,kalzíno,calcetin,sock,0.6,keyword «alce»
 vi,VIDA,kamossío,venado,venison,0.6,keyword «venado»
 vi,VIDA,krimíno,crimen,crime (grave),0.6,keyword «ave»
@@ -1315,6 +1314,7 @@ vi,VIDA,káno,perro,dog,0.6,keyword «perro»
 vi,VIDA,kátto,gato,cat,0.6,keyword «gato»
 vi,VIDA,lúpo,lobo,wolf,0.6,keyword «lobo»
 vi,VIDA,ovíno,oveja,sheep,0.6,keyword «oveja»
+vi,VIDA,passéro,gorrion,sparrow,0.6,animal marino -> VIDA
 vi,VIDA,perikulóse,peligroso,dangerous,0.6,keyword «oso»
 vi,VIDA,philosophío,filosofia,philosophy,0.6,keyword «oso»
 vi,VIDA,philosóphro,filosofo,philosopher,0.6,keyword «oso»
