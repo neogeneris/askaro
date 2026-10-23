@@ -1,0 +1,49 @@
+arbol_decision:
+  - nodo: 145 (raiz)
+    etiqueta: "¿Es animado?"
+    - nodo: 146 (si)
+      etiqueta: "¿Es humano?"
+      - nodo: 147 (hoja)
+        modificador: anim_persona
+    - nodo: 148 (no)
+      etiqueta: "¿Es humano?"
+      - nodo: 149 (hoja)
+        modificador: anim_animal
+    - nodo: 150 (si)
+      etiqueta: "¿Es abstracto?"
+      - nodo: 151 (hoja)
+        modificador: abs_mental
+      - nodo: 152 (hoja)
+        modificador: abs_comun
+      - nodo: 153 (hoja)
+        modificador: abs_temporal
+      - nodo: 154 (hoja)
+        modificador: abs_extendido
+    - nodo: 155 (no)
+      etiqueta: "¿Es abstracto?"
+      - nodo: 156 (1D)
+        etiqueta: "¿Dimensionalidad?"
+        - nodo: 157 (hoja)
+          modificador: dim_1d
+        - nodo: 158 (hoja)
+          modificador: dim_1d_fil
+        - nodo: 159 (hoja)
+          modificador: dim_1d_pun
+      - nodo: 160 (2D)
+        etiqueta: "¿Dimensionalidad?"
+        - nodo: 161 (hoja)
+          modificador: dim_2d
+      - nodo: 162 (3D)
+        etiqueta: "¿Dimensionalidad?"
+        - nodo: 163 (hoja)
+          modificador: dim_3d
+        - nodo: 164 (hoja)
+          modificador: dim_3d_tub
+        - nodo: 165 (hoja)
+          modificador: dim_3d_abo
+        - nodo: 166 (hoja)
+          modificador: dim_3d_olla
+        - nodo: 167 (sub-eje)
+          etiqueta: ""
+    - nodo: 168 (default)
+      modificador: anim_cosa
