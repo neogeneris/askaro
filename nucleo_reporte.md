@@ -239,3 +239,19 @@ y→i, tilde explícito ≥2 vocales):
 con nota para decisión manual. Igualdad exacta de raíz: 0. Auto-colisiones internas: 0.
 
 **Totales:** imports 89 · auto-glifo 44 · con glifo 44 · integrity ok.
+
+## §16 Excepción -a: banca (aprobada por el usuario)
+
+- Regla general: sustantivos inanimados terminan en **-o** (neutralización de género).
+- **Excepción registrada:** `banca` (entidad financiera) → raíz `bank` + desinencia `-a`,
+  genero='excepcion_femenina', forma_tonica 'bánca'. Justificación: contraste funcional con
+  `bánko` (asiento), que conserva la regla -o. El doblete semántico del español
+  (banco/banca, ambos < lat. BANCA/*bankaz) se resuelve morfológicamente, no léxicamente.
+- CHECK de imports_forma.genero ampliado con valor 'excepcion_femenina' (tabla recreada
+  preservando datos; backup previo: sintesio.db.bak-prepoda-banca).
+- Verificación: conflictos_rais = 0 filas; 'bank' no colisiona con 'bánko' (raíces distintas).
+- Nota de proceso honesta: durante la recreación de la tabla, la vista conflictos_rais se
+  perdió momentáneamente (referencia rota al DROP); fue restaurada desde el backup. Las
+  vistas imports_pendientes/imports_revision* nunca dependieron de imports_forma y no se afectaron.
+- Futuros candidatos a esta excepción: solo si el usuario aprueba un contraste funcional
+  paralelo; lo contrario sigue siendo -o o femenino_biológico (-a).
