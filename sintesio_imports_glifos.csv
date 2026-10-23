@@ -1,0 +1,107 @@
+id,glifo,espanol,raiz,desinencia,forma_completa,criterio,etimologia,estado
+30,,luz,lus,-o,lúso,lúsoo,cognado_universal,"lat. LUCE(M), abl. de LUX 'luz'. Neolatino: it./pt./es. conservan forma directa; fr./ro. cultismos.",propuesta
+31,,noche,nokt,-o,nókto,nóktoo,esperanto_prestamo,lat. NOCTEM. Neolatino directo en es/pt/it/IL; fr/ro con fonetica divergente.,propuesta
+32,,agua,agu,-a,agúa,agúaa,cognado_universal,lat. AQUAM. Es/pt con perdida de /k/; ro reducido a apă; fr eau muy alterado.,propuesta
+33,,fuego,fog,-o,fógo,fógoo,latin_vivo,"lat. FOCUS 'hoguera' (no IGNIS). Difusion romanica por metonimia; fr feu, it fuoco, pt fogo, ro foc.",propuesta
+34,,tierra,terr,-o,térro,térroo,latin_vivo,lat. TERRAM. Conservacion total en it/pt/IL; es tierra con palatalizacion; ro tară.,propuesta
+35,,mar,mar,-o,máro,mároo,cognado_universal,"lat. MARE. Invariado en es/pt (mar), it/ro/IL (mare); fr mer.",propuesta
+36,,sol,sol,-o,sólo,sóloo,cognado_universal,"lat. SOLE(M). Es/pt/IL sol directos; it sole, fr soleil, ro soare derivados.",propuesta
+37,,luna,lun,-o,lúno,lúnoo,cognado_universal,lat. LUNA(M). Totalmente invariado excepto pt lua y fr lune.,propuesta
+38,,piedra,pedr,-o,pédro,pédroo,latin_vivo,lat. PETRA(M) (no LAPIS). Base romanica uniforme.,propuesta
+39,,camino,kamin,-o,kamíno,kamínoo,cognado_universal,lat. CAMINUS 'sendero' (origen celta?). It/pt/es conservan; fr chemin; ro drum es germanico.,propuesta
+40,,comer,kom,-êr,komêr,komêrêr,esperanto_prestamo,lat. COMEDERE (es/pt) vs MANDUCARE (resto). Doble herencia romanica.,propuesta
+41,,beber,bib,-êr,bibêr,bibêrêr,reconstruccion_latina,"lat. BIBERE. Raiz BIB- estable en es/pt/it/IL; fr boire, ro bea.",propuesta
+42,,casa,dom,-o,dómo,dómoo,pendiente_manual,lat. CASA(M). Invariado en es/it/pt/ro/IL; fr maison < MANSIONE.,propuesta
+43,,puerta,port,-o,pórto,pórtoo,latin_vivo,lat. PORTA(M). Conservada en it/pt/IL/fr-porte; es puerta con diptongo; ro usu < OSTIUM.,propuesta
+44,,ventana,ventan,-o,ventáno,ventánoo,consenso_mayoritario,"lat. FENISTRA. It finestra, IL fenestra; es ventana < *WINITIANA?, pt janela < GENUA.",propuesta
+45,,rey,rei,-o,reío,reíoo,consenso_mayoritario,lat. REGE(M). Directo en es/pt/it(re)/IL/ro; fr roi.,propuesta
+46,,reina,rein,-a,reína,reínaa,cognado_universal,"lat. REGINA(M). It/ro/IL regina; es reina, pt rainha, fr reine por fonetica.",propuesta
+47,,guerra,gerr,-o,gérro,gérroo,cognado_universal,germ. WERRA/'guerra' via franco. Es/it/pt/fr guerra; ro razboi eslavon.,propuesta
+48,,paz,pas,-o,páso,pásoo,cognado_universal,lat. PACE(M). Es/pt paz; it/ro/IL pace; fr paix.,propuesta
+49,,amor,amor,-o,amóro,amóroo,latin_vivo,lat. AMORE(M). Practicamente identico en 5/6 lenguas.,propuesta
+50,,odio,odi,-o,odío,odíoo,latin_vivo,"lat. ODIUM. It/pt/es/IL odio; fr haine (< *BAINIRE), ro ură dác.",propuesta
+51,,libertad,libertad,-o,libertádo,libertádoo,cognado_universal,lat. LIBERTATE(M). Derivado regular en todo el dominio.,propuesta
+52,,verdad,verité,-o,veritéo,veritéoo,cognado_universal,lat. VERITATE(M). Es/it/pt/IL con VER-; ro adevăr con AD- (ad+văr<VERUM).,propuesta
+53,,justicia,justis,-o,justíso,justísoo,cognado_universal,lat. JUSTITIA(M). Regular en todo el dominio.,propuesta
+54,,ciudad,sité,-o,sitéo,sitéoo,consenso_mayoritario,"lat. CIVITATE(M). Es/pt/it/fr derivados; fr cité, it città reducidos; oras hungaro-eslavo.",propuesta
+55,,historia,stori,-o,storío,storíoo,latin_vivo,gr. HISTORIA via lat. HISTORIA. Casi universal; fr histoire con afesis.,propuesta
+56,,música,músik,-o,músiko,músikoo,cognado_universal,lat. MUSICA < gr. MOUSIKE. Universal con adaptaciones foneticas.,propuesta
+57,,escuela,eskol,-o,eskólo,eskóloo,cognado_universal,"lat. SCHOLA < gr. SKHOE. Es escuela, pt escola, it scuola, fr ecole, ro scoala.",propuesta
+58,,carta,kart,-o,kárto,kártoo,cognado_universal,lat. CHARTA < gr. KHARTES. Identico en 5/6.,propuesta
+59,,correr,kor,-êr,korêr,korêrêr,cognado_universal,lat. CURRE(RE),propuesta
+60,,volar,vol,-âr,volâr,volârâr,cognado_universal,lat. VOLARE,propuesta
+61,,cantar,kant,-âr,kantâr,kantârâr,reconstruccion_latina,lat. CANTARE (frec. de canere),propuesta
+62,,contar,kont,-âr,kontâr,kontârâr,reconstruccion_latina,lat. COMPUTARE,propuesta
+63,,halar,tir,-âr,tirâr,tirârâr,consenso_mayoritario,"lat. VIRARE/TIRARE (romance innovador, cognado fr/it/pt/es)",propuesta
+64,,empujar,puls,-âr,pulsâr,pulsârâr,cognado_universal,lat. PULSARE (freq. de pellere),propuesta
+65,,llenar,plen,-êr,plenêr,plenêrêr,consenso_mayoritario,lat. IMPLERE,propuesta
+66,,roer,rod,-êr,rodêr,rodêrêr,cognado_universal,lat. RODERE,propuesta
+67,,aprender,impar,-êr,imparêr,imparêrêr,interlingua_prestamo,lat. IMPARARE,propuesta
+68,,izquierdo,sinistr,-e,sinístre,sinístree,consenso_mayoritario,lat. SINISTER — it/ia conservan; es/fr/ro innovaron; cognado parcial,propuesta
+69,,ciego,sek,-e,séke,sékee,cognado_universal,lat. CAECUS — it/es-pt/ia cieco/ciego; fr/ro innovan,propuesta
+70,,codo,kubit,-o,kubíto,kubítoo,cognado_universal,lat. CUBITUS(M) — fr innova (condere); resto conserva,propuesta
+71,,muñeca,pols,-o,pólso,pólsoo,consenso_mayoritario,lat. PULSE(M) — it/ro/ia conservan; es/fr/pt innovan,propuesta
+72,,ceniza,siner,-o,sinéro,sinéroo,cognado_universal,lat. CINIS/CINEREM — es/pt/it/ia conservan; fr/ro innovan,propuesta
+73,,espina,spin,-o,spíno,spínoo,cognado_universal,lat. SPINA(M) — cognado universal (es-pin-a raíz griega! no: lat. SPINA),propuesta
+74,,raíz,radis,-o,radíso,radísoo,cognado_universal,lat. RADICE(M) — es/pt/it/ia/en-radical conservan; fr/ro innovan,propuesta
+75,❄️,nieve,nieve,-o,niéve,niéveo,cognado_universal,"lat. NIVEM; glifo ❄️; fr neige, it neve, pt neve",propuesta
+76,🧊,hielo,ielo,-o,iélo,iéloo,latin_vivo,lat. GELU; glifo 🧊; esp hielo<-IELU; glifo cubito de hielo,propuesta
+77,🏹,arco,arso,-o,árso,ársoo,cognado_universal,"lat. ARCUM; glifo 🏹; fr arc, it arco, ro arc",propuesta
+78,⚓,ancla,ansla,-o,ánsla,ánslao,cognado_universal,lat. ANCORA; glifo ⚓; fr ancre<-ANCORA,propuesta
+79,🪰,mosca,mossa,-o,móssa,móssao,cognado_universal,"lat. MUSCA; glifo 🪰; it mosca, fr mouche<-MUSCA",propuesta
+80,🕷️,araña,araña,-o,aráña,aráñao,consenso_mayoritario,lat. ARANEUM; glifo 🕷️; pt aranha<-ARANE(A); it ragno,propuesta
+81,🕸️,telaraña,telaraña,-o,telaráña,telaráñao,reconstruccion_latina,lat. TELA ARANEI; glifo 🕸️; compuesto TELA+ARANEI,propuesta
+82,🐜,hormiga,ormiga,-o,ormíga,ormígao,latin_vivo,lat. FORMICA; glifo 🐜; it formica<-FORMICA,propuesta
+83,🐝,abeja,abexa,-o,abéxa,abéxao,latin_vivo,lat. APIS; glifo 🐝; lat apis; esp abeja<-AVICULA diminutivo,propuesta
+84,🦋,libélula,libelula,-o,libelúla,libelúlao,latin_vivo,lat. LIBELLULA; glifo 🪰; diminutivo de LIBRA balanza,propuesta
+85,🐌,caracol,sarasol,-o,sarásol,sarásolo,consenso_mayoritario,lat. COCHLEA; glifo 🐌; it chiocciola<-COCLEA; fr escargot germanico,propuesta
+86,🦔,erizo,eriso,-o,eríso,erísoo,latin_vivo,lat. ERITIUS; glifo 🦔; it riccio<-ERITIUS,propuesta
+87,🐁,topo,topo,-o,tópo,tópoo,latin_vivo,lat. TALPA; glifo 🐁; it talpa<-TALPA,propuesta
+88,🦫,castor,sastor,-o,sástor,sástoro,cognado_universal,"lat. CASTOR; glifo 🦫; fr castor, it castoro",propuesta
+89,🦦,nutria,nutria,-a,nutría,nutríaa,latin_vivo,lat. LUTRA; glifo 🦦; lat lutra; femenino biologico -> -a,propuesta
+90,🐇,conejo,sonexo,-o,sonéxo,sonéxoo,latin_vivo,lat. CUNICULUS; glifo 🐇; lat cuniculus; fr lapin dialectal,propuesta
+91,🐿️,marmota,marmota,-o,marmóta,marmótao,latin_vivo,lat. MARMOTA; glifo 🐿️; it marmotta; glifo U+1F43F muestra ardilla: ambiguedad anotada,propuesta
+92,🦬,bisonte,bisonte,-o,bisónte,bisónteo,termino_internacional,"lat. BISON; glifo 🦬; fr bison, en bison",propuesta
+93,🐪,dromedario,dromedario,-o,dromedarío,dromedaríoo,latin_vivo,lat. DROMEDARIUS; glifo 🐪; lat dromedarius,propuesta
+94,🚢,barco,bárk,-a,bárka,bárkaa,,"lat. BARCA (bajolatín, griego méd. bárís)",propuesta
+95,⛵,velero,veliér,-o,veliéro,veliéroo,,lat. VÉLUM (vela) + suf.,propuesta
+96,✈️,avión,ávion,-o,ávion,áviono,,lat. AVIS + ALIO; calco s. XIX,propuesta
+97,🚆,tren,tren,-o,tren,treno,,ingl. train < lat. TRAHĒRE,propuesta
+98,🚲,bicicleta,bisiklét,-a,bisikléta,bisiklétaa,,lat. BIS + CYCLOS (gr.),propuesta
+99,🚗,automóvil,aút,-o,aúto,aútoo,,gr. AUTÓS + lat. MOVERE,propuesta
+100,🚜,tractor,tráktor,-o,tráktor,tráktoro,,lat. TRACTÓRE (trahere),propuesta
+101,💍,anillo,anéll,-o,anéllo,anélloo,,lat. ANNU/LU (annulus),propuesta
+102,🕐,reloj,orologí,-o,orologío,orologíoo,,lat. HOROLOGIU (gr. holo+lego),propuesta
+103,🔨,martillo,martéll,-o,martéllo,martélloo,,lat. MARTHULLU diminutivo de MARCUS? / germ. masc.,propuesta
+104,🪛,destornillador,divélle,-o,divélle,divélleo,,der. lat. VERSARE (turn),propuesta
+105,✂️,tijeras,forsípe,-o,forsípe,forsípeo,,"lat. FÓRCIP (forfex, forficem)",propuesta
+106,🔑,llave,kláve,-o,kláve,kláveo,,lat. CLAVE (clavis),propuesta
+107,🪚,sierra,sérr,-a,sérra,sérraa,,lat. SÉRA? SECTOR?; SEGA germ.,propuesta
+108,🪜,escala,skál,-a,skála,skálaa,,lat. SCALA,propuesta
+109,🎩,sombrero,kappéll,-o,kappéllo,kappélloo,,lat. CAPPPELLU (cappa),propuesta
+110,👞,zapato,sapát,-o,sapáto,sapátoo,,bajo lat. SCARPON-/SAPATELLUM,propuesta
+111,👔,corbata,kravátt,-a,kravátta,kraváttaa,,fr. CRAVATE < cravate (kroat),propuesta
+112,🎸,guitarra,guitárr,-a,guitárra,guitárraa,,esp. guitarra < ár. qīthāra < gr. KITHÁRA,propuesta
+113,🎹,piano,pián,-o,piáno,piánoo,,lat. PLANUS (bajo el nombre pianoforte),propuesta
+114,🥁,tambor,tambúr,-o,tambúro,tambúroo,,fr. TAMBOUR < ár. tunbuor? onomat.,propuesta
+115,🪈,flauta,flaút,-o,flaúto,flaútoo,,fr. FLUTE < occ. flaüt < lat. FLATARE? ,propuesta
+116,🎺,trompeta,trompétt,-a,trompétta,trompéttaa,,germ./gallo. trump-*; onomatopeya,propuesta
+117,🎻,violín,violín,-o,violíno,violínoo,,it. VIOLINO dim. de viola (lat. VITULA?),propuesta
+118,🎤,micrófono,mikrofón,-o,mikrofóno,mikrofónoo,,gr. MIKRÓS + PHŌNĒ,propuesta
+119,,banca,bank,-a,bánca,báncaa,consenso_romance,lat. BANCA 'mesa de cambio' (germ. *bankaz); doblete semantico del espanol: banco (asiento/dinero) vs banca (entidad financiera),propuesta
+120,🏥,hospital,ospital,-o,ospitál,ospitálo,latin_vivo,"lat HOSPITALE > it ospedale, fr hôpital, es/pt hospital; cognado amplio; Askâro neutraliza a -o",propuesta
+121,🏨,hotel,hotel,-o,hotél,hotélo,termino_internacional,fr hôtel < lat HOSPITALE; internacional 'hotel' s. XIX en todas las lenguas; raíz corta universal,propuesta
+122,⛪,iglesia,eglesia,-o,eglésia,eglésiao,consenso_romance,"lat ECCLESIA < gr ekklēsía > es iglesia, pt igreja, it chiesa, fr église; gana ibero (mayoría hablantes); g fuerte askâra",propuesta
+123,🕍,sinagoga,sinagoga,-o,sinagóga,sinagógao,latin_vivo,lat SYNAGOGA < gr synagōgē; idéntico en es/it/pt; universal romance,propuesta
+124,🕌,mezquita,mezquita,-o,mezkíta,mezkítao,espanol_respaldado,"ár masǧid > es mezquita, pt mesquita; it/fr divergen; sin consenso → español por nº hablantes",propuesta
+125,🏟️,estadio,estadio,-o,estádio,estádioo,latin_vivo,"lat STADIUM < gr stadion > es estadio, it stadio, pt estádio; cognado amplio",propuesta
+126,🏢,oficina,oficina,-o,ofítsina,ofítsinao,consenso_romance,"lat OFFICINA > es oficina, it officina, pt oficina; fr usine divergió → consenso ibero+it",propuesta
+127,🏭,fábrica,fábrika,-o,fábrika,fábrikao,latin_vivo,"lat FABRICA > es fábrica, it fabbrica, fr fabrique; base común; c fuerte ante a → k según ortografía askâra",propuesta
+128,🏪,tienda,buteka,-o,butéka,butékao,interlingua_prestamo,"ibérico tienda sin cognado romance; APITHECA > it bottega, es bodega; préstamo comercial regularizado",propuesta
+129,🏬,almacén,magazin,-o,magazín,magazíno,termino_internacional,"ár maḫzan > it magazzino, fr magasin, es almacén; forma internacional magazín más corta y universal",propuesta
+130,🏗️,grúa,krana,-o,krána,kránao,termino_internacional,"nl kraan > fr grue/crama, es grúa, en crane; técnico internacional kran adoptado",propuesta
+131,⚖️,balanza,balantia,-o,balántia,balántiao,latin_vivo,"lat bi-lanx > it bilancia, fr balance, es balanza; forma romance común restada",propuesta
+132,🔔,campana,campana,-o,kampána,kampánao,consenso_romance,"lat CAMPANA (ab urbe Camptica) > es/it campana, pt campainha; fr cloche diverge → consenso ibero+it",propuesta
+133,🏘️,vecindario,vitsinario,-o,vitsináryo,vitsináryoo,latin_vivo,"lat VICINARIU > it vicinato, es vecindario; forma romance regular vitsinario",propuesta
+134,🏙️,metrópolis,metropolis,-o,metrópoli,metrópolio,latin_vivo,lat METROPOLIS < gr mētropolis; cultismo vivo transparente en las 6 fuentes,propuesta
+135,🚧,obra_publica,opera,-o,ópera,óperao,latin_vivo,lat OPERA > obra; CONFLICTO de homonimia con ópera musical ya registrada; raíz oper- queda pendiente de decisión manual (doblete por contexto o derivación). NO se fuerza otra raíz.,propuesta
