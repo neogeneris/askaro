@@ -255,3 +255,48 @@ con nota para decisión manual. Igualdad exacta de raíz: 0. Auto-colisiones int
   vistas imports_pendientes/imports_revision* nunca dependieron de imports_forma y no se afectaron.
 - Futuros candidatos a esta excepción: solo si el usuario aprueba un contraste funcional
   paralelo; lo contrario sigue siendo -o o femenino_biológico (-a).
+
+## §17 Ciclo 11 — Edificios e infraestructuras (glifos UTF-8)
+
+**Fecha:** 2026-10-23 · **Commit:** pendiente → ver git log
+**Entradas nuevas:** 16 sustantivos (imports: 90 → 106; con glifo: 44 → 60)
+**Backup previo:** `sintesio.db.bak-prepoda-ciclo11`
+
+### Formas asignadas (raíz desnuda + desinencia, tilde explícita ≥2 vocales)
+
+| Glifo | Español | Raíz | Forma completa | Criterio |
+|---|---|---|---|---|
+| 🏥 | hospital | ospital | ospitalo | latin_vivo (HOSPITALE) |
+| 🏨 | hotel | hotel | hotelo | termino_internacional |
+| 🏛️ | museo | muse | muséo | latin_vivo (MOUSEION); raíz sin -o final |
+| ⛪ | iglesia | eglesia | eglesiao | consenso_romance (ECCLESIA; gana ibero sobre it chiesa/fr église) |
+| 🕍 | sinagoga | sinagoga | sinagogao | latin_vivo (SYNAGOGA) |
+| 🕌 | mezquita | mezquita | mezquitao | espanol_respaldado (ár masǧid; it/fr divergen) |
+| 🏟️ | estadio | estadio | estadioo | latin_vivo (STADION) |
+| 🏢 | oficina | oficina | oficinao | consenso_romance (OFFICINA; fr usine diverge) |
+| 🏭 | fábrica | fábrika | fábrikao | latin_vivo (FABRICA; c fuerte ante a → k) |
+| 🏪 | tienda | buteka | butekao | interlingua_prestamo (APITHECA→bottega/bodega; 'tienda' sin cognado) |
+| 🏬 | almacén | magazin | magazino | termino_internacional (ár maḫzan; forma internacional más corta que almacén/armazém) |
+| 🏗️ | grúa | krana | kranao | termino_internacional (nl kraan→kran técnico) |
+| ⚖️ | balanza | balantia | balantiao | latin_vivo (bi-lanx) |
+| 🔔 | campana | campana | campanao | consenso_romance (CAMPANA; fr cloche diverge) |
+| 🏘️ | vecindario | vitsinario | vitsinarioo | latin_vivo (VICINARIU) |
+| 🏙️ | metrópolis | metropolis | metropoliso | latin_vivo (METROPOLIS, cultismo vivo) |
+
+### Observaciones del ciclo
+
+1. **Regla de longitud aplicada:** almacén → preferida la forma internacional `magazin` (más corta y universal que las variantes romances divergentes magazzino/almacén/magasin/armazém).
+2. **Doble etimología en el lote:** hospital y hotel son DOUBLETES del mismo latín HOSPITALE (ruta culta vs ruta francesa moderna). Se registran ambos; decisión de fusión queda manual.
+3. **CONFLICTO detectado — obra pública:** raíz OPERA colisiona con ópera (música), ya registrada en ciclo 10. Insertada como género='pendiente' con nota explícita; NO se forzó raíz alternativa (regla crítica). Candidatas manuales: homónimo contextual o derivación konstruo-/operário.
+4. **Salvado por anti-colisión:** 'iglesia' no pudo usar raíz ecclesia (colisión exacta inexistente aquí pero sí verificada); 'museo' pasó de raíz 'museo' a 'muse' para respetar la convención de raíz desnuda.
+5. **Normalización de glifos:** 🔔 campana guardaba variante con U+FE0F; normalizado al codepoint base para agrupaciones futuras.
+6. **Validaciones post-insert:** colisiones raíz-vs-corpus = 0 · integrity_check ok · CSV re-exportado (`sintesio_imports_glifos.csv`, 106 filas).
+
+### Totales acumulados de imports
+
+| métrica | valor |
+|---|---|
+| imports totales | 106 |
+| con glifo (auto-glifo) | 60 |
+| conflictos raíz pendientes de decisión manual | 1 (obra/ópera) |
+| corpus askaro_lexico intacto | 1.041 (sin tocar) |
