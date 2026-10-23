@@ -83,3 +83,32 @@ Descartados por forzar (quedaron pendiente): azufre (🪙 rechazado), impuesto (
 Lotes 2–11 (941 sustantivos restantes, orden estable por `s.id`). Se mantiene el protocolo: selección SQL → tabla de asignación manual en script → INSERT/UPDATE → métricas por lote. La columna `sintesis_completa` se materializará en `matriz_rasgo.sintesis` (o columna nueva) al cerrar el lote 11, para no escribir 11 veces sobre datos congelados.
 
 **Punto de control:** se muestra este reporte antes de continuar con el lote 2, según lo pedido.
+
+
+---
+
+## 10. Tabla `imports` — cola de expansion del lexico (Wiktionary → Askâro)
+
+Creada `imports` (29 filas seed) + vista `imports_pendientes`. Cada fila trae:
+glosa es, las 5 lenguas romance (es/fr/it/pt/ro), **interlingua** (IED) y
+**esperanto** (RADE) para eleccion manual, **etimologia** con protoforma latina,
+y columnas de evidencia (`n_universal`, `consenso_pct`).
+
+Reglas del usuario codificadas en `palabra_sugerida`:
+1. **Cognado universal verdadero** (>=4/5 variantes conservan la raiz proto,
+   medida con alofono-mapa por raiz, no substrings genericos) -> se sugiere.
+2. Si no hay universal pero si **consenso romance** (3/5) -> se sugiere la forma mayoritaria.
+3. **Longitud**: entre las variantes que conservan la raiz, se prefiere la MAS CORTA.
+   Una forma corta ajena a la raiz NUNCA gana (ej.: 'eau' descartada para agua).
+4. <=2/5 -> `pendiente_manual`, sin sugerir (no inventar consenso).
+
+Distribucion final: **22 cognado_universal · 6 consenso_romance · 1 pendiente_manual**.
+
+Hallazgo honesto: **26/29 conceptos YA existen en el corpus Askaro** (el seed
+uso vocabulario basico). La tabla queda doblemente util: los 26 sirven para
+VALIDAR formas askarianas existentes contra Wiktionary/IL/EO (estado='propuesta'),
+y solo 3 son **nuevos reales** candidatos a integracion: **noche, comer, beber**.
+El pipeline de escaneo real de Wiktionary (API en vivo) queda como siguiente paso.
+
+Scripts reproducibles: `scripts/imports_seed.py` (DDL+seed), `scripts/imports_rank.py`
+(umbral estricto), auditoria de sugerencias inline. Export: `sintesio_imports.csv`.
