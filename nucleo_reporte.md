@@ -138,3 +138,23 @@ CSV regenerado: sintesio_imports.csv (24 columnas × 45 filas). Vista imports_pe
 
 ### Escalamiento siguiente (no ejecutado, requiere aprobación)
 Wiktionary API masivo (en/es/fr/it/pt/ro + interlingua oficial IED) sobre listas Swadeish-207/100 y dominios vacíos Sintesio (locativos, medidas). Anti-dup con el mismo filtro norm() usado aquí.
+
+
+## §12 Desinencias morfológicas (iteración cierre)
+
+Reglas aplicadas a la tabla `imports` (45 filas con forma en `imports_forma`):
+
+| clase | desinencia | n | regla |
+|---|---|---|---|
+| sustantivo | -o | 32 | neutralización de género en inanimados/genéricos |
+| sustantivo | -a | 0 | femeninos biológicos — ninguno en el lote actual (los animales del corpus usan forma genérica; p. ej. 'vaca' existe ya como sustantivo Askâro, no es import nuevo) |
+| verbo | -âr | 5 | VOLARE/CANTARE/COMPUTARE/tirar/PULSARE (1ª conj. lat. -āre) |
+| verbo | -êr | 6 | COMEDERE/BIBERE/CURRERE/IMPLERE/RODERE/COMPRAHENDERE (2ª-3ª conj.) |
+| verbo | -îr | 0 | ninguna 4ª conj. (-īre) en el lote; candidatas futuras: venir→ven-îr, partir→part-îr, dormir→dorm-îr |
+| adjetivo | -e | 2 | sinistr-e, sek-e |
+
+**Formato:** raíz desnuda en `imports_forma.forma`, desinencia en columna aparte; la vista `imports_formas` expone `forma_completa = forma || desinencia`. Guiones sueltos de pasadas anteriores purgados (kome/bib corregidos).
+
+**Conflictos tras desinencias**: los mismos 3 de raíz (karta/kárta, luna/lúna, porta/pórta), diferencia solo de tilde, pendientes de decisión manual. Ninguna forma_completa nueva colisiona con término existente.
+
+**Backup**: sintesio.db.bak-prepoda-desinencias · integrity_check ok · grafo y matriz intactos.
