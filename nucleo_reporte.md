@@ -158,3 +158,39 @@ Reglas aplicadas a la tabla `imports` (45 filas con forma en `imports_forma`):
 **Conflictos tras desinencias**: los mismos 3 de raíz (karta/kárta, luna/lúna, porta/pórta), diferencia solo de tilde, pendientes de decisión manual. Ninguna forma_completa nueva colisiona con término existente.
 
 **Backup**: sintesio.db.bak-prepoda-desinencias · integrity_check ok · grafo y matriz intactos.
+
+## §14 Ciclo 9 — Glifos UTF-8 → sustantivos (fauna, meteoros, objetos)
+
+**Añadidos: 19 · Total imports: 64 · Colisiones raíz vs corpus: 0 · Dobles tildes: 0**
+
+| español | raíz askâro | forma tónica | criterio | glifo |
+|---|---|---|---|---|
+| nieve | nieve | niéve | cognado_universal | ❄️ |
+| hielo | ielo | iélo | latin_vivo (IELU) | 🧊 |
+| arco | arso | árso | cognado_universal (ARCUM; c→s suave latina) | 🏹 |
+| ancla | ansla | ánsla | cognado_universal (ANCORA) | ⚓ |
+| mosca | mossa | móssa | cognado_universal (MUSCA) | 🪰 |
+| araña | araña | aráña | consenso_mayoritario (ARANEUM; ñ conservada) | 🕷️ |
+| telaraña | telaraña | telaráña | reconstruccion_latina (compuesto TELA+ARANEI) | 🕸️ |
+| hormiga | ormiga | ormíga | latin_vivo (FORMICA; h muda elidida) | 🐜 |
+| abeja | abexa | abéxa | latin_vivo (APIS/AVICULA; j→x) | 🐝 |
+| libélula | libelula | libelúla | latin_vivo (LIBELLULA) | 🪰 |
+| caracol | sarasol | sarásol | consenso_mayoritario (COCHLEA; c- inicial sorda→s) | 🐌 |
+| erizo | eriso | eríso | latin_vivo (ERITIUS; z→s) | 🦔 |
+| topo | topo | tópo | latin_vivo (TALPA) | 🐁 |
+| castor | sastor | sástor | cognado_universal (CASTOR; c-→s por /k/ en romance? NO: ver nota) | 🦫 |
+| nutria | nutria | nutría | latin_vivo (LUTRA; femenino biológico → -a) | 🦦 |
+| conejo | sonexo | sonéxo | latin_vivo (CUNICULUS; c-→s, j→x) | 🐇 |
+| marmota | marmota | marmóta | latin_vivo (MARMOTA; glifo U+1F43F dibuja ardilla: ambigüedad anotada) | 🐿️ |
+| bisonte | bisonte | bisónte | termino_internacional (BISON) | 🦬 |
+| dromedario | dromedario | dromedarío | latin_vivo (DROMEDARIUS) | 🐪 |
+
+**Observaciones del ciclo:**
+1. **Regla j→x aplicada**: abeja y conejo pasaron de `abéja/sonéjo` a `abéxa/sonéxo` (j romance = /Ê/ francés = x askâra). Las formas previas al ciclo no contenían j.
+2. **c inicial ante a/o/u**: ARCUM→árso sigue la pronunciación latina eclesiástica (c suave); CASTOR→sástor es inconsistente con esa lectura (castărum tiene /k/) → **quedó `sastor` por paralelismo con caracol; marcado para revisión manual del curador**. Candidato alternativo: `kástor`.
+3. **Ñ conservada** (regla maestro): araña/telaraña mantienen ñ.
+4. **H muda inicial elidida**: hielo→iélo, hormiga→ormíga (no es la h=/x/ sanscrita; esa solo aplica a h etimológica sonora, inexistente en estos préstamos).
+5. **Migración de esquema**: CHECK `tipo_sugerencia` ampliado con valor `'auto-glifo'` (recreación de tabla preservando 45 filas + re-creación de las 5 vistas dependientes). Backup previo: `sintesio.db.bak-prepoda-ciclo9-*`.
+6. **Deuda registrada**: "marmota" recibe glifo 🐿️ que Unicode reserva a la ardilla — si en un lote futuro entra *ardilla* habrá colisión real; candidato a desambiguación con núcleo compuesto.
+
+**Totales tras ciclo 9**: imports 64 (45 previos + 19 nuevos), imports_forma 64, integrity ok, grafo/matriz/núcleo intactos.
