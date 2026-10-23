@@ -1,0 +1,36 @@
+== FAMILIAS SINTESIO (clasificación preliminar) ==
+so   SOCIEDAD       257
+
+== EJEMPLOS POR FAMILIA (top visual) ==
+
+[ak] flumíno(rio), glasío(hielo), kanálo(canal), láko(lago), máro(mar), oseáno(oceano), ákvo(agua), amarélo(amarillo)
+
+[fo] fulgúro(rayo), fógo(fuego), volkáno(volcan), khiamáto(llamada), videokhiamáto(videollamada), gáso(gas)
+
+[ter] argénto(plata metal Ag), arkhipelágo(archipielago), aréno(arena), desérto(desierto), insúlo(isla), karbóno(carbon), kordilléro(cordillera), kúpro(cobre)
+
+[kor] brakhío(brazo), búko(boca), díto(dedo), dórso(espalda), genikúlo(rodilla), kapíto(cabeza), kápo(cabeza), kóllo(cuello)
+
+[ka] balnéo(bano), bankílo(banco (asiento)), dormitorío(dormitorio), dómo(casa), jardíno(jardin), klávo(llave), kojíno(cojin), kortíno(cortina)
+
+[nu] asetáto(vinagre), bútyro(mantequilla), insaláto(ensalada), khokoláto(chocolate), késo(queso), lákto(leche), oléo(aceite), páno(pan)
+
+[tem] dekádo(decada), futúro(futuro), instánto(instante), khronométro(cronometro), lúno(mes (unidad de tiempo)), matíno(manana), mediedío(mediodia), medienókto(medianoche)
+
+[si] lúmo(luz), lúna(luna), nebúlo(niebla), névo(nieve), núbo(nube), spasío(espacio), stélla(estrella), sélo(cielo)
+
+[vi] akvílo(aguila), arbólo(arbol), arbóro(arbol), avestrúso(avestruz), avéso(ave), balaéno(ballena), bósko(bosque), delfíno(delfin)
+
+[mor] fébro(fiebre), maladío(enfermedad), medisíno(medicina), mórto(muerte), ospitálo(hospital), vulnéro(herida), hospitálo(hospital), indolentío(indolencia)
+
+[so] distríkto(distrito), frátro(hermano), impéro(imperio), kontinénto(continente), latéro(lado), lóko(lugar), metropólo(metropoli), persóno(persona)
+
+[mu] kamíno(camino), vío(via), aeropórto(aeropuerto), allenatóro(entrenador), autobúso(autobus), autopattuglío(coche policial), autopómpo(coche bomberos), autóro(autor)
+
+[me] agénto(Ente Agente (el actor que ejecuta la acción)), iténto(Ente Instrumental (objeto/dispositivo medio)), káuso(caso (circunstancia, asunto, caso jurídico/lógico)), kóso(cosa), paténto(Ente Paciente (recibe o sufre la acción)), ubénto(Ente Locativo (recinto/espacio de ubicación)), énto(Entidad / Ente neutro genérico), aktóro(actor)
+
+[er] anténno(antena), assío(hacha), batterío(bateria), búrso(bolsa), hardwáro(hardware), instruménto(instrumento), kakiavíto(destornillador), kanéstro(canasto)
+
+[sk] Edúin(segunda entidad), bibliothéko(biblioteca), ekografío(ecografia), fláuto(flauta), gitárro(guitarra), intervísto(entrevista), kansío(cancion), kodíko(codigo)
+
+totales: 1341 conceptos | 1577 rasgos | 0 sin clasificar

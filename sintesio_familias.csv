@@ -1,0 +1,1342 @@
+familia,nombre,termino_askaro,espanol,ingles,confianza,metodo
+adj,CALIFICATIVO,abérte,abierto,open,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,antíkve,antiguo,ancient,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,apérte,abierto,open,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,arrogánze,arrogancia,arrogance,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,azúlo,azul,blue,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,beltáte,belleza,beauty,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,blánko,blanco,white,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,báse,bajo,low,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,básse,bajo (adjetivo),"low, short",0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,bóne,bueno,good,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,bónte,bondad,goodness,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,cálde,caliente,hot,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,debésse,debilidad,weakness,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,debíle,debil,weak,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,diffisíle,dificil,difficult,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,dificíle,dificil,difficult,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,dúlse,dulce,sweet,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,egóisme,egoismo,selfishness,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,etérne,eterno,eternal,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,fasíle,facil,easy,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,fedéze,fealdad,ugliness,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,felíse,feliz,happy,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,fálse,falso,false,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,fórte,fuerte,strong,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,generosítà,generosidad,generosity,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,generál,general,general,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,gránde,grande,"big, great",0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,gríso,gris,gray,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,humíde,humedo,humid,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,impaziénze,impaciencia,impatience,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,importánte,importante,important,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,impossibíle,imposible,impossible,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,intelligénze,inteligencia,intelligence,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,inyorantíe,ignorancia,ignorance,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,ipokrisíe,hipocresia,hypocrisy,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,kalíde,caliente,hot,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,kláre,claro,clear,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,kolóre,color,color,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,komplékse,complejo,complex,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,kompléxe,complejo,complex,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,kómmun,comun,common,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,kúrte,corto,short,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,leálte,lealtad,loyalty,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,lárge,ancho,wide,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,lénte,lento,slow,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,lónge,largo,long,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,malitíe,maldad,evil,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,mund,limpio,clean,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,nekhézze,necedad,foolishness,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,négro,negro,black,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,nóve,nuevo,new,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,obsekúre,oscuro,dark,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,obskúr,oscuro,dark,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,onéstà,honestidad,honesty,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,pasientíe,paciencia,patience,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,plen,lleno,full,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,posibíle,posible,possible,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,possibíle,posible,possible,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,priváte,privado,private,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,profúnde,profundo,deep,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,publík,publico,public,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,purpúro,purpura,purple,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,párve,pequeno,"small, little",0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,póvre,pobre,poor,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,rapíde,rapido,fast,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,rar,raro,rare,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,reále,real,real,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,rik,rico,rich,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,roséo,rosa,pink,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,saláte,salado,salty,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,saviéze,sabiduria,wisdom,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,sekúre,seguro,safe,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,serráte,cerrado,closed,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,sinserítà,sinceridad,sincerity,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,sordíde,sucio,dirty,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,spesiál,especial,special,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,stréto,estrecho,narrow,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,stánke,cansado,tired,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,sérte,cierto,certain,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,tradiménte,traicion,betrayal,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,tríste,triste,sad,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,umílte,humildad,humility,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,vakúe,vacio,empty,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,velóse,veloz,swift,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,vetúle,viejo,old,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,vérdo,verde,green,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,víve,vivo,alive,0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,álte,alto,"high, tall",0.55,"adjetivo (rasgos, no familia nominal)"
+adj,CALIFICATIVO,étern,eterno,eternal,0.55,"adjetivo (rasgos, no familia nominal)"
+ak,AGUA,flumíno,rio,river,1.0,núcleo manual/ROSETTA
+ak,AGUA,glasío,hielo,ice,1.0,núcleo manual/ROSETTA
+ak,AGUA,kanálo,canal,channel,1.0,núcleo manual/ROSETTA
+ak,AGUA,láko,lago,lake,1.0,núcleo manual/ROSETTA
+ak,AGUA,máro,mar,sea,1.0,núcleo manual/ROSETTA
+ak,AGUA,oseáno,oceano,ocean,1.0,núcleo manual/ROSETTA
+ak,AGUA,ákvo,agua,water,1.0,núcleo manual/ROSETTA
+ak,AGUA,amár,amar,love,0.6,keyword «mar»
+ak,AGUA,amáre,amargo,bitter,0.6,keyword «mar»
+ak,AGUA,biankherío,ropa interior,underwear,0.6,keyword «río»
+ak,AGUA,brun,marron,brown,0.6,keyword «mar»
+ak,AGUA,destinatarío,destinatario,recipient,0.6,keyword «río»
+ak,AGUA,emisferío,hemisferio,hemisphere,0.6,keyword «río»
+ak,AGUA,fríde,frio,cold,0.6,keyword «río»
+ak,AGUA,gambéro,camaron,shrimp,0.6,keyword «mar»
+ak,AGUA,giornalísto,periodista,journalist,0.6,keyword «río»
+ak,AGUA,giornálo,periodico,newspaper,0.6,keyword «río»
+ak,AGUA,imaginári,imaginario,imaginary,0.6,keyword «río»
+ak,AGUA,kalamáro,calamar,squid,0.6,keyword «mar»
+ak,AGUA,kaméra,camara,camera,0.6,keyword «mar»
+ak,AGUA,kavallukío,caballito de mar,seahorse,0.6,keyword «mar»
+ak,AGUA,komárko,comarca,county,0.6,keyword «mar»
+ak,AGUA,kvartéro,barrio,neighborhood,0.6,keyword «río»
+ak,AGUA,mardedío,martes,Tuesday,0.6,keyword «mar»
+ak,AGUA,martéllo,martillo,hammer,0.6,keyword «mar»
+ak,AGUA,merkádo,mercado,market,0.6,keyword «mar»
+ak,AGUA,merkáto,mercado,market,0.6,keyword «mar»
+ak,AGUA,nesessaríe,necesario,necessary,0.6,keyword «río»
+ak,AGUA,paragúo,paraguas,umbrella,0.6,keyword «agua»
+ak,AGUA,passéro,gorrion,sparrow,0.6,keyword «río»
+ak,AGUA,pluvío,lluvia,rain,0.6,keyword «lluvia»
+ak,AGUA,salarío,salario,salary,0.6,keyword «río»
+ak,AGUA,skriptorío,escritorio,desk,0.6,keyword «río»
+ak,AGUA,sottomaríno,submarino,submarine,0.6,keyword «mar»
+ak,AGUA,territorío,territorio,territory,0.6,keyword «río»
+ak,AGUA,visináto,vecindario,neighborhood,0.6,keyword «río»
+ak,AGUA,vítro,vidrio,glass,0.6,keyword «río»
+ak,AGUA,ámpo,amperio,ampere,0.6,keyword «río»
+ak,AGUA,báio,bahia,bay,0.55,manual-pase3
+ak,AGUA,strétto,estrecho (accidente geo.),strait,0.55,manual-pase3
+ax,AUXILIAR,cēr,certeza (auxiliar),certainty,0.9,clase funcional
+ax,AUXILIAR,dūr,durativo (auxiliar),durative,0.9,clase funcional
+ax,AUXILIAR,hip,hipotetico (auxiliar),hypothetical,0.9,clase funcional
+ax,AUXILIAR,mand,mandato (auxiliar),mandate,0.9,clase funcional
+ax,AUXILIAR,pos,posibilidad (auxiliar),possibility,0.9,clase funcional
+ax,AUXILIAR,pot,capacidad (auxiliar),ability,0.9,clase funcional
+ax,AUXILIAR,prob,probabilidad (auxiliar),probability,0.9,clase funcional
+ax,AUXILIAR,pās,pasiva (auxiliar),passive,0.9,clase funcional
+cc,CONJUNCIÓN,alitér,de otra manera,otherwise,0.9,clase funcional
+cc,CONJUNCIÓN,aut,o (exclusiva),or else,0.9,clase funcional
+cc,CONJUNCIÓN,et,y,and,0.9,clase funcional
+cc,CONJUNCIÓN,quám,que (comp.),"than, that",0.9,clase funcional
+cc,CONJUNCIÓN,re,porque,because,0.9,clase funcional
+cc,CONJUNCIÓN,si,si,if,0.9,clase funcional
+cc,CONJUNCIÓN,so,por lo tanto,therefore,0.9,clase funcional
+cc,CONJUNCIÓN,tunc,entonces,then,0.9,clase funcional
+cc,CONJUNCIÓN,vel,o (alternativa),or,0.9,clase funcional
+cc,CONJUNCIÓN,áutsi,o si (cond. alt.),or if,0.9,clase funcional
+er,HERRAMIENTA,anténno,antena,antenna,0.6,keyword «antena»
+er,HERRAMIENTA,assío,hacha,axe,0.6,corrección falso positivo p4
+er,HERRAMIENTA,batterío,bateria,battery,0.6,keyword «bateria»
+er,HERRAMIENTA,búrso,bolsa,bag,0.6,corrección falso positivo p4
+er,HERRAMIENTA,ekografío,ecografia,ultrasound,0.6,corrección falso positivo p4
+er,HERRAMIENTA,hardwáro,hardware,hardware,0.6,keyword «hardware»
+er,HERRAMIENTA,instruménto,instrumento,instrument,0.6,keyword «instrumento»
+er,HERRAMIENTA,kakiavíto,destornillador,screwdriver,0.6,corrección falso positivo p4
+er,HERRAMIENTA,katéno,cadena,chain,0.6,keyword «cadena»
+er,HERRAMIENTA,khióvo,clavo,nail,0.6,keyword «clavo»
+er,HERRAMIENTA,kolláno,collar,necklace,0.6,keyword «olla»
+er,HERRAMIENTA,komputadóro,computadora,computer,0.6,keyword «computador»
+er,HERRAMIENTA,komputatóro,computadora,computer,0.6,keyword «computador»
+er,HERRAMIENTA,kultéllo,cuchillo,knife,0.6,keyword «cuchillo»
+er,HERRAMIENTA,kávo,cable,cable,0.6,keyword «cable»
+er,HERRAMIENTA,kórda,cuerda,rope,0.6,keyword «cuerda»
+er,HERRAMIENTA,lampáno,lampara,lamp,0.6,keyword «lampara»
+er,HERRAMIENTA,mesuridóro,metro (instrumento),tape measure,0.6,keyword «instrumento»
+er,HERRAMIENTA,mikrokhípo,chip,chip,0.6,keyword «chip»
+er,HERRAMIENTA,pláto,plato,plate,0.6,keyword «plato»
+er,HERRAMIENTA,pokúlo,taza,cup,0.6,keyword «taza»
+er,HERRAMIENTA,radiografío,radiografia,X-ray,0.6,keyword «radio»
+er,HERRAMIENTA,radío,radio,radio,0.6,keyword «radio»
+er,HERRAMIENTA,rególo,regla (instrumento),ruler,0.6,keyword «instrumento»
+er,HERRAMIENTA,robóto,robot,robot,0.6,keyword «robot»
+er,HERRAMIENTA,selluláro,movil,mobile phone,0.6,keyword «movil»
+er,HERRAMIENTA,sepéllo,cepillo,brush,0.6,keyword «cepillo»
+er,HERRAMIENTA,sirkoláro,sierra circular,circular saw,0.6,keyword «sierra»
+er,HERRAMIENTA,sissóro,tijeras,scissors,0.6,keyword «tijeras»
+er,HERRAMIENTA,softwáro,software,software,0.6,keyword «software»
+er,HERRAMIENTA,sénso,sensor,sensor,0.6,keyword «sensor»
+er,HERRAMIENTA,sépo,cebolla,onion,0.6,keyword «olla»
+er,HERRAMIENTA,sérro,sierra,saw,0.6,keyword «sierra»
+er,HERRAMIENTA,tastiéro,teclado,keyboard,0.6,keyword «teclado»
+er,HERRAMIENTA,telefóno,telefono,telephone,0.6,keyword «telefono»
+er,HERRAMIENTA,torníllo,tornillo,screw,0.6,keyword «tornillo»
+er,HERRAMIENTA,ágo,aguja,needle,0.6,keyword «aguja»
+er,HERRAMIENTA,óllo,olla,pot,0.6,keyword «olla»
+er,HERRAMIENTA,algorítmo,algoritmo,algorithm,0.55,categoría BD «Tecnologia»
+er,HERRAMIENTA,asído,acido,acid,0.55,categoría BD «Tecnologia»
+er,HERRAMIENTA,bottóno,boton,button,0.55,categoría BD «Herramientas»
+er,HERRAMIENTA,datíso,datos,data set,0.55,categoría BD «Tecnologia»
+er,HERRAMIENTA,elektrisitáto,electricidad,electricity,0.55,categoría BD «Tecnologia»
+er,HERRAMIENTA,ferfílo,alambre,wire,0.55,categoría BD «Herramientas»
+er,HERRAMIENTA,ghiéro,tuerca,nut,0.55,categoría BD «Herramientas»
+er,HERRAMIENTA,internéto,internet,internet,0.55,categoría BD «Tecnologia»
+er,HERRAMIENTA,kompásso,compas,compass,0.55,categoría BD «Herramientas»
+er,HERRAMIENTA,levigatríko,lijadora,sander,0.55,categoría BD «Herramientas»
+er,HERRAMIENTA,livéllo,nivel,level,0.55,categoría BD «Herramientas»
+er,HERRAMIENTA,límo,lima,file,0.55,categoría BD «Herramientas»
+er,HERRAMIENTA,makhétto,machete,machete,0.55,categoría BD «Herramientas»
+er,HERRAMIENTA,makíno,maquina,machine,0.55,categoría BD «Tecnologia»
+er,HERRAMIENTA,memorío,memoria informatica,memory,0.55,categoría BD «Tecnologia»
+er,HERRAMIENTA,pellikúlo,pelicula,film,0.55,categoría BD «Tecnologia»
+er,HERRAMIENTA,phóto,foto,photo,0.55,categoría BD «Tecnologia»
+er,HERRAMIENTA,prosessóro,procesador,processor,0.55,categoría BD «Tecnologia»
+er,HERRAMIENTA,pálo,pala,shovel,0.55,categoría BD «Herramientas»
+er,HERRAMIENTA,píko,pico,pickaxe,0.55,categoría BD «Herramientas»
+er,HERRAMIENTA,rastréllo,rastrillo,rake,0.55,categoría BD «Herramientas»
+er,HERRAMIENTA,rosétto,arandela,washer,0.55,categoría BD «Herramientas»
+er,HERRAMIENTA,réto,red,network,0.55,categoría BD «Tecnologia»
+er,HERRAMIENTA,serniéro,cierre,zipper,0.55,categoría BD «Herramientas»
+er,HERRAMIENTA,servitóro,servidor,server,0.55,categoría BD «Tecnologia»
+er,HERRAMIENTA,seséllo,cincel,chisel,0.55,categoría BD «Herramientas»
+er,HERRAMIENTA,skalpéllo,formon,cold chisel,0.55,categoría BD «Herramientas»
+er,HERRAMIENTA,spíllo,alfiler,pin,0.55,categoría BD «Herramientas»
+er,HERRAMIENTA,sulphúro,sulfuro,sulfur,0.55,categoría BD «Tecnologia»
+er,HERRAMIENTA,televizío,television,television,0.55,categoría BD «Tecnologia»
+er,HERRAMIENTA,tenaglío,alicate,pliers,0.55,categoría BD «Herramientas»
+er,HERRAMIENTA,terminálo,terminal,terminal,0.55,categoría BD «Tecnologia»
+er,HERRAMIENTA,trivéllo,taladro,drill,0.55,categoría BD «Herramientas»
+er,HERRAMIENTA,túbo,tubo,pipe,0.55,categoría BD «Herramientas»
+er,HERRAMIENTA,záppo,azada,hoe,0.55,categoría BD «Herramientas»
+fn,FUNCIONAL,Eo,ello (neutro),it (neutro),0.55,función gramatical
+fn,FUNCIONAL,Eos,ellos (objetos),they (objects),0.55,función gramatical
+fn,FUNCIONAL,Kā,ella,she (fem.),0.55,función gramatical
+fn,FUNCIONAL,Kās,ellas (pers.),they (fem. pers.),0.55,función gramatical
+fn,FUNCIONAL,Kō,él/eso (genérico),he/it (generic),0.55,función gramatical
+fn,FUNCIONAL,Kōr,él (masc. específico),he (male specific),0.55,función gramatical
+fn,FUNCIONAL,Kōs,ellos (pers.),they (masc. pers.),0.55,función gramatical
+fn,FUNCIONAL,Lo,él mismo (énfasis),himself (emphatic),0.55,función gramatical
+fn,FUNCIONAL,Mō,yo,I,0.55,función gramatical
+fn,FUNCIONAL,No,ninguno / nadie / nada,nobody / nothing / none,0.55,función gramatical
+fn,FUNCIONAL,On,uno (indefinido),one (indef.),0.55,función gramatical
+fn,FUNCIONAL,Tās,ustedes (fem.),you (pl. fem.),0.55,función gramatical
+fn,FUNCIONAL,Tō,tú,you (sg.),0.55,función gramatical
+fn,FUNCIONAL,Tōs,ustedes (masc.),you (pl. masc.),0.55,función gramatical
+fo,FUEGO,fulgúro,rayo,lightning,1.0,núcleo manual/ROSETTA
+fo,FUEGO,fógo,fuego,fire,1.0,núcleo manual/ROSETTA
+fo,FUEGO,volkáno,volcan,volcano,1.0,núcleo manual/ROSETTA
+fo,FUEGO,gáso,gas,gas,0.55,manual-pase3
+gv,VERBO,adiutár,ayudar,help,0.55,verbo (fuera de familias nominales)
+gv,VERBO,adjutár,ayudar,help,0.55,verbo (fuera de familias nominales)
+gv,VERBO,akendár,encender,"turn on, light",0.55,verbo (fuera de familias nominales)
+gv,VERBO,akendér,encender,light/ignite,0.55,verbo (fuera de familias nominales)
+gv,VERBO,analizár,analizar,analyze,0.55,verbo (fuera de familias nominales)
+gv,VERBO,analysár,analizar,analyze,0.55,verbo (fuera de familias nominales)
+gv,VERBO,aparereár,aparecer,appear,0.55,verbo (fuera de familias nominales)
+gv,VERBO,aparesér,aparecer,appear,0.55,verbo (fuera de familias nominales)
+gv,VERBO,aperár,abrir,open,0.55,verbo (fuera de familias nominales)
+gv,VERBO,aperír,abrir,open,0.55,verbo (fuera de familias nominales)
+gv,VERBO,arribár,llegar,arrive,0.55,verbo (fuera de familias nominales)
+gv,VERBO,arrivár,llegar,arrive,0.55,verbo (fuera de familias nominales)
+gv,VERBO,assendár,subir,go up,0.55,verbo (fuera de familias nominales)
+gv,VERBO,audír,oir,hear,0.55,verbo (fuera de familias nominales)
+gv,VERBO,brillár,brillar,shine,0.55,verbo (fuera de familias nominales)
+gv,VERBO,brilyár,brillar,shine,0.55,verbo (fuera de familias nominales)
+gv,VERBO,desaparesér,desaparecer,disappear,0.55,verbo (fuera de familias nominales)
+gv,VERBO,deskendér,bajar,descend,0.55,verbo (fuera de familias nominales)
+gv,VERBO,dessendár,bajar,go down,0.55,verbo (fuera de familias nominales)
+gv,VERBO,destruár,destruir,destroy,0.55,verbo (fuera de familias nominales)
+gv,VERBO,destrúir,destruir,destroy,0.55,verbo (fuera de familias nominales)
+gv,VERBO,desér,decir,say,0.55,verbo (fuera de familias nominales)
+gv,VERBO,disparereár,desaparecer,disappear,0.55,verbo (fuera de familias nominales)
+gv,VERBO,dormár,dormir,sleep,0.55,verbo (fuera de familias nominales)
+gv,VERBO,dormír,dormir,sleep,0.55,verbo (fuera de familias nominales)
+gv,VERBO,dár,dar,give,0.55,verbo (fuera de familias nominales)
+gv,VERBO,eksistár,existir,exist,0.55,verbo (fuera de familias nominales)
+gv,VERBO,eksplikár,explicar,explain,0.55,verbo (fuera de familias nominales)
+gv,VERBO,ekstingér,apagar,extinguish,0.55,verbo (fuera de familias nominales)
+gv,VERBO,eksír,salir,exit,0.55,verbo (fuera de familias nominales)
+gv,VERBO,eskistír,existir,exist,0.55,verbo (fuera de familias nominales)
+gv,VERBO,esér,ser,be,0.55,verbo (fuera de familias nominales)
+gv,VERBO,fasér,hacer,"do, make",0.55,verbo (fuera de familias nominales)
+gv,VERBO,fluereár,fluir,flow,0.55,verbo (fuera de familias nominales)
+gv,VERBO,fluér,fluir,flow,0.55,verbo (fuera de familias nominales)
+gv,VERBO,gagnár,ganar,earn/win,0.55,verbo (fuera de familias nominales)
+gv,VERBO,gardár,guardar,keep/guard,0.55,verbo (fuera de familias nominales)
+gv,VERBO,guardár,guardar,"keep, guard",0.55,verbo (fuera de familias nominales)
+gv,VERBO,hudikár,juzgar,judge,0.55,verbo (fuera de familias nominales)
+gv,VERBO,intendár,entender,understand,0.55,verbo (fuera de familias nominales)
+gv,VERBO,intrár,entrar,enter,0.55,verbo (fuera de familias nominales)
+gv,VERBO,invertár,invertir,invest,0.55,verbo (fuera de familias nominales)
+gv,VERBO,investír,invertir,invest,0.55,verbo (fuera de familias nominales)
+gv,VERBO,judikár,juzgar,judge,0.55,verbo (fuera de familias nominales)
+gv,VERBO,kaminár,caminar,walk,0.55,verbo (fuera de familias nominales)
+gv,VERBO,komprenér,entender,understand,0.55,verbo (fuera de familias nominales)
+gv,VERBO,komprár,comprar,buy,0.55,verbo (fuera de familias nominales)
+gv,VERBO,komér,comer,eat,0.55,verbo (fuera de familias nominales)
+gv,VERBO,konstruár,construir,build,0.55,verbo (fuera de familias nominales)
+gv,VERBO,konstrúir,construir,build,0.55,verbo (fuera de familias nominales)
+gv,VERBO,kosár,coser,sew,0.55,verbo (fuera de familias nominales)
+gv,VERBO,kredár,creer,believe,0.55,verbo (fuera de familias nominales)
+gv,VERBO,kredér,creer,believe,0.55,verbo (fuera de familias nominales)
+gv,VERBO,kreskár,crecer,grow,0.55,verbo (fuera de familias nominales)
+gv,VERBO,kresér,crecer,grow,0.55,verbo (fuera de familias nominales)
+gv,VERBO,kreár,crear,create,0.55,verbo (fuera de familias nominales)
+gv,VERBO,kuzár,coser,sew,0.55,verbo (fuera de familias nominales)
+gv,VERBO,kásar,cazar,to hunt,0.55,verbo (fuera de familias nominales)
+gv,VERBO,lavár,lavar,wash,0.55,verbo (fuera de familias nominales)
+gv,VERBO,ledér,leer,read,0.55,verbo (fuera de familias nominales)
+gv,VERBO,legár,leer,read,0.55,verbo (fuera de familias nominales)
+gv,VERBO,levár,llevar,carry,0.55,verbo (fuera de familias nominales)
+gv,VERBO,lukrár,ganar,"win, earn",0.55,verbo (fuera de familias nominales)
+gv,VERBO,morár,morir,die,0.55,verbo (fuera de familias nominales)
+gv,VERBO,morír,morir,die,0.55,verbo (fuera de familias nominales)
+gv,VERBO,nassereár,nacer,be born,0.55,verbo (fuera de familias nominales)
+gv,VERBO,nasér,nacer,born,0.55,verbo (fuera de familias nominales)
+gv,VERBO,oblidár,olvidar,forget,0.55,verbo (fuera de familias nominales)
+gv,VERBO,obliviskár,olvidar,forget,0.55,verbo (fuera de familias nominales)
+gv,VERBO,pagár,pagar,pay,0.55,verbo (fuera de familias nominales)
+gv,VERBO,pensár,pensar,think,0.55,verbo (fuera de familias nominales)
+gv,VERBO,perdonár,perdonar,forgive,0.55,verbo (fuera de familias nominales)
+gv,VERBO,portár,llevar,"carry, take",0.55,verbo (fuera de familias nominales)
+gv,VERBO,potér,poder,can,0.55,verbo (fuera de familias nominales)
+gv,VERBO,prekár,rezar,pray,0.55,verbo (fuera de familias nominales)
+gv,VERBO,rumpereár,romper,break,0.55,verbo (fuera de familias nominales)
+gv,VERBO,rumpér,romper,break,0.55,verbo (fuera de familias nominales)
+gv,VERBO,salír,subir,ascend,0.55,verbo (fuera de familias nominales)
+gv,VERBO,sapér,saber,know,0.55,verbo (fuera de familias nominales)
+gv,VERBO,sekár,cortar,cut,0.55,verbo (fuera de familias nominales)
+gv,VERBO,sentár,sentir,feel,0.55,verbo (fuera de familias nominales)
+gv,VERBO,sentír,sentir,feel,0.55,verbo (fuera de familias nominales)
+gv,VERBO,serrár,cerrar,close,0.55,verbo (fuera de familias nominales)
+gv,VERBO,skribár,escribir,write,0.55,verbo (fuera de familias nominales)
+gv,VERBO,skribír,escribir,write,0.55,verbo (fuera de familias nominales)
+gv,VERBO,soffrár,sufrir,suffer,0.55,verbo (fuera de familias nominales)
+gv,VERBO,sonár,sonar,sound,0.55,verbo (fuera de familias nominales)
+gv,VERBO,supfér,sufrir,suffer,0.55,verbo (fuera de familias nominales)
+gv,VERBO,tentár,intentar,try,0.55,verbo (fuera de familias nominales)
+gv,VERBO,timár,temer,fear,0.55,verbo (fuera de familias nominales)
+gv,VERBO,timér,temer,fear,0.55,verbo (fuera de familias nominales)
+gv,VERBO,trabahár,trabajar,work,0.55,verbo (fuera de familias nominales)
+gv,VERBO,trahár,traer,bring,0.55,verbo (fuera de familias nominales)
+gv,VERBO,trahér,traer,bring,0.55,verbo (fuera de familias nominales)
+gv,VERBO,traliár,trabajar,work,0.55,verbo (fuera de familias nominales)
+gv,VERBO,vendár,vender,sell,0.55,verbo (fuera de familias nominales)
+gv,VERBO,vendér,vender,sell,0.55,verbo (fuera de familias nominales)
+gv,VERBO,venír,venir,come,0.55,verbo (fuera de familias nominales)
+gv,VERBO,vestár,vestir,dress,0.55,verbo (fuera de familias nominales)
+gv,VERBO,vestír,vestir,dress,0.55,verbo (fuera de familias nominales)
+gv,VERBO,vidér,ver,see,0.55,verbo (fuera de familias nominales)
+gv,VERBO,vivár,vivir,live,0.55,verbo (fuera de familias nominales)
+gv,VERBO,vivér,vivir,live,0.55,verbo (fuera de familias nominales)
+gv,VERBO,volér,querer,want,0.55,verbo (fuera de familias nominales)
+gv,VERBO,ír,ir,go,0.55,verbo (fuera de familias nominales)
+ka,CASA,balnéo,bano,bath,1.0,núcleo manual/ROSETTA
+ka,CASA,bankílo,banco (asiento),bench,1.0,núcleo manual/ROSETTA
+ka,CASA,dormitorío,dormitorio,bedroom,1.0,núcleo manual/ROSETTA
+ka,CASA,dómo,casa,house,1.0,núcleo manual/ROSETTA
+ka,CASA,jardíno,jardin,garden,1.0,núcleo manual/ROSETTA
+ka,CASA,klávo,llave,key,1.0,núcleo manual/ROSETTA
+ka,CASA,kojíno,cojin,cushion,1.0,núcleo manual/ROSETTA
+ka,CASA,kortíno,cortina,curtain,1.0,núcleo manual/ROSETTA
+ka,CASA,kosíno,cocina,kitchen,1.0,núcleo manual/ROSETTA
+ka,CASA,kvádro,cuadro,painting,1.0,núcleo manual/ROSETTA
+ka,CASA,káma,cama,bed,1.0,núcleo manual/ROSETTA
+ka,CASA,linío,sabana,sheet,1.0,núcleo manual/ROSETTA
+ka,CASA,materáso,colchon,mattress,1.0,núcleo manual/ROSETTA
+ka,CASA,mánto,manta,blanket,1.0,núcleo manual/ROSETTA
+ka,CASA,paréto,pared,wall,1.0,núcleo manual/ROSETTA
+ka,CASA,pórto,puerto,port,1.0,núcleo manual/ROSETTA
+ka,CASA,spesío,espejo,mirror,1.0,núcleo manual/ROSETTA
+ka,CASA,stállo,estante,shelf,1.0,núcleo manual/ROSETTA
+ka,CASA,sílla,silla,chair,1.0,núcleo manual/ROSETTA
+ka,CASA,tapéto,alfombra,carpet,1.0,núcleo manual/ROSETTA
+ka,CASA,továllo,toalla,towel,1.0,núcleo manual/ROSETTA
+ka,CASA,tékto,techo,roof,1.0,núcleo manual/ROSETTA
+ka,CASA,váso,vaso,glass,1.0,núcleo manual/ROSETTA
+ka,CASA,fenéstra,ventana,window,0.6,keyword «ventana»
+ka,CASA,finéstro,ventana,window,0.6,keyword «ventana»
+ka,CASA,kaméro,cama,bed,0.6,keyword «cama»
+ka,CASA,kokinár,cocinar,cook,0.6,keyword «cocina»
+ka,CASA,kokvinár,cocinar,cook,0.6,keyword «cocina»
+ka,CASA,koltéllo,cuchillo de cocina,kitchen knife,0.6,keyword «cocina»
+ka,CASA,kussíno,almohada,pillow,0.6,keyword «almohada»
+ka,CASA,mongolfiéro,globo aerostatico,hot air balloon,0.6,keyword «atico»
+ka,CASA,méso,mesa,table,0.6,keyword «mesa»
+ka,CASA,paviménto,piso,floor,0.6,keyword «piso»
+ka,CASA,pórta,puerta,door,0.6,keyword «puerta»
+ka,CASA,séllo,silla,chair,0.6,keyword «silla»
+ka,CASA,villágo,aldea,village,0.6,keyword «aldea»
+ka,CASA,abríko,abrigo,coat,0.55,categoría BD «Casa»
+ka,CASA,kamisío,camisa,shirt,0.55,categoría BD «Casa»
+ka,CASA,kokleáro,cuchara,spoon,0.55,categoría BD «Casa»
+ka,CASA,lapído,lapiz,pencil,0.55,categoría BD «Casa»
+ka,CASA,makhíno,maquina,machine,0.55,categoría BD «Casa»
+ka,CASA,papíro,papel,paper,0.55,categoría BD «Casa»
+ka,CASA,pettíno,peine,comb,0.55,categoría BD «Casa»
+ka,CASA,róbo,ropa,clothes,0.55,categoría BD «Casa»
+ka,CASA,salóno,sala,living room,0.55,categoría BD «Casa»
+ka,CASA,sapóno,jabon,soap,0.55,categoría BD «Casa»
+ka,CASA,sombréro,sombrero,hat,0.55,categoría BD «Casa»
+ka,CASA,tenedóro,tenedor,fork,0.55,categoría BD «Casa»
+kor,CUERPO,brakhío,brazo,arm,1.0,núcleo manual/ROSETTA
+kor,CUERPO,búko,boca,mouth,1.0,núcleo manual/ROSETTA
+kor,CUERPO,díto,dedo,finger,1.0,núcleo manual/ROSETTA
+kor,CUERPO,dórso,espalda,back,1.0,núcleo manual/ROSETTA
+kor,CUERPO,genikúlo,rodilla,knee,1.0,núcleo manual/ROSETTA
+kor,CUERPO,kapíto,cabeza,head,1.0,núcleo manual/ROSETTA
+kor,CUERPO,kápo,cabeza,head,1.0,núcleo manual/ROSETTA
+kor,CUERPO,kóllo,cuello,neck,1.0,núcleo manual/ROSETTA
+kor,CUERPO,labío,labio,lip,1.0,núcleo manual/ROSETTA
+kor,CUERPO,muskúlo,musculo,muscle,1.0,núcleo manual/ROSETTA
+kor,CUERPO,máno,mano,hand,1.0,núcleo manual/ROSETTA
+kor,CUERPO,nérvo,nervio,nerve,1.0,núcleo manual/ROSETTA
+kor,CUERPO,okúlo,ojo,eye,1.0,núcleo manual/ROSETTA
+kor,CUERPO,pektóro,pecho,chest,1.0,núcleo manual/ROSETTA
+kor,CUERPO,pédo,pie,foot,1.0,núcleo manual/ROSETTA
+kor,CUERPO,pélo,piel,skin,1.0,núcleo manual/ROSETTA
+kor,CUERPO,sangúino,sangre,blood,1.0,núcleo manual/ROSETTA
+kor,CUERPO,serébro,cerebro,brain,1.0,núcleo manual/ROSETTA
+kor,CUERPO,stomáko,estomago,stomach,1.0,núcleo manual/ROSETTA
+kor,CUERPO,ungúlo,una,nail,1.0,núcleo manual/ROSETTA
+kor,CUERPO,búka,boca,mouth,0.6,keyword «boca»
+kor,CUERPO,jekóro,higado,liver,0.6,keyword «higado»
+kor,CUERPO,kordío,corazon,heart,0.6,keyword «corazon»
+kor,CUERPO,kunyáta,cunada,sister-in-law,0.6,keyword «una»
+kor,CUERPO,kunyáto,cunado,brother-in-law,0.6,keyword «una»
+kor,CUERPO,kérno,pierna,leg,0.6,keyword «pierna»
+kor,CUERPO,náso,nariz,nose,0.6,keyword «nariz»
+kor,CUERPO,ocúlo,ojo,eye,0.6,keyword «ojo»
+kor,CUERPO,pantalonsíno,pantalon corto,shorts,0.6,keyword «talon»
+kor,CUERPO,pantalonéso,pantalon,pants,0.6,keyword «talon»
+kor,CUERPO,partikulár,particular,particular,0.6,keyword «articul»
+kor,CUERPO,propriéto,propiedad,property,0.6,keyword «pie»
+kor,CUERPO,pulmóno,pulmon,lung,0.6,keyword «pulmon»
+kor,CUERPO,péllo,piel,skin,0.6,keyword «pie»
+kor,CUERPO,réno,rinon,kidney,0.6,keyword «rinon»
+kor,CUERPO,rúbro,rojo,red,0.6,keyword «ojo»
+kor,CUERPO,sangíno,sangre,blood,0.6,keyword «sangre»
+kor,CUERPO,tribunálo,tribunal,court,0.6,keyword «una»
+kor,CUERPO,tónno,atun,tuna,0.6,keyword «una»
+kor,CUERPO,vaka/vasíno,vacuna,vaccine,0.6,keyword «una»
+kor,CUERPO,ósso,hueso,bone,0.6,keyword «hueso»
+kor,CUERPO,allergío,alergia,allergy,0.55,categoría BD «Cuerpo»
+kor,CUERPO,anemío,anemia,anemia,0.55,categoría BD «Cuerpo»
+kor,CUERPO,anéllo,anillo,ring,0.55,categoría BD «Ropa»
+kor,CUERPO,arterío,arteria,artery,0.55,categoría BD «Cuerpo»
+kor,CUERPO,aurikúlo,oreja,ear,0.55,categoría BD «Cuerpo»
+kor,CUERPO,bakterío,bacteria,bacterium,0.55,categoría BD «Cuerpo»
+kor,CUERPO,blúso,blusa,blouse,0.55,categoría BD «Ropa»
+kor,CUERPO,brakialétto,pulsera,bracelet,0.55,categoría BD «Ropa»
+kor,CUERPO,bóto,botas,boots,0.55,categoría BD «Ropa»
+kor,CUERPO,celúlo,celula,cell,0.55,manual-pase3
+kor,CUERPO,diéto,dieta,diet,0.55,categoría BD «Cuerpo»
+kor,CUERPO,giáko,chaqueta,jacket,0.55,categoría BD «Ropa»
+kor,CUERPO,grembíulo,delantal,apron,0.55,categoría BD «Ropa»
+kor,CUERPO,gríppo,gripe,flu,0.55,categoría BD «Cuerpo»
+kor,CUERPO,guánto,guante,glove,0.55,categoría BD «Ropa»
+kor,CUERPO,gónno,falda,skirt,0.55,categoría BD «Ropa»
+kor,CUERPO,igiéno,higiene,hygiene,0.55,categoría BD «Cuerpo»
+kor,CUERPO,intestíno,intestino,intestine,0.55,categoría BD «Cuerpo»
+kor,CUERPO,jóya,joya,jewel,0.55,categoría BD «Ropa»
+kor,CUERPO,kappukío,gorra,cap,0.55,categoría BD «Ropa»
+kor,CUERPO,kravátto,corbata,tie,0.55,categoría BD «Ropa»
+kor,CUERPO,maglióno,sueter,sweater,0.55,categoría BD «Ropa»
+kor,CUERPO,mikrobío,microbio,microbe,0.55,categoría BD «Cuerpo»
+kor,CUERPO,okulío,gafas,glasses,0.55,categoría BD «Ropa»
+kor,CUERPO,pigiámo,pijama,pajamas,0.55,categoría BD «Ropa»
+kor,CUERPO,protéino,proteina,protein,0.55,categoría BD «Cuerpo»
+kor,CUERPO,reggiséno,sosten,bra,0.55,categoría BD «Ropa»
+kor,CUERPO,salúto,salud,health,0.55,categoría BD «Cuerpo»
+kor,CUERPO,sandálo,sandalia,sandal,0.55,categoría BD «Ropa»
+kor,CUERPO,sellúlo,celula,cell,0.55,categoría BD «Cuerpo»
+kor,CUERPO,siabátto,zapatilla,slipper,0.55,categoría BD «Ropa»
+kor,CUERPO,sikatríko,cicatriz,scar,0.55,categoría BD «Cuerpo»
+kor,CUERPO,sintúro,cinturon,belt,0.55,categoría BD «Ropa»
+kor,CUERPO,skhelétro,esqueleto,skeleton,0.55,categoría BD «Cuerpo»
+kor,CUERPO,ssiárpo,bufanda,scarf,0.55,categoría BD «Ropa»
+kor,CUERPO,syndrómo,sindrome,syndrome,0.55,categoría BD «Cuerpo»
+kor,CUERPO,tússo,tos,cough,0.55,categoría BD «Cuerpo»
+kor,CUERPO,vestíto,vestido,dress,0.55,categoría BD «Ropa»
+kor,CUERPO,virúso,virus,virus,0.55,categoría BD «Cuerpo»
+kor,CUERPO,vitamíno,vitamina,vitamin,0.55,categoría BD «Cuerpo»
+kor,CUERPO,véno,vena,vein,0.55,categoría BD «Cuerpo»
+kor,CUERPO,vésto,bata,robe,0.55,categoría BD «Ropa»
+me,MENTE,agénto,Ente Agente (el actor que ejecuta la acción),,1.0,núcleo manual/ROSETTA
+me,MENTE,iténto,Ente Instrumental (objeto/dispositivo medio),,1.0,núcleo manual/ROSETTA
+me,MENTE,káuso,"caso (circunstancia, asunto, caso jurídico/lógico)","case (circumstance, legal/logical case)",1.0,núcleo manual/ROSETTA
+me,MENTE,kóso,cosa,thing,1.0,núcleo manual/ROSETTA
+me,MENTE,paténto,Ente Paciente (recibe o sufre la acción),,1.0,núcleo manual/ROSETTA
+me,MENTE,ubénto,Ente Locativo (recinto/espacio de ubicación),,1.0,núcleo manual/ROSETTA
+me,MENTE,énto,Entidad / Ente neutro genérico,,1.0,núcleo manual/ROSETTA
+me,MENTE,amarélo,amarillo,yellow,0.6,corrección falso positivo p4
+me,MENTE,indolentío,indolencia,indolence,0.6,corrección falso positivo p4
+me,MENTE,aktóro,actor,actor,0.55,categoría BD «Arte»
+me,MENTE,alégro,alegria,joy,0.55,categoría BD «Emocion»
+me,MENTE,ambivalentío,ambivalencia,ambivalence,0.55,categoría BD «Emocion»
+me,MENTE,amóro,amor,love,0.55,categoría BD «Emocion»
+me,MENTE,ansietáto,ansiedad,anxiety,0.55,categoría BD «Emocion»
+me,MENTE,anímo,alma,soul,0.55,manual-pase2
+me,MENTE,apparénzo,apariencia,appearance,0.55,categoría BD «Abstractos»
+me,MENTE,armonío,armonia,harmony,0.55,categoría BD «Arte»
+me,MENTE,artísto,artista,artist,0.55,categoría BD «Arte»
+me,MENTE,atómo,atom,atom,0.55,categoría BD «Fisica»
+me,MENTE,býto,byte,byte,0.55,categoría BD «UnidadesSI»
+me,MENTE,cen,cien,hundred,0.55,categoría BD «Numeros»
+me,MENTE,célso,celsius,celsius,0.55,categoría BD «UnidadesSI»
+me,MENTE,delusióno,decepcion,disappointment,0.55,categoría BD «Emocion»
+me,MENTE,deskonfidentío,desconfianza,distrust,0.55,categoría BD «Emocion»
+me,MENTE,desínyo,diseno,design,0.55,categoría BD «Arte»
+me,MENTE,differénzo,diferencia,difference,0.55,categoría BD «Abstractos»
+me,MENTE,dolóro,dolor,pain,0.55,categoría BD «Emocion»
+me,MENTE,du,dos,two,0.55,categoría BD «Numeros»
+me,MENTE,dánsso,danza,dance,0.55,categoría BD «Arte»
+me,MENTE,dúfra,mitad,half,0.55,categoría BD «Numeros»
+me,MENTE,dúplo,doble,double,0.55,categoría BD «Numeros»
+me,MENTE,effétto,efecto,effect,0.55,categoría BD «Abstractos»
+me,MENTE,ekstasío,extasis,ecstasy,0.55,categoría BD «Emocion»
+me,MENTE,elektróno,electron,electron,0.55,categoría BD «Fisica»
+me,MENTE,energío,energia,energy,0.55,categoría BD «Fisica»
+me,MENTE,esisténzo,existencia,existence,0.55,categoría BD «Abstractos»
+me,MENTE,essénzo,esencia,essence,0.55,categoría BD «Abstractos»
+me,MENTE,euforío,euforia,euphoria,0.55,categoría BD «Emocion»
+me,MENTE,felisitáto,felicidad,happiness,0.55,categoría BD «Emocion»
+me,MENTE,furío,furia,fury,0.55,categoría BD «Emocion»
+me,MENTE,fíno,fin,end,0.55,categoría BD «Abstractos»
+me,MENTE,identítào,identidad,identity,0.55,categoría BD «Abstractos»
+me,MENTE,infiníto,infinito,infinity,0.55,categoría BD «Matematicas»
+me,MENTE,kin,cinco,five,0.55,categoría BD «Numeros»
+me,MENTE,konfidentío,confianza,trust,0.55,categoría BD «Emocion»
+me,MENTE,konsérto,concerto,concert,0.55,categoría BD «Arte»
+me,MENTE,kontrásto,contraste,contrast,0.55,categoría BD «Abstractos»
+me,MENTE,kvalkóso,algo,something,0.55,categoría BD «Abstractos»
+me,MENTE,káuzo,causa,cause,0.55,categoría BD «Abstractos»
+me,MENTE,kélvo,kelvin,kelvin,0.55,categoría BD «UnidadesSI»
+me,MENTE,kólpo,culpa,guilt,0.55,categoría BD «Emocion»
+me,MENTE,kónto,cuento,story,0.55,categoría BD «Arte»
+me,MENTE,kúa,cuatro,four,0.55,categoría BD «Numeros»
+me,MENTE,libérta,libertad,freedom,0.55,manual-pase2
+me,MENTE,melankolío,melancolia,melancholy,0.55,categoría BD «Emocion»
+me,MENTE,mil,mil,thousand,0.55,categoría BD «Numeros»
+me,MENTE,milióno,millon,million,0.55,categoría BD «Numeros»
+me,MENTE,modernitáto,modernidad,modernity,0.55,categoría BD «Abstractos»
+me,MENTE,métro,metro,meter,0.55,categoría BD «UnidadesSI»
+me,MENTE,mézzo,medio,"means, middle",0.55,categoría BD «Abstractos»
+me,MENTE,múltto,muchos,many,0.55,categoría BD «Numeros»
+me,MENTE,natúro,naturaleza,nature,0.55,categoría BD «Abstractos»
+me,MENTE,nauséo,asco,disgust,0.55,categoría BD «Emocion»
+me,MENTE,neutróno,neutron,neutron,0.55,categoría BD «Fisica»
+me,MENTE,niénto,nada,nothing,0.55,categoría BD «Abstractos»
+me,MENTE,nostalgío,nostalgia,nostalgia,0.55,categoría BD «Emocion»
+me,MENTE,nov,nueve,nine,0.55,categoría BD «Numeros»
+me,MENTE,novéllo,novela,novel,0.55,categoría BD «Arte»
+me,MENTE,nul,cero,zero,0.55,categoría BD «Numeros»
+me,MENTE,numéro,numero,number,0.55,categoría BD «Matematicas»
+me,MENTE,núllo,nada (filos.),nothingness,0.55,categoría BD «Abstractos»
+me,MENTE,odío,odio,hate,0.55,categoría BD «Emocion»
+me,MENTE,ok,ocho,eight,0.55,categoría BD «Numeros»
+me,MENTE,orgoglío,orgullo,pride,0.55,categoría BD «Emocion»
+me,MENTE,pau,pocos,few,0.55,categoría BD «Numeros»
+me,MENTE,pauróo,miedo,fear,0.55,categoría BD «Emocion»
+me,MENTE,pensiéro,pensamiento,thought,0.55,categoría BD «Abstractos»
+me,MENTE,piktúro,pintura,painting,0.55,categoría BD «Arte»
+me,MENTE,plaséro,placer,pleasure,0.55,categoría BD «Emocion»
+me,MENTE,poéto,poeta,poet,0.55,categoría BD «Arte»
+me,MENTE,prinsipío,principio,beginning,0.55,categoría BD «Abstractos»
+me,MENTE,progrésso,progreso,progress,0.55,categoría BD «Abstractos»
+me,MENTE,protóno,proton,proton,0.55,categoría BD «Fisica»
+me,MENTE,rabío,rabia,rage,0.55,categoría BD «Emocion»
+me,MENTE,ragióno,razon,reason,0.55,categoría BD «Abstractos»
+me,MENTE,reáltào,realidad,reality,0.55,categoría BD «Abstractos»
+me,MENTE,ritrátto,retrato,portrait,0.55,categoría BD «Arte»
+me,MENTE,rítmo,ritmo,rhythm,0.55,categoría BD «Arte»
+me,MENTE,seks,seis,six,0.55,categoría BD «Numeros»
+me,MENTE,sep,siete,seven,0.55,categoría BD «Numeros»
+me,MENTE,serenitáto,serenidad,serenity,0.55,categoría BD «Emocion»
+me,MENTE,sinémo,cine,cinema,0.55,categoría BD «Arte»
+me,MENTE,sirkúlo,circulo,circle,0.55,categoría BD «Matematicas»
+me,MENTE,skultúro,escultura,sculpture,0.55,categoría BD «Arte»
+me,MENTE,somigliánzo,semejanza,similarity,0.55,categoría BD «Abstractos»
+me,MENTE,spatío,espacio,space,0.55,categoría BD «Abstractos»
+me,MENTE,statúo,estatua,statue,0.55,categoría BD «Arte»
+me,MENTE,stylo,estilo,style,0.55,categoría BD «Arte»
+me,MENTE,surpréso,sorpresa,surprise,0.55,categoría BD «Emocion»
+me,MENTE,súmmo,suma,sum,0.55,categoría BD «Matematicas»
+me,MENTE,ten,diez,ten,0.55,categoría BD «Numeros»
+me,MENTE,terróro,terror,terror,0.55,categoría BD «Emocion»
+me,MENTE,theátro,teatro,theater,0.55,categoría BD «Arte»
+me,MENTE,tri,tres,three,0.55,categoría BD «Numeros»
+me,MENTE,tristésso,tristeza,sadness,0.55,categoría BD «Emocion»
+me,MENTE,triín,tercero,third,0.55,categoría BD «Numeros»
+me,MENTE,trífra,tercio,third (frac.),0.55,categoría BD «Numeros»
+me,MENTE,tríple,triple,triple,0.55,categoría BD «Numeros»
+me,MENTE,tútto,todo,everything,0.55,categoría BD «Abstractos»
+me,MENTE,un,uno,one,0.55,categoría BD «Numeros»
+me,MENTE,vergonío,vergüenza,shame,0.55,categoría BD «Emocion»
+me,MENTE,veríta,verdad,truth,0.55,manual-pase2
+me,MENTE,zelóso,celos,jealousy,0.55,categoría BD «Emocion»
+me,MENTE,árto,arte,art,0.55,categoría BD «Arte»
+me,MENTE,íro,ira,anger,0.55,categoría BD «Emocion»
+me,MENTE,ómno,todo (cuantificador),all,0.55,manual-pase3
+me,MENTE,ómo,ohmio,ohm,0.55,categoría BD «UnidadesSI»
+me,MENTE,únin,primero,first,0.55,categoría BD «Numeros»
+me,MENTE,úno,alguno,some,0.55,manual-pase3
+mor,MUERTE,fébro,fiebre,fever,1.0,núcleo manual/ROSETTA
+mor,MUERTE,maladío,enfermedad,illness,1.0,núcleo manual/ROSETTA
+mor,MUERTE,medisíno,medicina,medicine,1.0,núcleo manual/ROSETTA
+mor,MUERTE,mórto,muerte,death,1.0,núcleo manual/ROSETTA
+mor,MUERTE,ospitálo,hospital,hospital,1.0,núcleo manual/ROSETTA
+mor,MUERTE,vulnéro,herida,wound,1.0,núcleo manual/ROSETTA
+mor,MUERTE,hospitálo,hospital,hospital,0.6,keyword «hospital»
+mor,MUERTE,kanséro,cancer,cancer,0.6,keyword «cancer»
+mor,MUERTE,khirurgío,cirugia,surgery,0.6,keyword «cirugia»
+mor,MUERTE,medikíno,medicina,medicine,0.6,keyword «medicina»
+mor,MUERTE,muérte,muerto,dead,0.6,keyword «muerto»
+mor,MUERTE,pharmasiámo,farmacia,pharmacy,0.6,keyword «farmacia»
+mor,MUERTE,remedíumo,remedio,remedy,0.6,keyword «remedio»
+mor,MUERTE,symptómo,sintoma,symptom,0.6,keyword «sintoma»
+mor,MUERTE,analgesíko,analgésico,painkiller,0.55,categoría BD «Salud»
+mor,MUERTE,anestesío,anestesia,anesthesia,0.55,categoría BD «Salud»
+mor,MUERTE,antibiotíko,antibiotico,antibiotic,0.55,categoría BD «Salud»
+mor,MUERTE,distorsióno,esguince,sprain,0.55,categoría BD «Salud»
+mor,MUERTE,doktóro,doctor,doctor,0.55,manual-pase3
+mor,MUERTE,dóso,dosis,dose,0.55,categoría BD «Salud»
+mor,MUERTE,frattúro,fractura,fracture,0.55,categoría BD «Salud»
+mor,MUERTE,infermiéro,enfermero,nurse,0.55,categoría BD «Salud»
+mor,MUERTE,khirúrgo,cirujano,surgeon,0.55,categoría BD «Salud»
+mor,MUERTE,pólso,pulso,pulse,0.55,categoría BD «Salud»
+mor,MUERTE,trapiánto,transplante,transplant,0.55,categoría BD «Salud»
+mu,MOVIMIENTO,kamíno,camino,road,1.0,núcleo manual/ROSETTA
+mu,MOVIMIENTO,vío,via,"way, rail",1.0,núcleo manual/ROSETTA
+mu,MOVIMIENTO,aeropórto,aeropuerto,airport,0.6,keyword «aeropuerto»
+mu,MOVIMIENTO,autobúso,autobus,bus,0.6,keyword «auto»
+mu,MOVIMIENTO,autopattuglío,coche policial,police car,0.6,corrección falso positivo p4
+mu,MOVIMIENTO,autopómpo,coche bomberos,fire truck,0.6,corrección falso positivo p4
+mu,MOVIMIENTO,aviasío,avion,airplane,0.6,keyword «avion»
+mu,MOVIMIENTO,bisiklétto,bicicleta,bicycle,0.6,keyword «bicicleta»
+mu,MOVIMIENTO,buttikuláro,botella,bottle,0.6,keyword «bote»
+mu,MOVIMIENTO,elikottéro,helicoptero,helicopter,0.6,keyword «helicoptero»
+mu,MOVIMIENTO,fortíe,fuerza,strength,0.6,keyword «tren»
+mu,MOVIMIENTO,indirízzo,direccion,address,0.6,keyword «direccion»
+mu,MOVIMIENTO,kamióno,camion,truck,0.6,keyword «camion»
+mu,MOVIMIENTO,karótto,zanahoria,carrot,0.6,keyword «carro»
+mu,MOVIMIENTO,motóro,motor,engine,0.6,keyword «moto»
+mu,MOVIMIENTO,móto,moto,motorcycle,0.6,keyword «moto»
+mu,MOVIMIENTO,návo,navio,ship,0.6,keyword «navio»
+mu,MOVIMIENTO,pónto,puente,bridge,0.6,keyword «puente»
+mu,MOVIMIENTO,róto,rueda,wheel,0.6,keyword «rueda»
+mu,MOVIMIENTO,to,a (direccion),to,0.6,keyword «direccion»
+mu,MOVIMIENTO,trámo,tranvia,tram,0.6,keyword «via»
+mu,MOVIMIENTO,tréno,tren,train,0.6,keyword «tren»
+mu,MOVIMIENTO,vikólo,calle,street,0.6,keyword «calle»
+mu,MOVIMIENTO,yákhto,yate,yacht,0.6,keyword «yate»
+mu,MOVIMIENTO,áuto,coche,car,0.6,keyword «coche»
+mu,MOVIMIENTO,ambulánzo,ambulancia,ambulance,0.55,categoría BD «Transporte»
+mu,MOVIMIENTO,bárko,barca,boat,0.55,categoría BD «Transporte»
+mu,MOVIMIENTO,eskavatóro,excavadora,excavator,0.55,categoría BD «Transporte»
+mu,MOVIMIENTO,kanóo,canoa,canoe,0.55,categoría BD «Transporte»
+mu,MOVIMIENTO,karrétto,carreta,cart,0.55,categoría BD «Transporte»
+mu,MOVIMIENTO,karrózzo,carruaje,carriage,0.55,categoría BD «Transporte»
+mu,MOVIMIENTO,metrópo,metro (transporte),subway,0.55,categoría BD «Transporte»
+mu,MOVIMIENTO,monopattíno,patinete,scooter,0.55,categoría BD «Transporte»
+mu,MOVIMIENTO,slítto,trineo,sled,0.55,categoría BD «Transporte»
+mu,MOVIMIENTO,taksío,taxi,taxi,0.55,categoría BD «Transporte»
+mu,MOVIMIENTO,trattóro,tractor,tractor,0.55,categoría BD «Transporte»
+mu,MOVIMIENTO,veliéro,velero,sailboat,0.55,categoría BD «Transporte»
+mu,MOVIMIENTO,zattéro,balsa,raft,0.55,categoría BD «Transporte»
+nu,COMIDA,asetáto,vinagre,vinegar,1.0,núcleo manual/ROSETTA
+nu,COMIDA,bútyro,mantequilla,butter,1.0,núcleo manual/ROSETTA
+nu,COMIDA,insaláto,ensalada,salad,1.0,núcleo manual/ROSETTA
+nu,COMIDA,khokoláto,chocolate,chocolate,1.0,núcleo manual/ROSETTA
+nu,COMIDA,késo,queso,cheese,1.0,núcleo manual/ROSETTA
+nu,COMIDA,lákto,leche,milk,1.0,núcleo manual/ROSETTA
+nu,COMIDA,oléo,aceite,oil,1.0,núcleo manual/ROSETTA
+nu,COMIDA,páno,pan,bread,1.0,núcleo manual/ROSETTA
+nu,COMIDA,pásto,pasta,pasta,1.0,núcleo manual/ROSETTA
+nu,COMIDA,pízzo,pizza,pizza,1.0,núcleo manual/ROSETTA
+nu,COMIDA,ríso,arroz,rice,1.0,núcleo manual/ROSETTA
+nu,COMIDA,sópo,sopa,soup,1.0,núcleo manual/ROSETTA
+nu,COMIDA,súkro,azucar,sugar,1.0,núcleo manual/ROSETTA
+nu,COMIDA,óvo,huevo,egg,1.0,núcleo manual/ROSETTA
+nu,COMIDA,angurío,sandia,watermelon,0.6,keyword «sandia»
+nu,COMIDA,anyéllo,cordero,lamb,0.6,keyword «cordero»
+nu,COMIDA,appúlo,manzana,apple,0.6,keyword «manzana»
+nu,COMIDA,aragósto,langosta,lobster,0.6,keyword «langosta»
+nu,COMIDA,arakhído,cacahuete,peanut,0.6,keyword «cacahuete»
+nu,COMIDA,aránse,naranja (color),orange,0.6,keyword «naranja»
+nu,COMIDA,avéno,avena,oats,0.6,keyword «avena»
+nu,COMIDA,bovído,carne de vaca,beef,0.6,keyword «carne»
+nu,COMIDA,bovíno,carne de vaca,beef,0.6,keyword «carne»
+nu,COMIDA,bírro,cerveza,beer,0.6,keyword «cerveza»
+nu,COMIDA,esperár,esperar,"wait, hope",0.6,keyword «pera»
+nu,COMIDA,fagiólo,frijol,bean,0.6,keyword «frijol»
+nu,COMIDA,fazzolétto,panuelo,handkerchief,0.6,keyword «pan»
+nu,COMIDA,fragólo,fresa,strawberry,0.6,keyword «fresa»
+nu,COMIDA,fíko,higo,fig,0.6,keyword «higo»
+nu,COMIDA,grankhío,cangrejo,crab,0.6,keyword «cangrejo»
+nu,COMIDA,gráno,trigo,wheat,0.6,keyword «trigo»
+nu,COMIDA,impréso,empresa,company,0.6,keyword «pan»
+nu,COMIDA,kanéstro,canasto,basket,0.6,corrección falso positivo p4
+nu,COMIDA,kastányo,castana,chestnut,0.6,keyword «castana»
+nu,COMIDA,káfo,cafe,coffee,0.6,keyword «cafe»
+nu,COMIDA,kárno,carne,"meat, flesh",0.6,keyword «carne»
+nu,COMIDA,kózzo,mejillon,mussel,0.6,keyword «mejillon»
+nu,COMIDA,lentikhío,lenteja,lentil,0.6,keyword «lenteja»
+nu,COMIDA,limóno,limon,lemon,0.6,keyword «limon»
+nu,COMIDA,mandórlo,almendra,almond,0.6,keyword «almendra»
+nu,COMIDA,melográno,granada,pomegranate,0.6,keyword «granada»
+nu,COMIDA,melóno,melon,melon,0.6,keyword «melon»
+nu,COMIDA,merlúzzo,bacalao,cod,0.6,keyword «bacalao»
+nu,COMIDA,máiso,maiz,corn,0.6,keyword «maiz»
+nu,COMIDA,mángo,mango,mango,0.6,keyword «mango»
+nu,COMIDA,méllo,miel,honey,0.6,keyword «miel»
+nu,COMIDA,nokiólo,avellana,hazelnut,0.6,keyword «avellana»
+nu,COMIDA,orángo,naranja,orange,0.6,keyword «naranja»
+nu,COMIDA,ostríko,ostra,oyster,0.6,keyword «ostra»
+nu,COMIDA,paníko,panico,panic,0.6,keyword «pan»
+nu,COMIDA,papáio,papaya,papaya,0.6,keyword «papaya»
+nu,COMIDA,patéllo,sarten,frying pan,0.6,keyword «pan»
+nu,COMIDA,pistakhío,pistacho,pistachio,0.6,keyword «pistacho»
+nu,COMIDA,prúnyo,ciruela,plum,0.6,keyword «ciruela»
+nu,COMIDA,pésko,durazno,peach,0.6,keyword «durazno»
+nu,COMIDA,pólpo,pulpo,octopus,0.6,keyword «pulpo»
+nu,COMIDA,salmóno,salmon,salmon,0.6,keyword «salmon»
+nu,COMIDA,sardíno,sardina,sardine,0.6,keyword «sardina»
+nu,COMIDA,segálo,centeno,rye,0.6,keyword «centeno»
+nu,COMIDA,siliegío,cereza,cherry,0.6,keyword «cereza»
+nu,COMIDA,siséro,garbanzo,chickpea,0.6,keyword «garbanzo»
+nu,COMIDA,skhérmo,pantalla,screen,0.6,keyword «pan»
+nu,COMIDA,sperantío,esperanza,hope,0.6,keyword «pera»
+nu,COMIDA,sperár,esperar,hope/wait,0.6,keyword «pera»
+nu,COMIDA,timpáno,timbal,timpani,0.6,keyword «pan»
+nu,COMIDA,tróto,trucha,trout,0.6,keyword «trucha»
+nu,COMIDA,táko,pavo,turkey,0.6,keyword «pavo»
+nu,COMIDA,vitéllo,ternera,veal,0.6,keyword «ternera»
+nu,COMIDA,víno,vino,wine,0.6,keyword «vino»
+nu,COMIDA,órzo,cebada,barley,0.6,keyword «cebada»
+nu,COMIDA,úvo,uva,grape,0.6,keyword «uva»
+nu,COMIDA,allío,ajo,garlic,0.55,categoría BD «Comida»
+nu,COMIDA,ananáso,pine,pineapple,0.55,categoría BD «Alimentos»
+nu,COMIDA,laktúko,lechuga,lettuce,0.55,categoría BD «Comida»
+nu,COMIDA,lampóno,frambuesa,raspberry,0.55,categoría BD «Alimentos»
+nu,COMIDA,mirtíllo,arandano,blueberry,0.55,categoría BD «Alimentos»
+nu,COMIDA,núko,nuez,nut,0.55,categoría BD «Comida»
+nu,COMIDA,patáto,papa,potato,0.55,categoría BD «Comida»
+nu,COMIDA,pullástro,pollo,chicken,0.55,categoría BD «Comida»
+nu,COMIDA,písko,pescado,fish (food),0.55,categoría BD «Comida»
+nu,COMIDA,sálo,sal,salt,0.55,manual-pase3
+nu,COMIDA,sóio,soja,soy,0.55,categoría BD «Alimentos»
+nu,COMIDA,súko,jugo,juice,0.55,categoría BD «Comida»
+nu,COMIDA,tho,te,tea,0.55,categoría BD «Comida»
+nu,COMIDA,tomáto,tomate,tomato,0.55,categoría BD «Comida»
+pp,PREPOSICIÓN,de,de (posesion),of,0.9,clase funcional
+pp,PREPOSICIÓN,en,en,in,0.9,clase funcional
+pp,PREPOSICIÓN,ex,desde,from,0.9,clase funcional
+pp,PREPOSICIÓN,intér,entre,between,0.9,clase funcional
+pp,PREPOSICIÓN,kun,con,with,0.9,clase funcional
+pp,PREPOSICIÓN,per,por,"by, through",0.9,clase funcional
+pp,PREPOSICIÓN,pro,para,for,0.9,clase funcional
+pp,PREPOSICIÓN,sin,sin,without,0.9,clase funcional
+pp,PREPOSICIÓN,sub,bajo,under,0.9,clase funcional
+pp,PREPOSICIÓN,sup,sobre,over,0.9,clase funcional
+si,CIELO,lúmo,luz,light,1.0,núcleo manual/ROSETTA
+si,CIELO,lúna,luna,moon,1.0,núcleo manual/ROSETTA
+si,CIELO,nebúlo,niebla,fog,1.0,núcleo manual/ROSETTA
+si,CIELO,névo,nieve,snow,1.0,núcleo manual/ROSETTA
+si,CIELO,núbo,nube,cloud,1.0,núcleo manual/ROSETTA
+si,CIELO,spasío,espacio,space,1.0,núcleo manual/ROSETTA
+si,CIELO,stélla,estrella,star,1.0,núcleo manual/ROSETTA
+si,CIELO,sélo,cielo,sky,1.0,núcleo manual/ROSETTA
+si,CIELO,sólo,sol,sun,1.0,núcleo manual/ROSETTA
+si,CIELO,toníto,trueno,thunder,1.0,núcleo manual/ROSETTA
+si,CIELO,úmbro,sombra,shadow,1.0,núcleo manual/ROSETTA
+si,CIELO,astronomío,astronomia,astronomy,0.6,keyword «astro»
+si,CIELO,autúnno,otono,autumn,0.6,keyword «otono»
+si,CIELO,estáto,verano,summer,0.6,keyword «verano»
+si,CIELO,invérno,invierno,winter,0.6,keyword «invierno»
+si,CIELO,kósmo,cosmos,cosmos,0.6,keyword «cosmos»
+si,CIELO,ombréllo,sombrilla,parasol,0.6,keyword «sol»
+si,CIELO,primavéro,primavera,spring,0.6,keyword «primavera»
+si,CIELO,soldáto,soldado,soldier,0.6,keyword «sol»
+si,CIELO,solusío,solucion,solution,0.6,keyword «sol»
+si,CIELO,univérso,universo,universe,0.6,keyword «universo»
+si,CIELO,aéro,aire,air,0.55,manual-pase2
+si,CIELO,múndo,mundo,world,0.55,manual-pase2
+si,CIELO,orbíto,orbita,orbit,0.55,manual-pase3
+si,CIELO,vénto,viento,wind,0.55,manual-pase2
+sk,SONIDO,bibliothéko,biblioteca,library,0.6,corrección falso positivo p4
+sk,SONIDO,fláuto,flauta,flute,0.6,keyword «flauta»
+sk,SONIDO,gitárro,guitarra,guitar,0.6,keyword «guitarra»
+sk,SONIDO,intervísto,entrevista,interview,0.6,corrección falso positivo p4
+sk,SONIDO,kansío,cancion,song,0.6,keyword «cancion»
+sk,SONIDO,khiamáto,llamada,call,0.6,corrección falso positivo p4
+sk,SONIDO,kodíko,codigo,code,0.6,corrección falso positivo p4
+sk,SONIDO,kodíso,codigo legal,legal code,0.6,keyword «codigo»
+sk,SONIDO,korriéro,correo,mail,0.6,keyword «correo»
+sk,SONIDO,kárta,carta,letter,0.6,keyword «carta»
+sk,SONIDO,kárto,carta,"letter, card",0.6,keyword «carta»
+sk,SONIDO,littéro,letra,letter,0.6,keyword «letra»
+sk,SONIDO,líbro,libro,book,0.6,keyword «libro»
+sk,SONIDO,musíko,musica,music,0.6,keyword «musica»
+sk,SONIDO,notamusikálo,nota musical,note,0.6,keyword «musica»
+sk,SONIDO,novitáso,noticia,news,0.6,keyword «noticia»
+sk,SONIDO,orazióno,oracion,prayer,0.6,keyword «oracion»
+sk,SONIDO,parlár,hablar,speak,0.6,keyword «habla»
+sk,SONIDO,pianofórto,piano,piano,0.6,keyword «piano»
+sk,SONIDO,rekordár,recordar,remember,0.6,keyword «eco»
+sk,SONIDO,rivísto,revista,magazine,0.6,keyword «revista»
+sk,SONIDO,sik,seco,dry,0.6,keyword «eco»
+sk,SONIDO,symbólo,simbolo,symbol,0.6,keyword «simbolo»
+sk,SONIDO,tambúro,tambor,drum,0.6,keyword «tambor»
+sk,SONIDO,videokhiamáto,videollamada,video call,0.6,corrección falso positivo p4
+sk,SONIDO,violíno,violin,violin,0.6,keyword «violín»
+sk,SONIDO,angólo,angulo,angle,0.55,categoría BD «Educacion»
+sk,SONIDO,annunsío,anuncio,advertisement,0.55,categoría BD «Comunicacion»
+sk,SONIDO,anályso,analisis,analysis,0.55,categoría BD «Educacion»
+sk,SONIDO,apprendiménto,aprendizaje,learning,0.55,categoría BD «Educacion»
+sk,SONIDO,arkhívo,archivo,archive,0.55,categoría BD «Educacion»
+sk,SONIDO,armoníko,armonica,harmonica,0.55,categoría BD «Musica»
+sk,SONIDO,assiómo,axioma,axiom,0.55,categoría BD «Educacion»
+sk,SONIDO,biologío,biologia,biology,0.55,categoría BD «Educacion»
+sk,SONIDO,bústo,sobre (objeto),envelope,0.55,categoría BD «Comunicacion»
+sk,SONIDO,dáto,dato,data,0.55,categoría BD «Educacion»
+sk,SONIDO,eksamíno,examen,exam,0.55,categoría BD «Educacion»
+sk,SONIDO,eksperiménto,experimento,experiment,0.55,categoría BD «Educacion»
+sk,SONIDO,eksémplo,ejemplo,example,0.55,categoría BD «Educacion»
+sk,SONIDO,erróro,error,error,0.55,categoría BD «Educacion»
+sk,SONIDO,fagótto,fagot,bassoon,0.55,categoría BD «Musica»
+sk,SONIDO,fisarmoníko,acordeon,accordion,0.55,categoría BD «Musica»
+sk,SONIDO,fránko,sello,stamp,0.55,categoría BD «Comunicacion»
+sk,SONIDO,geographío,geografia,geography,0.55,categoría BD «Educacion»
+sk,SONIDO,geologío,geologia,geology,0.55,categoría BD «Educacion»
+sk,SONIDO,idéo,idea,idea,0.55,categoría BD «Educacion»
+sk,SONIDO,insenyaménto,enseianza,teaching,0.55,categoría BD «Educacion»
+sk,SONIDO,ipotéso,hipotesis,hypothesis,0.55,categoría BD «Educacion»
+sk,SONIDO,khimíko,quimica,chemistry,0.55,categoría BD «Educacion»
+sk,SONIDO,klarinétto,clarinete,clarinet,0.55,categoría BD «Musica»
+sk,SONIDO,klásso,clase,class,0.55,categoría BD «Educacion»
+sk,SONIDO,konossentío,conocimiento,knowledge,0.55,categoría BD «Educacion»
+sk,SONIDO,konstánto,constante,constant,0.55,categoría BD «Educacion»
+sk,SONIDO,konsépto,concepto,concept,0.55,categoría BD «Educacion»
+sk,SONIDO,ksilofóno,xilofono,xylophone,0.55,categoría BD «Musica»
+sk,SONIDO,kvadráto,cuadrado,square,0.55,categoría BD «Educacion»
+sk,SONIDO,leksío,leccion,lesson,0.55,categoría BD «Educacion»
+sk,SONIDO,linéo,linea,line,0.55,categoría BD «Educacion»
+sk,SONIDO,logíko,logica,logic,0.55,categoría BD «Educacion»
+sk,SONIDO,mathematíko,matematica,mathematics,0.55,categoría BD «Educacion»
+sk,SONIDO,mentíto,mentira,lie,0.55,categoría BD «Educacion»
+sk,SONIDO,methódo,metodo,method,0.55,categoría BD «Educacion»
+sk,SONIDO,mitténto,remitente,sender,0.55,categoría BD «Comunicacion»
+sk,SONIDO,modélo,modelo,model,0.55,categoría BD «Educacion»
+sk,SONIDO,muséo,museo,museum,0.55,categoría BD «Educacion»
+sk,SONIDO,nomíno,nombre,name,0.55,manual-pase2
+sk,SONIDO,nóto,nota,grade,0.55,categoría BD «Educacion»
+sk,SONIDO,obóo,oboe,oboe,0.55,categoría BD «Musica»
+sk,SONIDO,orgáno,organo,organ,0.55,categoría BD «Musica»
+sk,SONIDO,paradígmo,paradigma,paradigm,0.55,categoría BD «Educacion»
+sk,SONIDO,physíko,fisica,physics,0.55,categoría BD «Educacion»
+sk,SONIDO,poesío,poesia,poetry,0.55,manual-pase2
+sk,SONIDO,postuláto,postulado,postulate,0.55,categoría BD «Educacion»
+sk,SONIDO,praktíko,practica,practice,0.55,categoría BD «Educacion»
+sk,SONIDO,páko,paquete,package,0.55,categoría BD «Comunicacion»
+sk,SONIDO,púnkto,punto,point,0.55,categoría BD «Educacion»
+sk,SONIDO,reportéro,reportero,reporter,0.55,categoría BD «Comunicacion»
+sk,SONIDO,respónso,respuesta,answer,0.55,categoría BD «Educacion»
+sk,SONIDO,resultáto,resultado,result,0.55,categoría BD «Educacion»
+sk,SONIDO,risérko,investigacion,research,0.55,categoría BD «Educacion»
+sk,SONIDO,sassofóno,saxofon,saxophone,0.55,categoría BD «Musica»
+sk,SONIDO,ssientío,ciencia,science,0.55,categoría BD «Educacion»
+sk,SONIDO,stámpo,prensa,press,0.55,categoría BD «Comunicacion»
+sk,SONIDO,synthéso,sintesis,synthesis,0.55,categoría BD «Educacion»
+sk,SONIDO,síno,seno,sign,0.55,categoría BD «Comunicacion»
+sk,SONIDO,theorío,teoria,theory,0.55,categoría BD «Educacion»
+sk,SONIDO,triangúlo,triangulo,triangle,0.55,categoría BD «Educacion»
+sk,SONIDO,trombóno,trombon,trombone,0.55,categoría BD «Musica»
+sk,SONIDO,trómbo,trompeta,trumpet,0.55,categoría BD «Musica»
+sk,SONIDO,tubáo,tuba,tuba,0.55,categoría BD «Musica»
+sk,SONIDO,variabílo,variable,variable,0.55,categoría BD «Educacion»
+sk,SONIDO,veritáto,verdad,truth,0.55,categoría BD «Educacion»
+sk,SONIDO,violonséllo,violonchelo,cello,0.55,categoría BD «Musica»
+sk,SONIDO,árpo,arpa,harp,0.55,categoría BD «Musica»
+so,SOCIEDAD,distríkto,distrito,district,1.0,núcleo manual/ROSETTA
+so,SOCIEDAD,frátro,hermano,brother,1.0,núcleo manual/ROSETTA
+so,SOCIEDAD,impéro,imperio,empire,1.0,núcleo manual/ROSETTA
+so,SOCIEDAD,kontinénto,continente,continent,1.0,núcleo manual/ROSETTA
+so,SOCIEDAD,latéro,lado,side,1.0,núcleo manual/ROSETTA
+so,SOCIEDAD,lóko,lugar,place,1.0,núcleo manual/ROSETTA
+so,SOCIEDAD,metropólo,metropoli,metropolis,1.0,núcleo manual/ROSETTA
+so,SOCIEDAD,persóno,persona,person,1.0,núcleo manual/ROSETTA
+so,SOCIEDAD,provinsío,provincia,province,1.0,núcleo manual/ROSETTA
+so,SOCIEDAD,páiso,pais,country,1.0,núcleo manual/ROSETTA
+so,SOCIEDAD,regióno,region,region,1.0,núcleo manual/ROSETTA
+so,SOCIEDAD,rényo,reino,kingdom,1.0,núcleo manual/ROSETTA
+so,SOCIEDAD,soróra,hermana,sister,1.0,núcleo manual/ROSETTA
+so,SOCIEDAD,urbéstro,alcalde,mayor,1.0,núcleo manual/ROSETTA
+so,SOCIEDAD,áva,abuela,grandmother,1.0,núcleo manual/ROSETTA
+so,SOCIEDAD,ávo,abuelo,grandfather,1.0,núcleo manual/ROSETTA
+so,SOCIEDAD,Pdúin,segunda persona,second person,0.6,keyword «persona»
+so,SOCIEDAD,Ptríin,tercera persona,third person,0.6,keyword «persona»
+so,SOCIEDAD,Púnin,primera persona,first person,0.6,keyword «persona»
+so,SOCIEDAD,advokádo,abogado,lawyer,0.6,keyword «abogado»
+so,SOCIEDAD,advokáto,abogado,lawyer,0.6,keyword «abogado»
+so,SOCIEDAD,allenatóro,entrenador,coach,0.6,corrección falso positivo p4
+so,SOCIEDAD,angustío,angustia,anguish,0.6,keyword «tia»
+so,SOCIEDAD,asúm,asuncion (auxiliar),assumption,0.6,keyword «tio»
+so,SOCIEDAD,autóro,autor,author,0.6,corrección falso positivo p4
+so,SOCIEDAD,bisávo,bisabuelo,great-grandfather,0.6,keyword «abuelo»
+so,SOCIEDAD,bánko,banco,bank,0.6,keyword «banco»
+so,SOCIEDAD,definisío,definicion,definition,0.6,keyword «tio»
+so,SOCIEDAD,delítto,delito,crime,0.6,keyword «delito»
+so,SOCIEDAD,denarío,dinero,money,0.6,keyword «dinero»
+so,SOCIEDAD,dev,obligacion (auxiliar),obligation,0.6,keyword «tio»
+so,SOCIEDAD,deñéro,dinero,money,0.6,keyword «dinero»
+so,SOCIEDAD,dispréto,desprecio,contempt,0.6,keyword «precio»
+so,SOCIEDAD,déo,dios,god,0.6,keyword «dios»
+so,SOCIEDAD,eklesío,iglesia,church,0.6,keyword «iglesia»
+so,SOCIEDAD,ekléso,iglesia,church,0.6,keyword «iglesia»
+so,SOCIEDAD,eksersíto,ejercito,army,0.6,keyword «ejercito»
+so,SOCIEDAD,ekvasío,ecuacion,equation,0.6,keyword «tio»
+so,SOCIEDAD,ekvípo,equipo,team,0.6,keyword «equipo»
+so,SOCIEDAD,eleksío,eleccion,election,0.6,keyword «tio»
+so,SOCIEDAD,evolusío,evolucion,evolution,0.6,keyword «tio»
+so,SOCIEDAD,familío,familia,family,0.6,keyword «familia»
+so,SOCIEDAD,frustrasío,frustracion,frustration,0.6,keyword «tio»
+so,SOCIEDAD,funkzío,funcion,function,0.6,keyword «tio»
+so,SOCIEDAD,fíla,hija,daughter,0.6,keyword «hija»
+so,SOCIEDAD,fílo,hijo,son,0.6,keyword «hijo»
+so,SOCIEDAD,giokatóro,jugador,player,0.6,keyword «jugador»
+so,SOCIEDAD,gobiérno,gobierno,government,0.6,keyword «gobierno»
+so,SOCIEDAD,govérno,gobierno,government,0.6,keyword «gobierno»
+so,SOCIEDAD,guéra,guerra,war,0.6,keyword «guerra»
+so,SOCIEDAD,gérro,guerra,war,0.6,keyword «guerra»
+so,SOCIEDAD,hóma,mujer,woman,0.6,keyword «mujer»
+so,SOCIEDAD,hómo,hombre (varon),man (adult male),0.6,keyword «hombre»
+so,SOCIEDAD,impósto,impuesto,tax,0.6,keyword «impuesto»
+so,SOCIEDAD,infeksío,infeccion,infection,0.6,keyword «tio»
+so,SOCIEDAD,inflamasío,inflamacion,inflammation,0.6,keyword «tio»
+so,SOCIEDAD,informasío,informacion,information,0.6,keyword «tio»
+so,SOCIEDAD,infánta,nina,child (girl),0.6,keyword «nina»
+so,SOCIEDAD,infánto,nino,child (boy),0.6,keyword «nino»
+so,SOCIEDAD,ingiustizíe,injusticia,injustice,0.6,keyword «justicia»
+so,SOCIEDAD,irritasío,irritacion,irritation,0.6,keyword «tio»
+so,SOCIEDAD,judíko,juez,judge,0.6,keyword «juez»
+so,SOCIEDAD,justitío,justicia,justice,0.6,keyword «justicia»
+so,SOCIEDAD,juvéne,joven,young,0.6,keyword «joven»
+so,SOCIEDAD,júro,derecho,"right, law",0.6,keyword «derecho»
+so,SOCIEDAD,karséro,carcel,prison,0.6,keyword «carcel»
+so,SOCIEDAD,kommersío,comercio,commerce,0.6,keyword «comercio»
+so,SOCIEDAD,konstitusío,constitucion,constitution,0.6,keyword «tio»
+so,SOCIEDAD,konsúmo,consumo,consumption,0.6,keyword «tio»
+so,SOCIEDAD,kontrabbásso,contrabajo,double bass,0.6,keyword «trabajo»
+so,SOCIEDAD,koraggíe,valentia,courage,0.6,keyword «tia»
+so,SOCIEDAD,kvestío,pregunta,question,0.6,keyword «tio»
+so,SOCIEDAD,légo,ley,law,0.6,keyword «ley»
+so,SOCIEDAD,maéstro,maestro,teacher,0.6,keyword «maestro»
+so,SOCIEDAD,medalío,medalla,medal,0.6,keyword «medalla»
+so,SOCIEDAD,mne,memoria (auxiliar),evidential memoria,0.6,keyword «tia»
+so,SOCIEDAD,monéto,moneda,currency,0.6,keyword «moneda»
+so,SOCIEDAD,mátro,madre,mother,0.6,keyword «madre»
+so,SOCIEDAD,nasío,nacion,nation,0.6,keyword «tio»
+so,SOCIEDAD,ne,negacion (auxiliar),negation,0.6,keyword «tio»
+so,SOCIEDAD,normál,normal,normal,0.6,keyword «norma»
+so,SOCIEDAD,paesaggío,paisaje,landscape,0.6,keyword «pais»
+so,SOCIEDAD,pallavólo,voleibol,volleyball,0.6,keyword «ley»
+so,SOCIEDAD,pellegrinaggío,peregrinacion,pilgrimage,0.6,keyword «nacion»
+so,SOCIEDAD,popólo,pueblo,people,0.6,keyword «pueblo»
+so,SOCIEDAD,premío,premio,prize,0.6,keyword «premio»
+so,SOCIEDAD,presidénto,presidente,president,0.6,keyword «presidente»
+so,SOCIEDAD,presío,precio,price,0.6,keyword «precio»
+so,SOCIEDAD,produksío,produccion,production,0.6,keyword «tio»
+so,SOCIEDAD,prímo,primo,cousin (masc),0.6,keyword «primo»
+so,SOCIEDAD,páco,paz,peace,0.6,keyword «paz»
+so,SOCIEDAD,páso,paz,peace,0.6,keyword «paz»
+so,SOCIEDAD,pátro,padre,father,0.6,keyword «padre»
+so,SOCIEDAD,regolaménto,reglamento,regulation,0.6,keyword «tio»
+so,SOCIEDAD,regíno,reina,queen,0.6,keyword «reina»
+so,SOCIEDAD,relasío,relacion,relation,0.6,keyword «tio»
+so,SOCIEDAD,risétto,receta,prescription,0.6,keyword «tio»
+so,SOCIEDAD,rivolusío,revolucion,revolution,0.6,keyword «tio»
+so,SOCIEDAD,ro,rey,king,0.6,keyword «rey»
+so,SOCIEDAD,ríto,rito,rite,0.6,keyword «rito»
+so,SOCIEDAD,serimonío,ceremonia,ceremony,0.6,keyword «ceremonia»
+so,SOCIEDAD,sivilisasío,civilizacion,civilization,0.6,keyword «tio»
+so,SOCIEDAD,sivitáno,ciudadano,citizen,0.6,keyword «ciudadano»
+so,SOCIEDAD,skhólo,escuela,school,0.6,keyword «escuela»
+so,SOCIEDAD,skriptóro,escritor,writer,0.6,keyword «rito»
+so,SOCIEDAD,sobríno,sobrino,nephew,0.6,keyword «sobrino»
+so,SOCIEDAD,soróro,hermana,sister,0.6,keyword «hermana»
+so,SOCIEDAD,spórto,deporte,sport,0.6,keyword «deporte»
+so,SOCIEDAD,tradisío,tradicion,tradition,0.6,keyword «tio»
+so,SOCIEDAD,transakzío,transaccion,transaction,0.6,keyword «tio»
+so,SOCIEDAD,trisávo,tatarabuelo,great-great-grandfather,0.6,keyword «abuelo»
+so,SOCIEDAD,témplo,templo,temple,0.6,keyword «templo»
+so,SOCIEDAD,tía,tia,aunt,0.6,keyword «tia»
+so,SOCIEDAD,universitáto,universidad,university,0.6,keyword «universidad»
+so,SOCIEDAD,vol,volicion (auxiliar),volition,0.6,keyword «tio»
+so,SOCIEDAD,váto,vatio,watt,0.6,keyword «tio»
+so,SOCIEDAD,vólto,voltio,volt,0.6,keyword «tio»
+so,SOCIEDAD,zióro,tio,uncle,0.6,keyword «tio»
+so,SOCIEDAD,Ílo,lo mencionado (anforico),the aforementioned,0.6,keyword «tio»
+so,SOCIEDAD,agrikultúro,agricultura,agriculture,0.55,categoría BD «Economia»
+so,SOCIEDAD,akusáto,acusado,accused,0.55,categoría BD «Legal»
+so,SOCIEDAD,akórdo,acuerdo,agreement,0.55,categoría BD «Legal»
+so,SOCIEDAD,altáro,altar,altar,0.55,categoría BD «Religion»
+so,SOCIEDAD,arrampikáto,escalada,climbing,0.55,categoría BD «Deportes»
+so,SOCIEDAD,assedío,asedio,siege,0.55,categoría BD «Militar»
+so,SOCIEDAD,atletíko,atletismo,athletics,0.55,categoría BD «Deportes»
+so,SOCIEDAD,atléto,atleta,athlete,0.55,categoría BD «Deporte»
+so,SOCIEDAD,ballóno,balon,ball,0.55,categoría BD «Deporte»
+so,SOCIEDAD,basebállo,beisbol,baseball,0.55,categoría BD «Deportes»
+so,SOCIEDAD,battaglío,batalla,battle,0.55,categoría BD «Militar»
+so,SOCIEDAD,benefisío,beneficio,benefit,0.55,categoría BD «Economia»
+so,SOCIEDAD,bisnipóto,bisnieto,great-grandson,0.55,categoría BD «Familia»
+so,SOCIEDAD,bókso,boxeo,boxing,0.55,categoría BD «Deporte»
+so,SOCIEDAD,debíto,deuda,debt,0.55,categoría BD «Economia»
+so,SOCIEDAD,dekréto,decreto,decree,0.55,categoría BD «Legal»
+so,SOCIEDAD,demokratío,democracia,democracy,0.55,categoría BD «Sociedad»
+so,SOCIEDAD,demokráto,democracia,democracy,0.55,manual-pase2
+so,SOCIEDAD,difensóro,defensor,defender,0.55,categoría BD «Legal»
+so,SOCIEDAD,domándo,demanda,lawsuit,0.55,categoría BD «Legal»
+so,SOCIEDAD,dámno,perjuicio,harm,0.55,categoría BD «Economia»
+so,SOCIEDAD,dógmo,dogma,dogma,0.55,categoría BD «Religion»
+so,SOCIEDAD,ekvalitáto,igualdad,equality,0.55,categoría BD «Sociedad»
+so,SOCIEDAD,ekvitazióno,equitacion,horseback riding,0.55,categoría BD «Deportes»
+so,SOCIEDAD,eredíto,herencia,inheritance,0.55,categoría BD «Legal»
+so,SOCIEDAD,eskursionísmo,senderismo,hiking,0.55,categoría BD «Deportes»
+so,SOCIEDAD,faktúro,factura,invoice,0.55,categoría BD «Economia»
+so,SOCIEDAD,fiskálo,fiscal,prosecutor,0.55,categoría BD «Legal»
+so,SOCIEDAD,footbállo,futbol,football,0.55,categoría BD «Deporte»
+so,SOCIEDAD,frontiéro,frontera,border,0.55,categoría BD «Sociedad»
+so,SOCIEDAD,fálto,falta,offense,0.55,categoría BD «Legal»
+so,SOCIEDAD,fédo,fe,faith,0.55,categoría BD «Religion»
+so,SOCIEDAD,generálo,general (grado),general,0.55,categoría BD «Militar»
+so,SOCIEDAD,genéro,yerno,son-in-law,0.55,categoría BD «Familia»
+so,SOCIEDAD,guadányo,ganancia,profit,0.55,categoría BD «Economia»
+so,SOCIEDAD,gubernatóro,gobernador,governor,0.55,categoría BD «Sociedad»
+so,SOCIEDAD,gymnasíumo,gimnasio,gym,0.55,categoría BD «Deporte»
+so,SOCIEDAD,gólfo,golfo,gulf,0.55,categoría BD «Deporte»
+so,SOCIEDAD,industrío,industria,industry,0.55,categoría BD «Economia»
+so,SOCIEDAD,ingeniéro,ingeniero,engineer,0.55,categoría BD «Sociedad»
+so,SOCIEDAD,innosénto,inocente,innocent,0.55,categoría BD «Legal»
+so,SOCIEDAD,investménto,inversion,investment,0.55,categoría BD «Economia»
+so,SOCIEDAD,istorío,historia,history,0.55,manual-pase2
+so,SOCIEDAD,jóko,juego,game,0.55,categoría BD «Deporte»
+so,SOCIEDAD,kampióno,campeon,champion,0.55,categoría BD «Deporte»
+so,SOCIEDAD,kanottaggío,remo,rowing,0.55,categoría BD «Deportes»
+so,SOCIEDAD,kapitálo,capital,capital city,0.55,categoría BD «Sociedad»
+so,SOCIEDAD,kapitáno,capitan,captain,0.55,categoría BD «Sociedad»
+so,SOCIEDAD,kaporálo,cabo,corporal,0.55,categoría BD «Militar»
+so,SOCIEDAD,kastéllo,castillo,castle,0.55,categoría BD «Sociedad»
+so,SOCIEDAD,kolonnéllo,coronel,colonel,0.55,categoría BD «Militar»
+so,SOCIEDAD,kolpevólo,culpable,guilty,0.55,categoría BD «Legal»
+so,SOCIEDAD,kontráto,contrato,contract,0.55,categoría BD «Economia»
+so,SOCIEDAD,kredénzo,creencia,belief,0.55,categoría BD «Religion»
+so,SOCIEDAD,kredíto,credito,credit,0.55,categoría BD «Economia»
+so,SOCIEDAD,kultúro,cultura,culture,0.55,categoría BD «Sociedad»
+so,SOCIEDAD,kásoro,cazador,hunter,0.55,manual-pase3
+so,SOCIEDAD,kórso,carrera,race,0.55,categoría BD «Deporte»
+so,SOCIEDAD,kósto,costo,cost,0.55,categoría BD «Economia»
+so,SOCIEDAD,lansío,lanza,spear,0.55,categoría BD «Militar»
+so,SOCIEDAD,lúkta,lucha,wrestling,0.55,categoría BD «Deporte»
+so,SOCIEDAD,merkanzío,mercancia,merchandise,0.55,categoría BD «Economia»
+so,SOCIEDAD,minístro,ministro,minister,0.55,categoría BD «Sociedad»
+so,SOCIEDAD,monáko,monje,monk,0.55,categoría BD «Religion»
+so,SOCIEDAD,moskhéo,mezquita,mosque,0.55,categoría BD «Religion»
+so,SOCIEDAD,múlto,multa,fine,0.55,categoría BD «Legal»
+so,SOCIEDAD,múro,muro,wall,0.55,categoría BD «Sociedad»
+so,SOCIEDAD,nepóta,sobrina,niece,0.55,categoría BD «Familia»
+so,SOCIEDAD,nepóto,nieto,grandson,0.55,categoría BD «Familia»
+so,SOCIEDAD,nuotasío,natacion,swimming,0.55,categoría BD «Deporte»
+so,SOCIEDAD,népto,nieta,granddaughter,0.55,categoría BD «Familia»
+so,SOCIEDAD,nóro,nuera,daughter-in-law,0.55,categoría BD «Familia»
+so,SOCIEDAD,offérto,ofrenda,offering,0.55,categoría BD «Religion»
+so,SOCIEDAD,pagaménto,pago,payment,0.55,categoría BD «Economia»
+so,SOCIEDAD,palatío,palacio,palace,0.55,categoría BD «Sociedad»
+so,SOCIEDAD,pallakanéstro,baloncesto,basketball,0.55,categoría BD «Deportes»
+so,SOCIEDAD,partído,partido,party,0.55,manual-pase2
+so,SOCIEDAD,partíto,partido,party,0.55,categoría BD «Sociedad»
+so,SOCIEDAD,patrío,patria,homeland,0.55,categoría BD «Sociedad»
+so,SOCIEDAD,pattinaggío,patinaje,skating,0.55,categoría BD «Deportes»
+so,SOCIEDAD,pekáto,pecado,sin,0.55,categoría BD «Religion»
+so,SOCIEDAD,perdíto,perdida,loss,0.55,categoría BD «Economia»
+so,SOCIEDAD,pesistíko,halterofilia,weightlifting,0.55,categoría BD «Deportes»
+so,SOCIEDAD,platío,plaza,square,0.55,categoría BD «Sociedad»
+so,SOCIEDAD,politío,policia,police,0.55,categoría BD «Sociedad»
+so,SOCIEDAD,povertáto,pobreza,poverty,0.55,categoría BD «Economia»
+so,SOCIEDAD,professóro,profesor,professor,0.55,categoría BD «Sociedad»
+so,SOCIEDAD,prína,prima,cousin (fem),0.55,categoría BD «Familia»
+so,SOCIEDAD,próvo,prueba,evidence,0.55,categoría BD «Legal»
+so,SOCIEDAD,publisitáto,publicidad,advertising,0.55,categoría BD «Sociedad»
+so,SOCIEDAD,publíka,publicidad,publicity,0.55,manual-pase2
+so,SOCIEDAD,punteggío,puntaje,score,0.55,categoría BD «Deporte»
+so,SOCIEDAD,pápo,papa (sumo pontifice),pope,0.55,categoría BD «Religion»
+so,SOCIEDAD,péno,pena,penalty,0.55,categoría BD «Legal»
+so,SOCIEDAD,regúlo,regla,rule,0.55,categoría BD «Deporte»
+so,SOCIEDAD,republíko,republica,republic,0.55,manual-pase2
+so,SOCIEDAD,resipúto,recibo,receipt,0.55,categoría BD «Economia»
+so,SOCIEDAD,rikvézo,riqueza,wealth,0.55,categoría BD «Economia»
+so,SOCIEDAD,ritiráto,retirada,retreat,0.55,categoría BD «Militar»
+so,SOCIEDAD,rúgbyo,rugby,rugby,0.55,categoría BD «Deportes»
+so,SOCIEDAD,sakrifisío,sacrificio,sacrifice,0.55,categoría BD «Religion»
+so,SOCIEDAD,sententío,sentencia,sentence,0.55,categoría BD «Legal»
+so,SOCIEDAD,sergénto,sargento,sergeant,0.55,categoría BD «Militar»
+so,SOCIEDAD,siklísmo,ciclismo,cycling,0.55,categoría BD «Deportes»
+so,SOCIEDAD,sinagógo,sinagoga,synagogue,0.55,categoría BD «Religion»
+so,SOCIEDAD,sitáto,ciudad,city,0.55,categoría BD «Sociedad»
+so,SOCIEDAD,skonfítto,derrota,defeat,0.55,categoría BD «Militar»
+so,SOCIEDAD,skáko,ajedrez,chess,0.55,categoría BD «Deporte»
+so,SOCIEDAD,skío,esqui,skiing,0.55,categoría BD «Deportes»
+so,SOCIEDAD,skúto,escudo,shield,0.55,categoría BD «Sociedad»
+so,SOCIEDAD,sosietáto,sociedad,society,0.55,categoría BD «Sociedad»
+so,SOCIEDAD,soséro,suegro,father-in-law,0.55,categoría BD «Familia»
+so,SOCIEDAD,spádo,espada,sword,0.55,categoría BD «Militar»
+so,SOCIEDAD,spádro,esgrima,fencing,0.55,categoría BD «Deportes»
+so,SOCIEDAD,stadío,estadio,stadium,0.55,categoría BD «Deporte»
+so,SOCIEDAD,strategío,estrategia,strategy,0.55,categoría BD «Militar»
+so,SOCIEDAD,státo,estado,state,0.55,categoría BD «Sociedad»
+so,SOCIEDAD,suéro,suegra,mother-in-law,0.55,categoría BD «Familia»
+so,SOCIEDAD,suóro,monja,nun,0.55,categoría BD «Religion»
+so,SOCIEDAD,sálto,salto,jump,0.55,categoría BD «Deporte»
+so,SOCIEDAD,síbda,ciudad,city,0.55,categoría BD «Sociedad»
+so,SOCIEDAD,súrfo,surf,surfing,0.55,categoría BD «Deportes»
+so,SOCIEDAD,tattíko,tactica,tactic,0.55,categoría BD «Militar»
+so,SOCIEDAD,tenníso,tenis,tennis,0.55,categoría BD «Deporte»
+so,SOCIEDAD,tenénto,teniente,lieutenant,0.55,categoría BD «Militar»
+so,SOCIEDAD,testaménto,testamento,will,0.55,categoría BD «Legal»
+so,SOCIEDAD,testimonío,testimonio,testimony,0.55,categoría BD «Legal»
+so,SOCIEDAD,testémo,testigo,witness,0.55,categoría BD «Legal»
+so,SOCIEDAD,tornéo,torneo,tournament,0.55,categoría BD «Deporte»
+so,SOCIEDAD,troféo,trofeo,trophy,0.55,categoría BD «Deporte»
+so,SOCIEDAD,tróupo,tropa,troop,0.55,categoría BD «Militar»
+so,SOCIEDAD,tásso,tasa,rate,0.55,categoría BD «Economia»
+so,SOCIEDAD,túrro,torre,tower,0.55,categoría BD «Sociedad»
+so,SOCIEDAD,valóro,valor,value,0.55,categoría BD «Economia»
+so,SOCIEDAD,veskóvo,obispo,bishop,0.55,categoría BD «Religion»
+so,SOCIEDAD,viktorío,victoria,victory,0.55,manual-pase3
+so,SOCIEDAD,vittímo,victima,victim,0.55,categoría BD «Legal»
+so,SOCIEDAD,vélo,vela deportiva,sailing,0.55,categoría BD «Deportes»
+so,SOCIEDAD,vóto,voto,vote,0.55,categoría BD «Sociedad»
+so,SOCIEDAD,ármo,arma,weapon,0.55,categoría BD «Sociedad»
+tem,TIEMPO,dekádo,decada,decade,1.0,núcleo manual/ROSETTA
+tem,TIEMPO,futúro,futuro,future,1.0,núcleo manual/ROSETTA
+tem,TIEMPO,instánto,instante,instant,1.0,núcleo manual/ROSETTA
+tem,TIEMPO,khronométro,cronometro,stopwatch,1.0,núcleo manual/ROSETTA
+tem,TIEMPO,lúno,mes (unidad de tiempo),month,1.0,núcleo manual/ROSETTA
+tem,TIEMPO,matíno,manana,morning,1.0,núcleo manual/ROSETTA
+tem,TIEMPO,mediedío,mediodia,noon,1.0,núcleo manual/ROSETTA
+tem,TIEMPO,medienókto,medianoche,midnight,1.0,núcleo manual/ROSETTA
+tem,TIEMPO,millenío,milenio,millennium,1.0,núcleo manual/ROSETTA
+tem,TIEMPO,minúto,minuto,minute,1.0,núcleo manual/ROSETTA
+tem,TIEMPO,moménto,momento,moment,1.0,núcleo manual/ROSETTA
+tem,TIEMPO,orologío,reloj,clock,1.0,núcleo manual/ROSETTA
+tem,TIEMPO,postméso,tarde,afternoon,1.0,núcleo manual/ROSETTA
+tem,TIEMPO,presénto,presente,present,1.0,núcleo manual/ROSETTA
+tem,TIEMPO,sekúlo,siglo,century,1.0,núcleo manual/ROSETTA
+tem,TIEMPO,sekúndo,segundo,second,1.0,núcleo manual/ROSETTA
+tem,TIEMPO,septimáno,semana,week,1.0,núcleo manual/ROSETTA
+tem,TIEMPO,témpo,tiempo,time,1.0,núcleo manual/ROSETTA
+tem,TIEMPO,témpro,tiempo,time,1.0,núcleo manual/ROSETTA
+tem,TIEMPO,vespéro,atardecer,dusk,1.0,núcleo manual/ROSETTA
+tem,TIEMPO,álbo,madrugada,early morning,1.0,núcleo manual/ROSETTA
+tem,TIEMPO,ánno,ano,year,1.0,núcleo manual/ROSETTA
+tem,TIEMPO,diabéto,diabetes,diabetes,0.6,keyword «dia»
+tem,TIEMPO,diagnósko,diagnostico,diagnosis,0.6,keyword «dia»
+tem,TIEMPO,duín,segundo (ordinal),second (ord.),0.6,keyword «segundo»
+tem,TIEMPO,dío,dia,day,0.6,keyword «dia»
+tem,TIEMPO,estasío,estacion,station,0.6,keyword «estacion»
+tem,TIEMPO,eternitáto,eternidad,eternity,0.6,keyword «eternidad»
+tem,TIEMPO,invidío,envidia,envy,0.6,keyword «dia»
+tem,TIEMPO,komeddío,comedia,comedy,0.6,keyword «dia»
+tem,TIEMPO,melodío,melodia,melody,0.6,keyword «dia»
+tem,TIEMPO,messagío,mensaje,message,0.6,keyword «mes»
+tem,TIEMPO,passáto,pasado,past,0.6,keyword «pasado»
+tem,TIEMPO,prē,pasado (auxiliar),past,0.6,keyword «pasado»
+tem,TIEMPO,prēs,presente (auxiliar),present,0.6,keyword «presente»
+tem,TIEMPO,prō,futuro (auxiliar),future,0.6,keyword «futuro»
+tem,TIEMPO,studénto,estudiante,student,0.6,keyword «dia»
+tem,TIEMPO,trageddío,tragedia,tragedy,0.6,keyword «dia»
+tem,TIEMPO,viltà,cobardia,cowardice,0.6,keyword «dia»
+tem,TIEMPO,óro,hora,hour,0.6,keyword «hora»
+tem,TIEMPO,dominíko,domingo,Sunday,0.55,categoría BD «Tiempo»
+tem,TIEMPO,iovisdío,jueves,Thursday,0.55,categoría BD «Tiempo»
+tem,TIEMPO,lunedío,lunes,Monday,0.55,categoría BD «Tiempo»
+tem,TIEMPO,merkurdío,miercoles,Wednesday,0.55,categoría BD «Tiempo»
+tem,TIEMPO,sabbáto,sabado,Saturday,0.55,categoría BD «Tiempo»
+tem,TIEMPO,venerdío,viernes,Friday,0.55,categoría BD «Tiempo»
+tem,TIEMPO,áño,año,year,0.55,categoría BD «Tiempo»
+ter,TIERRA,argénto,plata metal Ag,silver (element),1.0,núcleo manual/ROSETTA
+ter,TIERRA,arkhipelágo,archipielago,archipelago,1.0,núcleo manual/ROSETTA
+ter,TIERRA,aréno,arena,sand,1.0,núcleo manual/ROSETTA
+ter,TIERRA,desérto,desierto,desert,1.0,núcleo manual/ROSETTA
+ter,TIERRA,insúlo,isla,island,1.0,núcleo manual/ROSETTA
+ter,TIERRA,karbóno,carbon,coal,1.0,núcleo manual/ROSETTA
+ter,TIERRA,kordilléro,cordillera,mountain range,1.0,núcleo manual/ROSETTA
+ter,TIERRA,kúpro,cobre,copper,1.0,núcleo manual/ROSETTA
+ter,TIERRA,meséto,meseta,plateau,1.0,núcleo manual/ROSETTA
+ter,TIERRA,montáña,montana,mountain,1.0,núcleo manual/ROSETTA
+ter,TIERRA,peninsúlo,peninsula,peninsula,1.0,núcleo manual/ROSETTA
+ter,TIERRA,petroléo,petroleo,petroleum,1.0,núcleo manual/ROSETTA
+ter,TIERRA,plagío,playa,beach,1.0,núcleo manual/ROSETTA
+ter,TIERRA,planitío,llanura,plain,1.0,núcleo manual/ROSETTA
+ter,TIERRA,praterío,pradera,prairie,1.0,núcleo manual/ROSETTA
+ter,TIERRA,pulvéro,polvo,dust,1.0,núcleo manual/ROSETTA
+ter,TIERRA,pétra,piedra,stone,1.0,núcleo manual/ROSETTA
+ter,TIERRA,pétro,piedra,stone,1.0,núcleo manual/ROSETTA
+ter,TIERRA,resífo,arrecife,reef,1.0,núcleo manual/ROSETTA
+ter,TIERRA,rúpo,acantilado,cliff,1.0,núcleo manual/ROSETTA
+ter,TIERRA,térro,tierra,"earth, land",1.0,núcleo manual/ROSETTA
+ter,TIERRA,vétro,vidrio,glass,1.0,núcleo manual/ROSETTA
+ter,TIERRA,ferrovío,ferrocarril,railway,0.6,keyword «roca»
+ter,TIERRA,féro,hierro,iron,0.6,keyword «hierro»
+ter,TIERRA,férro,hierro,iron,0.6,keyword «hierro»
+ter,TIERRA,lúto,barro,mud,0.6,keyword «barro»
+ter,TIERRA,montanío,montana,mountain,0.6,keyword «montan»
+ter,TIERRA,platáno,platano,banana,0.6,keyword «plata»
+ter,TIERRA,pláyo,playa,beach,0.6,keyword «playa»
+ter,TIERRA,praténso,prado,meadow,0.6,keyword «prado»
+ter,TIERRA,sulfóro,azufre,sulfur,0.6,keyword «azufre»
+ter,TIERRA,vállo,valle,valley,0.6,keyword «valle»
+ter,TIERRA,acído,acido,acid,0.55,manual-pase3
+ter,TIERRA,altitúdo,altitud,altitude,0.55,categoría BD «Geografia»
+ter,TIERRA,ekvatóro,ecuador,equator,0.55,categoría BD «Geografia»
+ter,TIERRA,kolonío,colonia,colony,0.55,categoría BD «Geografia»
+ter,TIERRA,kolíno,colina,hill,0.55,categoría BD «Geografia»
+ter,TIERRA,kámpo,campo,field,0.55,categoría BD «Geografia»
+ter,TIERRA,latitúdo,latitud,latitude,0.55,categoría BD «Geografia»
+ter,TIERRA,longitúdo,longitud,longitude,0.55,categoría BD «Geografia»
+ter,TIERRA,munisipalitáto,municipio,municipality,0.55,categoría BD «Geografia»
+ter,TIERRA,norovésto,noroeste,northwest,0.55,categoría BD «Geografia»
+ter,TIERRA,norésto,noreste,northeast,0.55,categoría BD «Geografia»
+ter,TIERRA,nórto,norte,north,0.55,categoría BD «Geografia»
+ter,TIERRA,ovésto,oeste,west,0.55,categoría BD «Geografia»
+ter,TIERRA,surovésto,suroeste,southwest,0.55,categoría BD «Geografia»
+ter,TIERRA,surésto,sureste,southeast,0.55,categoría BD «Geografia»
+ter,TIERRA,súdo,sur,south,0.55,categoría BD «Geografia»
+ter,TIERRA,áuro,oro,gold,0.55,manual-pase3
+ter,TIERRA,ésto,este,east,0.55,categoría BD «Geografia»
+vi,VIDA,akvílo,aguila,eagle,1.0,núcleo manual/ROSETTA
+vi,VIDA,arbólo,arbol,tree,1.0,núcleo manual/ROSETTA
+vi,VIDA,arbóro,arbol,tree,1.0,núcleo manual/ROSETTA
+vi,VIDA,avestrúso,avestruz,ostrich,1.0,núcleo manual/ROSETTA
+vi,VIDA,avéso,ave,bird,1.0,núcleo manual/ROSETTA
+vi,VIDA,balaéno,ballena,whale,1.0,núcleo manual/ROSETTA
+vi,VIDA,bósko,bosque,forest,1.0,núcleo manual/ROSETTA
+vi,VIDA,delfíno,delfin,dolphin,1.0,núcleo manual/ROSETTA
+vi,VIDA,elephánto,elefante,elephant,1.0,núcleo manual/ROSETTA
+vi,VIDA,farfállo,mariposa,butterfly,1.0,núcleo manual/ROSETTA
+vi,VIDA,flóro,flor,flower,1.0,núcleo manual/ROSETTA
+vi,VIDA,folío,hoja,leaf,1.0,núcleo manual/ROSETTA
+vi,VIDA,formíko,hormiga,ant,1.0,núcleo manual/ROSETTA
+vi,VIDA,fálko,halcon,hawk,1.0,núcleo manual/ROSETTA
+vi,VIDA,fóko,foca,seal,1.0,núcleo manual/ROSETTA
+vi,VIDA,gallína,gallina,hen,1.0,núcleo manual/ROSETTA
+vi,VIDA,gríllo,grillo,cricket,1.0,núcleo manual/ROSETTA
+vi,VIDA,gálo,gallo,rooster,1.0,núcleo manual/ROSETTA
+vi,VIDA,gúfo,buho,owl,1.0,núcleo manual/ROSETTA
+vi,VIDA,iguáno,iguana,iguana,1.0,núcleo manual/ROSETTA
+vi,VIDA,kabállo,caballo,horse,1.0,núcleo manual/ROSETTA
+vi,VIDA,kamaleónto,camaleon,chameleon,1.0,núcleo manual/ROSETTA
+vi,VIDA,kanaríno,canario,canary,1.0,núcleo manual/ROSETTA
+vi,VIDA,kavállo,caballo,horse,1.0,núcleo manual/ROSETTA
+vi,VIDA,khiokiólo,caracol,snail,1.0,núcleo manual/ROSETTA
+vi,VIDA,kokodríllo,cocodrilo,crocodile,1.0,núcleo manual/ROSETTA
+vi,VIDA,kolómbo,paloma,dove,1.0,núcleo manual/ROSETTA
+vi,VIDA,konilío,conejo,rabbit,1.0,núcleo manual/ROSETTA
+vi,VIDA,káta,gata,she-cat,1.0,núcleo manual/ROSETTA
+vi,VIDA,káto,gato,cat,1.0,núcleo manual/ROSETTA
+vi,VIDA,kórvo,cuervo,crow,1.0,núcleo manual/ROSETTA
+vi,VIDA,leóno,leon,lion,1.0,núcleo manual/ROSETTA
+vi,VIDA,libellúlo,libelula,dragonfly,1.0,núcleo manual/ROSETTA
+vi,VIDA,limakío,babosa,slug,1.0,núcleo manual/ROSETTA
+vi,VIDA,lusertólo,lagarto,lizard,1.0,núcleo manual/ROSETTA
+vi,VIDA,línyo,madera,wood,1.0,núcleo manual/ROSETTA
+vi,VIDA,medúso,medusa,jellyfish,1.0,núcleo manual/ROSETTA
+vi,VIDA,mósko,mosca,fly,1.0,núcleo manual/ROSETTA
+vi,VIDA,pavóno,pavo real,peacock,1.0,núcleo manual/ROSETTA
+vi,VIDA,pengíno,pengüino,penguin,1.0,núcleo manual/ROSETTA
+vi,VIDA,púlko,pulga,flea,1.0,núcleo manual/ROSETTA
+vi,VIDA,rikío,erizo,hedgehog,1.0,núcleo manual/ROSETTA
+vi,VIDA,ráno,rana,frog,1.0,núcleo manual/ROSETTA
+vi,VIDA,rányo,arana,spider,1.0,núcleo manual/ROSETTA
+vi,VIDA,ráto,raton,mouse,1.0,núcleo manual/ROSETTA
+vi,VIDA,serpénto,serpiente,snake,1.0,núcleo manual/ROSETTA
+vi,VIDA,singhiálo,jabali,wild boar,1.0,núcleo manual/ROSETTA
+vi,VIDA,skarabéo,escarabajo,beetle,1.0,núcleo manual/ROSETTA
+vi,VIDA,skorpióno,escorpion,scorpion,1.0,núcleo manual/ROSETTA
+vi,VIDA,skválo,tiburon,shark,1.0,núcleo manual/ROSETTA
+vi,VIDA,sérvo,ciervo,deer,1.0,núcleo manual/ROSETTA
+vi,VIDA,sílo,selva,forest,1.0,núcleo manual/ROSETTA
+vi,VIDA,sílvo,selva,jungle,1.0,núcleo manual/ROSETTA
+vi,VIDA,testudíno,tortuga,turtle,1.0,núcleo manual/ROSETTA
+vi,VIDA,trikhéko,morsa,walrus,1.0,núcleo manual/ROSETTA
+vi,VIDA,tukáno,tucan,toucan,1.0,núcleo manual/ROSETTA
+vi,VIDA,táuro,toro,bull,1.0,núcleo manual/ROSETTA
+vi,VIDA,tígro,tigre,tiger,1.0,núcleo manual/ROSETTA
+vi,VIDA,vipéro,vibora,viper,1.0,núcleo manual/ROSETTA
+vi,VIDA,váka,vaca,cow,1.0,núcleo manual/ROSETTA
+vi,VIDA,vérmo,gusano,worm,1.0,núcleo manual/ROSETTA
+vi,VIDA,véspo,avispa,wasp,1.0,núcleo manual/ROSETTA
+vi,VIDA,víto,vida,life,1.0,núcleo manual/ROSETTA
+vi,VIDA,vúlpo,zorro,fox,1.0,núcleo manual/ROSETTA
+vi,VIDA,zanzáro,mosquito,mosquito,1.0,núcleo manual/ROSETTA
+vi,VIDA,zéko,garrapata,tick,1.0,núcleo manual/ROSETTA
+vi,VIDA,ápo,abeja,bee,1.0,núcleo manual/ROSETTA
+vi,VIDA,óko,ganso,goose,1.0,núcleo manual/ROSETTA
+vi,VIDA,úrso,oso,bear,1.0,núcleo manual/ROSETTA
+vi,VIDA,Mās,nosotras,we (fem.),0.6,keyword «oso»
+vi,VIDA,Mōs,nosotros (incluyente),we (incl.),0.6,keyword «oso»
+vi,VIDA,Nōs,"nosotros (excluyente, no tú)",we (excl.),0.6,keyword «oso»
+vi,VIDA,drámmo,drama,drama,0.6,keyword «rama»
+vi,VIDA,eksár,salir,"exit, leave",0.6,keyword «ave»
+vi,VIDA,emokrómo,hemograma,blood test,0.6,keyword «rama»
+vi,VIDA,famóse,famoso,famous,0.6,keyword «oso»
+vi,VIDA,filosófo,filosofo,philosopher,0.6,keyword «oso»
+vi,VIDA,florarío,florero,vase,0.6,keyword «flor»
+vi,VIDA,gallíno,gallina,hen,0.6,keyword «gallina»
+vi,VIDA,gravitáto,gravedad,gravity,0.6,keyword «ave»
+vi,VIDA,gravíta,gravedad,gravity,0.6,keyword «ave»
+vi,VIDA,gállo,gallo,rooster,0.6,keyword «gallo»
+vi,VIDA,habér,tener,have,0.6,keyword «ave»
+vi,VIDA,kalzíno,calcetin,sock,0.6,keyword «alce»
+vi,VIDA,kamossío,venado,venison,0.6,keyword «venado»
+vi,VIDA,krimíno,crimen,crime (grave),0.6,keyword «ave»
+vi,VIDA,káno,perro,dog,0.6,keyword «perro»
+vi,VIDA,kátto,gato,cat,0.6,keyword «gato»
+vi,VIDA,lúpo,lobo,wolf,0.6,keyword «lobo»
+vi,VIDA,ovíno,oveja,sheep,0.6,keyword «oveja»
+vi,VIDA,perikulóse,peligroso,dangerous,0.6,keyword «oso»
+vi,VIDA,philosophío,filosofia,philosophy,0.6,keyword «oso»
+vi,VIDA,philosóphro,filosofo,philosopher,0.6,keyword «oso»
+vi,VIDA,prográmmo,programa,program,0.6,keyword «rama»
+vi,VIDA,prográmo,programa,program,0.6,keyword «rama»
+vi,VIDA,písso,pez,fish,0.6,keyword «pez»
+vi,VIDA,pórko,cerdo,pig,0.6,keyword «cerdo»
+vi,VIDA,sapáto,zapato,shoe,0.6,keyword «pato»
+vi,VIDA,saserdóto,sacerdote,priest,0.6,keyword «cerdo»
+vi,VIDA,skateboárdo,monopatin,skateboard,0.6,keyword «mono»
+vi,VIDA,skhiavítu,esclavitud,slavery,0.6,keyword «ave»
+vi,VIDA,sísno,cisne,swan,0.6,keyword «cisne»
+vi,VIDA,telegrámmo,telegrama,telegram,0.6,keyword «rama»
+vi,VIDA,trans,a traves de,through,0.6,keyword «ave»
+vi,VIDA,trattaménto,tratamiento,treatment,0.6,keyword «rata»
+vi,VIDA,váko,vaca,cow,0.6,keyword «vaca»
+vi,VIDA,áno,pato,duck,0.6,keyword «pato»
+vi,VIDA,fenikottéro,flamenco,flamingo,0.55,categoría BD «Animales»
+vi,VIDA,gátto,gata,female cat,0.55,manual-pase3
+vi,VIDA,kavallétto,saltamontes,grasshopper,0.55,categoría BD «Animales»
+vi,VIDA,micróbo,microbio,microbe,0.55,manual-pase3
+vi,VIDA,pappagállo,loro,parrot,0.55,categoría BD «Animales»
+vr,VARIABLE,Etríin,tercera entidad,third entity,0.9,clase funcional
+vr,VARIABLE,Eúnin,primera entidad,first entity,0.9,clase funcional
+vr,VARIABLE,Edúin,segunda entidad,second entity,0.6,corrección falso positivo p4
