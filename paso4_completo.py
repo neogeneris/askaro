@@ -135,7 +135,27 @@ EXTRA_CANDS = {
     "frio":      [("❄️", "SNOWFLAKE", "U+2744 FE0F", 90)],
     "limpio":    [("🧽", "SPONGE", "U+1F9FD", 85)],
     "empujar":   [("🤚", "RAISED BACK OF HAND", "U+1F91A", 72)],
-    "ardilla":   [("🐿️", "CHIPMUNK", "U+1F43F FE0F", 95)],
+    # --- ampliación fase población: segundos candidatos para que NINGÚN
+    #     concepto quede bloqueado (regla: el específico gana; el perdedor
+    #     migra a su segundo candidato, nunca se duplica el emoji) ----------
+    "marmota":   [("🦫", "BEAVER", "U+1F9AB", 78), ("🐿️", "CHIPMUNK", "U+1F43F FE0F", 95)],
+    "balanza":   [("🌗", "LAST QUARTER MOON SYMBOL", "U+1F317", 62), ("⚖️", "SCALES", "U+2696 FE0F", 96)],
+    "vecindario":[("🏘️", "HOUSES", "U+1F3D8 FE0F", 85), ("🏘", "HOUSES", "U+1F3D8", 60)],
+    "ola":       [("💫", "DIZZY SYMBOL", "U+1F4AB", 55), ("🌊", "WATER WAVE", "U+1F30A", 95)],
+    "hielo":     [("🧊", "ICE", "U+1F9CA", 96), ("❄️", "SNOWFLAKE", "U+2744 FE0F", 70)],
+    "nieve":     [("❄️", "SNOWFLAKE", "U+2744 FE0F", 96), ("☃️", "SNOWMAN", "U+2603 FE0F", 82)],
+    "tulipan":   [("🌷", "TULIP", "U+1F337", 96), ("🌸", "CHERRY BLOSSOM", "U+1F338", 80)],
+    "hibisco":   [("🌺", "HIBISCUS", "U+1F33A", 96), ("🪷", "LOTUS", "U+1FAB7", 84)],
+    "gota":      [("💧", "DROPLET", "U+1F4A7", 96), ("🫗", "POURING LIQUID", "U+1FAD7", 60)],
+    "agua":      [("💧", "DROPLET", "U+1F4A7", 96), ("🌊", "WATER WAVE", "U+1F30A", 82), ("🚰", "POTABLE WATER", "U+1F6B0", 70)],
+    "justicia":  [("⚖️", "SCALES", "U+2696 FE0F", 96), ("👨‍⚖️", "JUDGE", "U+1F9D1 200D 2696 FE0F", 84)],
+    "ardilla":   [("🐿️", "CHIPMUNK", "U+1F43F FE0F", 95), ("🐹", "HAMSTER FACE", "U+1F439", 70)],
+    "flor":      [("💐", "BOUQUET", "U+1F490", 88), ("🌸", "CHERRY BLOSSOM", "U+1F338", 90), ("🌺", "HIBISCUS", "U+1F33A", 80), ("🌷", "TULIP", "U+1F337", 92)],
+    "frio":      [("🥶", "FACE SCREAMING IN FEAR", "U+1F976", 88), ("❄️", "SNOWFLAKE", "U+2744 FE0F", 90), ("🧊", "ICE", "U+1F9CA", 92)],
+    "aldea":     [("🏡", "HOUSE WITH GARDEN", "U+1F3E1", 88), ("🏘️", "HOUSES", "U+1F3D8 FE0F", 85), ("🛖", "HUT", "U+1F6D6", 86)],
+    "historia":  [("📜", "SCROLL", "U+1F4DC", 90), ("📖", "OPEN BOOK", "U+1F4D6", 88), ("🏛️", "CLASSICAL BUILDING", "U+1F3DB FE0F", 80)],
+    "libro":     [("📖", "OPEN BOOK", "U+1F4D6", 95), ("📚", "BOOKS", "U+1F4DA", 90), ("📕", "CLOSED BOOK", "U+1F4D5", 82)],
+    "volar":     [("🪽", "WING", "U+1FABD", 74), ("✈️", "AIRPLANE", "U+2708 FE0F", 80), ("🕊️", "DOVE OF PEACE", "U+1F54A FE0F", 84)],
 }
 # quitar marcadores inválidos
 for k in list(EXTRA_CANDS):
@@ -226,49 +246,146 @@ for k, e in sorted(sintesio_con_emoji.items()):
     cand_by_concept[k] = [(e, "(asignación canónica sintesio.db)", None, 100)]
     used[e] = k
 
-# 2) FUENTE 2: fallback CLDR (46 sin glifo + 71 extras), orden alfabético
+# 2) FUENTE 2: fallback CLDR (46 sin glifo + 71 extras).
+#    Asignación codiciosa en dos pasadas para NO dejar huecos:
+#    P1: conceptos cuyo mejor candidato está libre.
+#    P2: conceptos bloqueados que migran a su siguiente candidato libre.
+#    P3: sin candidato libre -> más cercano + nota (registrado como colisión).
 pendientes = sorted(sin_glifo | (set(CANDIDATOS_CLDR) - todos_imports))
 usaron_segundo = []
+cands_pend = {k: clist(k) for k in pendientes}
+
+def _try_assign(k, e_norm, rank):
+    """Asigna e_norm a k si está libre. Devuelve True/False."""
+    if e_norm in used:
+        return False
+    owner_old = None
+    chosen[k] = e_norm
+    cand_by_concept[k] = cands_pend[k]
+    used[e_norm] = k
+    if rank > 0:
+        usaron_segundo.append(k)
+        displaced = cands_pend[k][0][0].strip()
+        winner = used.get(displaced, "?")
+        res = "especifico_gana" if winner in sintesio_con_emoji else "mayor_puntuacion"
+        if any(c[0] == displaced and c[2] == k for c in collisions):
+            pass
+        else:
+            collisions.append((displaced, winner, k, res,
+                f"prioridad {'sintesio.db' if winner in sintesio_con_emoji else 'asignada'}; "
+                f"{k} migra a {e_norm} (candidato #{rank+1}, p={cands_pend[k][rank][3]})"))
+    return True
+
+blocked = []
+# P1: separar pendientes sin candidatos (imposible de emparejar)
 for k in pendientes:
-    cl = clist(k)
-    if not cl:
-        chosen[k] = "❔"; cand_by_concept[k] = cl
-        collisions.append(("❔", k, k, "sin_alternativa", "sin candidato CLDR"))
+    if not cands_pend[k]:
+        chosen[k] = "\u2754"; cand_by_concept[k] = []
+        collisions.append(("\u2754", k, k, "sin_alternativa", "sin candidato CLDR"))
+
+# P2: matching bipartito máximo (caminos aumentantes de Kuhn).
+#     Nodos izquierda: pendientes ordenados por prioridad (sintesio.db >
+#     puntuación CLDR > alfabético). Nodos derecha: emojis candidatos.
+#     Un emoji solo puede emparejarse una vez -> cero duplicados.
+REUBICACION = {"marmota", "balanza", "vecindario", "ola", "hielo", "nieve",
+               "tulipan", "hibisco", "gota", "historia", "libro"}  # pierden su top ante canónicos
+a_emparejar = [k for k in pendientes if cands_pend[k] and k not in chosen
+               and k not in REUBICACION]
+prior_orden = sorted(
+    a_emparejar,
+    key=lambda k: (k not in sintesio_con_emoji,
+                   -(cands_pend[k][0][3] if cands_pend[k] else 0), k))
+fijos_sintesio = set(used)          # emojis canónicos intocables
+adj = {k: [c[0].strip() for c in cands_pend[k] if c[0].strip() not in fijos_sintesio]
+       for k in prior_orden}
+match_e = {}                       # emoji -> concepto emparejado
+def _augment(k, seen):
+    for e in adj[k]:
+        if e in seen: continue
+        seen.add(e)
+        if e not in match_e or _augment(match_e[e], seen):
+            match_e[e] = k
+            return True
+    return False
+sys.setrecursionlimit(10000)
+for k in prior_orden:
+    _augment(k, set())
+
+inv_match = {kk: ee for ee, kk in match_e.items()}
+sin_match = []
+for k in prior_orden:
+    e = inv_match.get(k)
+    if e is None or e in used:      # nunca duplicar; P2c buscará un libre
+        sin_match.append(k); continue
+    rank = [c[0].strip() for c in cands_pend[k]].index(e)
+    chosen[k] = e
+    cand_by_concept[k] = cands_pend[k]
+    used[e] = k
+    if rank > 0:
+        usaron_segundo.append(k)
+        displaced = cands_pend[k][0][0].strip()
+        winner = used.get(displaced) or inv_match.get(displaced) or \
+                 next((oo for oo, ee in used.items() if False), None)
+        # dueño real: quien quedó con 'displaced' tras el matching
+        winner = used_owner_of(displaced)
+        res = "especifico_gana" if winner in sintesio_con_emoji else "mayor_puntuacion"
+        collisions.append((displaced, winner, k, res,
+            f"prioridad {'sintesio.db' if winner in sintesio_con_emoji else 'asignada'}; "
+            f"{k} migra a {e} (candidato #{rank+1}, p={cands_pend[k][rank][3]})"))
+
+# P2b: los dueños CLDR que se quedaron un top reclamado por concepto
+#     canónico migran a su segundo candidato (el específico gana).
+for e_ in sorted(set(used)):
+    owner = used[e_]
+    if owner in REUBICACION and owner in cands_pend \
+       and e_ == cands_pend[owner][0][0].strip():
+        reclamador = next((kk for kk in pendientes
+                           if cands_pend.get(kk) and cands_pend[kk][0][0].strip() == e_), None)
+        if reclamador is None or reclamador in chosen:
+            continue                     # el canónico ya tiene emoji: no mover
+        cl = cands_pend[owner]
+        for rank2 in range(1, len(cl)):
+            alt = cl[rank2][0].strip()
+            if alt not in used:
+                del used[e_]
+                _try_assign(owner, alt, rank2)
+                break
+
+# P2c: para cada no emparejado, buscar cualquier candidato LIBRE (o dejarlo
+#     al primer candidato con nota de colisión). Prioridad: canónicos primero.
+restantes = [k for k in sin_match if k not in chosen] + \
+            [k for k in sorted(REUBICACION) if k not in chosen and cands_pend.get(k)]
+for k in sorted(set(restantes),
+                key=lambda kk: (kk not in sintesio_con_emoji, kk)):
+    if k in chosen or not cands_pend.get(k):
         continue
-    for rank, (e, nm, cp, p) in enumerate(cl):
-        o = e.strip()
-        if o in used:
-            owner = used[o]
-            # regla: específico gana / mayor puntuación; sintesio manda
-            winner, loser = owner, k
-            alt = next((c for c in cl if c[0].strip() != o), None)
-            if alt is not None and alt[0].strip() not in used:
-                new_e = alt[0].strip()
-                chosen[k] = new_e
-                cand_by_concept[k] = cl
-                used[new_e] = k
-                if rank > 0: usaron_segundo.append(k)
-                collisions.append((o, winner, loser, "segundo_candidato",
-                    f"prioridad {'sintesio.db' if winner in sintesio_con_emoji else 'asignada'}; "
-                    f"{loser} migra a {new_e} (candidato #{rank+1}, p={alt[3]})"))
-            else:
-                chosen[k] = o  # no debe ocurrir aquí; defensivo
-                collisions.append((o, winner, loser, "sin_alternativa",
-                                   "sin segundo candidato libre (revisar)"))
+    cl = cands_pend[k]
+    for rank2, cand in enumerate(cl):
+        alt = cand[0].strip()
+        if alt not in used and alt not in fijos_sintesio:
+            _try_assign(k, alt, rank2)
             break
-        if o not in used:
-            chosen[k] = o
-            cand_by_concept[k] = cl
-            used[o] = k
-            if rank > 0: usaron_segundo.append(k)
-            break
-    else:
-        # todos los candidatos ocupados -> más cercano + nota
-        best = cl[0]
-        chosen[k] = best[0].strip()
-        cand_by_concept[k] = cl
-        collisions.append((best[0].strip(), used.get(best[0].strip(), "?"), k,
-                           "sin_alternativa", "sin emoji libre: todos los candidatos ocupados"))
+
+# P3: sin candidato libre -> pictograma aproximado único + nota (excepcional)
+import unicodedata as _ud
+for k in [kk for kk in sin_match if kk not in chosen]:
+    cl = cands_pend.get(k, [])
+    o = None
+    for cp in range(0x1F300, 0x1FAFF):
+        e_try = chr(cp)
+        if e_try in used or e_try in fijos_sintesio: continue
+        try: nm = _ud.name(e_try)
+        except ValueError: continue
+        if not nm or "FACE" in nm or "HAND" in nm: continue
+        o = e_try; break
+    if o is None:
+        o = "\u2754"
+    chosen[k] = o
+    cand_by_concept[k] = cl
+    used[o] = k
+    top = cl[0][0].strip() if cl else "?"
+    collisions.append((top, used.get(top, "?"), k, "sin_alternativa",
+                       f"sin emoji libre entre candidatos; aproximado {o}; revisar"))
 
 # 3) Colisiones entre perdedores CLDR donde NO hubo migración limpia:
 #    registrar también como especifico_gana las cesiones a sintesio.db
@@ -318,10 +435,16 @@ for k in sorted(chosen):
     cogn, cons = cognado_de(md.get("nuniv"), k)
     # forma ganadora: consenso sobre es; si es=='—' primera no vacía
     langs = [("es",es),("en",en),("fr",fr_),("it",it),("pt",pt),("ro",ro),("ia",ia),("eo",eo)]
-    real = [(l,v) for l,v in langs if v not in ("—","")]
-    ganadora, fuente_g = (es, "es") if es != "—" else (real[0] if real else (k,"es"))
-    if es == "—":
-        ganadora, fuente_g = real[0] if real else (k, "es")
+    # limpiar valores que contengan saltos de línea del CHECK multi-línea
+    real = [(l,v) for l,v in langs if v not in ("—","") and "\n" not in str(v)]
+    if es not in ("—","") and "\n" not in str(es):
+        ganadora, fuente_g = es, "es"
+    elif real:
+        fuente_g, ganadora = real[0]   # (código_lengua, forma)
+    else:
+        ganadora, fuente_g = k, "es"   # concepto como forma; fuente nominal es
+    # el valor de la columna fuente_ganadora debe ser un código limpio
+    fuente_g = fuente_g.split("\n")[0].strip()[:2]
     nota = "; ".join(src_parts)
     variants = md.get("variantes") or ""
     if "descarta" in variants or "descartada" in (md.get("nota_ranking") or ""):
