@@ -1,0 +1,271 @@
+INFORME DE INTEGRACIÓN ASKÁRO ↔ LÉXICO ROMANCE (FASE 2)
+============================================================
+
+1. IMPORTACIÓN DEL LEXICON
+   Fuente: askaro_lexico.db tabla `lexico` (V11.x, 1404 filas).
+   Adaptación de columnas: id→codigo, termino_askaro→forma, espanol→español,
+   ingles→ingles, categoria→normalizada, origen_etimologia→familia derivada.
+   Filas importadas a askaro_lexicon: 1404 (omitidas por UNIQUE: 0).
+   Familias cubiertas: gen:1382, tem:16, er:2, sk:1, me:1, kor:1, ak:1.
+   Entradas con emoji: 0 (el lexicon V11.x NO incluye emojis;
+   campo emoji = NULL en todas las filas — ver punto 9).
+
+2. TABLA DE CRUCE askaro_lexico
+   Filas: 264 (= todos los conceptos de fase 1).
+   Cubrimiento de lexico: faltantes = 0 (esperado 0).
+   Huérfanos registrados en tabla espejo askaro_huerfanos: 1105
+   (DECISIÓN DOCUMENTADA: el enunciado pedía insertar huérfanos en
+    askaro_lexico con forma_ganadora=NULL, pero esa columna es NOT NULL y la
+    FK exige que concepto_es exista en lexico. Para no tocar el esquema ni
+    inventar formas romances, los huérfanos viven en askaro_huerfanos.)
+
+3. DISTRIBUCIÓN POR STATUS
+   conflicto : 29
+   dudoso    : 11
+   integrado : 89
+   nuevo     : 135
+
+4. CONFLICTOS (raíz/etimología divergente)
+   - abeja: romance 'abeja' (APIS) vs askárico 'ápo' [ASK-SUS-0512, fam gen]
+   - aldea: romance 'village' (—) vs askárico 'villágo' [ASK-SUS-0576, fam gen]
+   - araña: romance 'araña' (ARANEUM) vs askárico 'rányo' [ASK-SUS-1246, fam gen]
+   - avión: romance 'avión' (AVIS) vs askárico 'aviasío' [ASK-SUS-0673, fam gen]
+   - bicicleta: romance 'bicicleta' (CYCLOS) vs askárico 'bisiklétto' [ASK-SUS-0675, fam gen]
+   - caracol: romance 'caracol' (COCHLEA) vs askárico 'khiokiólo' [ASK-SUS-1258, fam gen]
+   - casa: romance 'casa' (CASAM) vs askárico 'dómo' [ASK-SUS-0053, fam gen]
+   - cielo: romance 'sky' (—) vs askárico 'sélo' [ASK-SUS-0521, fam gen]
+   - ciudad: romance 'ciudad' (CIVITATEM) vs askárico 'síbda' [ASK-SUS-0092, fam gen]
+   - corbata: romance 'corbata' (CRAVATE) vs askárico 'kravátto' [ASK-SUS-1105, fam gen]
+   - destornillador: romance 'destornillador' (VERSARE) vs askárico 'kakiavíto' [ASK-SUS-1066, fam gen]
+   - erizo: romance 'erizo' (ERITIUS) vs askárico 'rikío' [ASK-SUS-1260, fam gen]
+   - guitarra: romance 'guitarra' (KITH) vs askárico 'gitárro' [ASK-SUS-0735, fam gen]
+   - hielo: romance 'hielo' (GELU) vs askárico 'glasío' [ASK-SUS-0480, fam gen]
+   - llave: romance 'llave' (CLAVE) vs askárico 'klávo' [ASK-SUS-0382, fam gen]
+   - manzana: romance 'apple' (—) vs askárico 'appúlo' [ASK-SUS-0459, fam gen]
+   - mezquita: romance 'mezquita' (—) vs askárico 'moskhéo' [ASK-SUS-1398, fam gen]
+   - mujer: romance 'woman' (—) vs askárico 'hóma' [ASK-PRO-0250, fam gen]
+   - piano: romance 'piano' (PLANUS) vs askárico 'pianofórto' [ASK-SUS-0734, fam gen]
+   - ratón: romance 'ratón' (—) vs askárico 'ráto' [ASK-SUS-0127, fam gen]
+   - reloj: romance 'reloj' (HOROLOGIU) vs askárico 'orologío' [ASK-SUS-0866, fam gen]
+   - rey: romance 'rey' (REGEM) vs askárico 'ro' [ASK-SUS-0553, fam gen]
+   - río: romance 'río' (—) vs askárico 'flumíno' [ASK-SUS-0037, fam gen]
+   - tijeras: romance 'tijeras' (RCIP) vs askárico 'sissóro' [ASK-SUS-1082, fam gen]
+   - tractor: romance 'tractor' (TRACT) vs askárico 'trattóro' [ASK-SUS-1280, fam gen]
+   - trompeta: romance 'trompeta' (—) vs askárico 'trómbo' [ASK-SUS-1365, fam gen]
+   - vecindario: romance 'vecindario' (VICINARIU) vs askárico 'visináto' [ASK-SUS-0908, fam gen]
+   - ventana: romance 'ventana' (FENISTRA) vs askárico 'fenéstra' [ASK-SUS-0055, fam gen]
+   - zapato: romance 'zapato' (SCARPON) vs askárico 'sapáto' [ASK-SUS-0401, fam gen]
+
+5. NUEVOS (sin entrada en el lexicon)
+   - abeto: 'abeto', familia propuesta gen 🌲
+   - aceituna: 'aceituna', familia propuesta gen 🫒
+   - aguacate: 'aguacate', familia propuesta gen 🥑
+   - almacén: 'almacén', familia propuesta gen 🏬
+   - amanecer: 'amanecer', familia propuesta gen 🌄
+   - aprender: 'learn', familia propuesta gen 📚
+   - arco: 'arco', familia propuesta gen 🏹
+   - ardilla: 'ardilla', familia propuesta gen 🐹
+   - automóvil: 'automóvil', familia propuesta gen 🚗
+   - balanza: 'balanza', familia propuesta gen ⚖️
+   - banca: 'banca', familia propuesta gen 🏦
+   - banjo: 'banjo', familia propuesta gen 🪕
+   - barco: 'barco', familia propuesta gen 🚢
+   - beber: 'beber', familia propuesta vi 🥤
+   - bebé: 'bebé', familia propuesta gen 👶
+   - biberon: 'biberon', familia propuesta gen 🍼
+   - billete: 'billete', familia propuesta gen 💴
+   - biquini: 'biquini', familia propuesta gen 👙
+   - bisonte: 'bisonte', familia propuesta si 🦬
+   - boliche: 'boliche', familia propuesta gen 🎳
+   - bolso: 'bolso', familia propuesta gen 👜
+   - bote: 'bote', familia propuesta gen 🚣
+   - brocoli: 'brocoli', familia propuesta gen 🥦
+   - buey: 'buey', familia propuesta gen 🐂
+   - burrito: 'burrito', familia propuesta gen 🌯
+   - cabra: 'cabra', familia propuesta gen 🐐
+   - cactus: 'cactus', familia propuesta gen 🌵
+   - camello: 'camello', familia propuesta gen 🐫
+   - campana: 'campana', familia propuesta vi 🔔
+   - caniche: 'caniche', familia propuesta gen 🐩
+   - cantar: 'sing', familia propuesta gen 🎶
+   - caramelo: 'caramelo', familia propuesta gen 🍬
+   - carnero: 'carnero', familia propuesta gen 🐏
+   - carpeta: 'carpeta', familia propuesta gen 📁
+   - castor: 'castor', familia propuesta gen 🦫
+   - chincheta: 'chincheta', familia propuesta gen 📌
+   - choza: 'choza', familia propuesta gen 🛖
+   - ciego: 'blind', familia propuesta gen 🦯
+   - coctel: 'coctel', familia propuesta gen 🍸
+   - cometa: 'cometa', familia propuesta gen 🪁
+   - contar: 'count', familia propuesta ka 🔢
+   - copa: 'copa', familia propuesta gen 🍷
+   - coral: 'coral', familia propuesta gen 🪸
+   - correr: 'run', familia propuesta gen 🏃
+   - croissant: 'croissant', familia propuesta gen 🥐
+   - cuaderno: 'cuaderno', familia propuesta gen 📓
+   - cucaracha: 'cucaracha', familia propuesta gen 🪳
+   - dado: 'dado', familia propuesta gen 🎲
+   - disquete: 'disquete', familia propuesta gen 💾
+   - dromedario: 'dromedario', familia propuesta gen 🐪
+   - edificio: 'edificio', familia propuesta gen 🏛
+   - enchufe: 'enchufe', familia propuesta gen 🔌
+   - escala: 'escala', familia propuesta gen 🪜
+   - espagueti: 'espagueti', familia propuesta gen 🍝
+   - espina: 'thorn', familia propuesta gen 🥷
+   - estetoscopio: 'estetoscopio', familia propuesta gen 🩺
+   - extraterrestre: 'extraterrestre', familia propuesta gen 👽
+   - fantasma: 'fantasma', familia propuesta gen 👻
+   - fideos: 'fideos', familia propuesta gen 🍜
+   - frisbee: 'frisbee', familia propuesta gen 🥏
+   - fábrica: 'fábrica', familia propuesta vi 🏭
+   - genio: 'genio', familia propuesta gen 🧞
+   - girasol: 'girasol', familia propuesta gen 🌻
+   - gorila: 'gorila', familia propuesta gen 🦍
+   - gota: 'gota', familia propuesta gen 💧
+   - grúa: 'grúa', familia propuesta gen 🏗️
+   - hada: 'hada', familia propuesta gen 🧚
+   - hamburguesa: 'hamburguesa', familia propuesta gen 🍔
+   - hibisco: 'hibisco', familia propuesta gen 🌺
+   - hierba: 'hierba', familia propuesta gen 🌿
+   - hombre: 'hombre', familia propuesta gen 👨
+   - hotel: 'hotel', familia propuesta gen 🏨
+   - izquierdo: 'left', familia propuesta gen 🫲
+   - koala: 'koala', familia propuesta gen 🐨
+   - leopardo: 'leopardo', familia propuesta gen 🐆
+   - llama: 'llama', familia propuesta gen 🦙
+   - llenar: 'fill', familia propuesta gen 🫗
+   - loto: 'loto', familia propuesta gen 🪷
+   - maceta: 'maceta', familia propuesta gen 🪴
+   - mamut: 'mamut', familia propuesta gen 🦣
+   - mandarina: 'mandarina', familia propuesta gen 🍊
+   - marmota: 'marmota', familia propuesta gen 🐿️
+   - melocoton: 'melocoton', familia propuesta gen 🍑
+   - metrópolis: 'metrópolis', familia propuesta gen 🏙️
+   - micrófono: 'micrófono', familia propuesta gen 🎤
+   - monedero: 'monedero', familia propuesta gen 👛
+   - motocicleta: 'motocicleta', familia propuesta gen 🏍
+   - nido: 'nido', familia propuesta gen 🪺
+   - noche: 'noche', familia propuesta nu 🌙
+   - nutria: 'nutria', familia propuesta gen 🦦
+   - obra_publica: 'obra', familia propuesta gen 🚧
+   - oficina: 'oficina', familia propuesta gen 🏢
+   - ola: 'ola', familia propuesta gen 🌊
+   - orangutan: 'orangutan', familia propuesta gen 🦧
+   - palillos: 'palillos', familia propuesta gen 🥢
+   - palmera: 'palmera', familia propuesta gen 🌴
+   - palomitas: 'palomitas', familia propuesta gen 🍿
+   - partitura: 'partitura', familia propuesta gen 🎼
+   - patata: 'patata', familia propuesta gen 🍠
+   - pepino: 'pepino', familia propuesta gen 🥒
+   - pera: 'pera', familia propuesta gen 🍐
+   - perezoso: 'perezoso', familia propuesta gen 🦥
+   - pergamino: 'pergamino', familia propuesta gen 📜
+   - pila: 'pila', familia propuesta gen 🔋
+   - pimiento: 'pimiento', familia propuesta gen 🫑
+   - pincel: 'pincel', familia propuesta gen 🖌
+   - pinguino: 'pinguino', familia propuesta gen 🐧
+   - piruleta: 'piruleta', familia propuesta gen 🍭
+   - polluelo: 'polluelo', familia propuesta gen 🐣
+   - portapapeles: 'portapapeles', familia propuesta gen 📋
+   - princesa: 'princesa', familia propuesta gen 👸
+   - pájaro: 'pájaro', familia propuesta gen 🐦
+   - ramo: 'ramo', familia propuesta gen 💐
+   - rata: 'rata', familia propuesta gen 🐀
+   - raíz: 'root', familia propuesta gen 🥕
+   - rinoceronte: 'rinoceronte', familia propuesta gen 🦏
+   - roer: 'gnaw', familia propuesta gen 🦷
+   - rompecabezas: 'rompecabezas', familia propuesta gen 🧩
+   - sakura: 'sakura', familia propuesta gen 🌸
+   - sari: 'sari', familia propuesta gen 🥻
+   - semilla: 'semilla', familia propuesta gen 🌱
+   - seta: 'seta', familia propuesta gen 🍄
+   - sushi: 'sushi', familia propuesta gen 🍣
+   - taco: 'taco', familia propuesta gen 🌮
+   - tamal: 'tamal', familia propuesta gen 🫔
+   - tarta: 'tarta', familia propuesta gen 🥧
+   - telaraña: 'telaraña', familia propuesta gen 🕸️
+   - tienda: 'tienda', familia propuesta gen 🏪
+   - topo: 'topo', familia propuesta gen 🐁
+   - tulipan: 'tulipan', familia propuesta gen 🌷
+   - vaqueros: 'vaqueros', familia propuesta gen 👖
+   - varita: 'varita', familia propuesta gen 🪄
+   - vela: 'vela', familia propuesta gen 🕯
+   - volar: 'fly', familia propuesta gen 🕊️
+   - zombi: 'zombi', familia propuesta gen 🧟
+
+6. HUÉRFANOS TOP 30 (ordenados por familia/prioridad)
+   - ministro → minístro [ASK-SUS-0556] fam adj (Sustantivo)
+   - salto → sálto [ASK-SUS-0766] fam adj (Sustantivo)
+   - domingo → dominíko [ASK-SUS-0882] fam adj (Sustantivo)
+   - longitud → longitúdo [ASK-SUS-0892] fam adj (Sustantivo)
+   - archipielago → arkhipelágo [ASK-SUS-0534] fam ak (Sustantivo)
+   - caballito de mar → kavallukío [ASK-SUS-1238] fam ak (Sustantivo)
+   - león marino → leone maríno [ASK-SUS-1235] fam ak (Sustantivo)
+   - estrella de mar → stella maríno [ASK-SUS-1237] fam ak (Sustantivo)
+   - tortuga marina → tartaruga maríno [ASK-SUS-1239] fam ak (Sustantivo)
+   - amar → amár [ASK-VER-0072] fam ak (Adjetivo)
+   - mundo → múndo [ASK-SUS-0109] fam ak (Sustantivo)
+   - lago → láko [ASK-SUS-0475] fam ak (Sustantivo)
+   - universidad → universitáto [ASK-SUS-0605] fam ak (Sustantivo)
+   - segundo → sekúndo [ASK-SUS-0858] fam ak (Sustantivo)
+   - vergüenza → vergonío [ASK-SUS-0930] fam ak (Sustantivo)
+   - chaqueta → giáko [ASK-SUS-1110] fam ak (Sustantivo)
+   - universo → univérso [ASK-SUS-1294] fam ak (Sustantivo)
+   - llamada → khiamáto [ASK-SUS-1353] fam ak (Sustantivo)
+   - segundo (unidad SI) → sekúndo [ASK-SUS-1430] fam ak (Sustantivo)
+   - orbita → orbíto [ASK-SUS-0209] fam er (Sustantivo)
+   - dormitorio → dormitorío [ASK-SUS-0379] fam er (Sustantivo)
+   - aeropuerto → aeropórto [ASK-SUS-0680] fam er (Sustantivo)
+   - hemisferio → emisferío [ASK-SUS-0895] fam er (Sustantivo)
+   - acido → acído [ASK-SUS-0194] fam fn (Sustantivo)
+   - instrumento → instruménto [ASK-SUS-0733] fam fn (Sustantivo)
+   - eternidad → eternitáto [ASK-SUS-0872] fam fn (Sustantivo)
+   - inflamacion → inflamasío [ASK-SUS-0354] fam fo (Sustantivo)
+   - seno → síno [ASK-SUS-0114] fam fo (Sustantivo)
+   - barca → bárko [ASK-SUS-0116] fam fo (Sustantivo)
+   - guardar → gardár [ASK-VER-0183] fam fo (Verbo)
+
+7. DUDOSOS HEREDADOS DE FASE 1
+   Total marcados: 11 (de 227 conceptos en conceptos_dudosos.csv; los demás ya no
+   existen en lexico tras la ampliación de fase 1 a 264 filas).
+   - agua
+   - ancla
+   - ceniza
+   - codo
+   - empujar
+   - ferry
+   - halar
+   - iglesia
+   - luz
+   - muñeca
+   - velero
+
+8. ESTADÍSTICAS POR FAMILIA (cruce fase 1)
+   familia | integrado | conflicto | nuevo | dudoso
+   None    | 0 | 0 | 129 | 5
+   gen     | 89 | 29 | 0 | 4
+   kor     | 0 | 0 | 0 | 2
+   vi      | 0 | 0 | 3 | 0
+   si      | 0 | 0 | 1 | 0
+   nu      | 0 | 0 | 1 | 0
+   ka      | 0 | 0 | 1 | 0
+   Familias sobrerrepresentadas en huérfanos:
+     gen: 843
+     vi: 28
+     ka: 16
+     tem: 16
+     ak: 15
+     fo: 14
+     mu: 11
+     si: 11
+
+9. ALINEACIÓN DE EMOJIS
+   askaro_lexicon tiene 0 emojis; lexico.fase1 tiene 264.
+   Ningún emoji askárico contradice a lexico (no hay nada que comparar).
+   Acción sugerida: añadir columna emoji al lexicon V12 tomando lexico.db
+   como fuente canónica visual.
+
+10. TIEMPO DE EJECUCIÓN
+   0.12 s
+
+VERIFICACIÓN: integrity_check = ok | foreign_key_check = limpio
