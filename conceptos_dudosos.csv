@@ -1,18 +1,11 @@
 concepto_es,forma_askara,ganadora,motivo
 agua,ákvo,agua,status original: Canon; dudoso fase 1: sinonimo_descartado(eau)
-ceniza,KINIS,ceniza,no existe en lexicon V11.x; candidato a integración; dudoso fase 1: sin_emoji(usar candidato alternativo de emoji_candid
-codo,KUBITUSM,codo,no existe en lexicon V11.x; candidato a integración; dudoso fase 1: sin_emoji(usar candidato alternativo de emoji_candid
-empujar,PULSARE,empujar,no existe en lexicon V11.x; candidato a integración; dudoso fase 1: sin_emoji(usar candidato alternativo de emoji_candid
-escribir,skribír,escribir,2
-ferry,FERRY,ferry,no existe en lexicon V11.x; candidato a integración; dudoso fase 1: emoji_no_estandar(reemplazado por equivalente estánd
-halar,VIRARE,halar,no existe en lexicon V11.x; candidato a integración; familia propuesta por étimo VIRARE; dudoso fase 1: sin_emoji(usar c
-hoja,folío,hoja,2
-hormiga,formíko,hormiga,0
-iglesia,ekléso,iglesia,"2 variantes en lexicon; elegida ASK-SUS-0106 (status Canon, círculo más cercano); status original: Canon; dudoso fase 1:"
-lluvia,pluvío,lluvia,0
+ceniza,KINIS,ceniza,no existe en lexicon V11.x; candidato a integración; dudoso fase 1: sin_emoji(usar candidato alternativo de emoji_candidatos) | recalc. 2026
+codo,KUBITUSM,codo,no existe en lexicon V11.x; candidato a integración; dudoso fase 1: sin_emoji(usar candidato alternativo de emoji_candidatos) | recalc. 2026
+empujar,PULSARE,empujar,no existe en lexicon V11.x; candidato a integración; dudoso fase 1: sin_emoji(usar candidato alternativo de emoji_candidatos) | recalc. 2026
+ferry,FERRY,ferry,no existe en lexicon V11.x; candidato a integración; dudoso fase 1: emoji_no_estandar(reemplazado por equivalente estándar: ⛴ → ⛴️ (añadido 
+halar,VIRARE,halar,no existe en lexicon V11.x; candidato a integración; familia propuesta por étimo VIRARE; dudoso fase 1: sin_emoji(usar candidato alternativo
+iglesia,ekléso,iglesia,"2 variantes en lexicon; elegida ASK-SUS-0106 (status Canon, círculo más cercano); status original: Canon; dudoso fase 1: emoji_no_estandar(r"
 luz,lúmo,luz,CONFLICTO DE RAÍZ: lúmo<-LVMEN≠LVX; status original: Canon; dudoso fase 1: sinonimo_descartado(por)
-muñeca,PULSEM,muñeca,no existe en lexicon V11.x; candidato a integración; dudoso fase 1: sin_emoji(usar candidato alternativo de emoji_candid
-oir,audír,oir,0
-ojo,okúlo,ojo,2
+muñeca,PULSEM,muñeca,no existe en lexicon V11.x; candidato a integración; dudoso fase 1: sin_emoji(usar candidato alternativo de emoji_candidatos) | recalc. 2026
 velero,veliéro,veliero,0
-ver,vidér,ver,0
