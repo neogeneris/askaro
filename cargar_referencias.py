@@ -55,12 +55,6 @@ DATA = {
                HI('khana', 'खाना'), BO('za', 'ཟ')],
   'beber':    [SA('pa/pibati', 'पिबति', '*peh₃- (cf. lat. potare/bibere, parcial)'),
                HI('pina', 'पीना'), BO('thung ba', 'ཐུང་བ')],
-  'ser':      [SA('asti', 'अस्ति', '*h₁es- (cf. lat. est — idéntico)'),
-               HI('hona', 'होना'), BO('yod pa', 'ཡོད་པ')],
-  'nombrar':  [SA('naman', 'नामन्', '*h₃nómn̥ (cf. lat. nomen — casi idéntico)'),
-               HI('nam', 'नाम'), BO('ming', 'མིང')],
-  'dar':      [SA('da/dadati', 'ददाति', '*deh₃- (cf. lat. dare — raíz idéntica)'),
-               HI('dena', 'देना'), BO('sbyin pa', 'སྦིན་པ')],
   'estrella': [SA('star/tArA', 'तारा', '*h₂stḗr (cf. lat. stella < *ster-la)'),
                HI('sitara', 'सितारा'), BO('skar ma', 'སྐར་མ')],
   'día':      [SA('diva', 'दिवस्', '(cf. lat. dies; etimología debatida)'),
@@ -75,23 +69,15 @@ DATA = {
                HI('darwaza', 'दरवाज़ा'), BO('sgo', 'སྒོ')],
   'viento':   [SA('váta', 'वात', '*weh₂t- (cf. lat. ventus — casi idéntico)'),
                HI('hawa', 'हवा'), BO('rlung', 'རླུང')],
-  'sal':      [SA('lavaṇa', 'लवण', '(cf. lat. sal; PIE *séh₂l- solo en latín)'),
-               HI('lonak', 'लोनक'), BO('tsha', 'ཚ')],
-  'cien':     [SA('satam', 'शतम्', '*ḱm̥tóm (cf. lat. centum)'),
-               HI('sau', 'सौ'), BO('brgya', 'བརྒྱ')],
-  'tres':     [SA('traya', 'त्रय', '*tréyes (cf. lat. tres — casi idéntico)'),
-               HI('tin', 'तीन'), BO('gsum', 'གསུམ')],
-  'cuatro':   [SA('catvara', 'चत्वार', '*kʷetwóres (cf. lat. quattuor)'),
-               HI('car', 'चार'), BO('bzhi', 'བཞི')],
-  'dos':      [SA('dva', 'द्व', '*dwóh₁ (cf. lat. duo — casi idéntico)'),
-               HI('do', 'दो'), BO('gnyis', 'གཉིས')],
-  'nube':     [SA('megha', 'मेघ'),
-               HI('baadal', 'बादल'), BO('sprin', 'སྤྲིན')],
   'nuevo':    [SA('nava', 'नव', '*néwos (cf. lat. novus — casi idéntico)'),
                HI('naya', 'नया'), BO('gsar pa', 'གསར་པ')],
+  'nube':     [SA('megha', 'मेघ'),
+               HI('baadal', 'बादल'), BO('sprin', 'སྤྲིན')],
   'nombre':   [SA('naman', 'नामन्', '*h₃nómn̥ (cf. lat. nomen — casi idéntico)'),
                HI('nam', 'नाम'), BO('ming', 'མིང')],
 }
+# PENDIENTES de incluir cuando existan como concepto en lexico:
+#   dos/três/cuatro/cien, dar, ser, sal, nombrar (formas preparadas en el historial).
 # NOTA: 'lluvia'/'llover' excluido a propósito: sánscrito varṣa- no es cognado
 # de lat. pluviam (*deuk̷- 'humedecer'); darlo como paralelo sería engañoso.
 
