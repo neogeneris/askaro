@@ -87,6 +87,10 @@ DATA = {
                HI('do', 'दो'), BO('gnyis', 'གཉིས')],
   'nube':     [SA('megha', 'मेघ'),
                HI('baadal', 'बादल'), BO('sprin', 'སྤྲིན')],
+  'nuevo':    [SA('nava', 'नव', '*néwos (cf. lat. novus — casi idéntico)'),
+               HI('naya', 'नया'), BO('gsar pa', 'གསར་པ')],
+  'nombre':   [SA('naman', 'नामन्', '*h₃nómn̥ (cf. lat. nomen — casi idéntico)'),
+               HI('nam', 'नाम'), BO('ming', 'མིང')],
 }
 # NOTA: 'lluvia'/'llover' excluido a propósito: sánscrito varṣa- no es cognado
 # de lat. pluviam (*deuk̷- 'humedecer'); darlo como paralelo sería engañoso.
