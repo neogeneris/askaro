@@ -433,16 +433,26 @@ for k in sorted(chosen):
     md = metadatos.get(k, {})
     cat = md.get("clase") if md.get("clase") in ("sustantivo","verbo","adjetivo","adverbio") else "sustantivo"
     cogn, cons = cognado_de(md.get("nuniv"), k)
-    # forma ganadora: consenso sobre es; si es=='—' primera no vacía
+    # forma ganadora: VOTO PONDERADO entre lenguas romances (fix 2026-10-27).
+    # El sesgo antiguo "siempre gana español" fue reemplazado por el criterio
+    # de consenso de consenso_ganadora.py: bloque mayoritario con >=3 lenguas
+    # gana; desempata la cercanía al étimo latino con prioridad ia>eo>it>pt>ro>fr;
+    # sin bloque>=3 gana es. Se delega en pick_ganadora para no duplicar reglas.
     langs = [("es",es),("en",en),("fr",fr_),("it",it),("pt",pt),("ro",ro),("ia",ia),("eo",eo)]
     # limpiar valores que contengan saltos de línea del CHECK multi-línea
     real = [(l,v) for l,v in langs if v not in ("—","") and "\n" not in str(v)]
-    if es not in ("—","") and "\n" not in str(es):
-        ganadora, fuente_g = es, "es"
-    elif real:
-        fuente_g, ganadora = real[0]   # (código_lengua, forma)
-    else:
-        ganadora, fuente_g = k, "es"   # concepto como forma; fuente nominal es
+    try:
+        from consenso_ganadora import pick_ganadora
+        ganadora, fuente_g, cons_g, _det = pick_ganadora(
+            (k, es, md.get("latin","—"), fr_, it, pt, ro, ia, eo))
+    except Exception:
+        # fallback conservador (mismo comportamiento histórico)
+        if es not in ("—","") and "\n" not in str(es):
+            ganadora, fuente_g = es, "es"
+        elif real:
+            fuente_g, ganadora = real[0]   # (código_lengua, forma)
+        else:
+            ganadora, fuente_g = k, "es"   # concepto como forma; fuente nominal es
     # el valor de la columna fuente_ganadora debe ser un código limpio
     fuente_g = fuente_g.split("\n")[0].strip()[:2]
     nota = "; ".join(src_parts)
@@ -450,7 +460,7 @@ for k in sorted(chosen):
     if "descarta" in variants or "descartada" in (md.get("nota_ranking") or ""):
         tok = re.search(r"descarta(?:da)?\s+(\w+)", variants + " " + (md.get("nota_ranking") or ""))
         if tok: nota += f"; sinónimo descartado: {tok.group(1)}"
-    rows_to_insert.append((e, k, en, es, en, fr_, it, pt, ro, ia, eo,
+    rows_to_insert.append((e, k, es, en, fr_, it, pt, ro, ia, eo,
                            md.get("latin","—"), cat,
                            1 if k in SWADESH_HINT else 0,
                            1 if k in BASIC_HINT else 0,
@@ -479,11 +489,11 @@ try:
     n_lex = 0
     for row in sorted(rows_to_insert, key=lambda r: (r[1] not in sintesio_con_emoji, r[1])):
         cur.execute(
-            """INSERT INTO lexico (emoji, concepto_es, concepto_en, es, en, fr, it, pt,
+            """INSERT INTO lexico (emoji, concepto_es, es, en, fr, it, pt,
                                    ro, ia, eo, latin, categoria, swadesh, basic_level,
                                    cognado, lenguas_consenso, forma_ganadora,
                                    fuente_ganadora, nota)
-               VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""", row)
+               VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""", row)
         n_lex += 1
 
     # 2) candidatos (elegido=1 el ganador)

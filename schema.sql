@@ -37,7 +37,6 @@ CREATE TABLE lexico (
     id                 INTEGER PRIMARY KEY AUTOINCREMENT,
     emoji              TEXT    NOT NULL UNIQUE,           -- un emoji por concepto
     concepto_es        TEXT    NOT NULL UNIQUE,           -- clave natural del concepto
-    concepto_en        TEXT    NOT NULL,                  -- traducción del concepto al inglés
     es                 TEXT    NOT NULL,                  -- español
     en                 TEXT    NOT NULL,                  -- inglés
     fr                 TEXT    NOT NULL,                  -- francés
