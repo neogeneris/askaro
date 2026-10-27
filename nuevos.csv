@@ -3,12 +3,12 @@ abeto,abeto,gen,🌲
 aceituna,aceituna,gen,🫒
 aguacate,aguacate,gen,🥑
 almacén,almacén,gen,🏬
-amanecer,amanecer,gen,🌄
+amanecer,amanecer,si,🌄
 aprender,learn,gen,📚
 arco,arco,gen,🏹
 ardilla,ardilla,gen,🐹
 automóvil,automóvil,gen,🚗
-balanza,balanza,gen,⚖️
+balanza,balanza,sk,⚖️
 banca,banca,gen,🏦
 banjo,banjo,gen,🪕
 barco,barco,gen,🚢
@@ -41,7 +41,7 @@ coctel,coctel,gen,🍸
 cometa,cometa,gen,🪁
 contar,count,ka,🔢
 copa,copa,gen,🍷
-coral,coral,gen,🪸
+coral,coral,kor,🪸
 correr,run,gen,🏃
 croissant,croissant,gen,🥐
 cuaderno,cuaderno,gen,📓
@@ -49,7 +49,7 @@ cucaracha,cucaracha,gen,🪳
 dado,dado,gen,🎲
 disquete,disquete,gen,💾
 dromedario,dromedario,gen,🐪
-edificio,edificio,gen,🏛
+edificio,edificio,me,🏛
 enchufe,enchufe,gen,🔌
 escala,escala,gen,🪜
 espagueti,espagueti,gen,🍝
@@ -73,7 +73,7 @@ hombre,hombre,gen,👨
 hotel,hotel,gen,🏨
 izquierdo,left,gen,🫲
 koala,koala,gen,🐨
-leopardo,leopardo,gen,🐆
+leopardo,leopardo,fo,🐆
 llama,llama,gen,🦙
 llenar,fill,gen,🫗
 loto,loto,gen,🪷

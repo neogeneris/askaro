@@ -1,1013 +1,1106 @@
-concepto_es,forma_askara_actual,familia,categoria,prioridad_sugerida
-yo,Mō,gen,Pronombre,media
-tú,Tō,gen,Pronombre,media
-él/eso (genérico),Kō,gen,Pronombre,media
-"nosotros (excluyente, no tú)",Nōs,gen,Pronombre,media
-cosa,kóso,gen,Pronombre,media
-nombre,nomíno,gen,Pronombre,media
-aire,aéro,gen,Pronombre,media
-ser,esér,gen,Pronombre,media
-tener,habér,gen,Pronombre,media
-hacer,fasér,gen,Pronombre,media
-ir,ír,gen,Pronombre,media
-venir,venír,gen,Pronombre,media
-decir,desér,gen,Pronombre,media
-dar,dár,gen,Pronombre,media
-saber,sapér,gen,Pronombre,media
-querer,volér,gen,Pronombre,media
-poder,potér,gen,Pronombre,media
-arbol,arbólo,gen,Sustantivo,media
-sangre,sangúino,gen,Sustantivo,media
-hueso,ósso,mu,Sustantivo,media
-piel,pélo,gen,Sustantivo,media
-cabeza,kapíto,gen,Sustantivo,media
-vino,víno,gen,Sustantivo,media
-carne de vaca,bovído,gen,Sustantivo,media
-trabajar,trabahár,gen,Verbo,media
-leer,ledér,sk,Verbo,media
-caminar,kaminár,gen,Verbo,media
-dormir,dormír,gen,Verbo,media
-vivir,vivér,vi,Adjetivo,media
-morir,morír,gen,Adjetivo,media
-amar,amár,ak,Adjetivo,media
-temer,timér,gen,Adjetivo,media
-pensar,pensár,gen,Verbo,media
-creer,kredér,gen,Verbo,media
-madre,mátro,vi,Sustantivo,baja
-padre,pátro,vi,Sustantivo,baja
-hermano,frátro,gen,Sustantivo,baja
-hermana,soróra,gen,Sustantivo,media
-hijo,fílo,gen,Sustantivo,media
-hija,fíla,gen,Sustantivo,media
-nacion,nasío,gen,Sustantivo,media
-infeccion,infeksío,gen,Sustantivo,alta
-publicidad,publíka,gen,Sustantivo,alta
-republica,republíko,sk,Sustantivo,media
-democracia,demokráto,gen,Sustantivo,media
-filosofo,filosófo,gen,Sustantivo,alta
-poesia,poesío,gen,Sustantivo,media
-gobierno,gobiérno,gen,Sustantivo,media
-ley,légo,gen,Sustantivo,baja
-dios,déo,gen,Sustantivo,media
-alma,anímo,kor,Sustantivo,media
-mundo,múndo,ak,Sustantivo,media
-espacio,spasío,gen,Sustantivo,media
-partido,partído,gen,Sustantivo,media
-ejercito,eksersíto,gen,Sustantivo,alta
-seno,síno,fo,Sustantivo,media
-barca,bárko,fo,Sustantivo,media
-navio,návo,gen,Sustantivo,media
-gata,káta,gen,Sustantivo,media
-toro,táuro,gen,Sustantivo,media
-gallo,gálo,gen,Sustantivo,alta
-ave,avéso,gen,Sustantivo,media
-playa,pláyo,gen,Sustantivo,media
-isla,insúlo,gen,Sustantivo,media
-selva,sílo,gen,Sustantivo,media
-campo,kámpo,gen,Sustantivo,media
-puente,pónto,gen,Sustantivo,media
-colina,kolíno,ter,Sustantivo,media
-valle,vállo,gen,Sustantivo,baja
-invertir,investír,gen,Verbo,alta
-explicar,eksplikár,gen,Verbo,media
-analizar,analizár,gen,Verbo,alta
-crear,kreâr,gen,Verbo,baja
-construir,konstrúir,me,Verbo,media
-destruir,destrúir,gen,Verbo,media
-vender,vendér,gen,Verbo,media
-comprar,komprár,gen,Verbo,media
-pagar,pagár,so,Verbo,media
-ganar,gagnár,gen,Verbo,media
-existir,eskistír,gen,Adjetivo,media
-aparecer,aparesér,gen,Adjetivo,media
-desaparecer,desaparesér,gen,Adjetivo,alta
-recordar,rekordár,kor,Verbo,media
-olvidar,oblidár,gen,Verbo,media
-entender,komprenér,gen,Verbo,media
-sentir,sentír,gen,Adjetivo,media
-sufrir,supfér,gen,Adjetivo,alta
-esperar,sperár,gen,Verbo,media
-llegar,arribár,gen,Verbo,media
-salir,eksír,gen,Verbo,media
-entrar,intrár,gen,Verbo,media
-subir,salír,gen,Verbo,media
-bajar,deskendér,gen,Verbo,media
-llevar,levár,gen,Verbo,media
-traer,trahér,gen,Verbo,media
-romper,rumpér,gen,Verbo,media
-cortar,sekár,gen,Verbo,media
-coser,kuzár,gen,Verbo,alta
-cocinar,kokinár,gen,Verbo,media
-lavar,lavár,gen,Verbo,media
-vestir,vestír,gen,Verbo,media
-encender,akendér,gen,Verbo,media
-apagar,ekstingér,gen,Verbo,alta
-abrir,aperír,gen,Verbo,media
-cerrar,serrár,gen,Verbo,media
-guardar,gardár,fo,Verbo,media
-ayudar,adiutár,gen,Verbo,media
-intentar,tentár,gen,Verbo,media
-juzgar,hudikár,gen,Verbo,media
-perdonar,perdonár,gen,Adjetivo,alta
-rezar,prekár,gen,Verbo,alta
-nacer,nasér,gen,Adjetivo,media
-crecer,kresér,gen,Adjetivo,media
-fluir,fluér,gen,Verbo,alta
-sonar,sonár,si,Verbo,media
-brillar,brilyár,gen,Verbo,alta
-acido,acído,fn,Sustantivo,media
-gas,gáso,gen,Sustantivo,alta
-sal,sálo,gen,Sustantivo,media
-azufre,sulfóro,gen,Sustantivo,alta
-hierro,féro,gen,Sustantivo,alta
-oro,áuro,gen,Sustantivo,media
-vidrio,vítro,vi,Sustantivo,alta
-maquina,makíno,gen,Sustantivo,media
-computadora,komputadóro,ka,Sustantivo,media
-programa,prográmmo,gen,Sustantivo,media
-software,softwáro,gen,Sustantivo,baja
-electron,elektróno,gen,Sustantivo,alta
-proton,protóno,gen,Sustantivo,alta
-neutron,neutróno,gen,Sustantivo,alta
-orbita,orbíto,er,Sustantivo,alta
-gravedad,gravíta,vi,Sustantivo,alta
-energia,energío,gen,Sustantivo,media
-victoria,viktorío,gen,Sustantivo,alta
-medicina,medikíno,me,Sustantivo,media
-doctor,doktóro,gen,Sustantivo,media
-microbio,micróbo,gen,Sustantivo,alta
-celula,celúlo,gen,Sustantivo,alta
-atom,atómo,gen,Sustantivo,alta
-plata metal Ag,argénto,gen,Sustantivo,alta
-circulo,sirkúlo,gen,Sustantivo,media
-numero,numéro,gen,Sustantivo,media
-suma,súmmo,mu,Sustantivo,media
-infinito,infiníto,gv,Sustantivo,alta
-abogado,advokádo,gen,Sustantivo,alta
-impuesto,impósto,gen,Sustantivo,media
-mercado,merkádo,gen,Sustantivo,media
-dinero,deñéro,gen,Sustantivo,media
-banco,bánko,gen,Sustantivo,media
-ella,Kā,gen,Pronombre,media
-ello (neutro),Eo,gen,Pronombre,media
-lo mencionado (anforico),Ílo,gen,Pronombre,media
-él mismo (énfasis),Lo,gen,Pronombre,media
-uno (indefinido),On,gen,Pronombre,media
-nosotros (incluyente),Mōs,gen,Pronombre,media
-nosotras,Mās,gen,Pronombre,media
-ustedes (masc.),Tōs,gen,Pronombre,media
-ustedes (fem.),Tās,gen,Pronombre,media
-ellos (pers.),Kōs,gen,Pronombre,media
-ellas (pers.),Kās,gen,Pronombre,media
-ellos (objetos),Eos,gen,Pronombre,media
-ninguno / nadie / nada,No,gen,Pronombre,media
-hombre (varon),hómo,gen,Pronombre,media
-brazo,brakhío,gen,Sustantivo,media
-pierna,kérno,gen,Sustantivo,media
-rodilla,genikúlo,gen,Sustantivo,media
-dedo,díto,gen,Sustantivo,media
-una,ungúlo,gen,Sustantivo,media
-labio,labío,gen,Sustantivo,media
-oreja,aurikúlo,gen,Sustantivo,media
-cuello,kóllo,gen,Sustantivo,media
-espalda,dórso,mu,Sustantivo,media
-pecho,pektóro,gen,Sustantivo,media
-estomago,stomáko,gen,Sustantivo,media
-higado,jekóro,gen,Sustantivo,media
-rinon,réno,gen,Sustantivo,media
-pulmon,pulmóno,gen,Sustantivo,media
-cerebro,serébro,gen,Sustantivo,media
-nervio,nérvo,gen,Sustantivo,media
-musculo,muskúlo,gen,Sustantivo,media
-enfermedad,maladío,gen,Sustantivo,media
-fiebre,fébro,gen,Sustantivo,media
-tos,tússo,gen,Sustantivo,media
-gripe,gríppo,gen,Sustantivo,media
-herida,vulnéro,gen,Sustantivo,media
-cicatriz,sikatríko,gen,Sustantivo,alta
-salud,salúto,gen,Sustantivo,media
-higiene,igiéno,gen,Sustantivo,alta
-dieta,diéto,gen,Sustantivo,media
-vitamina,vitamíno,vi,Sustantivo,alta
-proteina,protéino,gen,Sustantivo,alta
-bacteria,bakterío,gen,Sustantivo,alta
-virus,virúso,gen,Sustantivo,media
-vacuna,vaka/vasíno,gen,Sustantivo,media
-cirugia,khirurgío,gen,Sustantivo,alta
-farmacia,pharmasiámo,gen,Sustantivo,alta
-remedio,remedíumo,gen,Sustantivo,media
-sintoma,symptómo,gen,Sustantivo,alta
-sindrome,syndrómo,gen,Sustantivo,alta
-diagnostico,diagnósko,gen,Sustantivo,alta
-inflamacion,inflamasío,fo,Sustantivo,alta
-alergia,allergío,gen,Sustantivo,alta
-anemia,anemío,gen,Sustantivo,alta
-cancer,kanséro,gen,Sustantivo,media
-diabetes,diabéto,gen,Sustantivo,alta
-vena,véno,gen,Sustantivo,media
-arteria,arterío,gen,Sustantivo,alta
-esqueleto,skhelétro,gen,Sustantivo,alta
-intestino,intestíno,gen,Sustantivo,media
-techo,tékto,gen,Sustantivo,media
-piso,paviménto,mu,Sustantivo,media
-pared,paréto,gen,Sustantivo,media
-cocina,kosíno,gen,Sustantivo,media
-bano,balnéo,gen,Sustantivo,media
-dormitorio,dormitorío,er,Sustantivo,media
-sala,salóno,gen,Sustantivo,media
-jardin,jardíno,fo,Sustantivo,media
-lampara,lampáno,gen,Sustantivo,media
-espejo,spesío,gen,Sustantivo,media
-plato,pláto,gen,Sustantivo,media
-taza,pokúlo,gen,Sustantivo,media
-vaso,váso,mu,Sustantivo,media
-cuchillo,kultéllo,vi,Sustantivo,media
-tenedor,tenedóro,gen,Sustantivo,media
-cuchara,kokleáro,gen,Sustantivo,media
-botella,buttikuláro,gen,Sustantivo,media
-olla,óllo,gen,Sustantivo,media
-sarten,patéllo,gen,Sustantivo,media
-toalla,továllo,gen,Sustantivo,media
-jabon,sapóno,gen,Sustantivo,media
-cepillo,sepéllo,gen,Sustantivo,media
-peine,pettíno,gen,Sustantivo,media
-ropa,róbo,gen,Sustantivo,media
-camisa,kamisío,gen,Sustantivo,media
-pantalon,pantalonéso,vi,Sustantivo,media
-abrigo,abríko,gen,Sustantivo,media
-bolsa,búrso,gen,Sustantivo,media
-papel,papíro,gen,Sustantivo,media
-lapiz,lapído,gen,Sustantivo,media
-hardware,hardwáro,fo,Sustantivo,media
-escritorio,skriptorío,sk,Sustantivo,media
-banco (asiento),bankílo,gen,Sustantivo,media
-alfombra,tapéto,gen,Sustantivo,media
-cortina,kortíno,kor,Sustantivo,media
-estante,stállo,gen,Sustantivo,media
-colchon,materáso,gen,Sustantivo,media
-almohada,kussíno,gen,Sustantivo,media
-sabana,linío,ka,Sustantivo,media
-manta,mánto,gen,Sustantivo,media
-cojin,kojíno,gen,Sustantivo,media
-cuadro,kvádro,gen,Sustantivo,media
-florero,florarío,gen,Sustantivo,alta
-canasto,kanéstro,gen,Sustantivo,media
-arroz,ríso,gen,Sustantivo,media
-queso,késo,gen,Sustantivo,media
-mantequilla,bútyro,gen,Sustantivo,media
-azucar,súkro,gen,Sustantivo,media
-aceite,oléo,gen,Sustantivo,media
-vinagre,asetáto,gen,Sustantivo,media
-sopa,sópo,gen,Sustantivo,media
-ensalada,insaláto,gen,Sustantivo,media
-pasta,pásto,gen,Sustantivo,media
-pizza,pízzo,gen,Sustantivo,media
-chocolate,khokoláto,gen,Sustantivo,media
-cafe,káfo,gen,Sustantivo,media
-te,tho,gen,Sustantivo,media
-cerveza,bírro,vi,Sustantivo,media
-jugo,súko,gen,Sustantivo,media
-pescado,písko,gen,Sustantivo,media
-pollo,pullástro,gen,Sustantivo,media
-pato,áno,gen,Sustantivo,media
-tomate,tomáto,gen,Sustantivo,media
-papa,patáto,gen,Sustantivo,media
-cebolla,sépo,gen,Sustantivo,media
-ajo,allío,gen,Sustantivo,media
-zanahoria,karótto,gen,Sustantivo,media
-lechuga,laktúko,vi,Sustantivo,media
-naranja,orángo,gen,Sustantivo,media
-platano,platáno,gen,Sustantivo,media
-uva,úvo,gen,Sustantivo,media
-limon,limóno,ter,Sustantivo,media
-nuez,núko,gen,Sustantivo,media
-miel,méllo,gen,Sustantivo,media
-bosque,bósko,gen,Sustantivo,media
-desierto,desérto,gen,Sustantivo,media
-lago,láko,ak,Sustantivo,media
-oceano,oseáno,gen,Sustantivo,media
-trueno,toníto,gen,Sustantivo,media
-rayo,fulgúro,fo,Sustantivo,media
-niebla,nebúlo,gen,Sustantivo,media
-arena,aréno,gen,Sustantivo,media
-barro,lúto,gen,Sustantivo,media
-polvo,pulvéro,gen,Sustantivo,media
-plata,argénto,gen,Sustantivo,media
-cobre,kúpro,gen,Sustantivo,media
-madera,línyo,fo,Sustantivo,media
-carbon,karbóno,gen,Sustantivo,media
-petroleo,petroléo,ter,Sustantivo,media
-leon,leóno,gen,Sustantivo,media
-tigre,tígro,gen,Sustantivo,media
-zorro,vúlpo,gen,Sustantivo,media
-ciervo,sérvo,gen,Sustantivo,media
-tortuga,testudíno,ter,Sustantivo,media
-ballena,balaéno,gen,Sustantivo,media
-mariposa,farfállo,gen,Sustantivo,media
-sombra,úmbro,si,Sustantivo,media
-volcan,volkáno,me,Sustantivo,media
-cordillera,kordilléro,kor,Sustantivo,alta
-pradera,praterío,gen,Sustantivo,alta
-llanura,planitío,gen,Sustantivo,alta
-meseta,meséto,gen,Sustantivo,alta
-peninsula,peninsúlo,gen,Sustantivo,alta
-golfo,gólfo,gen,Sustantivo,media
-bahia,báio,gen,Sustantivo,media
-estrecho (accidente geo.),strétto,gen,Sustantivo,media
-canal,kanálo,gen,Sustantivo,media
-archipielago,arkhipelágo,ak,Sustantivo,alta
-arrecife,resífo,gen,Sustantivo,alta
-acantilado,rúpo,gen,Sustantivo,alta
-prado,praténso,gen,Sustantivo,media
-maestro,maéstro,vi,Sustantivo,media
-profesor,professóro,gen,Sustantivo,media
-estudiante,studénto,gen,Sustantivo,media
-ingeniero,ingeniéro,gen,Sustantivo,media
-juez,judíko,gen,Sustantivo,media
-policia,politío,gen,Sustantivo,media
-soldado,soldáto,so,Sustantivo,media
-capitan,kapitáno,gen,Sustantivo,media
-presidente,presidénto,gen,Sustantivo,media
-ministro,minístro,adj,Sustantivo,media
-gobernador,gubernatóro,gen,Sustantivo,media
-alcalde,urbéstro,vi,Sustantivo,media
-ciudadano,sivitáno,vi,Sustantivo,media
-pueblo,popólo,gen,Sustantivo,media
-estado,státo,gen,Sustantivo,media
-derecho,júro,ka,Sustantivo,media
-igualdad,ekvalitáto,gen,Sustantivo,media
-arma,ármo,gen,Sustantivo,media
-escudo,skúto,gen,Sustantivo,media
-frontera,frontiéro,gen,Sustantivo,media
-capital,kapitálo,gen,Sustantivo,media
-barrio,kvartéro,gen,Sustantivo,media
-calle,vikólo,gen,Sustantivo,media
-plaza,platío,gen,Sustantivo,media
-muro,múro,gen,Sustantivo,media
-torre,túrro,gen,Sustantivo,media
-templo,témplo,gen,Sustantivo,media
-palacio,palatío,gen,Sustantivo,media
-castillo,kastéllo,gen,Sustantivo,media
-carcel,karséro,gen,Sustantivo,media
-voto,vóto,gen,Sustantivo,media
-eleccion,eleksío,gen,Sustantivo,media
-patria,patrío,gen,Sustantivo,media
-tradicion,tradisío,gen,Sustantivo,media
-cultura,kultúro,vi,Sustantivo,media
-civilizacion,sivilisasío,gen,Sustantivo,media
-sociedad,sosietáto,vi,Sustantivo,media
-familia,familío,vi,Sustantivo,media
-universidad,universitáto,ak,Sustantivo,media
-clase,klásso,gen,Sustantivo,media
-leccion,leksío,gen,Sustantivo,media
-examen,eksamíno,gen,Sustantivo,media
-nota,nóto,ka,Sustantivo,media
-ciencia,ssientío,gen,Sustantivo,media
-filosofia,philosophío,gen,Sustantivo,media
-matematica,mathematíko,gen,Sustantivo,media
-fisica,physíko,gen,Sustantivo,media
-quimica,khimíko,gen,Sustantivo,media
-biologia,biologío,gen,Sustantivo,media
-geologia,geologío,gen,Sustantivo,alta
-astronomia,astronomío,gen,Sustantivo,alta
-geografia,geographío,ka,Sustantivo,media
-teoria,theorío,gen,Sustantivo,media
-practica,praktíko,gen,Sustantivo,media
-metodo,methódo,gen,Sustantivo,media
-analisis,anályso,gen,Sustantivo,media
-sintesis,synthéso,gen,Sustantivo,alta
-hipotesis,ipotéso,gen,Sustantivo,alta
-experimento,eksperiménto,gen,Sustantivo,media
-resultado,resultáto,gen,Sustantivo,media
-solucion,solusío,so,Sustantivo,media
-pregunta,kvestío,gen,Sustantivo,media
-respuesta,respónso,gen,Sustantivo,media
-idea,idéo,gen,Sustantivo,media
-concepto,konsépto,gen,Sustantivo,media
-definicion,definisío,gen,Sustantivo,media
-ejemplo,eksémplo,gen,Sustantivo,media
-mentira,mentíto,so,Sustantivo,media
-error,erróro,gen,Sustantivo,media
-logica,logíko,gen,Sustantivo,media
-simbolo,symbólo,gen,Sustantivo,media
-letra,littéro,gen,Sustantivo,media
-triangulo,triangúlo,ka,Sustantivo,media
-cuadrado,kvadráto,gen,Sustantivo,media
-linea,linéo,ka,Sustantivo,media
-punto,púnkto,gen,Sustantivo,media
-angulo,angólo,ka,Sustantivo,media
-ecuacion,ekvasío,gen,Sustantivo,alta
-funcion,funkzío,gen,Sustantivo,alta
-variable,variabílo,gen,Sustantivo,media
-constante,konstánto,gen,Sustantivo,media
-axioma,assiómo,gen,Sustantivo,media
-postulado,postuláto,gen,Sustantivo,alta
-paradigma,paradígmo,gen,Sustantivo,alta
-modelo,modélo,gen,Sustantivo,media
-dato,dáto,gen,Sustantivo,media
-informacion,informasío,gen,Sustantivo,media
-conocimiento,konossentío,gen,Sustantivo,media
-aprendizaje,apprendiménto,gen,Sustantivo,media
-enseianza,insenyaménto,fo,Sustantivo,media
-investigacion,risérko,gen,Sustantivo,media
-biblioteca,bibliothéko,vi,Sustantivo,media
-archivo,arkhívo,gen,Sustantivo,media
-museo,muséo,gen,Sustantivo,media
-motor,motóro,gen,Sustantivo,media
-rueda,róto,gen,Sustantivo,media
-coche,áuto,gen,Sustantivo,media
-moto,móto,gen,Sustantivo,media
-autobus,autobúso,gen,Sustantivo,media
-camion,kamióno,gen,Sustantivo,media
-puerto,pórto,gen,Sustantivo,media
-aeropuerto,aeropórto,er,Sustantivo,media
-estacion,estasío,gen,Sustantivo,media
-via,vío,gen,Sustantivo,media
-ferrocarril,ferrovío,gen,Sustantivo,media
-telefono,telefóno,gen,Sustantivo,media
-radio,radío,gen,Sustantivo,media
-television,televizío,gen,Sustantivo,media
-internet,internéto,gen,Sustantivo,media
-red,réto,gen,Sustantivo,media
-pantalla,skhérmo,gen,Sustantivo,media
-teclado,tastiéro,gen,Sustantivo,media
-datos,datíso,gen,Sustantivo,media
-correo,korriéro,gen,Sustantivo,media
-mensaje,messagío,gen,Sustantivo,media
-foto,phóto,gen,Sustantivo,media
-camara,kaméra,gen,Sustantivo,media
-pelicula,pellikúlo,gen,Sustantivo,media
-electricidad,elektrisitáto,gen,Sustantivo,media
-bateria,batterío,gen,Sustantivo,media
-cable,kávo,gen,Sustantivo,media
-antena,anténno,gen,Sustantivo,media
-atomo,atómo,gen,Sustantivo,alta
-sulfuro,sulphúro,gen,Sustantivo,alta
-robot,robóto,gen,Sustantivo,media
-sensor,sénso,gen,Sustantivo,media
-chip,mikrokhípo,gen,Sustantivo,media
-memoria informatica,memorío,vi,Sustantivo,media
-procesador,prosessóro,gen,Sustantivo,media
-algoritmo,algorítmo,gen,Sustantivo,alta
-codigo,kodíko,gen,Sustantivo,media
-servidor,servitóro,gen,Sustantivo,media
-terminal,terminálo,gen,Sustantivo,media
-arte,árto,gen,Sustantivo,media
-pintura,piktúro,gen,Sustantivo,media
-escultura,skultúro,gen,Sustantivo,media
-novela,novéllo,gen,Sustantivo,media
-cuento,kónto,ka,Sustantivo,media
-drama,drámmo,gen,Sustantivo,media
-comedia,komeddío,gen,Sustantivo,media
-tragedia,trageddío,gen,Sustantivo,media
-actor,aktóro,gen,Sustantivo,media
-teatro,theátro,vi,Sustantivo,media
-cine,sinémo,gen,Sustantivo,media
-danza,dánsso,gen,Sustantivo,media
-cancion,kansío,gen,Sustantivo,media
-instrumento,instruménto,fn,Sustantivo,media
-ritmo,rítmo,gen,Sustantivo,media
-melodia,melodío,gen,Sustantivo,media
-armonia,armonío,gen,Sustantivo,media
-concerto,konsérto,gen,Sustantivo,media
-estatua,statúo,gen,Sustantivo,media
-retrato,ritrátto,gen,Sustantivo,media
-paisaje,paesaggío,gen,Sustantivo,media
-diseno,desínyo,fo,Sustantivo,media
-estilo,stylo,gen,Sustantivo,media
-autor,autóro,gen,Sustantivo,media
-artista,artísto,gen,Sustantivo,media
-escritor,skriptóro,sk,Sustantivo,media
-poeta,poéto,gen,Sustantivo,media
-deporte,spórto,gen,Sustantivo,media
-futbol,footbállo,gen,Sustantivo,media
-balon,ballóno,gen,Sustantivo,media
-equipo,ekvípo,gen,Sustantivo,media
-juego,jóko,gen,Sustantivo,media
-jugador,giokatóro,gen,Sustantivo,media
-entrenador,allenatóro,gen,Sustantivo,media
-campeon,kampióno,gen,Sustantivo,media
-premio,premío,gen,Sustantivo,media
-medalla,medalío,me,Sustantivo,media
-carrera,kórso,gen,Sustantivo,media
-salto,sálto,adj,Sustantivo,media
-natacion,nuotasío,gen,Sustantivo,media
-tenis,tenníso,gen,Sustantivo,media
-golf,gólfo,gen,Sustantivo,media
-boxeo,bókso,gen,Sustantivo,media
-lucha,lúkta,mor,Sustantivo,media
-gimnasio,gymnasíumo,gen,Sustantivo,media
-atleta,atléto,gen,Sustantivo,media
-trofeo,troféo,gen,Sustantivo,media
-torneo,tornéo,gen,Sustantivo,media
-regla,regúlo,gen,Sustantivo,media
-puntaje,punteggío,gen,Sustantivo,media
-ajedrez,skáko,gen,Sustantivo,media
-ano,ánno,nu,Sustantivo,media
-mes (unidad de tiempo),lúno,mu,Sustantivo,media
-semana,septimáno,gen,Sustantivo,media
-hora,óro,gen,Sustantivo,media
-minuto,minúto,gen,Sustantivo,media
-segundo,sekúndo,ak,Sustantivo,media
-madrugada,álbo,nu,Sustantivo,media
-manana,matíno,nu,Sustantivo,media
-mediodia,mediedío,gen,Sustantivo,media
-tarde,postméso,gen,Sustantivo,media
-atardecer,vespéro,nu,Sustantivo,media
-medianoche,medienókto,gen,Sustantivo,media
-momento,moménto,gen,Sustantivo,media
-cronometro,khronométro,gen,Sustantivo,alta
-instante,instánto,gen,Sustantivo,media
-siglo,sekúlo,gen,Sustantivo,media
-decada,dekádo,gen,Sustantivo,media
-milenio,millenío,nu,Sustantivo,media
-eternidad,eternitáto,fn,Sustantivo,media
-pasado,passáto,gen,Sustantivo,media
-presente,presénto,si,Sustantivo,media
-futuro,futúro,gen,Sustantivo,media
-lunes,lunedío,mu,Sustantivo,media
-martes,mardedío,gen,Sustantivo,media
-miercoles,merkurdío,gen,Sustantivo,media
-jueves,iovisdío,gen,Sustantivo,media
-viernes,venerdío,gen,Sustantivo,media
-sabado,sabbáto,gen,Sustantivo,media
-domingo,dominíko,adj,Sustantivo,media
-norte,nórto,gen,Sustantivo,media
-sur,súdo,gen,Sustantivo,media
-este,ésto,gen,Sustantivo,media
-oeste,ovésto,gen,Sustantivo,media
-noreste,norésto,gen,Sustantivo,media
-noroeste,norovésto,gen,Sustantivo,media
-sureste,surésto,gen,Sustantivo,media
-suroeste,surovésto,gen,Sustantivo,media
-latitud,latitúdo,gen,Sustantivo,media
-longitud,longitúdo,adj,Sustantivo,media
-altitud,altitúdo,gen,Sustantivo,media
-ecuador,ekvatóro,gen,Sustantivo,media
-hemisferio,emisferío,er,Sustantivo,media
-lugar,lóko,gen,Sustantivo,media
-lado,latéro,gen,Sustantivo,media
-continente,kontinénto,gen,Sustantivo,media
-region,regióno,gen,Sustantivo,media
-provincia,provinsío,gen,Sustantivo,media
-distrito,distríkto,gen,Sustantivo,media
-municipio,munisipalitáto,gen,Sustantivo,media
-imperio,impéro,gen,Sustantivo,media
-reino,rényo,gen,Sustantivo,media
-colonia,kolonío,gen,Sustantivo,media
-territorio,territorío,gen,Sustantivo,media
-metropoli,metropólo,gen,Sustantivo,media
-comarca,komárko,gen,Sustantivo,alta
-pais,páiso,gen,Sustantivo,media
-alegria,alégro,si,Sustantivo,media
-tristeza,tristésso,gen,Sustantivo,media
-miedo,pauróo,gen,Sustantivo,media
-ira,íro,kor,Sustantivo,media
-asco,nauséo,gen,Sustantivo,media
-sorpresa,surpréso,gen,Sustantivo,media
-desprecio,dispréto,gen,Sustantivo,media
-placer,plaséro,gen,Sustantivo,media
-dolor,dolóro,gen,Sustantivo,media
-indolencia,indolentío,gen,Sustantivo,alta
-ambivalencia,ambivalentío,vi,Sustantivo,alta
-serenidad,serenitáto,so,Sustantivo,media
-ansiedad,ansietáto,gen,Sustantivo,media
-felicidad,felisitáto,gen,Sustantivo,media
-orgullo,orgoglío,gen,Sustantivo,media
-celos,zelóso,gen,Sustantivo,media
-envidia,invidío,si,Sustantivo,media
-vergüenza,vergonío,ak,Sustantivo,media
-culpa,kólpo,gen,Sustantivo,media
-nostalgia,nostalgío,gen,Sustantivo,media
-melancolia,melankolío,gen,Sustantivo,media
-euforia,euforío,gen,Sustantivo,alta
-extasis,ekstasío,gen,Sustantivo,alta
-angustia,angustío,si,Sustantivo,media
-panico,paníko,vi,Sustantivo,media
-terror,terróro,gen,Sustantivo,media
-furia,furío,gen,Sustantivo,media
-rabia,rabío,gen,Sustantivo,media
-irritacion,irritasío,gen,Sustantivo,media
-frustracion,frustrasío,ka,Sustantivo,media
-decepcion,delusióno,gen,Sustantivo,media
-esperanza,sperantío,gen,Sustantivo,media
-confianza,konfidentío,gen,Sustantivo,media
-desconfianza,deskonfidentío,gen,Sustantivo,media
-abuelo,ávo,gen,Sustantivo,media
-abuela,áva,gen,Sustantivo,media
-nieto,nepóto,gen,Sustantivo,media
-nieta,népto,gen,Sustantivo,media
-tio,zióro,gen,Sustantivo,media
-tia,tía,gen,Sustantivo,media
-primo,prímo,mu,Sustantivo,media
-prima,prína,gen,Sustantivo,media
-sobrino,sobríno,gen,Sustantivo,media
-sobrina,nepóta,gen,Sustantivo,media
-suegro,soséro,gen,Sustantivo,media
-suegra,suéro,gen,Sustantivo,media
-yerno,genéro,vi,Sustantivo,media
-nuera,nóro,gen,Sustantivo,media
-cunado,kunyáto,gen,Sustantivo,media
-cunada,kunyáta,gen,Sustantivo,media
-bisabuelo,bisávo,gen,Sustantivo,alta
-tatarabuelo,trisávo,gen,Sustantivo,alta
-bisnieto,bisnipóto,gen,Sustantivo,alta
-moneda,monéto,gen,Sustantivo,media
-precio,presío,gen,Sustantivo,media
-costo,kósto,gen,Sustantivo,media
-valor,valóro,gen,Sustantivo,media
-tasa,tásso,gen,Sustantivo,media
-empresa,impréso,gen,Sustantivo,media
-deuda,debíto,gen,Sustantivo,media
-credito,kredíto,sk,Sustantivo,media
-pago,pagaménto,so,Sustantivo,media
-ganancia,guadányo,gen,Sustantivo,media
-perdida,perdíto,gen,Sustantivo,media
-comercio,kommersío,gen,Sustantivo,media
-transaccion,transakzío,gen,Sustantivo,media
-contrato,kontráto,gen,Sustantivo,media
-factura,faktúro,gen,Sustantivo,media
-recibo,resipúto,gen,Sustantivo,media
-riqueza,rikvézo,gen,Sustantivo,media
-pobreza,povertáto,gen,Sustantivo,media
-salario,salarío,gen,Sustantivo,media
-beneficio,benefisío,gen,Sustantivo,media
-perjuicio,dámno,gen,Sustantivo,media
-inversion,investménto,gen,Sustantivo,media
-produccion,produksío,gen,Sustantivo,media
-consumo,konsúmo,mu,Sustantivo,media
-industria,industrío,gen,Sustantivo,media
-agricultura,agrikultúro,vi,Sustantivo,media
-propiedad,propriéto,gen,Sustantivo,media
-mercancia,merkanzío,gen,Sustantivo,media
-en,en,gen,Preposicion,media
-a (direccion),to,gen,Preposicion,media
-de (posesion),de,gen,Preposicion,media
-desde,ex,gen,Preposicion,media
-con,kun,gen,Preposicion,media
-sin,sin,gen,Preposicion,media
-por,per,gen,Preposicion,media
-para,pro,gen,Preposicion,media
-bajo,sub,gen,Preposicion,media
-sobre,sup,gen,Preposicion,media
-entre,intér,gen,Preposicion,media
-a traves de,trans,gen,Preposicion,media
-y,et,gen,Conjuncion,media
-o (alternativa),vel,gen,Conjuncion,media
-o (exclusiva),aut,gen,Conjuncion,media
-si,si,gen,Conjuncion,media
-entonces,tunc,gen,Conjuncion,media
-porque,re,gen,Conjuncion,media
-por lo tanto,so,gen,Conjuncion,media
-que (comp.),quám,gen,Conjuncion,media
-de otra manera,alitér,ka,Conjuncion,media
-o si (cond. alt.),áutsi,gen,Conjuncion,media
-pasado (auxiliar),prē,tem,Preposicion,media
-presente (auxiliar),prēs,tem,Preposicion,media
-futuro (auxiliar),prō,tem,Preposicion,media
-durativo (auxiliar),dūr,tem,Preposicion,media
-pasiva (auxiliar),pās,tem,Preposicion,media
-certeza (auxiliar),cēr,tem,Preposicion,media
-probabilidad (auxiliar),prob,tem,Preposicion,media
-posibilidad (auxiliar),pos,tem,Preposicion,media
-hipotetico (auxiliar),hip,tem,Preposicion,media
-asuncion (auxiliar),asúm,tem,Preposicion,media
-memoria (auxiliar),mne,tem,Preposicion,media
-capacidad (auxiliar),pot,tem,Preposicion,media
-obligacion (auxiliar),dev,tem,Preposicion,media
-volicion (auxiliar),vol,tem,Preposicion,media
-mandato (auxiliar),mand,tem,Preposicion,media
-negacion (auxiliar),ne,tem,Preposicion,media
-taladro,trivéllo,gen,Sustantivo,media
-alicate,tenaglío,gen,Sustantivo,media
-llave inglesa,khiave ingléso,gen,Sustantivo,baja
-tornillo,torníllo,vi,Sustantivo,media
-clavo,khióvo,gen,Sustantivo,media
-tuerca,ghiéro,gen,Sustantivo,media
-arandela,rosétto,gen,Sustantivo,media
-cincel,seséllo,gen,Sustantivo,alta
-lima,límo,gen,Sustantivo,alta
-lijadora,levigatríko,gen,Sustantivo,alta
-hacha,assío,gen,Sustantivo,media
-pico,píko,gen,Sustantivo,media
-pala,pálo,gen,Sustantivo,media
-rastrillo,rastréllo,gen,Sustantivo,alta
-azada,záppo,gen,Sustantivo,media
-machete,makhétto,gen,Sustantivo,media
-aguja,ágo,gen,Sustantivo,media
-alfiler,spíllo,gen,Sustantivo,media
-imperdible,spillo da balío,gen,Sustantivo,baja
-boton,bottóno,gen,Sustantivo,media
-cierre,serniéro,si,Sustantivo,media
-cuerda,kórda,gen,Sustantivo,media
-cadena,katéno,gen,Sustantivo,media
-alambre,ferfílo,gen,Sustantivo,media
-tubo,túbo,gen,Sustantivo,media
-nivel,livéllo,gen,Sustantivo,media
-plomada,filo a piómbo,gen,Sustantivo,baja
-metro (instrumento),mesuridóro,gen,Sustantivo,media
-compas,kompásso,gen,Sustantivo,media
-regla (instrumento),rególo,gen,Sustantivo,media
-formon,skalpéllo,gen,Sustantivo,alta
-sierra circular,sirkoláro,gen,Sustantivo,alta
-sierra de mano,sega a máno,gen,Sustantivo,baja
-cuchillo de cocina,koltéllo,vi,Sustantivo,media
-guante,guánto,gen,Sustantivo,media
-bufanda,ssiárpo,gen,Sustantivo,media
-cinturon,sintúro,gen,Sustantivo,media
-gorra,kappukío,gen,Sustantivo,media
-botas,bóto,gen,Sustantivo,media
-sandalia,sandálo,gen,Sustantivo,media
-zapatilla,siabátto,gen,Sustantivo,media
-chaqueta,giáko,ak,Sustantivo,media
-sueter,maglióno,gen,Sustantivo,media
-falda,gónno,gen,Sustantivo,media
-vestido,vestíto,gen,Sustantivo,media
-blusa,blúso,gen,Sustantivo,media
-pantalon corto,pantalonsíno,gen,Sustantivo,media
-ropa interior,biankherío,gen,Sustantivo,media
-sosten,reggiséno,gen,Sustantivo,media
-pijama,pigiámo,gen,Sustantivo,media
-bata,vésto,gen,Sustantivo,media
-delantal,grembíulo,gen,Sustantivo,media
-panuelo,fazzolétto,nu,Sustantivo,media
-gafas,okulío,gen,Sustantivo,media
-sombrilla,ombréllo,gen,Sustantivo,media
-paraguas,paragúo,gen,Sustantivo,media
-joya,jóya,gen,Sustantivo,media
-collar,kolláno,gen,Sustantivo,media
-pulsera,brakialétto,gen,Sustantivo,media
-tribunal,tribunálo,sk,Sustantivo,media
-demanda,domándo,gen,Sustantivo,media
-sentencia,sententío,gen,Sustantivo,media
-testigo,testémo,gen,Sustantivo,media
-fiscal,fiskálo,gen,Sustantivo,media
-defensor,difensóro,gen,Sustantivo,media
-acusado,akusáto,gen,Sustantivo,media
-victima,vittímo,gen,Sustantivo,media
-culpable,kolpevólo,gen,Sustantivo,media
-inocente,innosénto,gen,Sustantivo,media
-prueba,próvo,gen,Sustantivo,media
-testimonio,testimonío,gen,Sustantivo,media
-delito,delítto,gen,Sustantivo,media
-crimen,krimíno,gen,Sustantivo,media
-falta,fálto,gen,Sustantivo,media
-pena,péno,gen,Sustantivo,media
-multa,múlto,gen,Sustantivo,media
-libertad condicional,liberta kondizionálo,gen,Sustantivo,baja
-constitucion,konstitusío,gen,Sustantivo,media
-codigo legal,kodíso,gen,Sustantivo,media
-decreto,dekréto,sk,Sustantivo,media
-reglamento,regolaménto,gen,Sustantivo,media
-acuerdo,akórdo,kor,Sustantivo,media
-testamento,testaménto,gen,Sustantivo,media
-herencia,eredíto,sk,Sustantivo,media
-cirujano,khirúrgo,gen,Sustantivo,alta
-enfermero,infermiéro,gen,Sustantivo,media
-receta,risétto,gen,Sustantivo,media
-dosis,dóso,gen,Sustantivo,alta
-tratamiento,trattaménto,gen,Sustantivo,media
-antibiotico,antibiotíko,gen,Sustantivo,alta
-analgésico,analgesíko,gen,Sustantivo,alta
-anestesia,anestesío,gen,Sustantivo,alta
-transplante,trapiánto,gen,Sustantivo,alta
-radiografia,radiografío,ka,Sustantivo,alta
-ecografia,ekografío,ka,Sustantivo,alta
-hemograma,emokrómo,gen,Sustantivo,alta
-presion arterial,pressione arterióso,gen,Sustantivo,baja
-pulso,pólso,gen,Sustantivo,media
-fractura,frattúro,me,Sustantivo,media
-esguince,distorsióno,gen,Sustantivo,alta
-ternera,vitéllo,vi,Sustantivo,media
-cordero,anyéllo,gen,Sustantivo,media
-pavo,táko,fo,Sustantivo,media
-jabali,singhiálo,gen,Sustantivo,alta
-venado,kamossío,gen,Sustantivo,media
-salmon,salmóno,gen,Sustantivo,media
-atun,tónno,gen,Sustantivo,media
-trucha,tróto,gen,Sustantivo,media
-bacalao,merlúzzo,gen,Sustantivo,media
-sardina,sardíno,fo,Sustantivo,media
-camaron,gambéro,gen,Sustantivo,media
-langosta,aragósto,gen,Sustantivo,media
-cangrejo,grankhío,gen,Sustantivo,media
-pulpo,pólpo,gen,Sustantivo,media
-calamar,kalamáro,gen,Sustantivo,media
-mejillon,kózzo,gen,Sustantivo,media
-ostra,ostríko,gen,Sustantivo,media
-arroz blanco,riso biánko,si,Sustantivo,baja
-arroz integral,riso integrálo,mu,Sustantivo,baja
-trigo,gráno,gen,Sustantivo,media
-maiz,máiso,gen,Sustantivo,media
-avena,avéno,gen,Sustantivo,media
-cebada,órzo,gen,Sustantivo,media
-centeno,segálo,gen,Sustantivo,alta
-lenteja,lentikhío,gen,Sustantivo,media
-garbanzo,siséro,gen,Sustantivo,media
-frijol,fagiólo,gen,Sustantivo,media
-soja,sóio,gen,Sustantivo,media
-almendra,mandórlo,gen,Sustantivo,media
-avellana,nokiólo,gen,Sustantivo,media
-cacahuete,arakhído,gen,Sustantivo,media
-pistacho,pistakhío,gen,Sustantivo,alta
-castana,kastányo,gen,Sustantivo,media
-pine,ananáso,gen,Sustantivo,media
-mango,mángo,gen,Sustantivo,media
-papaya,papáio,gen,Sustantivo,media
-sandia,angurío,gen,Sustantivo,media
-melon,melóno,gen,Sustantivo,media
-fresa,fragólo,gen,Sustantivo,media
-frambuesa,lampóno,gen,Sustantivo,media
-arandano,mirtíllo,gen,Sustantivo,alta
-cereza,siliegío,mu,Sustantivo,media
-ciruela,prúnyo,gen,Sustantivo,media
-durazno,pésko,gen,Sustantivo,media
-higo,fíko,gen,Sustantivo,media
-granada,melográno,gen,Sustantivo,media
-aguila,akvílo,gen,Sustantivo,media
-halcon,fálko,gen,Sustantivo,media
-buho,gúfo,gen,Sustantivo,media
-cuervo,kórvo,kor,Sustantivo,media
-paloma,kolómbo,gen,Sustantivo,media
-gorrion,passéro,gen,Sustantivo,media
-canario,kanaríno,gen,Sustantivo,media
-loro,pappagállo,kor,Sustantivo,media
-tucan,tukáno,gen,Sustantivo,alta
-flamenco,fenikottéro,fo,Sustantivo,media
-pengüino,pengíno,gen,Sustantivo,media
-avestruz,avestrúso,gen,Sustantivo,media
-pavo real,pavóno,gen,Sustantivo,media
-cisne,sísno,gen,Sustantivo,media
-ganso,óko,gen,Sustantivo,media
-tiburon,skválo,gen,Sustantivo,media
-delfin,delfíno,gen,Sustantivo,media
-foca,fóko,gen,Sustantivo,media
-morsa,trikhéko,gen,Sustantivo,alta
-león marino,leone maríno,ak,Sustantivo,baja
-medusa,medúso,gen,Sustantivo,alta
-estrella de mar,stella maríno,ak,Sustantivo,baja
-caballito de mar,kavallukío,ak,Sustantivo,alta
-tortuga marina,tartaruga maríno,ak,Sustantivo,baja
-cocodrilo,kokodríllo,gen,Sustantivo,media
-lagarto,lusertólo,gen,Sustantivo,media
-iguana,iguáno,gen,Sustantivo,media
-camaleon,kamaleónto,gen,Sustantivo,alta
-vibora,vipéro,gen,Sustantivo,media
-escorpion,skorpióno,gen,Sustantivo,media
-avispa,véspo,gen,Sustantivo,media
-saltamontes,kavallétto,gen,Sustantivo,media
-grillo,gríllo,gen,Sustantivo,media
-escarabajo,skarabéo,gen,Sustantivo,alta
-mosquito,zanzáro,gen,Sustantivo,media
-pulga,púlko,gen,Sustantivo,media
-garrapata,zéko,gen,Sustantivo,alta
-gusano,vérmo,gen,Sustantivo,media
-babosa,limakío,gen,Sustantivo,alta
-tranvia,trámo,gen,Sustantivo,media
-metro (transporte),metrópo,gen,Sustantivo,media
-taxi,taksío,gen,Sustantivo,media
-ambulancia,ambulánzo,gen,Sustantivo,media
-coche policial,autopattuglío,gen,Sustantivo,media
-coche bomberos,autopómpo,fo,Sustantivo,media
-helicoptero,elikottéro,gen,Sustantivo,media
-avioneta,aereo pikólo,gen,Sustantivo,baja
-globo aerostatico,mongolfiéro,gen,Sustantivo,alta
-submarino,sottomaríno,gen,Sustantivo,media
-yate,yákhto,gen,Sustantivo,media
-canoa,kanóo,gen,Sustantivo,media
-balsa,zattéro,gen,Sustantivo,media
-patinete,monopattíno,gen,Sustantivo,media
-monopatin,skateboárdo,gen,Sustantivo,media
-trineo,slítto,gen,Sustantivo,media
-carreta,karrétto,gen,Sustantivo,media
-carruaje,karrózzo,gen,Sustantivo,media
-excavadora,eskavatóro,gen,Sustantivo,alta
-pensamiento,pensiéro,gen,Sustantivo,media
-razon,ragióno,ka,Sustantivo,media
-realidad,reáltào,gen,Sustantivo,media
-apariencia,apparénzo,gen,Sustantivo,media
-esencia,essénzo,gen,Sustantivo,media
-existencia,esisténzo,gen,Sustantivo,media
-nada,niénto,gen,Sustantivo,media
-todo,tútto,gen,Sustantivo,media
-algo,kvalkóso,gen,Sustantivo,media
-nada (filos.),núllo,gen,Sustantivo,alta
-universo,univérso,ak,Sustantivo,media
-cosmos,kósmo,gen,Sustantivo,media
-naturaleza,natúro,gen,Sustantivo,media
-progreso,progrésso,gen,Sustantivo,media
-evolucion,evolusío,gen,Sustantivo,media
-revolucion,rivolusío,gen,Sustantivo,media
-modernidad,modernitáto,gen,Sustantivo,media
-identidad,identítào,gen,Sustantivo,media
-diferencia,differénzo,gen,Sustantivo,media
-semejanza,somigliánzo,gen,Sustantivo,media
-contraste,kontrásto,gen,Sustantivo,media
-relacion,relasío,gen,Sustantivo,media
-causa,káuzo,gen,Sustantivo,media
-efecto,effétto,gen,Sustantivo,media
-fin,fíno,gen,Sustantivo,media
-principio,prinsipío,gen,Sustantivo,media
-medio,mézzo,gen,Sustantivo,media
-primavera,primavéro,gen,Sustantivo,media
-verano,estáto,gen,Sustantivo,media
-otono,autúnno,nu,Sustantivo,media
-invierno,invérno,gen,Sustantivo,media
-noticia,novitáso,gen,Sustantivo,media
-periodico,giornálo,gen,Sustantivo,media
-revista,rivísto,gen,Sustantivo,media
-telegrama,telegrámmo,gen,Sustantivo,media
-paquete,páko,gen,Sustantivo,media
-sello,fránko,gen,Sustantivo,media
-sobre (objeto),bústo,gen,Sustantivo,media
-direccion,indirízzo,gen,Sustantivo,media
-remitente,mitténto,gen,Sustantivo,media
-destinatario,destinatarío,gen,Sustantivo,media
-movil,selluláro,gen,Sustantivo,media
-correo electronico,posta elettroníko,gen,Sustantivo,baja
-llamada,khiamáto,ak,Sustantivo,media
-videollamada,videokhiamáto,si,Sustantivo,media
-prensa,stámpo,gen,Sustantivo,media
-periodista,giornalísto,nu,Sustantivo,media
-reportero,reportéro,gen,Sustantivo,media
-entrevista,intervísto,si,Sustantivo,media
-anuncio,annunsío,nu,Sustantivo,media
-violonchelo,violonséllo,gen,Sustantivo,media
-contrabajo,kontrabbásso,gen,Sustantivo,media
-clarinete,klarinétto,si,Sustantivo,media
-oboe,obóo,gen,Sustantivo,alta
-fagot,fagótto,gen,Sustantivo,media
-trombon,trombóno,gen,Sustantivo,media
-tuba,tubáo,gen,Sustantivo,media
-saxofon,sassofóno,gen,Sustantivo,media
-timbal,timpáno,vi,Sustantivo,alta
-xilofono,ksilofóno,gen,Sustantivo,alta
-arpa,árpo,gen,Sustantivo,media
-organo,orgáno,gen,Sustantivo,media
-acordeon,fisarmoníko,kor,Sustantivo,media
-armonica,armoníko,gen,Sustantivo,media
-nota musical,notamusikálo,ka,Sustantivo,media
-atletismo,atletíko,gen,Sustantivo,media
-ciclismo,siklísmo,gen,Sustantivo,media
-esgrima,spádro,gen,Sustantivo,media
-halterofilia,pesistíko,gen,Sustantivo,alta
-remo,kanottaggío,gen,Sustantivo,media
-vela deportiva,vélo,gen,Sustantivo,media
-equitacion,ekvitazióno,gen,Sustantivo,alta
-esqui,skío,gen,Sustantivo,media
-patinaje,pattinaggío,gen,Sustantivo,media
-surf,súrfo,gen,Sustantivo,media
-escalada,arrampikáto,gen,Sustantivo,media
-senderismo,eskursionísmo,gen,Sustantivo,media
-baloncesto,pallakanéstro,gen,Sustantivo,media
-voleibol,pallavólo,gen,Sustantivo,media
-beisbol,basebállo,me,Sustantivo,media
-rugby,rúgbyo,gen,Sustantivo,media
-sacerdote,saserdóto,gen,Sustantivo,media
-monje,monáko,gen,Sustantivo,media
-monja,suóro,gen,Sustantivo,media
-obispo,veskóvo,gen,Sustantivo,media
-papa (sumo pontifice),pápo,gen,Sustantivo,media
-altar,altáro,gen,Sustantivo,media
-oracion,orazióno,ka,Sustantivo,media
-rito,ríto,gen,Sustantivo,media
-ceremonia,serimonío,gen,Sustantivo,media
-sacrificio,sakrifisío,gen,Sustantivo,media
-ofrenda,offérto,gen,Sustantivo,media
-peregrinacion,pellegrinaggío,gen,Sustantivo,media
-fe,fédo,gen,Sustantivo,media
-creencia,kredénzo,gen,Sustantivo,media
-dogma,dógmo,gen,Sustantivo,media
-pecado,pekáto,gen,Sustantivo,media
-general (grado),generálo,vi,Sustantivo,media
-coronel,kolonnéllo,gen,Sustantivo,media
-teniente,tenénto,gen,Sustantivo,media
-sargento,sergénto,gen,Sustantivo,media
-cabo,kaporálo,gen,Sustantivo,alta
-tropa,tróupo,gen,Sustantivo,media
-batalla,battaglío,gen,Sustantivo,media
-estrategia,strategío,gen,Sustantivo,media
-tactica,tattíko,gen,Sustantivo,media
-asedio,assedío,gen,Sustantivo,media
-retirada,ritiráto,gen,Sustantivo,media
-derrota,skonfítto,gen,Sustantivo,media
-espada,spádo,gen,Sustantivo,media
-lanza,lansío,gen,Sustantivo,media
-voltio,vólto,gen,Sustantivo,alta
-amperio,ámpo,gen,Sustantivo,alta
-vatio,váto,gen,Sustantivo,alta
-ohmio,ómo,gen,Sustantivo,alta
-kelvin,kélvo,gen,Sustantivo,alta
-celsius,célso,gen,Sustantivo,alta
-segundo (unidad SI),sekúndo,ak,Sustantivo,media
-metro,métro,gen,Sustantivo,media
-byte,býto,gen,Sustantivo,alta
-él (masc. específico),Kōr,gv,Pronombre,media
-Entidad / Ente neutro genérico,énto,gen,Sustantivo,media
-Ente Agente (el actor que ejecuta la acción),agénto,gen,Sustantivo,media
-Ente Paciente (recibe o sufre la acción),paténto,gen,Sustantivo,media
-Ente Instrumental (objeto/dispositivo medio),iténto,gen,Sustantivo,media
-Ente Locativo (recinto/espacio de ubicación),ubénto,gen,Sustantivo,media
-cazar,kásar,gen,Verbo,media
-"caso (circunstancia, asunto, caso jurídico/lógico)",káuso,gv,Sustantivo,media
-cazador,kásoro,sk,Sustantivo,media
+concepto_es,forma_askara,codigo_askaro,categoria,familia,nota
+aeropuerto,aeropórto,ASK-SUS-0680,Sustantivo,er,existe en Askáro V11.x pero no en fase 1; prioridad alta
+medalla,medalío,ASK-SUS-0764,Sustantivo,me,existe en Askáro V11.x pero no en fase 1; prioridad alta
+hemisferio,emisferío,ASK-SUS-0895,Sustantivo,er,existe en Askáro V11.x pero no en fase 1; prioridad alta
+chaqueta,giáko,ASK-SUS-1110,Sustantivo,ak,existe en Askáro V11.x pero no en fase 1; prioridad alta
+lealtad,leálte,ASK-ADJ-1335,Adjetivo,sk,existe en Askáro V11.x pero no en fase 1; prioridad alta
+acordeon,fisarmoníko,ASK-SUS-1373,Sustantivo,kor,existe en Askáro V11.x pero no en fase 1; prioridad alta
+arbol,arbólo,ASK-SUS-0039,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sangre,sangúino,ASK-SUS-0043,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+hueso,ósso,ASK-SUS-0044,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+piel,pélo,ASK-SUS-0046,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cabeza,kapíto,ASK-SUS-0048,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+vino,víno,ASK-SUS-0061,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+carne de vaca,bovído,ASK-SUS-0063,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+trabajar,trabahár,ASK-VER-0064,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+leer,ledér,ASK-VER-0066,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+caminar,kaminár,ASK-VER-0068,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+dormir,dormír,ASK-VER-0069,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+vivir,vivér,ASK-VER-0070,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+morir,morír,ASK-VER-0071,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+amar,amár,ASK-VER-0072,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+temer,timér,ASK-VER-0073,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pensar,pensár,ASK-VER-0074,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+creer,kredér,ASK-VER-0075,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+bajo,báse,ASK-ADJ-0077,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+rapido,rapíde,ASK-ADJ-0078,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+lento,lénte,ASK-ADJ-0079,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+fuerte,fórte,ASK-ADJ-0080,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+debil,debíle,ASK-ADJ-0081,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+abierto,abérte,ASK-ADJ-0082,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cerrado,serráte,ASK-ADJ-0083,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+madre,mátro,ASK-SUS-0084,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad baja
+padre,pátro,ASK-SUS-0085,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad baja
+hermano,frátro,ASK-SUS-0086,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad baja
+hermana,soróra,ASK-SUS-0087,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+hijo,fílo,ASK-SUS-0088,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+hija,fíla,ASK-SUS-0089,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+nacion,nasío,ASK-SUS-0093,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+infeccion,infeksío,ASK-SUS-0094,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+publicidad,publíka,ASK-SUS-0095,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+republica,republíko,ASK-SUS-0096,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+democracia,demokráto,ASK-SUS-0097,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+filosofo,filosófo,ASK-SUS-0098,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+poesia,poesío,ASK-SUS-0101,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+gobierno,gobiérno,ASK-SUS-0102,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+ley,légo,ASK-SUS-0103,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad baja
+dios,déo,ASK-SUS-0107,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+alma,anímo,ASK-SUS-0108,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+mundo,múndo,ASK-SUS-0109,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+espacio,spasío,ASK-SUS-0111,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+partido,partído,ASK-SUS-0112,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+ejercito,eksersíto,ASK-SUS-0113,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+seno,síno,ASK-SUS-0114,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+barca,bárko,ASK-SUS-0116,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+navio,návo,ASK-SUS-0117,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+gata,káta,ASK-SUS-0121,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+toro,táuro,ASK-SUS-0123,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+gallo,gálo,ASK-SUS-0124,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+ave,avéso,ASK-SUS-0128,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+playa,pláyo,ASK-SUS-0130,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+isla,insúlo,ASK-SUS-0131,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+selva,sílo,ASK-SUS-0132,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+campo,kámpo,ASK-SUS-0133,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+puente,pónto,ASK-SUS-0135,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+colina,kolíno,ASK-SUS-0136,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+valle,vállo,ASK-SUS-0137,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad baja
+veloz,velóse,ASK-ADJ-0138,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+eterno,etérne,ASK-ADJ-0139,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+posible,posibíle,ASK-ADJ-0140,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+facil,fasíle,ASK-ADJ-0141,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+dificil,dificíle,ASK-ADJ-0142,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+complejo,kompléxe,ASK-ADJ-0143,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+oscuro,obsekúre,ASK-ADJ-0144,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+claro,kláre,ASK-ADJ-0145,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+profundo,profúnde,ASK-ADJ-0146,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+invertir,investír,ASK-VER-0147,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+explicar,eksplikár,ASK-VER-0148,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+analizar,analizár,ASK-VER-0149,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+crear,kreâr,ASK-VER-0150,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad baja
+construir,konstrúir,ASK-VER-0151,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+destruir,destrúir,ASK-VER-0152,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+vender,vendér,ASK-VER-0153,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+comprar,komprár,ASK-VER-0154,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pagar,pagár,ASK-VER-0155,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+ganar,gagnár,ASK-VER-0156,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+existir,eskistír,ASK-VER-0157,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+aparecer,aparesér,ASK-VER-0158,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+desaparecer,desaparesér,ASK-VER-0159,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+recordar,rekordár,ASK-VER-0160,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+olvidar,oblidár,ASK-VER-0161,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+entender,komprenér,ASK-VER-0162,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sentir,sentír,ASK-VER-0163,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sufrir,supfér,ASK-VER-0164,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+esperar,sperár,ASK-VER-0165,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+llegar,arribár,ASK-VER-0166,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+salir,eksír,ASK-VER-0167,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+entrar,intrár,ASK-VER-0168,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+subir,salír,ASK-VER-0169,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+bajar,deskendér,ASK-VER-0170,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+llevar,levár,ASK-VER-0171,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+traer,trahér,ASK-VER-0172,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+romper,rumpér,ASK-VER-0173,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cortar,sekár,ASK-VER-0174,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+coser,kuzár,ASK-VER-0175,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cocinar,kokinár,ASK-VER-0176,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+lavar,lavár,ASK-VER-0177,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+vestir,vestír,ASK-VER-0178,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+encender,akendér,ASK-VER-0179,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+apagar,ekstingér,ASK-VER-0180,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+abrir,aperír,ASK-VER-0181,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cerrar,serrár,ASK-VER-0182,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+guardar,gardár,ASK-VER-0183,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+ayudar,adiutár,ASK-VER-0184,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+intentar,tentár,ASK-VER-0185,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+juzgar,hudikár,ASK-VER-0186,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+perdonar,perdonár,ASK-VER-0187,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+rezar,prekár,ASK-VER-0188,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+nacer,nasér,ASK-VER-0189,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+crecer,kresér,ASK-VER-0190,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+fluir,fluér,ASK-VER-0191,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sonar,sonár,ASK-VER-0192,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+brillar,brilyár,ASK-VER-0193,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+acido,acído,ASK-SUS-0194,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+gas,gáso,ASK-SUS-0195,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sal,sálo,ASK-SUS-0196,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+azufre,sulfóro,ASK-SUS-0197,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+hierro,féro,ASK-SUS-0198,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+oro,áuro,ASK-SUS-0199,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+vidrio,vítro,ASK-SUS-0201,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+maquina,makíno,ASK-SUS-0202,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+computadora,komputadóro,ASK-SUS-0203,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+programa,prográmmo,ASK-SUS-0204,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+software,softwáro,ASK-SUS-0205,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad baja
+electron,elektróno,ASK-SUS-0206,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+proton,protóno,ASK-SUS-0207,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+neutron,neutróno,ASK-SUS-0208,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+orbita,orbíto,ASK-SUS-0209,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+gravedad,gravíta,ASK-SUS-0210,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+energia,energío,ASK-SUS-0211,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+victoria,viktorío,ASK-SUS-0212,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+medicina,medikíno,ASK-SUS-0213,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+doctor,doktóro,ASK-SUS-0214,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+microbio,micróbo,ASK-SUS-0216,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+celula,celúlo,ASK-SUS-0217,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+atom,atómo,ASK-SUS-0218,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+plata metal Ag,argénto,ASK-SUS-0219,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+circulo,sirkúlo,ASK-SUS-0220,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+numero,numéro,ASK-SUS-0221,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+suma,súmmo,ASK-SUS-0222,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+infinito,infiníto,ASK-SUS-0223,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+abogado,advokádo,ASK-SUS-0224,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+impuesto,impósto,ASK-SUS-0226,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+mercado,merkádo,ASK-SUS-0227,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+dinero,deñéro,ASK-SUS-0228,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+banco,bánko,ASK-SUS-0229,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+brazo,brakhío,ASK-SUS-0312,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pierna,kérno,ASK-SUS-0313,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+rodilla,genikúlo,ASK-SUS-0314,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+dedo,díto,ASK-SUS-0315,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+una,ungúlo,ASK-SUS-0316,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+labio,labío,ASK-SUS-0317,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+oreja,aurikúlo,ASK-SUS-0318,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+cuello,kóllo,ASK-SUS-0320,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+espalda,dórso,ASK-SUS-0321,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pecho,pektóro,ASK-SUS-0322,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+estomago,stomáko,ASK-SUS-0323,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+higado,jekóro,ASK-SUS-0324,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+rinon,réno,ASK-SUS-0325,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pulmon,pulmóno,ASK-SUS-0326,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cerebro,serébro,ASK-SUS-0327,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+nervio,nérvo,ASK-SUS-0328,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+musculo,muskúlo,ASK-SUS-0329,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+enfermedad,maladío,ASK-SUS-0333,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+fiebre,fébro,ASK-SUS-0334,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+tos,tússo,ASK-SUS-0335,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+gripe,gríppo,ASK-SUS-0336,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+herida,vulnéro,ASK-SUS-0337,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cicatriz,sikatríko,ASK-SUS-0338,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+salud,salúto,ASK-SUS-0339,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+higiene,igiéno,ASK-SUS-0340,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+dieta,diéto,ASK-SUS-0341,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+vitamina,vitamíno,ASK-SUS-0342,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+proteina,protéino,ASK-SUS-0343,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+bacteria,bakterío,ASK-SUS-0344,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+virus,virúso,ASK-SUS-0345,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+vacuna,vaka/vasíno,ASK-SUS-0346,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cirugia,khirurgío,ASK-SUS-0347,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+farmacia,pharmasiámo,ASK-SUS-0348,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+remedio,remedíumo,ASK-SUS-0349,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sintoma,symptómo,ASK-SUS-0350,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sindrome,syndrómo,ASK-SUS-0351,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+diagnostico,diagnósko,ASK-SUS-0352,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+inflamacion,inflamasío,ASK-SUS-0354,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+alergia,allergío,ASK-SUS-0355,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+anemia,anemío,ASK-SUS-0356,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cancer,kanséro,ASK-SUS-0357,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+diabetes,diabéto,ASK-SUS-0358,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+vena,véno,ASK-SUS-0361,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+arteria,arterío,ASK-SUS-0362,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+esqueleto,skhelétro,ASK-SUS-0364,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+intestino,intestíno,ASK-SUS-0365,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+techo,tékto,ASK-SUS-0374,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+piso,paviménto,ASK-SUS-0375,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pared,paréto,ASK-SUS-0376,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cocina,kosíno,ASK-SUS-0377,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+bano,balnéo,ASK-SUS-0378,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+dormitorio,dormitorío,ASK-SUS-0379,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sala,salóno,ASK-SUS-0380,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+jardin,jardíno,ASK-SUS-0381,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+lampara,lampáno,ASK-SUS-0383,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+espejo,spesío,ASK-SUS-0384,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+plato,pláto,ASK-SUS-0385,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+taza,pokúlo,ASK-SUS-0386,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+vaso,váso,ASK-SUS-0387,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cuchillo,kultéllo,ASK-SUS-0388,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+tenedor,tenedóro,ASK-SUS-0389,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+cuchara,kokleáro,ASK-SUS-0390,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+botella,buttikuláro,ASK-SUS-0391,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+olla,óllo,ASK-SUS-0392,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sarten,patéllo,ASK-SUS-0393,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+toalla,továllo,ASK-SUS-0394,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+jabon,sapóno,ASK-SUS-0395,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cepillo,sepéllo,ASK-SUS-0396,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+peine,pettíno,ASK-SUS-0397,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+ropa,róbo,ASK-SUS-0398,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+camisa,kamisío,ASK-SUS-0399,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pantalon,pantalonéso,ASK-SUS-0400,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+abrigo,abríko,ASK-SUS-0403,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+bolsa,búrso,ASK-SUS-0404,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+papel,papíro,ASK-SUS-0406,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+lapiz,lapído,ASK-SUS-0407,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+hardware,hardwáro,ASK-SUS-0412,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+escritorio,skriptorío,ASK-SUS-0413,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+banco (asiento),bankílo,ASK-SUS-0414,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+alfombra,tapéto,ASK-SUS-0415,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cortina,kortíno,ASK-SUS-0416,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+estante,stállo,ASK-SUS-0417,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+colchon,materáso,ASK-SUS-0418,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+almohada,kussíno,ASK-SUS-0419,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+sabana,linío,ASK-SUS-0420,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+manta,mánto,ASK-SUS-0421,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cojin,kojíno,ASK-SUS-0422,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cuadro,kvádro,ASK-SUS-0423,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+florero,florarío,ASK-SUS-0424,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+canasto,kanéstro,ASK-SUS-0425,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+arroz,ríso,ASK-SUS-0427,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+queso,késo,ASK-SUS-0429,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+mantequilla,bútyro,ASK-SUS-0430,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+azucar,súkro,ASK-SUS-0431,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+aceite,oléo,ASK-SUS-0432,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+vinagre,asetáto,ASK-SUS-0433,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sopa,sópo,ASK-SUS-0434,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+ensalada,insaláto,ASK-SUS-0435,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pasta,pásto,ASK-SUS-0436,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pizza,pízzo,ASK-SUS-0437,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+chocolate,khokoláto,ASK-SUS-0438,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cafe,káfo,ASK-SUS-0439,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+te,tho,ASK-SUS-0440,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cerveza,bírro,ASK-SUS-0442,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+jugo,súko,ASK-SUS-0443,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pescado,písko,ASK-SUS-0444,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pollo,pullástro,ASK-SUS-0445,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pato,áno,ASK-SUS-0451,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+tomate,tomáto,ASK-SUS-0452,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+papa,patáto,ASK-SUS-0453,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cebolla,sépo,ASK-SUS-0454,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+ajo,allío,ASK-SUS-0455,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+zanahoria,karótto,ASK-SUS-0456,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+lechuga,laktúko,ASK-SUS-0457,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+naranja,orángo,ASK-SUS-0458,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+platano,platáno,ASK-SUS-0460,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+uva,úvo,ASK-SUS-0461,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+limon,limóno,ASK-SUS-0463,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+nuez,núko,ASK-SUS-0464,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+miel,méllo,ASK-SUS-0465,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+bosque,bósko,ASK-SUS-0468,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+desierto,desérto,ASK-SUS-0472,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+lago,láko,ASK-SUS-0475,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+oceano,oseáno,ASK-SUS-0476,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+trueno,toníto,ASK-SUS-0477,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+rayo,fulgúro,ASK-SUS-0478,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+niebla,nebúlo,ASK-SUS-0479,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+arena,aréno,ASK-SUS-0481,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+barro,lúto,ASK-SUS-0482,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+polvo,pulvéro,ASK-SUS-0483,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+plata,argénto,ASK-SUS-0486,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cobre,kúpro,ASK-SUS-0487,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+madera,línyo,ASK-SUS-0489,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+carbon,karbóno,ASK-SUS-0490,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+petroleo,petroléo,ASK-SUS-0491,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+leon,leóno,ASK-SUS-0493,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+tigre,tígro,ASK-SUS-0494,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+zorro,vúlpo,ASK-SUS-0497,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+ciervo,sérvo,ASK-SUS-0498,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+tortuga,testudíno,ASK-SUS-0502,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+ballena,balaéno,ASK-SUS-0505,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+mariposa,farfállo,ASK-SUS-0513,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sombra,úmbro,ASK-SUS-0516,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+volcan,volkáno,ASK-SUS-0524,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cordillera,kordilléro,ASK-SUS-0525,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pradera,praterío,ASK-SUS-0526,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+llanura,planitío,ASK-SUS-0527,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+meseta,meséto,ASK-SUS-0528,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+peninsula,peninsúlo,ASK-SUS-0529,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+golfo,gólfo,ASK-SUS-0530,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+bahia,báio,ASK-SUS-0531,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+estrecho (accidente geo.),strétto,ASK-SUS-0532,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+canal,kanálo,ASK-SUS-0533,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+archipielago,arkhipelágo,ASK-SUS-0534,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+arrecife,resífo,ASK-SUS-0535,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+acantilado,rúpo,ASK-SUS-0536,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+prado,praténso,ASK-SUS-0537,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+maestro,maéstro,ASK-SUS-0544,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+profesor,professóro,ASK-SUS-0545,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+estudiante,studénto,ASK-SUS-0546,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+ingeniero,ingeniéro,ASK-SUS-0547,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+juez,judíko,ASK-SUS-0549,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+policia,politío,ASK-SUS-0550,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+soldado,soldáto,ASK-SUS-0551,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+capitan,kapitáno,ASK-SUS-0552,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+presidente,presidénto,ASK-SUS-0555,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+ministro,minístro,ASK-SUS-0556,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+gobernador,gubernatóro,ASK-SUS-0557,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+alcalde,urbéstro,ASK-SUS-0558,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+ciudadano,sivitáno,ASK-SUS-0559,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pueblo,popólo,ASK-SUS-0560,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+estado,státo,ASK-SUS-0562,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+derecho,júro,ASK-SUS-0565,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+igualdad,ekvalitáto,ASK-SUS-0567,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+arma,ármo,ASK-SUS-0571,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+escudo,skúto,ASK-SUS-0572,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+frontera,frontiéro,ASK-SUS-0573,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+capital,kapitálo,ASK-SUS-0574,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+barrio,kvartéro,ASK-SUS-0577,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+calle,vikólo,ASK-SUS-0578,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+plaza,platío,ASK-SUS-0579,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+muro,múro,ASK-SUS-0580,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+torre,túrro,ASK-SUS-0581,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+templo,témplo,ASK-SUS-0582,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+palacio,palatío,ASK-SUS-0584,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+castillo,kastéllo,ASK-SUS-0585,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+carcel,karséro,ASK-SUS-0586,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+voto,vóto,ASK-SUS-0595,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+eleccion,eleksío,ASK-SUS-0596,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+patria,patrío,ASK-SUS-0598,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+tradicion,tradisío,ASK-SUS-0599,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cultura,kultúro,ASK-SUS-0600,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+civilizacion,sivilisasío,ASK-SUS-0601,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sociedad,sosietáto,ASK-SUS-0602,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+familia,familío,ASK-SUS-0603,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+universidad,universitáto,ASK-SUS-0605,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+clase,klásso,ASK-SUS-0606,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+leccion,leksío,ASK-SUS-0607,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+examen,eksamíno,ASK-SUS-0608,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+nota,nóto,ASK-SUS-0609,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+ciencia,ssientío,ASK-SUS-0610,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+filosofia,philosophío,ASK-SUS-0611,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+matematica,mathematíko,ASK-SUS-0612,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+fisica,physíko,ASK-SUS-0613,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+quimica,khimíko,ASK-SUS-0614,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+biologia,biologío,ASK-SUS-0615,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+geologia,geologío,ASK-SUS-0616,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+astronomia,astronomío,ASK-SUS-0617,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+geografia,geographío,ASK-SUS-0618,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+teoria,theorío,ASK-SUS-0619,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+practica,praktíko,ASK-SUS-0620,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+metodo,methódo,ASK-SUS-0621,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+analisis,anályso,ASK-SUS-0622,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sintesis,synthéso,ASK-SUS-0623,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+hipotesis,ipotéso,ASK-SUS-0624,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+experimento,eksperiménto,ASK-SUS-0625,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+resultado,resultáto,ASK-SUS-0626,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+solucion,solusío,ASK-SUS-0627,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pregunta,kvestío,ASK-SUS-0628,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+respuesta,respónso,ASK-SUS-0629,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+idea,idéo,ASK-SUS-0630,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+concepto,konsépto,ASK-SUS-0631,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+definicion,definisío,ASK-SUS-0632,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+ejemplo,eksémplo,ASK-SUS-0633,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+mentira,mentíto,ASK-SUS-0635,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+error,erróro,ASK-SUS-0636,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+logica,logíko,ASK-SUS-0637,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+simbolo,symbólo,ASK-SUS-0638,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+letra,littéro,ASK-SUS-0639,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+triangulo,triangúlo,ASK-SUS-0647,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cuadrado,kvadráto,ASK-SUS-0648,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+linea,linéo,ASK-SUS-0649,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+punto,púnkto,ASK-SUS-0650,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+angulo,angólo,ASK-SUS-0651,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+ecuacion,ekvasío,ASK-SUS-0652,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+funcion,funkzío,ASK-SUS-0653,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+variable,variabílo,ASK-SUS-0654,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+constante,konstánto,ASK-SUS-0655,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+axioma,assiómo,ASK-SUS-0656,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+postulado,postuláto,ASK-SUS-0657,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+paradigma,paradígmo,ASK-SUS-0658,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+modelo,modélo,ASK-SUS-0659,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+dato,dáto,ASK-SUS-0660,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+informacion,informasío,ASK-SUS-0661,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+conocimiento,konossentío,ASK-SUS-0662,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+aprendizaje,apprendiménto,ASK-SUS-0663,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+enseianza,insenyaménto,ASK-SUS-0664,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+investigacion,risérko,ASK-SUS-0665,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+biblioteca,bibliothéko,ASK-SUS-0666,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+archivo,arkhívo,ASK-SUS-0667,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+museo,muséo,ASK-SUS-0668,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+motor,motóro,ASK-SUS-0669,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+rueda,róto,ASK-SUS-0670,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+coche,áuto,ASK-SUS-0671,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+moto,móto,ASK-SUS-0676,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+autobus,autobúso,ASK-SUS-0677,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+camion,kamióno,ASK-SUS-0678,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+puerto,pórto,ASK-SUS-0679,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+estacion,estasío,ASK-SUS-0681,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+via,vío,ASK-SUS-0682,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+ferrocarril,ferrovío,ASK-SUS-0683,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+telefono,telefóno,ASK-SUS-0684,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+radio,radío,ASK-SUS-0685,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+television,televizío,ASK-SUS-0686,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+internet,internéto,ASK-SUS-0687,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+red,réto,ASK-SUS-0688,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pantalla,skhérmo,ASK-SUS-0689,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+teclado,tastiéro,ASK-SUS-0690,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+datos,datíso,ASK-SUS-0691,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+correo,korriéro,ASK-SUS-0692,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+mensaje,messagío,ASK-SUS-0693,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+foto,phóto,ASK-SUS-0694,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+camara,kaméra,ASK-SUS-0695,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pelicula,pellikúlo,ASK-SUS-0696,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+electricidad,elektrisitáto,ASK-SUS-0697,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+bateria,batterío,ASK-SUS-0698,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+cable,kávo,ASK-SUS-0699,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+antena,anténno,ASK-SUS-0700,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+atomo,atómo,ASK-SUS-0707,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sulfuro,sulphúro,ASK-SUS-0709,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+robot,robóto,ASK-SUS-0710,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sensor,sénso,ASK-SUS-0711,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+chip,mikrokhípo,ASK-SUS-0712,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+memoria informatica,memorío,ASK-SUS-0713,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+procesador,prosessóro,ASK-SUS-0714,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+algoritmo,algorítmo,ASK-SUS-0715,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+codigo,kodíko,ASK-SUS-0716,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+servidor,servitóro,ASK-SUS-0717,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+terminal,terminálo,ASK-SUS-0718,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+arte,árto,ASK-SUS-0719,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pintura,piktúro,ASK-SUS-0721,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+escultura,skultúro,ASK-SUS-0722,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+novela,novéllo,ASK-SUS-0723,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cuento,kónto,ASK-SUS-0724,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+drama,drámmo,ASK-SUS-0725,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+comedia,komeddío,ASK-SUS-0726,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+tragedia,trageddío,ASK-SUS-0727,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+actor,aktóro,ASK-SUS-0728,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+teatro,theátro,ASK-SUS-0729,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cine,sinémo,ASK-SUS-0730,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+danza,dánsso,ASK-SUS-0731,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+cancion,kansío,ASK-SUS-0732,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+instrumento,instruménto,ASK-SUS-0733,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+ritmo,rítmo,ASK-SUS-0739,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+melodia,melodío,ASK-SUS-0740,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+armonia,armonío,ASK-SUS-0741,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+concerto,konsérto,ASK-SUS-0742,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+estatua,statúo,ASK-SUS-0743,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+retrato,ritrátto,ASK-SUS-0744,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+paisaje,paesaggío,ASK-SUS-0745,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+diseno,desínyo,ASK-SUS-0746,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+estilo,stylo,ASK-SUS-0747,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+autor,autóro,ASK-SUS-0748,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+artista,artísto,ASK-SUS-0749,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+escritor,skriptóro,ASK-SUS-0750,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+poeta,poéto,ASK-SUS-0751,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+deporte,spórto,ASK-SUS-0755,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+futbol,footbállo,ASK-SUS-0756,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+balon,ballóno,ASK-SUS-0757,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+equipo,ekvípo,ASK-SUS-0758,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+juego,jóko,ASK-SUS-0759,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+jugador,giokatóro,ASK-SUS-0760,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+entrenador,allenatóro,ASK-SUS-0761,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+campeon,kampióno,ASK-SUS-0762,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+premio,premío,ASK-SUS-0763,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+carrera,kórso,ASK-SUS-0765,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+salto,sálto,ASK-SUS-0766,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+natacion,nuotasío,ASK-SUS-0767,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+tenis,tenníso,ASK-SUS-0768,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+golf,gólfo,ASK-SUS-0769,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+boxeo,bókso,ASK-SUS-0770,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+lucha,lúkta,ASK-SUS-0771,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+gimnasio,gymnasíumo,ASK-SUS-0772,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+atleta,atléto,ASK-SUS-0773,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+trofeo,troféo,ASK-SUS-0775,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+torneo,tornéo,ASK-SUS-0776,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+regla,regúlo,ASK-SUS-0777,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+puntaje,punteggío,ASK-SUS-0778,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+ajedrez,skáko,ASK-SUS-0779,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+feliz,felíse,ASK-ADJ-0785,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+triste,tríste,ASK-ADJ-0786,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+joven,juvéne,ASK-ADJ-0787,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+viejo,vetúle,ASK-ADJ-0788,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+antiguo,antíkve,ASK-ADJ-0789,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+alto,álte,ASK-ADJ-0791,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+bajo (adjetivo),básse,ASK-ADJ-0792,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+largo,lónge,ASK-ADJ-0793,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+corto,kúrte,ASK-ADJ-0794,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+ancho,lárge,ASK-ADJ-0795,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+estrecho,stréto,ASK-ADJ-0796,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sucio,sordíde,ASK-ADJ-0798,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+seco,sik,ASK-ADJ-0801,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+humedo,humíde,ASK-ADJ-0802,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+dulce,dúlse,ASK-ADJ-0803,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+amargo,amáre,ASK-ADJ-0804,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+salado,saláte,ASK-ADJ-0805,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+rico,rik,ASK-ADJ-0806,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pobre,póvre,ASK-ADJ-0807,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+lleno,plen,ASK-ADJ-0808,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+vacio,vakúe,ASK-ADJ-0809,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+importante,importánte,ASK-ADJ-0810,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+necesario,nesessaríe,ASK-ADJ-0811,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+imposible,impossibíle,ASK-ADJ-0813,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+seguro,sekúre,ASK-ADJ-0814,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+peligroso,perikulóse,ASK-ADJ-0815,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+famoso,famóse,ASK-ADJ-0816,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cierto,sérte,ASK-ADJ-0817,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+falso,fálse,ASK-ADJ-0818,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+real,reále,ASK-ADJ-0819,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+imaginario,imaginári,ASK-ADJ-0820,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+comun,kómmun,ASK-ADJ-0821,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+raro,rar,ASK-ADJ-0822,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+normal,normál,ASK-ADJ-0823,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+especial,spesiál,ASK-ADJ-0824,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+general,generál,ASK-ADJ-0825,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+particular,partikulár,ASK-ADJ-0826,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+publico,publík,ASK-ADJ-0827,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+privado,priváte,ASK-ADJ-0828,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+vivo,víve,ASK-ADJ-0831,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+muerto,muérte,ASK-ADJ-0832,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cansado,stánke,ASK-ADJ-0833,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+azul,azúlo,ASK-ADJ-0840,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+rojo,rúbro,ASK-ADJ-0841,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+amarillo,amarélo,ASK-ADJ-0842,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+blanco,blánko,ASK-ADJ-0843,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+negro,négro,ASK-ADJ-0844,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+purpura,purpúro,ASK-ADJ-0845,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+naranja (color),aránse,ASK-ADJ-0846,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+verde,vérdo,ASK-ADJ-0847,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+marron,brun,ASK-ADJ-0848,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+gris,gríso,ASK-ADJ-0850,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+color,kolóre,ASK-ADJ-0851,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+ano,ánno,ASK-SUS-0852,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+mes (unidad de tiempo),lúno,ASK-SUS-0853,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+semana,septimáno,ASK-SUS-0854,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+hora,óro,ASK-SUS-0856,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+minuto,minúto,ASK-SUS-0857,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+segundo,sekúndo,ASK-SUS-0858,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+madrugada,álbo,ASK-SUS-0859,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+manana,matíno,ASK-SUS-0860,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+mediodia,mediedío,ASK-SUS-0861,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+tarde,postméso,ASK-SUS-0862,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+atardecer,vespéro,ASK-SUS-0863,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+medianoche,medienókto,ASK-SUS-0864,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+momento,moménto,ASK-SUS-0865,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cronometro,khronométro,ASK-SUS-0867,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+instante,instánto,ASK-SUS-0868,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+siglo,sekúlo,ASK-SUS-0869,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+decada,dekádo,ASK-SUS-0870,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+milenio,millenío,ASK-SUS-0871,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+eternidad,eternitáto,ASK-SUS-0872,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pasado,passáto,ASK-SUS-0873,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+presente,presénto,ASK-SUS-0874,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+futuro,futúro,ASK-SUS-0875,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+lunes,lunedío,ASK-SUS-0876,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+martes,mardedío,ASK-SUS-0877,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+miercoles,merkurdío,ASK-SUS-0878,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+jueves,iovisdío,ASK-SUS-0879,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+viernes,venerdío,ASK-SUS-0880,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sabado,sabbáto,ASK-SUS-0881,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+domingo,dominíko,ASK-SUS-0882,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+norte,nórto,ASK-SUS-0883,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sur,súdo,ASK-SUS-0884,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+este,ésto,ASK-SUS-0885,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+oeste,ovésto,ASK-SUS-0886,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+noreste,norésto,ASK-SUS-0887,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+noroeste,norovésto,ASK-SUS-0888,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sureste,surésto,ASK-SUS-0889,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+suroeste,surovésto,ASK-SUS-0890,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+latitud,latitúdo,ASK-SUS-0891,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+longitud,longitúdo,ASK-SUS-0892,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+altitud,altitúdo,ASK-SUS-0893,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+ecuador,ekvatóro,ASK-SUS-0894,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+lugar,lóko,ASK-SUS-0896,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+lado,latéro,ASK-SUS-0897,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+continente,kontinénto,ASK-SUS-0898,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+region,regióno,ASK-SUS-0899,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+provincia,provinsío,ASK-SUS-0900,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+distrito,distríkto,ASK-SUS-0901,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+municipio,munisipalitáto,ASK-SUS-0902,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+imperio,impéro,ASK-SUS-0903,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+reino,rényo,ASK-SUS-0904,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+colonia,kolonío,ASK-SUS-0905,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+territorio,territorío,ASK-SUS-0906,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+metropoli,metropólo,ASK-SUS-0907,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+comarca,komárko,ASK-SUS-0909,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pais,páiso,ASK-SUS-0910,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+alegria,alégro,ASK-SUS-0911,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+tristeza,tristésso,ASK-SUS-0912,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+miedo,pauróo,ASK-SUS-0913,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+ira,íro,ASK-SUS-0914,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+asco,nauséo,ASK-SUS-0915,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sorpresa,surpréso,ASK-SUS-0916,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+desprecio,dispréto,ASK-SUS-0917,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+placer,plaséro,ASK-SUS-0918,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+dolor,dolóro,ASK-SUS-0919,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+indolencia,indolentío,ASK-SUS-0920,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+ambivalencia,ambivalentío,ASK-SUS-0921,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+serenidad,serenitáto,ASK-SUS-0922,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+ansiedad,ansietáto,ASK-SUS-0925,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+felicidad,felisitáto,ASK-SUS-0926,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+orgullo,orgoglío,ASK-SUS-0927,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+celos,zelóso,ASK-SUS-0928,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+envidia,invidío,ASK-SUS-0929,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+vergüenza,vergonío,ASK-SUS-0930,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+culpa,kólpo,ASK-SUS-0931,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+nostalgia,nostalgío,ASK-SUS-0932,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+melancolia,melankolío,ASK-SUS-0933,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+euforia,euforío,ASK-SUS-0934,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+extasis,ekstasío,ASK-SUS-0935,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+angustia,angustío,ASK-SUS-0936,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+panico,paníko,ASK-SUS-0937,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+terror,terróro,ASK-SUS-0938,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+furia,furío,ASK-SUS-0939,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+rabia,rabío,ASK-SUS-0940,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+irritacion,irritasío,ASK-SUS-0941,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+frustracion,frustrasío,ASK-SUS-0942,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+decepcion,delusióno,ASK-SUS-0943,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+esperanza,sperantío,ASK-SUS-0944,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+confianza,konfidentío,ASK-SUS-0945,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+desconfianza,deskonfidentío,ASK-SUS-0946,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+abuelo,ávo,ASK-SUS-0953,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+abuela,áva,ASK-SUS-0954,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+nieto,nepóto,ASK-SUS-0955,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+nieta,népto,ASK-SUS-0956,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+tio,zióro,ASK-SUS-0957,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+tia,tía,ASK-SUS-0958,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+primo,prímo,ASK-SUS-0959,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+prima,prína,ASK-SUS-0960,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+sobrino,sobríno,ASK-SUS-0961,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+sobrina,nepóta,ASK-SUS-0962,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+suegro,soséro,ASK-SUS-0963,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+suegra,suéro,ASK-SUS-0964,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+yerno,genéro,ASK-SUS-0965,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+nuera,nóro,ASK-SUS-0966,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cunado,kunyáto,ASK-SUS-0967,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+cunada,kunyáta,ASK-SUS-0968,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+bisabuelo,bisávo,ASK-SUS-0969,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+tatarabuelo,trisávo,ASK-SUS-0970,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+bisnieto,bisnipóto,ASK-SUS-0971,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+moneda,monéto,ASK-SUS-0972,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+precio,presío,ASK-SUS-0973,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+costo,kósto,ASK-SUS-0974,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+valor,valóro,ASK-SUS-0975,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+tasa,tásso,ASK-SUS-0976,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+empresa,impréso,ASK-SUS-0977,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+deuda,debíto,ASK-SUS-0978,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+credito,kredíto,ASK-SUS-0979,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pago,pagaménto,ASK-SUS-0980,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+ganancia,guadányo,ASK-SUS-0981,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+perdida,perdíto,ASK-SUS-0982,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+comercio,kommersío,ASK-SUS-0983,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+transaccion,transakzío,ASK-SUS-0984,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+contrato,kontráto,ASK-SUS-0985,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+factura,faktúro,ASK-SUS-0986,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+recibo,resipúto,ASK-SUS-0987,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+riqueza,rikvézo,ASK-SUS-0988,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pobreza,povertáto,ASK-SUS-0989,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+salario,salarío,ASK-SUS-0990,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+beneficio,benefisío,ASK-SUS-0991,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+perjuicio,dámno,ASK-SUS-0992,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+inversion,investménto,ASK-SUS-0993,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+produccion,produksío,ASK-SUS-0994,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+consumo,konsúmo,ASK-SUS-0995,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+industria,industrío,ASK-SUS-0996,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+agricultura,agrikultúro,ASK-SUS-0997,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+propiedad,propriéto,ASK-SUS-0998,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+mercancia,merkanzío,ASK-SUS-0999,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+taladro,trivéllo,ASK-SUS-1065,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+alicate,tenaglío,ASK-SUS-1067,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+llave inglesa,khiave ingléso,ASK-SUS-1068,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad baja
+tornillo,torníllo,ASK-SUS-1069,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+clavo,khióvo,ASK-SUS-1070,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+tuerca,ghiéro,ASK-SUS-1071,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+arandela,rosétto,ASK-SUS-1072,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+cincel,seséllo,ASK-SUS-1073,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+lima,límo,ASK-SUS-1074,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+lijadora,levigatríko,ASK-SUS-1075,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+hacha,assío,ASK-SUS-1076,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+pico,píko,ASK-SUS-1077,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pala,pálo,ASK-SUS-1078,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+rastrillo,rastréllo,ASK-SUS-1079,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+azada,záppo,ASK-SUS-1080,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+machete,makhétto,ASK-SUS-1081,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+aguja,ágo,ASK-SUS-1083,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+alfiler,spíllo,ASK-SUS-1084,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+imperdible,spillo da balío,ASK-SUS-1085,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad baja
+boton,bottóno,ASK-SUS-1086,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+cierre,serniéro,ASK-SUS-1087,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cuerda,kórda,ASK-SUS-1088,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+cadena,katéno,ASK-SUS-1089,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+alambre,ferfílo,ASK-SUS-1090,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+tubo,túbo,ASK-SUS-1091,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+nivel,livéllo,ASK-SUS-1092,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+plomada,filo a piómbo,ASK-SUS-1093,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad baja
+metro (instrumento),mesuridóro,ASK-SUS-1094,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+compas,kompásso,ASK-SUS-1095,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+regla (instrumento),rególo,ASK-SUS-1096,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+formon,skalpéllo,ASK-SUS-1097,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sierra circular,sirkoláro,ASK-SUS-1098,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sierra de mano,sega a máno,ASK-SUS-1099,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad baja
+cuchillo de cocina,koltéllo,ASK-SUS-1100,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+guante,guánto,ASK-SUS-1102,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+bufanda,ssiárpo,ASK-SUS-1103,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+cinturon,sintúro,ASK-SUS-1104,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+gorra,kappukío,ASK-SUS-1106,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+botas,bóto,ASK-SUS-1107,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sandalia,sandálo,ASK-SUS-1108,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+zapatilla,siabátto,ASK-SUS-1109,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+sueter,maglióno,ASK-SUS-1111,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+falda,gónno,ASK-SUS-1112,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+vestido,vestíto,ASK-SUS-1113,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+blusa,blúso,ASK-SUS-1114,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pantalon corto,pantalonsíno,ASK-SUS-1115,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+ropa interior,biankherío,ASK-SUS-1116,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sosten,reggiséno,ASK-SUS-1117,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+pijama,pigiámo,ASK-SUS-1118,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+bata,vésto,ASK-SUS-1119,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+delantal,grembíulo,ASK-SUS-1120,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+panuelo,fazzolétto,ASK-SUS-1121,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+gafas,okulío,ASK-SUS-1122,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sombrilla,ombréllo,ASK-SUS-1123,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+paraguas,paragúo,ASK-SUS-1124,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+joya,jóya,ASK-SUS-1125,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+collar,kolláno,ASK-SUS-1127,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pulsera,brakialétto,ASK-SUS-1128,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+tribunal,tribunálo,ASK-SUS-1129,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+demanda,domándo,ASK-SUS-1130,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sentencia,sententío,ASK-SUS-1131,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+testigo,testémo,ASK-SUS-1132,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+fiscal,fiskálo,ASK-SUS-1133,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+defensor,difensóro,ASK-SUS-1134,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+acusado,akusáto,ASK-SUS-1135,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+victima,vittímo,ASK-SUS-1136,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+culpable,kolpevólo,ASK-SUS-1137,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+inocente,innosénto,ASK-SUS-1138,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+prueba,próvo,ASK-SUS-1139,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+testimonio,testimonío,ASK-SUS-1140,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+delito,delítto,ASK-SUS-1141,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+crimen,krimíno,ASK-SUS-1142,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+falta,fálto,ASK-SUS-1143,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pena,péno,ASK-SUS-1144,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+multa,múlto,ASK-SUS-1145,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+libertad condicional,liberta kondizionálo,ASK-SUS-1146,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad baja
+constitucion,konstitusío,ASK-SUS-1147,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+codigo legal,kodíso,ASK-SUS-1148,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+decreto,dekréto,ASK-SUS-1149,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+reglamento,regolaménto,ASK-SUS-1150,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+acuerdo,akórdo,ASK-SUS-1151,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+testamento,testaménto,ASK-SUS-1152,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+herencia,eredíto,ASK-SUS-1153,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cirujano,khirúrgo,ASK-SUS-1154,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+enfermero,infermiéro,ASK-SUS-1155,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+receta,risétto,ASK-SUS-1156,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+dosis,dóso,ASK-SUS-1157,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+tratamiento,trattaménto,ASK-SUS-1158,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+antibiotico,antibiotíko,ASK-SUS-1159,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+analgésico,analgesíko,ASK-SUS-1160,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+anestesia,anestesío,ASK-SUS-1161,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+transplante,trapiánto,ASK-SUS-1162,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+radiografia,radiografío,ASK-SUS-1163,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+ecografia,ekografío,ASK-SUS-1164,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+hemograma,emokrómo,ASK-SUS-1165,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+presion arterial,pressione arterióso,ASK-SUS-1166,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad baja
+pulso,pólso,ASK-SUS-1167,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+fractura,frattúro,ASK-SUS-1168,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+esguince,distorsióno,ASK-SUS-1169,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+ternera,vitéllo,ASK-SUS-1170,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cordero,anyéllo,ASK-SUS-1171,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pavo,táko,ASK-SUS-1172,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+jabali,singhiálo,ASK-SUS-1173,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+venado,kamossío,ASK-SUS-1174,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+salmon,salmóno,ASK-SUS-1175,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+atun,tónno,ASK-SUS-1176,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+trucha,tróto,ASK-SUS-1177,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+bacalao,merlúzzo,ASK-SUS-1178,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sardina,sardíno,ASK-SUS-1179,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+camaron,gambéro,ASK-SUS-1180,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+langosta,aragósto,ASK-SUS-1181,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cangrejo,grankhío,ASK-SUS-1182,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pulpo,pólpo,ASK-SUS-1183,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+calamar,kalamáro,ASK-SUS-1184,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+mejillon,kózzo,ASK-SUS-1185,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+ostra,ostríko,ASK-SUS-1186,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+arroz blanco,riso biánko,ASK-SUS-1187,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad baja
+arroz integral,riso integrálo,ASK-SUS-1188,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad baja
+trigo,gráno,ASK-SUS-1189,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+maiz,máiso,ASK-SUS-1190,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+avena,avéno,ASK-SUS-1191,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cebada,órzo,ASK-SUS-1192,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+centeno,segálo,ASK-SUS-1193,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+lenteja,lentikhío,ASK-SUS-1194,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+garbanzo,siséro,ASK-SUS-1195,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+frijol,fagiólo,ASK-SUS-1196,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+soja,sóio,ASK-SUS-1197,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+almendra,mandórlo,ASK-SUS-1198,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+avellana,nokiólo,ASK-SUS-1199,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cacahuete,arakhído,ASK-SUS-1200,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pistacho,pistakhío,ASK-SUS-1201,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+castana,kastányo,ASK-SUS-1202,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pine,ananáso,ASK-SUS-1203,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+mango,mángo,ASK-SUS-1204,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+papaya,papáio,ASK-SUS-1205,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sandia,angurío,ASK-SUS-1206,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+melon,melóno,ASK-SUS-1207,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+fresa,fragólo,ASK-SUS-1208,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+frambuesa,lampóno,ASK-SUS-1209,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+arandano,mirtíllo,ASK-SUS-1210,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cereza,siliegío,ASK-SUS-1211,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+ciruela,prúnyo,ASK-SUS-1212,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+durazno,pésko,ASK-SUS-1213,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+higo,fíko,ASK-SUS-1214,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+granada,melográno,ASK-SUS-1215,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+aguila,akvílo,ASK-SUS-1216,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+halcon,fálko,ASK-SUS-1217,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+buho,gúfo,ASK-SUS-1218,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cuervo,kórvo,ASK-SUS-1219,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+paloma,kolómbo,ASK-SUS-1220,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+gorrion,passéro,ASK-SUS-1221,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+canario,kanaríno,ASK-SUS-1222,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+loro,pappagállo,ASK-SUS-1223,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+tucan,tukáno,ASK-SUS-1224,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+flamenco,fenikottéro,ASK-SUS-1225,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+pengüino,pengíno,ASK-SUS-1226,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+avestruz,avestrúso,ASK-SUS-1227,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pavo real,pavóno,ASK-SUS-1228,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cisne,sísno,ASK-SUS-1229,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+ganso,óko,ASK-SUS-1230,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+tiburon,skválo,ASK-SUS-1231,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+delfin,delfíno,ASK-SUS-1232,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+foca,fóko,ASK-SUS-1233,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+morsa,trikhéko,ASK-SUS-1234,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+león marino,leone maríno,ASK-SUS-1235,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad baja
+medusa,medúso,ASK-SUS-1236,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+estrella de mar,stella maríno,ASK-SUS-1237,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad baja
+caballito de mar,kavallukío,ASK-SUS-1238,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+tortuga marina,tartaruga maríno,ASK-SUS-1239,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad baja
+cocodrilo,kokodríllo,ASK-SUS-1240,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+lagarto,lusertólo,ASK-SUS-1241,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+iguana,iguáno,ASK-SUS-1242,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+camaleon,kamaleónto,ASK-SUS-1243,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+vibora,vipéro,ASK-SUS-1244,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+escorpion,skorpióno,ASK-SUS-1245,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+avispa,véspo,ASK-SUS-1248,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+saltamontes,kavallétto,ASK-SUS-1250,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+grillo,gríllo,ASK-SUS-1251,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+escarabajo,skarabéo,ASK-SUS-1252,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+mosquito,zanzáro,ASK-SUS-1254,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pulga,púlko,ASK-SUS-1255,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+garrapata,zéko,ASK-SUS-1256,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+gusano,vérmo,ASK-SUS-1257,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+babosa,limakío,ASK-SUS-1259,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+tranvia,trámo,ASK-SUS-1261,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+metro (transporte),metrópo,ASK-SUS-1262,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+taxi,taksío,ASK-SUS-1263,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+ambulancia,ambulánzo,ASK-SUS-1264,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+coche policial,autopattuglío,ASK-SUS-1265,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+coche bomberos,autopómpo,ASK-SUS-1266,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+helicoptero,elikottéro,ASK-SUS-1267,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+avioneta,aereo pikólo,ASK-SUS-1268,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad baja
+globo aerostatico,mongolfiéro,ASK-SUS-1269,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+submarino,sottomaríno,ASK-SUS-1270,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+yate,yákhto,ASK-SUS-1271,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+canoa,kanóo,ASK-SUS-1273,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+balsa,zattéro,ASK-SUS-1274,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+patinete,monopattíno,ASK-SUS-1275,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+monopatin,skateboárdo,ASK-SUS-1276,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+trineo,slítto,ASK-SUS-1277,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+carreta,karrétto,ASK-SUS-1278,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+carruaje,karrózzo,ASK-SUS-1279,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+excavadora,eskavatóro,ASK-SUS-1281,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pensamiento,pensiéro,ASK-SUS-1282,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+razon,ragióno,ASK-SUS-1283,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+realidad,reáltào,ASK-SUS-1284,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+apariencia,apparénzo,ASK-SUS-1285,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+esencia,essénzo,ASK-SUS-1286,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+existencia,esisténzo,ASK-SUS-1287,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+nada,niénto,ASK-SUS-1288,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+todo,tútto,ASK-SUS-1289,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+algo,kvalkóso,ASK-SUS-1290,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+nada (filos.),núllo,ASK-SUS-1291,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+universo,univérso,ASK-SUS-1294,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cosmos,kósmo,ASK-SUS-1295,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+naturaleza,natúro,ASK-SUS-1296,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+progreso,progrésso,ASK-SUS-1297,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+evolucion,evolusío,ASK-SUS-1298,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+revolucion,rivolusío,ASK-SUS-1299,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+modernidad,modernitáto,ASK-SUS-1300,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+identidad,identítào,ASK-SUS-1301,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+diferencia,differénzo,ASK-SUS-1302,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+semejanza,somigliánzo,ASK-SUS-1303,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+contraste,kontrásto,ASK-SUS-1304,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+relacion,relasío,ASK-SUS-1305,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+causa,káuzo,ASK-SUS-1306,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+efecto,effétto,ASK-SUS-1307,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+fin,fíno,ASK-SUS-1308,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+principio,prinsipío,ASK-SUS-1309,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+medio,mézzo,ASK-SUS-1310,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+primavera,primavéro,ASK-SUS-1311,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+verano,estáto,ASK-SUS-1312,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+otono,autúnno,ASK-SUS-1313,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+invierno,invérno,ASK-SUS-1314,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+belleza,beltáte,ASK-ADJ-1315,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+fealdad,fedéze,ASK-ADJ-1316,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+bondad,bónte,ASK-ADJ-1317,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+maldad,malitíe,ASK-ADJ-1318,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+fuerza,fortíe,ASK-ADJ-1319,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+debilidad,debésse,ASK-ADJ-1320,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sabiduria,saviéze,ASK-ADJ-1321,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+ignorancia,inyorantíe,ASK-ADJ-1322,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+inteligencia,intelligénze,ASK-ADJ-1323,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+necedad,nekhézze,ASK-ADJ-1324,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+valentia,koraggíe,ASK-ADJ-1325,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cobardia,viltà,ASK-ADJ-1326,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+generosidad,generosítà,ASK-ADJ-1327,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+egoismo,egóisme,ASK-ADJ-1328,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+paciencia,pasientíe,ASK-ADJ-1329,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+impaciencia,impaziénze,ASK-ADJ-1330,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+humildad,umílte,ASK-ADJ-1331,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+arrogancia,arrogánze,ASK-ADJ-1332,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sinceridad,sinserítà,ASK-ADJ-1333,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+hipocresia,ipokrisíe,ASK-ADJ-1334,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+traicion,tradiménte,ASK-ADJ-1336,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+honestidad,onéstà,ASK-ADJ-1337,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+injusticia,ingiustizíe,ASK-ADJ-1338,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+esclavitud,skhiavítu,ASK-ADJ-1339,Adjetivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+noticia,novitáso,ASK-SUS-1340,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+periodico,giornálo,ASK-SUS-1341,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+revista,rivísto,ASK-SUS-1342,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+telegrama,telegrámmo,ASK-SUS-1344,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+paquete,páko,ASK-SUS-1345,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sello,fránko,ASK-SUS-1346,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sobre (objeto),bústo,ASK-SUS-1347,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+direccion,indirízzo,ASK-SUS-1348,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+remitente,mitténto,ASK-SUS-1349,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+destinatario,destinatarío,ASK-SUS-1350,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+movil,selluláro,ASK-SUS-1351,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+correo electronico,posta elettroníko,ASK-SUS-1352,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad baja
+llamada,khiamáto,ASK-SUS-1353,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+videollamada,videokhiamáto,ASK-SUS-1354,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+prensa,stámpo,ASK-SUS-1355,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+periodista,giornalísto,ASK-SUS-1356,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+reportero,reportéro,ASK-SUS-1357,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+entrevista,intervísto,ASK-SUS-1358,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+anuncio,annunsío,ASK-SUS-1359,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+violonchelo,violonséllo,ASK-SUS-1360,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+contrabajo,kontrabbásso,ASK-SUS-1361,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+clarinete,klarinétto,ASK-SUS-1362,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+oboe,obóo,ASK-SUS-1363,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+fagot,fagótto,ASK-SUS-1364,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+trombon,trombóno,ASK-SUS-1366,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+tuba,tubáo,ASK-SUS-1367,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+saxofon,sassofóno,ASK-SUS-1368,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+timbal,timpáno,ASK-SUS-1369,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+xilofono,ksilofóno,ASK-SUS-1370,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+arpa,árpo,ASK-SUS-1371,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+organo,orgáno,ASK-SUS-1372,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+armonica,armoníko,ASK-SUS-1374,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+nota musical,notamusikálo,ASK-SUS-1375,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+atletismo,atletíko,ASK-SUS-1376,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+ciclismo,siklísmo,ASK-SUS-1377,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+esgrima,spádro,ASK-SUS-1378,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+halterofilia,pesistíko,ASK-SUS-1379,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+remo,kanottaggío,ASK-SUS-1380,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+vela deportiva,vélo,ASK-SUS-1381,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+equitacion,ekvitazióno,ASK-SUS-1382,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+esqui,skío,ASK-SUS-1383,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+patinaje,pattinaggío,ASK-SUS-1384,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+surf,súrfo,ASK-SUS-1385,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+escalada,arrampikáto,ASK-SUS-1386,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+senderismo,eskursionísmo,ASK-SUS-1387,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+baloncesto,pallakanéstro,ASK-SUS-1388,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+voleibol,pallavólo,ASK-SUS-1389,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+beisbol,basebállo,ASK-SUS-1390,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+rugby,rúgbyo,ASK-SUS-1391,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sacerdote,saserdóto,ASK-SUS-1392,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+monje,monáko,ASK-SUS-1393,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+monja,suóro,ASK-SUS-1394,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+obispo,veskóvo,ASK-SUS-1395,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+papa (sumo pontifice),pápo,ASK-SUS-1396,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+altar,altáro,ASK-SUS-1397,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+oracion,orazióno,ASK-SUS-1400,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+rito,ríto,ASK-SUS-1401,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+ceremonia,serimonío,ASK-SUS-1402,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sacrificio,sakrifisío,ASK-SUS-1403,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+ofrenda,offérto,ASK-SUS-1404,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+peregrinacion,pellegrinaggío,ASK-SUS-1405,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+fe,fédo,ASK-SUS-1406,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+creencia,kredénzo,ASK-SUS-1407,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+dogma,dógmo,ASK-SUS-1408,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+pecado,pekáto,ASK-SUS-1409,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+general (grado),generálo,ASK-SUS-1410,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+coronel,kolonnéllo,ASK-SUS-1411,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+teniente,tenénto,ASK-SUS-1412,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+sargento,sergénto,ASK-SUS-1413,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cabo,kaporálo,ASK-SUS-1414,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+tropa,tróupo,ASK-SUS-1415,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+batalla,battaglío,ASK-SUS-1416,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+estrategia,strategío,ASK-SUS-1417,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+tactica,tattíko,ASK-SUS-1418,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+asedio,assedío,ASK-SUS-1419,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+retirada,ritiráto,ASK-SUS-1420,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+derrota,skonfítto,ASK-SUS-1421,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+espada,spádo,ASK-SUS-1422,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+lanza,lansío,ASK-SUS-1423,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+voltio,vólto,ASK-SUS-1424,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+amperio,ámpo,ASK-SUS-1425,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+vatio,váto,ASK-SUS-1426,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+ohmio,ómo,ASK-SUS-1427,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+kelvin,kélvo,ASK-SUS-1428,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+celsius,célso,ASK-SUS-1429,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+segundo (unidad SI),sekúndo,ASK-SUS-1430,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+metro,métro,ASK-SUS-1431,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+byte,býto,ASK-SUS-1432,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+Entidad / Ente neutro genérico,énto,ASK-SUS-ENTO-0,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+Ente Agente (el actor que ejecuta la acción),agénto,ASK-SUS-ENTO-1,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+Ente Paciente (recibe o sufre la acción),paténto,ASK-SUS-ENTO-2,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+Ente Instrumental (objeto/dispositivo medio),iténto,ASK-SUS-ENTO-3,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+Ente Locativo (recinto/espacio de ubicación),ubénto,ASK-SUS-ENTO-4,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cazar,kásar,ASK-VER-0312,Verbo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+"caso (circunstancia, asunto, caso jurídico/lógico)",káuso,ASK-SUS-1440,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+cazador,kásoro,ASK-SUS-1441,Sustantivo,gen,existe en Askáro V11.x pero no en fase 1; prioridad alta
+yo,Mō,ASK-PRO-0001,Pronombre,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+tú,Tō,ASK-PRO-0002,Pronombre,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+él/eso (genérico),Kō,ASK-PRO-0003,Pronombre,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+"nosotros (excluyente, no tú)",Nōs,ASK-PRO-0004,Pronombre,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+cosa,kóso,ASK-SUS-0005,Pronombre,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+nombre,nomíno,ASK-SUS-0007,Pronombre,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+aire,aéro,ASK-SUS-0013,Pronombre,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+ser,esér,ASK-VER-0014,Pronombre,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+tener,habér,ASK-VER-0015,Pronombre,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+hacer,fasér,ASK-VER-0016,Pronombre,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+ir,ír,ASK-VER-0017,Pronombre,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+venir,venír,ASK-VER-0018,Pronombre,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+decir,desér,ASK-VER-0019,Pronombre,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+dar,dár,ASK-VER-0020,Pronombre,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+saber,sapér,ASK-VER-0024,Pronombre,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+querer,volér,ASK-VER-0025,Pronombre,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+poder,potér,ASK-VER-0026,Pronombre,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+ella,Kā,ASK-PRO-0230,Pronombre,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+ello (neutro),Eo,ASK-PRO-0231,Pronombre,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+lo mencionado (anforico),Ílo,ASK-PRO-0232,Pronombre,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+él mismo (énfasis),Lo,ASK-PRO-0233,Pronombre,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+uno (indefinido),On,ASK-PRO-0234,Pronombre,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+nosotros (incluyente),Mōs,ASK-PRO-0235,Pronombre,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+nosotras,Mās,ASK-PRO-0236,Pronombre,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+ustedes (masc.),Tōs,ASK-PRO-0237,Pronombre,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+ustedes (fem.),Tās,ASK-PRO-0238,Pronombre,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+ellos (pers.),Kōs,ASK-PRO-0239,Pronombre,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+ellas (pers.),Kās,ASK-PRO-0240,Pronombre,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+ellos (objetos),Eos,ASK-PRO-0241,Pronombre,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+ninguno / nadie / nada,No,ASK-PRO-0242,Pronombre,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+hombre (varon),hómo,ASK-PRO-0249,Pronombre,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+en,en,ASK-PREP-1025,Preposicion,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+a (direccion),to,ASK-PREP-1026,Preposicion,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+de (posesion),de,ASK-PREP-1027,Preposicion,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+desde,ex,ASK-PREP-1028,Preposicion,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+con,kun,ASK-PREP-1029,Preposicion,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+sin,sin,ASK-PREP-1030,Preposicion,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+por,per,ASK-PREP-1031,Preposicion,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+para,pro,ASK-PREP-1032,Preposicion,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+sobre,sup,ASK-PREP-1034,Preposicion,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+entre,intér,ASK-PREP-1035,Preposicion,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+a traves de,trans,ASK-PREP-1036,Preposicion,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+y,et,ASK-CONJ-1037,Conjuncion,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+o (alternativa),vel,ASK-CONJ-1038,Conjuncion,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+o (exclusiva),aut,ASK-CONJ-1039,Conjuncion,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+si,si,ASK-CONJ-1040,Conjuncion,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+entonces,tunc,ASK-CONJ-1041,Conjuncion,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+porque,re,ASK-CONJ-1042,Conjuncion,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+por lo tanto,so,ASK-CONJ-1043,Conjuncion,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+que (comp.),quám,ASK-CONJ-1044,Conjuncion,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+de otra manera,alitér,ASK-CONJ-1045,Conjuncion,ka,existe en Askáro V11.x pero no en fase 1; prioridad media
+o si (cond. alt.),áutsi,ASK-CONJ-1046,Conjuncion,gen,existe en Askáro V11.x pero no en fase 1; prioridad media
+pasado (auxiliar),prē,ASK-PREP-1047,Preposicion,tem,existe en Askáro V11.x pero no en fase 1; prioridad media
+presente (auxiliar),prēs,ASK-PREP-1048,Preposicion,tem,existe en Askáro V11.x pero no en fase 1; prioridad media
+futuro (auxiliar),prō,ASK-PREP-1049,Preposicion,tem,existe en Askáro V11.x pero no en fase 1; prioridad media
+durativo (auxiliar),dūr,ASK-PREP-1050,Preposicion,tem,existe en Askáro V11.x pero no en fase 1; prioridad media
+pasiva (auxiliar),pās,ASK-PREP-1051,Preposicion,tem,existe en Askáro V11.x pero no en fase 1; prioridad media
+certeza (auxiliar),cēr,ASK-PREP-1052,Preposicion,tem,existe en Askáro V11.x pero no en fase 1; prioridad media
+probabilidad (auxiliar),prob,ASK-PREP-1053,Preposicion,tem,existe en Askáro V11.x pero no en fase 1; prioridad media
+posibilidad (auxiliar),pos,ASK-PREP-1054,Preposicion,tem,existe en Askáro V11.x pero no en fase 1; prioridad media
+hipotetico (auxiliar),hip,ASK-PREP-1055,Preposicion,tem,existe en Askáro V11.x pero no en fase 1; prioridad media
+asuncion (auxiliar),asúm,ASK-PREP-1056,Preposicion,tem,existe en Askáro V11.x pero no en fase 1; prioridad media
+memoria (auxiliar),mne,ASK-PREP-1057,Preposicion,tem,existe en Askáro V11.x pero no en fase 1; prioridad media
+capacidad (auxiliar),pot,ASK-PREP-1058,Preposicion,tem,existe en Askáro V11.x pero no en fase 1; prioridad media
+obligacion (auxiliar),dev,ASK-PREP-1059,Preposicion,tem,existe en Askáro V11.x pero no en fase 1; prioridad media
+volicion (auxiliar),vol,ASK-PREP-1060,Preposicion,tem,existe en Askáro V11.x pero no en fase 1; prioridad media
+mandato (auxiliar),mand,ASK-PREP-1061,Preposicion,tem,existe en Askáro V11.x pero no en fase 1; prioridad media
+negacion (auxiliar),ne,ASK-PREP-1062,Preposicion,tem,existe en Askáro V11.x pero no en fase 1; prioridad media
+él (masc. específico),Kōr,ASK-PRO-0253,Pronombre,gv,existe en Askáro V11.x pero no en fase 1; prioridad media
