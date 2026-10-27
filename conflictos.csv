@@ -1,30 +1,30 @@
-concepto_es,forma_ganadora,forma_askara_actual,raiz_romance,raiz_askara,familia,decision_sugerida
-abeja,abeja,ápo,APIS,ASK-SUS-0512,gen,adoptar romance
-aldea,village,villágo,vicus,ASK-SUS-0576,gen,adoptar romance
-araña,araña,rányo,ARANEUM,ASK-SUS-1246,gen,adoptar romance
-avión,avión,aviasío,AVIS,ASK-SUS-0673,gen,adoptar romance
-bicicleta,bicicleta,bisiklétto,CYCLOS,ASK-SUS-0675,gen,adoptar romance
-caracol,caracol,khiokiólo,COCHLEA,ASK-SUS-1258,gen,adoptar romance
-casa,casa,dómo,CASAM,ASK-SUS-0053,gen,adoptar romance
-cielo,sky,sélo,caelum,ASK-SUS-0521,gen,adoptar romance
-ciudad,ciudad,síbda,CIVITATEM,ASK-SUS-0092,gen,adoptar romance
-corbata,corbata,kravátto,CRAVATE,ASK-SUS-1105,gen,adoptar romance
-destornillador,destornillador,kakiavíto,VERSARE,ASK-SUS-1066,gen,adoptar romance
-erizo,erizo,rikío,ERITIUS,ASK-SUS-1260,gen,adoptar romance
-guitarra,guitarra,gitárro,KITH,ASK-SUS-0735,gen,adoptar romance
-hielo,hielo,glasío,GELU,ASK-SUS-0480,gen,adoptar romance
-llave,llave,klávo,CLAVE,ASK-SUS-0382,gen,adoptar romance
-manzana,apple,appúlo,malum,ASK-SUS-0459,gen,adoptar romance
-mezquita,mezquita,moskhéo,—,ASK-SUS-1398,gen,adoptar romance
-mujer,woman,hóma,femina,ASK-PRO-0250,gen,adoptar romance
-piano,piano,pianofórto,PLANUS,ASK-SUS-0734,gen,adoptar romance
-ratón,ratón,ráto,mus,ASK-SUS-0127,gen,adoptar romance
-reloj,reloj,orologío,HOROLOGIU,ASK-SUS-0866,gen,adoptar romance
-rey,rey,ro,REGEM,ASK-SUS-0553,gen,adoptar romance
-río,río,flumíno,flumen,ASK-SUS-0037,gen,adoptar romance
-tijeras,tijeras,sissóro,RCIP,ASK-SUS-1082,gen,adoptar romance
-tractor,tractor,trattóro,TRACT,ASK-SUS-1280,gen,adoptar romance
-trompeta,trompeta,trómbo,—,ASK-SUS-1365,gen,adoptar romance
-vecindario,vecindario,visináto,VICINARIU,ASK-SUS-0908,gen,adoptar romance
-ventana,ventana,fenéstra,FENISTRA,ASK-SUS-0055,gen,adoptar romance
-zapato,zapato,sapáto,SCARPON,ASK-SUS-0401,gen,adoptar romance
+concepto_es,forma_askara,ganadora_nueva,familia,emoji
+abeja,ápo,abeja,gen,🐝
+aldea,villágo,aldea,gen,🌁
+araña,rányo,araña,gen,🕷️
+avión,aviasío,avión,gen,✈️
+bicicleta,bisiklétto,bicicleta,gen,🚲
+caracol,khiokiólo,caracol,gen,🐌
+casa,dómo,casa,gen,🏠
+cielo,sélo,cielo,gen,🌤️
+ciudad,síbda,ciudad,gen,🌆
+corbata,kravátto,corbata,gen,👔
+destornillador,kakiavíto,destornillador,gen,🪛
+erizo,rikío,erizo,gen,🦔
+guitarra,gitárro,guitarra,gen,🎸
+hielo,glasío,glacie,gen,🧊
+llave,klávo,llave,gen,🔑
+manzana,appúlo,manzana,gen,🍎
+mezquita,moskhéo,mezquita,gen,🕌
+mujer,hóma,mujer,gen,👩
+piano,pianofórto,piano,gen,🎹
+ratón,ráto,ratón,gen,🐭
+reloj,orologío,reloj,gen,🕐
+rey,ro,rege,gen,🤴
+río,flumíno,río,gen,🏞️
+tijeras,sissóro,tijeras,gen,✂️
+tractor,trattóro,tractor,gen,🚜
+trompeta,trómbo,trompeta,gen,🎺
+vecindario,visináto,vecindario,gen,🏘️
+ventana,fenéstra,ventana,gen,🪟
+zapato,sapáto,zapato,gen,👞
