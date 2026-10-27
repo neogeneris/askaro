@@ -31,9 +31,9 @@ show("7. integrity_check (esperado ok)", "PRAGMA integrity_check")
 print("\n--- 8. Test emoji duplicado (esperado: fallo 'Emoji duplicado: 🪨') ---")
 # Con lexico vacía el WHEN del trigger no dispara; se precarga y limpia
 # una fila de prueba para ejercitarlo exactamente como pide el enunciado.
-INS = """INSERT INTO lexico (emoji, concepto_es, concepto_en, es, en, fr, it, pt,
+INS = """INSERT INTO lexico (emoji, concepto_es, es, en, fr, it, pt,
       ro, ia, eo, categoria, cognado, forma_ganadora, fuente_ganadora)
-      VALUES (?, ?, 'test', 'a','b','c','d','e','f','g','h',
+      VALUES (?, ?, 'a','b','c','d','e','f','g','h',
               'sustantivo','universal','test','es')"""
 try:
     cur.execute(INS, ("🪨", "piedra"))          # fila de apoyo (no deja rastro)

@@ -293,11 +293,11 @@ def main():
                                   ("ro", ro), ("ia", ia), ("eo", eo)) if val == ganadora), "es")
 
         cur.execute(
-            """INSERT INTO lexico (emoji, concepto_es, concepto_en, es, en, fr, it, pt,
+            """INSERT INTO lexico (emoji, concepto_es, es, en, fr, it, pt,
                                    ro, ia, eo, categoria, cognado, lenguas_consenso,
                                    forma_ganadora, fuente_ganadora, nota)
-               VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""",
-            (e, k, en, es, en, fr_, it, pt, ro, ia, eo, cat, cognado, consenso,
+               VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""",
+            (e, k, es, en, fr_, it, pt, ro, ia, eo, cat, cognado, consenso,
              ganadora, fuente_g, src))
         inserted_lex += 1
 

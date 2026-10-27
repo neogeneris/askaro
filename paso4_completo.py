@@ -450,7 +450,7 @@ for k in sorted(chosen):
     if "descarta" in variants or "descartada" in (md.get("nota_ranking") or ""):
         tok = re.search(r"descarta(?:da)?\s+(\w+)", variants + " " + (md.get("nota_ranking") or ""))
         if tok: nota += f"; sinónimo descartado: {tok.group(1)}"
-    rows_to_insert.append((e, k, en, es, en, fr_, it, pt, ro, ia, eo,
+    rows_to_insert.append((e, k, es, en, fr_, it, pt, ro, ia, eo,
                            md.get("latin","—"), cat,
                            1 if k in SWADESH_HINT else 0,
                            1 if k in BASIC_HINT else 0,
@@ -479,11 +479,11 @@ try:
     n_lex = 0
     for row in sorted(rows_to_insert, key=lambda r: (r[1] not in sintesio_con_emoji, r[1])):
         cur.execute(
-            """INSERT INTO lexico (emoji, concepto_es, concepto_en, es, en, fr, it, pt,
+            """INSERT INTO lexico (emoji, concepto_es, es, en, fr, it, pt,
                                    ro, ia, eo, latin, categoria, swadesh, basic_level,
                                    cognado, lenguas_consenso, forma_ganadora,
                                    fuente_ganadora, nota)
-               VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""", row)
+               VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""", row)
         n_lex += 1
 
     # 2) candidatos (elegido=1 el ganador)

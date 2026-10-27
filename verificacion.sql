@@ -29,10 +29,10 @@ PRAGMA integrity_check;
 
 SELECT '=== 8. Test emoji duplicado (esperado: ABORT "Emoji duplicado: 🪨") ===' AS chequeo;
 -- Esta inserción DEBE fallar; el resto del script ya se ejecutó arriba.
-INSERT INTO lexico (emoji, concepto_es, concepto_en, es, en, fr, it, pt,
+INSERT INTO lexico (emoji, concepto_es, es, en, fr, it, pt,
                     ro, ia, eo, categoria, cognado, forma_ganadora,
                     fuente_ganadora)
-VALUES ('🪨','test','test','a','b','c','d','e','f','g','h',
+VALUES ('🪨','test','a','b','c','d','e','f','g','h',
         'sustantivo','universal','test','es');
 
 -- Si por alguna razón la inserción hubiera prosperado, deshacer así:
