@@ -27,13 +27,13 @@ INFORME DE INTEGRACIÓN ASKÁRO ↔ LÉXICO ROMANCE (FASE 2)
 
 4. CONFLICTOS (raíz/etimología divergente)
    - abeja: romance 'abeja' (APIS) vs askárico 'ápo' [ASK-SUS-0512, fam gen]
-   - aldea: romance 'village' (—) vs askárico 'villágo' [ASK-SUS-0576, fam gen]
+   - aldea: romance 'village' (vicus) vs askárico 'villágo' [ASK-SUS-0576, fam gen]
    - araña: romance 'araña' (ARANEUM) vs askárico 'rányo' [ASK-SUS-1246, fam gen]
    - avión: romance 'avión' (AVIS) vs askárico 'aviasío' [ASK-SUS-0673, fam gen]
    - bicicleta: romance 'bicicleta' (CYCLOS) vs askárico 'bisiklétto' [ASK-SUS-0675, fam gen]
    - caracol: romance 'caracol' (COCHLEA) vs askárico 'khiokiólo' [ASK-SUS-1258, fam gen]
    - casa: romance 'casa' (CASAM) vs askárico 'dómo' [ASK-SUS-0053, fam gen]
-   - cielo: romance 'sky' (—) vs askárico 'sélo' [ASK-SUS-0521, fam gen]
+   - cielo: romance 'sky' (caelum) vs askárico 'sélo' [ASK-SUS-0521, fam gen]
    - ciudad: romance 'ciudad' (CIVITATEM) vs askárico 'síbda' [ASK-SUS-0092, fam gen]
    - corbata: romance 'corbata' (CRAVATE) vs askárico 'kravátto' [ASK-SUS-1105, fam gen]
    - destornillador: romance 'destornillador' (VERSARE) vs askárico 'kakiavíto' [ASK-SUS-1066, fam gen]
@@ -41,14 +41,14 @@ INFORME DE INTEGRACIÓN ASKÁRO ↔ LÉXICO ROMANCE (FASE 2)
    - guitarra: romance 'guitarra' (KITH) vs askárico 'gitárro' [ASK-SUS-0735, fam gen]
    - hielo: romance 'hielo' (GELU) vs askárico 'glasío' [ASK-SUS-0480, fam gen]
    - llave: romance 'llave' (CLAVE) vs askárico 'klávo' [ASK-SUS-0382, fam gen]
-   - manzana: romance 'apple' (—) vs askárico 'appúlo' [ASK-SUS-0459, fam gen]
+   - manzana: romance 'apple' (malum) vs askárico 'appúlo' [ASK-SUS-0459, fam gen]
    - mezquita: romance 'mezquita' (—) vs askárico 'moskhéo' [ASK-SUS-1398, fam gen]
-   - mujer: romance 'woman' (—) vs askárico 'hóma' [ASK-PRO-0250, fam gen]
+   - mujer: romance 'woman' (femina) vs askárico 'hóma' [ASK-PRO-0250, fam gen]
    - piano: romance 'piano' (PLANUS) vs askárico 'pianofórto' [ASK-SUS-0734, fam gen]
-   - ratón: romance 'ratón' (—) vs askárico 'ráto' [ASK-SUS-0127, fam gen]
+   - ratón: romance 'ratón' (mus) vs askárico 'ráto' [ASK-SUS-0127, fam gen]
    - reloj: romance 'reloj' (HOROLOGIU) vs askárico 'orologío' [ASK-SUS-0866, fam gen]
    - rey: romance 'rey' (REGEM) vs askárico 'ro' [ASK-SUS-0553, fam gen]
-   - río: romance 'río' (—) vs askárico 'flumíno' [ASK-SUS-0037, fam gen]
+   - río: romance 'río' (flumen) vs askárico 'flumíno' [ASK-SUS-0037, fam gen]
    - tijeras: romance 'tijeras' (RCIP) vs askárico 'sissóro' [ASK-SUS-1082, fam gen]
    - tractor: romance 'tractor' (TRACT) vs askárico 'trattóro' [ASK-SUS-1280, fam gen]
    - trompeta: romance 'trompeta' (—) vs askárico 'trómbo' [ASK-SUS-1365, fam gen]
@@ -61,12 +61,12 @@ INFORME DE INTEGRACIÓN ASKÁRO ↔ LÉXICO ROMANCE (FASE 2)
    - aceituna: 'aceituna', familia propuesta gen 🫒
    - aguacate: 'aguacate', familia propuesta gen 🥑
    - almacén: 'almacén', familia propuesta gen 🏬
-   - amanecer: 'amanecer', familia propuesta gen 🌄
+   - amanecer: 'amanecer', familia propuesta si 🌄
    - aprender: 'learn', familia propuesta gen 📚
    - arco: 'arco', familia propuesta gen 🏹
    - ardilla: 'ardilla', familia propuesta gen 🐹
    - automóvil: 'automóvil', familia propuesta gen 🚗
-   - balanza: 'balanza', familia propuesta gen ⚖️
+   - balanza: 'balanza', familia propuesta sk ⚖️
    - banca: 'banca', familia propuesta gen 🏦
    - banjo: 'banjo', familia propuesta gen 🪕
    - barco: 'barco', familia propuesta gen 🚢
@@ -99,7 +99,7 @@ INFORME DE INTEGRACIÓN ASKÁRO ↔ LÉXICO ROMANCE (FASE 2)
    - cometa: 'cometa', familia propuesta gen 🪁
    - contar: 'count', familia propuesta ka 🔢
    - copa: 'copa', familia propuesta gen 🍷
-   - coral: 'coral', familia propuesta gen 🪸
+   - coral: 'coral', familia propuesta kor 🪸
    - correr: 'run', familia propuesta gen 🏃
    - croissant: 'croissant', familia propuesta gen 🥐
    - cuaderno: 'cuaderno', familia propuesta gen 📓
@@ -107,7 +107,7 @@ INFORME DE INTEGRACIÓN ASKÁRO ↔ LÉXICO ROMANCE (FASE 2)
    - dado: 'dado', familia propuesta gen 🎲
    - disquete: 'disquete', familia propuesta gen 💾
    - dromedario: 'dromedario', familia propuesta gen 🐪
-   - edificio: 'edificio', familia propuesta gen 🏛
+   - edificio: 'edificio', familia propuesta me 🏛
    - enchufe: 'enchufe', familia propuesta gen 🔌
    - escala: 'escala', familia propuesta gen 🪜
    - espagueti: 'espagueti', familia propuesta gen 🍝
@@ -131,7 +131,7 @@ INFORME DE INTEGRACIÓN ASKÁRO ↔ LÉXICO ROMANCE (FASE 2)
    - hotel: 'hotel', familia propuesta gen 🏨
    - izquierdo: 'left', familia propuesta gen 🫲
    - koala: 'koala', familia propuesta gen 🐨
-   - leopardo: 'leopardo', familia propuesta gen 🐆
+   - leopardo: 'leopardo', familia propuesta fo 🐆
    - llama: 'llama', familia propuesta gen 🦙
    - llenar: 'fill', familia propuesta gen 🫗
    - loto: 'loto', familia propuesta gen 🪷
@@ -242,13 +242,16 @@ INFORME DE INTEGRACIÓN ASKÁRO ↔ LÉXICO ROMANCE (FASE 2)
 
 8. ESTADÍSTICAS POR FAMILIA (cruce fase 1)
    familia | integrado | conflicto | nuevo | dudoso
-   None    | 0 | 0 | 129 | 5
+   None    | 0 | 0 | 124 | 5
    gen     | 89 | 29 | 0 | 4
-   kor     | 0 | 0 | 0 | 2
+   kor     | 0 | 0 | 1 | 2
    vi      | 0 | 0 | 3 | 0
-   si      | 0 | 0 | 1 | 0
+   sk      | 0 | 0 | 1 | 0
+   si      | 0 | 0 | 2 | 0
    nu      | 0 | 0 | 1 | 0
+   me      | 0 | 0 | 1 | 0
    ka      | 0 | 0 | 1 | 0
+   fo      | 0 | 0 | 1 | 0
    Familias sobrerrepresentadas en huérfanos:
      gen: 843
      vi: 28

@@ -1,2 +1,1 @@
-*.db-shm
-*.db-wal
+*.bak
