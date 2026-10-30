@@ -1,18 +1,70 @@
-id,Original,Raíz,Sufijo,Forma Askáro,Glosa,Nota
-ASK-ADJ-0138,velóse,vel,-oso,velóso,veloz,regular
-ASK-ADJ-0815,perikulóse,perikul,-oso,perikulóso,peligroso,regular
-ASK-ADJ-0816,famóse,fam,-oso,famóso,famoso,regular
-ASK-SUS-0409,komputatóro,komput,-dor,komputdór,computadora,regular
-ASK-SUS-0557,gubernatóro,gubern,-dor,guberndór,gobernador,regular
-ASK-SUS-0760,giokatóro,giok,-dor,giokdór,jugador,regular
-ASK-SUS-0761,allenatóro,allen,-dor,allendór,entrenador,regular
-ASK-SUS-0894,ekvatóro,ekv,-dor,ekvdór,ecuador,regular
-ASK-SUS-1281,eskavatóro,eskav,-dor,eskavdór,excavadora,regular
-ASK-SUS-1377,siklísmo,sikl,-ismo,siklísmo,ciclismo,regular
-ASK-SUS-1387,eskursionísmo,eskursion,-ismo,eskursionísmo,senderismo,regular
+ID,Original,Raíz,Sufijo actual,Sufijo aplicado,Forma Askáro,Glosa,Nota
+ASK-ADJ-0081,debíle,deb,íle,-able,debble,debil,"excepción (adjetivo primitivo, no 'que puede ser'; se mantiene 'debíle')"
+ASK-ADJ-0138,velóse,vel,óse,-róso,velróso,veloz,regular
+ASK-ADJ-0140,posibíle,posib,íle,-able,posibble,posible,regular
+ASK-ADJ-0141,fasíle,fas,íle,-able,fasble,facil,"excepción (adjetivo primitivo, no 'que puede ser'; se mantiene 'fasíle')"
+ASK-ADJ-0142,dificíle,dific,íle,-able,dificble,dificil,"excepción (adjetivo primitivo, no 'que puede ser'; se mantiene 'dificíle')"
+ASK-ADJ-0782,debíle,deb,íle,-able,debble,debil,excepción (duplicado fusionado; se mantiene 'debíle')
+ASK-ADJ-0811,nesessaríe,nesessar,íe,-ia,nesessaria,necesario,"excepción (cualidad: va con -tad, no -ia; se mantiene 'nesessaríe')"
+ASK-ADJ-0812,possibíle,possib,íle,-able,possibble,posible,regular
+ASK-ADJ-0813,impossibíle,impossib,íle,-able,impossibble,imposible,regular
+ASK-ADJ-0815,perikulóse,perikul,óse,-róso,perikulróso,peligroso,regular
+ASK-ADJ-0816,famóse,fam,óse,-róso,famróso,famoso,regular
+ASK-ADJ-0838,fasíle,fas,íle,-able,fasble,facil,excepción (duplicado fusionado; se mantiene 'fasíle')
+ASK-ADJ-0839,diffisíle,diffis,íle,-able,diffisble,dificil,"excepción (adjetivo primitivo, no 'que puede ser'; se mantiene 'diffisíle')"
+ASK-ADJ-1318,malitíe,malit,íe,-ia,malitia,maldad,"excepción (cualidad: va con -tad, no -ia; se mantiene 'malitíe')"
+ASK-ADJ-1319,fortíe,fort,íe,-ia,fortia,fuerza,"excepción (cualidad: va con -tad, no -ia; se mantiene 'fortíe')"
+ASK-ADJ-1322,inyorantíe,inyorant,íe,-ia,inyorantia,ignorancia,"excepción (cualidad: va con -tad, no -ia; se mantiene 'inyorantíe')"
+ASK-ADJ-1325,koraggíe,koragg,íe,-ia,koraggia,valentia,"excepción (cualidad: va con -tad, no -ia; se mantiene 'koraggíe')"
+ASK-ADJ-1329,pasientíe,pasient,íe,-ia,pasientia,paciencia,"excepción (cualidad: va con -tad, no -ia; se mantiene 'pasientíe')"
+ASK-ADJ-1334,ipokrisíe,ipokris,íe,-ia,ipokrisia,hipocresia,"excepción (cualidad: va con -tad, no -ia; se mantiene 'ipokrisíe')"
+ASK-ADJ-1338,ingiustizíe,ingiustiz,íe,-ia,ingiustizia,injusticia,"excepción (cualidad: va con -tad, no -ia; se mantiene 'ingiustizíe')"
+ASK-SUS-0409,komputatóro,komput,atóro,-dor,komputdór,computadora,regular
+ASK-SUS-0433,asetáto,ase,táto,-tad,asetád,vinagre,excepción (raíz no abstracta; se mantiene 'asetáto')
+ASK-SUS-0532,strétto,str,étto,-etto,stretto,estrecho (accidente geo.),regular
+ASK-SUS-0551,soldáto,sol,dáto,-tad,soltád,soldado,excepción (raíz no abstracta; se mantiene 'soldáto')
+ASK-SUS-0557,gubernatóro,gubern,atóro,-dor,guberndór,gobernador,regular
+ASK-SUS-0567,ekvalitáto,ekvali,táto,-tad,ekvalitád,igualdad,regular
+ASK-SUS-0594,publisitáto,publisi,táto,-tad,publisitád,publicidad,regular
+ASK-SUS-0602,sosietáto,sosie,táto,-tad,sosietád,sociedad,regular
+ASK-SUS-0605,universitáto,universi,táto,-tad,universitád,universidad,regular
+ASK-SUS-0626,resultáto,resul,táto,-tad,resultád,resultado,excepción (raíz no abstracta; se mantiene 'resultáto')
+ASK-SUS-0634,veritáto,veri,táto,-tad,veritád,verdad,regular
+ASK-SUS-0675,bisiklétto,bisikl,étto,-etto,bisikletto,bicicleta,regular
+ASK-SUS-0697,elektrisitáto,elektrisi,táto,-tad,elektrisitád,electricidad,regular
+ASK-SUS-0705,gravitáto,gravi,táto,-tad,gravitád,gravedad,regular
+ASK-SUS-0717,servitóro,serv,itóro,-dor,servdór,servidor,regular
+ASK-SUS-0749,artísto,art,ísto,-ista,artísta,artista,regular
+ASK-SUS-0760,giokatóro,giok,atóro,-dor,giokdór,jugador,regular
+ASK-SUS-0761,allenatóro,allen,atóro,-dor,allendór,entrenador,regular
+ASK-SUS-0872,eternitáto,eterni,táto,-tad,eternitád,eternidad,regular
+ASK-SUS-0894,ekvatóro,ekv,atóro,-dor,ekvdór,ecuador,regular
+ASK-SUS-0902,munisipalitáto,munisipali,táto,-tad,munisipalitád,municipio,excepción (raíz no abstracta; se mantiene 'munisipalitáto')
+ASK-SUS-0922,serenitáto,sereni,táto,-tad,serenitád,serenidad,regular
+ASK-SUS-0925,ansietáto,ansie,táto,-tad,ansietád,ansiedad,regular
+ASK-SUS-0926,felisitáto,felisi,táto,-tad,felisitád,felicidad,regular
+ASK-SUS-0928,zelóso,zel,óso,-róso,zelróso,celos,regular
+ASK-SUS-0989,povertáto,pover,táto,-tad,povertád,pobreza,regular
+ASK-SUS-1072,rosétto,ros,étto,-etto,rostto,arandela,regular
+ASK-SUS-1081,makhétto,makh,étto,-etto,makhetto,machete,regular
+ASK-SUS-1121,fazzolétto,fazzol,étto,-etto,fazzoltto,panuelo,regular
+ASK-SUS-1128,brakialétto,brakial,étto,-etto,brakialtto,pulsera,regular
+ASK-SUS-1156,risétto,ris,étto,-etto,ristto,receta,regular
+ASK-SUS-1250,kavallétto,kavall,étto,-etto,kavalletto,saltamontes,regular
+ASK-SUS-1278,karrétto,karr,étto,-etto,karretto,carreta,regular
+ASK-SUS-1281,eskavatóro,eskav,atóro,-dor,eskavdór,excavadora,regular
+ASK-SUS-1290,kvalkóso,kvalk,óso,-róso,kvalkróso,algo,regular
+ASK-SUS-1300,modernitáto,moderni,táto,-tad,modernitád,modernidad,regular
+ASK-SUS-1307,effétto,eff,étto,-etto,effetto,efecto,regular
+ASK-SUS-1342,rivísto,riv,ísto,-ista,rivísta,revista,"excepción (participio, no partidario; se mantiene 'rivísto')"
+ASK-SUS-1356,giornalísto,giornal,ísto,-ista,giornalísta,periodista,regular
+ASK-SUS-1358,intervísto,interv,ísto,-ista,intervísta,entrevista,"excepción (participio, no partidario; se mantiene 'intervísto')"
+ASK-SUS-1362,klarinétto,klarin,étto,-etto,klarintto,clarinete,regular
+ASK-SUS-1377,siklísmo,sikl,ísmo,-ismo,siklísmo,ciclismo,regular
+ASK-SUS-1387,eskursionísmo,eskursion,ísmo,-ismo,eskursionísmo,senderismo,regular
 
-# correcciones de tonicidad en derivado_dor
-id,actual,propuesto
+# Acentuación del sufijo tónico -dor en la columna derivado_dor
+ID,actual,propuesto
 ASK-SUS-0005,kásdor,kásdór
 ASK-SUS-0006,persóndor,persóndór
 ASK-SUS-0007,nómindor,nómindór

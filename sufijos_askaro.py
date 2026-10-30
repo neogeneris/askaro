@@ -92,9 +92,11 @@ TEMAS = {"a": "â", "e": "ê", "i": "î"}
 RAICES_VERBALES = {}          # raiz(sin tilde) -> tematica
 for r in rows:
     if r["clase_gramatical"] == "Verbo" and r["termino_askaro"]:
-        m = re.match(r"^(.+?)(ar|er|ir)$", desacc(r["termino_askaro"]).lower())
+        # la vocal tematica es la letra ANTERIOR a la -r final; sin ancla \b,
+        # formas como "...tor" casaban (ar|er|ir) y provocaban KeyError: "r".
+        m = re.search(r"\b(\w*?)([aei])r$", desacc(r["termino_askaro"]).lower())
         if m:
-            RAICES_VERBALES[m.group(1)] = TEMAS[m.group(2)[-1]]
+            RAICES_VERBALES[m.group(1) + m.group(2)] = TEMAS[m.group(2)]
 
 EXISTENTES = {}               # forma normalizada -> ids (para detectar colisiones)
 for r in rows:
@@ -118,6 +120,29 @@ def un_solo_acento(w):
         return w
     keep = idxs[-1]                       # la tónica es la última aguda (sufijo o temática)
     return "".join(AGUDAS[c] if (c in AGUDAS and i != keep) else c for i, c in enumerate(w))
+
+# ------------------------------------------------------------------ alófonos de la tematica (R3)
+HIATO = {"ia", "ie", "io", "iu", "ua", "ue", "ui", "uo"}
+VOC = "aeiou\u00e2\u00ea\u00ee\u00f4\u00fb"
+
+def ajustar_base(base, suf):
+    """Base fonotactica validamente ante el sufijo dado.
+
+    - Si termina en diptongo/hiato, esa vocal etimologica NO es la tematica y no se
+      suprime: 'rose' + tto -> rose+tto (nunca 'rostto').
+    - Si terminaria en grupo consonantico ilegible, se inserta 'e' epentetica para
+      poder pronunciar el sufijo (-tto / -ble exigen apoyo vocalico).
+    """
+    # solo es hiato real si la raiz etimologica termina en vocal (rosé-to, posí-ble);
+    # si la raiz acaba en consonante (karr-, makh-, klarin-) no hay hiato que cuidar.
+    if (len(base) >= 2 and base[-2:].lower() in HIATO
+            and base[-2] in "aeiou" + chr(226) + chr(238) + chr(238)):
+        return base                                   # vocal etimologica preservada
+    if suf in ("tto", "ble", "sar", "fikar"):
+        if len(base) >= 2 and base[-1] not in VOC and base[-2] not in VOC:
+            return base + "e"                         # e epentetica
+    return base
+
 
 def derivar(clave, raiz, forma_original):
     """Construye la forma askara normativizada a partir de raiz + sufijo fijado."""
@@ -143,7 +168,7 @@ def derivar(clave, raiz, forma_original):
             if base and base[-1] in "aeiou":
                 base = base[:-1] + TEMAS[base[-1]]      # temática explícita
         suf = FORMA_ATONA[clave]
-    nueva = un_solo_acento(base + suf)
+    nueva = un_solo_acento(ajustar_base(base, suf) + suf)
     return nueva, canon, (tv[1] if tv else None)
 
 def clasificar_nota(r, nueva, canon):
@@ -255,7 +280,7 @@ if APPLY:
                         (x["forma"], x["id"])); nreg += 1
         else:
             cur.execute("UPDATE lexico SET termino_sufijado=?, sufijo_nota=? WHERE id=?",
-                        (x["original"], x["nota"]); nexcep += 1
+                        (x["original"], x["nota"], x["id"])); nexcep += 1
     for i, a, b in dor_fix:
         cur.execute("UPDATE lexico SET derivado_dor=? WHERE id=?", (b, i))
     con.commit()
