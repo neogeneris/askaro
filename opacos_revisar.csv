@@ -1,0 +1,321 @@
+codigo,forma,espanol,distancia_es,clase,evidencia
+ASK-SUS-0037,flumíno,rio,5,opaco_revisable,dist_es=5;romances_ok=0;aux_ok=1
+ASK-SUS-0043,sangúino,sangre,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-0047,kordío,corazon,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=1
+ASK-SUS-0048,kapíto,cabeza,5,opaco_revisable,dist_es=5;romances_ok=0;aux_ok=1
+ASK-SUS-0053,dómo,casa,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=1
+ASK-SUS-0063,bovído,carne de vaca,12,opaco_total,dist_es=12;romances_ok=0;aux_ok=0
+ASK-SUS-0086,frátro,hermano,5,opaco_revisable,dist_es=5;romances_ok=1;aux_ok=2
+ASK-SUS-0087,soróra,hermana,5,opaco_revisable,dist_es=5;romances_ok=1;aux_ok=1
+ASK-SUS-0095,publíka,publicidad,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=2
+ASK-SUS-0097,demokráto,democracia,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=2
+ASK-SUS-0106,ekléso,iglesia,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-0197,sulfóro,azufre,5,opaco_revisable,dist_es=5;romances_ok=0;aux_ok=3
+ASK-SUS-0219,argénto,plata metal Ag,12,opaco_revisable,dist_es=12;romances_ok=0;aux_ok=2
+ASK-SUS-0314,genikúlo,rodilla,6,opaco_revisable,dist_es=6;romances_ok=0;aux_ok=1
+ASK-SUS-0316,ungúlo,una,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=2
+ASK-SUS-0318,aurikúlo,oreja,7,opaco_revisable,dist_es=7;romances_ok=0;aux_ok=2
+ASK-SUS-0321,dórso,espalda,7,opaco_revisable,dist_es=7;romances_ok=0;aux_ok=2
+ASK-SUS-0322,pektóro,pecho,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=1
+ASK-SUS-0324,jekóro,higado,5,opaco_total,dist_es=5;romances_ok=0;aux_ok=0
+ASK-SUS-0333,maladío,enfermedad,9,opaco_total,dist_es=9;romances_ok=0;aux_ok=0
+ASK-SUS-0337,vulnéro,herida,7,opaco_revisable,dist_es=7;romances_ok=0;aux_ok=2
+ASK-SUS-0338,sikatríko,cicatriz,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=1
+ASK-SUS-0346,vaka/vasíno,vacuna,8,opaco_total,dist_es=8;romances_ok=0;aux_ok=0
+ASK-SUS-0350,symptómo,sintoma,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=3
+ASK-SUS-0364,skhelétro,esqueleto,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=1
+ASK-SUS-0371,kaméro,cama,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-0373,finéstro,ventana,7,opaco_revisable,dist_es=7;romances_ok=1;aux_ok=2
+ASK-SUS-0375,paviménto,piso,6,opaco_revisable,dist_es=6;romances_ok=0;aux_ok=2
+ASK-SUS-0386,pokúlo,taza,6,opaco_total,dist_es=6;romances_ok=0;aux_ok=0
+ASK-SUS-0388,kultéllo,cuchillo,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=2
+ASK-SUS-0390,kokleáro,cuchara,6,opaco_revisable,dist_es=6;romances_ok=0;aux_ok=1
+ASK-SUS-0391,buttikuláro,botella,6,opaco_revisable,dist_es=6;romances_ok=0;aux_ok=1
+ASK-SUS-0393,patéllo,sarten,5,opaco_revisable,dist_es=5;romances_ok=0;aux_ok=2
+ASK-SUS-0414,bankílo,banco (asiento),10,opaco_total,dist_es=10;romances_ok=0;aux_ok=0
+ASK-SUS-0415,tapéto,alfombra,8,opaco_revisable,dist_es=8;romances_ok=0;aux_ok=2
+ASK-SUS-0417,stállo,estante,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=2
+ASK-SUS-0418,materáso,colchon,8,opaco_revisable,dist_es=8;romances_ok=0;aux_ok=2
+ASK-SUS-0419,kussíno,almohada,8,opaco_revisable,dist_es=8;romances_ok=0;aux_ok=1
+ASK-SUS-0420,linío,sabana,6,opaco_revisable,dist_es=6;romances_ok=0;aux_ok=2
+ASK-SUS-0427,ríso,arroz,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=1
+ASK-SUS-0430,bútyro,mantequilla,10,opaco_revisable,dist_es=10;romances_ok=0;aux_ok=3
+ASK-SUS-0431,súkro,azucar,5,opaco_revisable,dist_es=5;romances_ok=0;aux_ok=2
+ASK-SUS-0432,oléo,aceite,5,opaco_revisable,dist_es=5;romances_ok=0;aux_ok=2
+ASK-SUS-0433,asetáto,vinagre,7,opaco_total,dist_es=7;romances_ok=0;aux_ok=0
+ASK-SUS-0438,khokoláto,chocolate,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-0442,bírro,cerveza,6,opaco_total,dist_es=6;romances_ok=0;aux_ok=0
+ASK-SUS-0444,písko,pescado,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=2
+ASK-SUS-0445,pullástro,pollo,5,opaco_total,dist_es=5;romances_ok=0;aux_ok=0
+ASK-SUS-0454,sépo,cebolla,5,opaco_revisable,dist_es=5;romances_ok=0;aux_ok=2
+ASK-SUS-0456,karótto,zanahoria,7,opaco_revisable,dist_es=7;romances_ok=0;aux_ok=2
+ASK-SUS-0457,laktúko,lechuga,5,opaco_revisable,dist_es=5;romances_ok=0;aux_ok=1
+ASK-SUS-0458,orángo,naranja,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=3
+ASK-SUS-0459,appúlo,manzana,6,opaco_revisable,dist_es=6;romances_ok=0;aux_ok=1
+ASK-SUS-0467,bovíno,carne de vaca,12,opaco_total,dist_es=12;romances_ok=0;aux_ok=0
+ASK-SUS-0477,toníto,trueno,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=2
+ASK-SUS-0478,fulgúro,rayo,6,opaco_revisable,dist_es=6;romances_ok=0;aux_ok=2
+ASK-SUS-0480,glasío,hielo,5,opaco_revisable,dist_es=5;romances_ok=0;aux_ok=2
+ASK-SUS-0482,lúto,barro,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=2
+ASK-SUS-0486,argénto,plata,6,opaco_revisable,dist_es=6;romances_ok=0;aux_ok=2
+ASK-SUS-0487,kúpro,cobre,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=2
+ASK-SUS-0489,línyo,madera,6,opaco_revisable,dist_es=6;romances_ok=0;aux_ok=1
+ASK-SUS-0497,vúlpo,zorro,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=2
+ASK-SUS-0499,konilío,conejo,4,opaco_revisable,dist_es=4;romances_ok=1;aux_ok=1
+ASK-SUS-0502,testudíno,tortuga,6,opaco_revisable,dist_es=6;romances_ok=0;aux_ok=2
+ASK-SUS-0512,ápo,abeja,4,opaco_revisable,dist_es=4;romances_ok=1;aux_ok=1
+ASK-SUS-0513,farfállo,mariposa,6,opaco_total,dist_es=6;romances_ok=0;aux_ok=0
+ASK-SUS-0527,planitío,llanura,5,opaco_revisable,dist_es=5;romances_ok=0;aux_ok=2
+ASK-SUS-0532,strétto,estrecho (accidente geo.),19,opaco_total,dist_es=19;romances_ok=0;aux_ok=0
+ASK-SUS-0535,resífo,arrecife,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=2
+ASK-SUS-0536,rúpo,acantilado,9,opaco_revisable,dist_es=9;romances_ok=0;aux_ok=2
+ASK-SUS-0537,praténso,prado,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-0542,flumíno,rio,5,opaco_revisable,dist_es=5;romances_ok=0;aux_ok=1
+ASK-SUS-0546,studénto,estudiante,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=3
+ASK-SUS-0548,advokáto,abogado,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=2
+ASK-SUS-0549,judíko,juez,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=1
+ASK-SUS-0558,urbéstro,alcalde,8,opaco_total,dist_es=8;romances_ok=0;aux_ok=0
+ASK-SUS-0559,sivitáno,ciudadano,5,opaco_revisable,dist_es=5;romances_ok=0;aux_ok=2
+ASK-SUS-0565,júro,derecho,5,opaco_total,dist_es=5;romances_ok=0;aux_ok=0
+ASK-SUS-0567,ekvalitáto,igualdad,7,opaco_total,dist_es=7;romances_ok=0;aux_ok=0
+ASK-SUS-0575,sitáto,ciudad,5,opaco_total,dist_es=5;romances_ok=0;aux_ok=0
+ASK-SUS-0577,kvartéro,barrio,5,opaco_revisable,dist_es=5;romances_ok=0;aux_ok=2
+ASK-SUS-0578,vikólo,calle,5,opaco_total,dist_es=5;romances_ok=0;aux_ok=0
+ASK-SUS-0586,karséro,carcel,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=1
+ASK-SUS-0594,publisitáto,publicidad,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-0601,sivilisasío,civilizacion,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-0602,sosietáto,sociedad,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-0604,skhólo,escuela,5,opaco_total,dist_es=5;romances_ok=0;aux_ok=0
+ASK-SUS-0608,eksamíno,examen,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-0614,khimíko,quimica,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-0628,kvestío,pregunta,7,opaco_total,dist_es=7;romances_ok=0;aux_ok=0
+ASK-SUS-0629,respónso,respuesta,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-0634,veritáto,verdad,4,opaco_revisable,dist_es=4;romances_ok=1;aux_ok=1
+ASK-SUS-0652,ekvasío,ecuacion,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-0662,konossentío,conocimiento,6,opaco_total,dist_es=6;romances_ok=0;aux_ok=0
+ASK-SUS-0663,apprendiménto,aprendizaje,5,opaco_revisable,dist_es=5;romances_ok=0;aux_ok=2
+ASK-SUS-0664,insenyaménto,enseianza,7,opaco_revisable,dist_es=7;romances_ok=0;aux_ok=2
+ASK-SUS-0665,risérko,investigacion,11,opaco_total,dist_es=11;romances_ok=0;aux_ok=0
+ASK-SUS-0670,róto,rueda,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=2
+ASK-SUS-0671,áuto,coche,5,opaco_revisable,dist_es=5;romances_ok=0;aux_ok=2
+ASK-SUS-0673,aviasío,avion,4,opaco_revisable,dist_es=4;romances_ok=1;aux_ok=1
+ASK-SUS-0683,ferrovío,ferrocarril,5,opaco_total,dist_es=5;romances_ok=0;aux_ok=0
+ASK-SUS-0689,skhérmo,pantalla,8,opaco_revisable,dist_es=8;romances_ok=0;aux_ok=2
+ASK-SUS-0690,tastiéro,teclado,6,opaco_revisable,dist_es=6;romances_ok=0;aux_ok=2
+ASK-SUS-0693,messagío,mensaje,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=1
+ASK-SUS-0697,elektrisitáto,electricidad,5,opaco_total,dist_es=5;romances_ok=0;aux_ok=0
+ASK-SUS-0699,kávo,cable,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-0705,gravitáto,gravedad,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-0712,mikrokhípo,chip,7,opaco_total,dist_es=7;romances_ok=0;aux_ok=0
+ASK-SUS-0713,memorío,memoria informatica,12,opaco_revisable,dist_es=12;romances_ok=0;aux_ok=3
+ASK-SUS-0714,prosessóro,procesador,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=1
+ASK-SUS-0734,pianofórto,piano,5,opaco_revisable,dist_es=5;romances_ok=1;aux_ok=0
+ASK-SUS-0745,paesaggío,paisaje,5,opaco_total,dist_es=5;romances_ok=0;aux_ok=0
+ASK-SUS-0750,skriptóro,escritor,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-0756,footbállo,futbol,5,opaco_revisable,dist_es=5;romances_ok=0;aux_ok=3
+ASK-SUS-0760,giokatóro,jugador,6,opaco_total,dist_es=6;romances_ok=0;aux_ok=0
+ASK-SUS-0761,allenatóro,entrenador,6,opaco_revisable,dist_es=6;romances_ok=0;aux_ok=2
+ASK-SUS-0765,kórso,carrera,6,opaco_revisable,dist_es=6;romances_ok=0;aux_ok=1
+ASK-SUS-0767,nuotasío,natacion,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-0778,punteggío,puntaje,5,opaco_total,dist_es=5;romances_ok=0;aux_ok=0
+ASK-SUS-0779,skáko,ajedrez,7,opaco_total,dist_es=7;romances_ok=0;aux_ok=0
+ASK-SUS-0853,lúno,mes (unidad de tiempo),19,opaco_total,dist_es=19;romances_ok=0;aux_ok=0
+ASK-SUS-0854,septimáno,semana,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=2
+ASK-SUS-0859,álbo,madrugada,8,opaco_total,dist_es=8;romances_ok=0;aux_ok=0
+ASK-SUS-0862,postméso,tarde,7,opaco_revisable,dist_es=7;romances_ok=0;aux_ok=2
+ASK-SUS-0863,vespéro,atardecer,8,opaco_revisable,dist_es=8;romances_ok=0;aux_ok=2
+ASK-SUS-0864,medienókto,medianoche,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-0877,mardedío,martes,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-0878,merkurdío,miercoles,7,opaco_revisable,dist_es=7;romances_ok=0;aux_ok=1
+ASK-SUS-0879,iovisdío,jueves,7,opaco_total,dist_es=7;romances_ok=0;aux_ok=0
+ASK-SUS-0880,venerdío,viernes,5,opaco_revisable,dist_es=5;romances_ok=0;aux_ok=1
+ASK-SUS-0894,ekvatóro,ecuador,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-0896,lóko,lugar,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=2
+ASK-SUS-0902,munisipalitáto,municipio,6,opaco_total,dist_es=6;romances_ok=0;aux_ok=0
+ASK-SUS-0908,visináto,vecindario,5,opaco_revisable,dist_es=5;romances_ok=1;aux_ok=1
+ASK-SUS-0913,pauróo,miedo,5,opaco_total,dist_es=5;romances_ok=0;aux_ok=0
+ASK-SUS-0926,felisitáto,felicidad,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-0930,vergonío,vergüenza,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-0943,delusióno,decepcion,5,opaco_total,dist_es=5;romances_ok=0;aux_ok=0
+ASK-SUS-0944,sperantío,esperanza,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=2
+ASK-SUS-0945,konfidentío,confianza,6,opaco_total,dist_es=6;romances_ok=0;aux_ok=0
+ASK-SUS-0946,deskonfidentío,desconfianza,6,opaco_total,dist_es=6;romances_ok=0;aux_ok=0
+ASK-SUS-0951,frátro,hermano,5,opaco_revisable,dist_es=5;romances_ok=1;aux_ok=2
+ASK-SUS-0952,soróro,hermana,6,opaco_revisable,dist_es=6;romances_ok=0;aux_ok=1
+ASK-SUS-0953,ávo,abuelo,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=1
+ASK-SUS-0954,áva,abuela,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=2
+ASK-SUS-0962,nepóta,sobrina,6,opaco_revisable,dist_es=6;romances_ok=0;aux_ok=2
+ASK-SUS-0965,genéro,yerno,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=2
+ASK-SUS-0969,bisávo,bisabuelo,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=2
+ASK-SUS-0970,trisávo,tatarabuelo,8,opaco_total,dist_es=8;romances_ok=0;aux_ok=0
+ASK-SUS-0978,debíto,deuda,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=3
+ASK-SUS-0980,pagaménto,pago,5,opaco_total,dist_es=5;romances_ok=0;aux_ok=0
+ASK-SUS-0981,guadányo,ganancia,5,opaco_revisable,dist_es=5;romances_ok=0;aux_ok=2
+ASK-SUS-0987,resipúto,recibo,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-0989,povertáto,pobreza,6,opaco_total,dist_es=6;romances_ok=0;aux_ok=0
+ASK-SUS-0992,dámno,perjuicio,8,opaco_revisable,dist_es=8;romances_ok=0;aux_ok=2
+ASK-SUS-0993,investménto,inversion,6,opaco_revisable,dist_es=6;romances_ok=0;aux_ok=1
+ASK-SUS-0998,propriéto,propiedad,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=2
+ASK-SUS-1065,trivéllo,taladro,6,opaco_total,dist_es=6;romances_ok=0;aux_ok=0
+ASK-SUS-1066,kakiavíto,destornillador,12,opaco_total,dist_es=12;romances_ok=0;aux_ok=0
+ASK-SUS-1067,tenaglío,alicate,8,opaco_revisable,dist_es=8;romances_ok=0;aux_ok=2
+ASK-SUS-1071,ghiéro,tuerca,5,opaco_total,dist_es=5;romances_ok=0;aux_ok=0
+ASK-SUS-1072,rosétto,arandela,6,opaco_total,dist_es=6;romances_ok=0;aux_ok=0
+ASK-SUS-1073,seséllo,cincel,6,opaco_revisable,dist_es=6;romances_ok=0;aux_ok=2
+ASK-SUS-1075,levigatríko,lijadora,8,opaco_total,dist_es=8;romances_ok=0;aux_ok=0
+ASK-SUS-1076,assío,hacha,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=2
+ASK-SUS-1082,sissóro,tijeras,5,opaco_revisable,dist_es=5;romances_ok=0;aux_ok=1
+ASK-SUS-1084,spíllo,alfiler,5,opaco_revisable,dist_es=5;romances_ok=0;aux_ok=1
+ASK-SUS-1085,spillo da balío,imperdible,11,opaco_total,dist_es=11;romances_ok=0;aux_ok=0
+ASK-SUS-1087,serniéro,cierre,6,opaco_total,dist_es=6;romances_ok=0;aux_ok=0
+ASK-SUS-1090,ferfílo,alambre,7,opaco_total,dist_es=7;romances_ok=0;aux_ok=0
+ASK-SUS-1093,filo a piómbo,plomada,10,opaco_total,dist_es=10;romances_ok=0;aux_ok=0
+ASK-SUS-1094,mesuridóro,metro (instrumento),14,opaco_total,dist_es=14;romances_ok=0;aux_ok=0
+ASK-SUS-1096,rególo,regla (instrumento),15,opaco_revisable,dist_es=15;romances_ok=0;aux_ok=2
+ASK-SUS-1097,skalpéllo,formon,9,opaco_total,dist_es=9;romances_ok=0;aux_ok=0
+ASK-SUS-1098,sirkoláro,sierra circular,10,opaco_revisable,dist_es=10;romances_ok=0;aux_ok=2
+ASK-SUS-1099,sega a máno,sierra de mano,5,opaco_revisable,dist_es=5;romances_ok=0;aux_ok=2
+ASK-SUS-1100,koltéllo,cuchillo de cocina,15,opaco_revisable,dist_es=15;romances_ok=0;aux_ok=2
+ASK-SUS-1101,kalzíno,calcetin,5,opaco_revisable,dist_es=5;romances_ok=1;aux_ok=0
+ASK-SUS-1103,ssiárpo,bufanda,6,opaco_revisable,dist_es=6;romances_ok=0;aux_ok=2
+ASK-SUS-1106,kappukío,gorra,7,opaco_total,dist_es=7;romances_ok=0;aux_ok=0
+ASK-SUS-1109,siabátto,zapatilla,7,opaco_revisable,dist_es=7;romances_ok=0;aux_ok=2
+ASK-SUS-1110,giáko,chaqueta,7,opaco_total,dist_es=7;romances_ok=0;aux_ok=0
+ASK-SUS-1111,maglióno,sueter,8,opaco_revisable,dist_es=8;romances_ok=0;aux_ok=2
+ASK-SUS-1112,gónno,falda,5,opaco_revisable,dist_es=5;romances_ok=0;aux_ok=2
+ASK-SUS-1115,pantalonsíno,pantalon corto,5,opaco_total,dist_es=5;romances_ok=0;aux_ok=0
+ASK-SUS-1116,biankherío,ropa interior,7,opaco_total,dist_es=7;romances_ok=0;aux_ok=0
+ASK-SUS-1117,reggiséno,sosten,7,opaco_revisable,dist_es=7;romances_ok=0;aux_ok=2
+ASK-SUS-1119,vésto,bata,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=2
+ASK-SUS-1120,grembíulo,delantal,8,opaco_revisable,dist_es=8;romances_ok=0;aux_ok=2
+ASK-SUS-1121,fazzolétto,panuelo,6,opaco_total,dist_es=6;romances_ok=0;aux_ok=0
+ASK-SUS-1122,okulío,gafas,6,opaco_revisable,dist_es=6;romances_ok=0;aux_ok=2
+ASK-SUS-1128,brakialétto,pulsera,9,opaco_revisable,dist_es=9;romances_ok=0;aux_ok=2
+ASK-SUS-1137,kolpevólo,culpable,6,opaco_total,dist_es=6;romances_ok=0;aux_ok=0
+ASK-SUS-1139,próvo,prueba,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-1146,liberta kondizionálo,libertad condicional,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-1148,kodíso,codigo legal,8,opaco_revisable,dist_es=8;romances_ok=0;aux_ok=1
+ASK-SUS-1153,eredíto,herencia,5,opaco_total,dist_es=5;romances_ok=0;aux_ok=0
+ASK-SUS-1154,khirúrgo,cirujano,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-1162,trapiánto,transplante,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-1165,emokrómo,hemograma,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-1166,pressione arterióso,presion arterial,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-1169,distorsióno,esguince,9,opaco_revisable,dist_es=9;romances_ok=0;aux_ok=2
+ASK-SUS-1170,vitéllo,ternera,7,opaco_revisable,dist_es=7;romances_ok=0;aux_ok=2
+ASK-SUS-1171,anyéllo,cordero,6,opaco_total,dist_es=6;romances_ok=0;aux_ok=0
+ASK-SUS-1173,singhiálo,jabali,7,opaco_total,dist_es=7;romances_ok=0;aux_ok=0
+ASK-SUS-1174,kamossío,venado,6,opaco_total,dist_es=6;romances_ok=0;aux_ok=0
+ASK-SUS-1176,tónno,atun,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-1177,tróto,trucha,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=1
+ASK-SUS-1178,merlúzzo,bacalao,7,opaco_revisable,dist_es=7;romances_ok=0;aux_ok=2
+ASK-SUS-1180,gambéro,camaron,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=2
+ASK-SUS-1181,aragósto,langosta,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-1182,grankhío,cangrejo,6,opaco_total,dist_es=6;romances_ok=0;aux_ok=0
+ASK-SUS-1185,kózzo,mejillon,7,opaco_total,dist_es=7;romances_ok=0;aux_ok=0
+ASK-SUS-1187,riso biánko,arroz blanco,6,opaco_total,dist_es=6;romances_ok=0;aux_ok=0
+ASK-SUS-1188,riso integrálo,arroz integral,5,opaco_revisable,dist_es=5;romances_ok=0;aux_ok=2
+ASK-SUS-1192,órzo,cebada,6,opaco_total,dist_es=6;romances_ok=0;aux_ok=0
+ASK-SUS-1193,segálo,centeno,5,opaco_revisable,dist_es=5;romances_ok=0;aux_ok=2
+ASK-SUS-1194,lentikhío,lenteja,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-1195,siséro,garbanzo,7,opaco_revisable,dist_es=7;romances_ok=0;aux_ok=1
+ASK-SUS-1196,fagiólo,frijol,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=1
+ASK-SUS-1198,mandórlo,almendra,6,opaco_total,dist_es=6;romances_ok=0;aux_ok=0
+ASK-SUS-1199,nokiólo,avellana,8,opaco_total,dist_es=8;romances_ok=0;aux_ok=0
+ASK-SUS-1200,arakhído,cacahuete,7,opaco_revisable,dist_es=7;romances_ok=0;aux_ok=1
+ASK-SUS-1203,ananáso,pine,6,opaco_revisable,dist_es=6;romances_ok=0;aux_ok=2
+ASK-SUS-1206,angurío,sandia,5,opaco_revisable,dist_es=5;romances_ok=0;aux_ok=2
+ASK-SUS-1208,fragólo,fresa,5,opaco_total,dist_es=5;romances_ok=0;aux_ok=0
+ASK-SUS-1209,lampóno,frambuesa,7,opaco_total,dist_es=7;romances_ok=0;aux_ok=0
+ASK-SUS-1210,mirtíllo,arandano,7,opaco_revisable,dist_es=7;romances_ok=0;aux_ok=2
+ASK-SUS-1211,siliegío,cereza,7,opaco_total,dist_es=7;romances_ok=0;aux_ok=0
+ASK-SUS-1212,prúnyo,ciruela,5,opaco_revisable,dist_es=5;romances_ok=0;aux_ok=2
+ASK-SUS-1213,pésko,durazno,6,opaco_revisable,dist_es=6;romances_ok=0;aux_ok=1
+ASK-SUS-1215,melográno,granada,7,opaco_total,dist_es=7;romances_ok=0;aux_ok=0
+ASK-SUS-1220,kolómbo,paloma,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=1
+ASK-SUS-1221,passéro,gorrion,6,opaco_revisable,dist_es=6;romances_ok=0;aux_ok=2
+ASK-SUS-1223,pappagállo,loro,8,opaco_revisable,dist_es=8;romances_ok=0;aux_ok=2
+ASK-SUS-1225,fenikottéro,flamenco,8,opaco_revisable,dist_es=8;romances_ok=0;aux_ok=2
+ASK-SUS-1228,pavóno,pavo real,5,opaco_revisable,dist_es=5;romances_ok=0;aux_ok=2
+ASK-SUS-1230,óko,ganso,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=2
+ASK-SUS-1231,skválo,tiburon,6,opaco_revisable,dist_es=6;romances_ok=0;aux_ok=2
+ASK-SUS-1234,trikhéko,morsa,7,opaco_total,dist_es=7;romances_ok=0;aux_ok=0
+ASK-SUS-1237,stella maríno,estrella de mar,8,opaco_total,dist_es=8;romances_ok=0;aux_ok=0
+ASK-SUS-1238,kavallukío,caballito de mar,12,opaco_total,dist_es=12;romances_ok=0;aux_ok=0
+ASK-SUS-1239,tartaruga maríno,tortuga marina,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=2
+ASK-SUS-1241,lusertólo,lagarto,5,opaco_total,dist_es=5;romances_ok=0;aux_ok=0
+ASK-SUS-1250,kavallétto,saltamontes,8,opaco_total,dist_es=8;romances_ok=0;aux_ok=0
+ASK-SUS-1252,skarabéo,escarabajo,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=1
+ASK-SUS-1254,zanzáro,mosquito,7,opaco_total,dist_es=7;romances_ok=0;aux_ok=0
+ASK-SUS-1256,zéko,garrapata,9,opaco_total,dist_es=9;romances_ok=0;aux_ok=0
+ASK-SUS-1257,vérmo,gusano,5,opaco_revisable,dist_es=5;romances_ok=0;aux_ok=2
+ASK-SUS-1258,khiokiólo,caracol,6,opaco_total,dist_es=6;romances_ok=0;aux_ok=0
+ASK-SUS-1259,limakío,babosa,7,opaco_total,dist_es=7;romances_ok=0;aux_ok=0
+ASK-SUS-1261,trámo,tranvia,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=1
+ASK-SUS-1262,metrópo,metro (transporte),11,opaco_revisable,dist_es=11;romances_ok=0;aux_ok=2
+ASK-SUS-1265,autopattuglío,coche policial,13,opaco_total,dist_es=13;romances_ok=0;aux_ok=0
+ASK-SUS-1266,autopómpo,coche bomberos,11,opaco_total,dist_es=11;romances_ok=0;aux_ok=0
+ASK-SUS-1268,aereo pikólo,avioneta,10,opaco_total,dist_es=10;romances_ok=0;aux_ok=0
+ASK-SUS-1269,mongolfiéro,globo aerostatico,14,opaco_total,dist_es=14;romances_ok=0;aux_ok=0
+ASK-SUS-1274,zattéro,balsa,5,opaco_revisable,dist_es=5;romances_ok=0;aux_ok=2
+ASK-SUS-1275,monopattíno,patinete,7,opaco_revisable,dist_es=7;romances_ok=0;aux_ok=2
+ASK-SUS-1276,skateboárdo,monopatin,10,opaco_revisable,dist_es=10;romances_ok=0;aux_ok=3
+ASK-SUS-1277,slítto,trineo,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=2
+ASK-SUS-1279,karrózzo,carruaje,5,opaco_total,dist_es=5;romances_ok=0;aux_ok=0
+ASK-SUS-1281,eskavatóro,excavadora,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-1282,pensiéro,pensamiento,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-1285,apparénzo,apariencia,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-1287,esisténzo,existencia,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-1288,niénto,nada,5,opaco_revisable,dist_es=5;romances_ok=0;aux_ok=2
+ASK-SUS-1290,kvalkóso,algo,5,opaco_total,dist_es=5;romances_ok=0;aux_ok=0
+ASK-SUS-1291,núllo,nada (filos.),10,opaco_total,dist_es=10;romances_ok=0;aux_ok=0
+ASK-SUS-1296,natúro,naturaleza,5,opaco_revisable,dist_es=5;romances_ok=0;aux_ok=3
+ASK-SUS-1302,differénzo,diferencia,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=1
+ASK-SUS-1303,somigliánzo,semejanza,6,opaco_total,dist_es=6;romances_ok=0;aux_ok=0
+ASK-SUS-1312,estáto,verano,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=2
+ASK-SUS-1313,autúnno,otono,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=3
+ASK-SUS-1340,novitáso,noticia,5,opaco_total,dist_es=5;romances_ok=0;aux_ok=0
+ASK-SUS-1341,giornálo,periodico,7,opaco_total,dist_es=7;romances_ok=0;aux_ok=0
+ASK-SUS-1345,páko,paquete,5,opaco_revisable,dist_es=5;romances_ok=0;aux_ok=2
+ASK-SUS-1346,fránko,sello,5,opaco_total,dist_es=5;romances_ok=0;aux_ok=0
+ASK-SUS-1347,bústo,sobre (objeto),11,opaco_revisable,dist_es=11;romances_ok=0;aux_ok=2
+ASK-SUS-1348,indirízzo,direccion,7,opaco_total,dist_es=7;romances_ok=0;aux_ok=0
+ASK-SUS-1351,selluláro,movil,8,opaco_total,dist_es=8;romances_ok=0;aux_ok=0
+ASK-SUS-1352,posta elettroníko,correo electronico,7,opaco_revisable,dist_es=7;romances_ok=0;aux_ok=2
+ASK-SUS-1353,khiamáto,llamada,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-1354,videokhiamáto,videollamada,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-1355,stámpo,prensa,6,opaco_total,dist_es=6;romances_ok=0;aux_ok=0
+ASK-SUS-1356,giornalísto,periodista,7,opaco_total,dist_es=7;romances_ok=0;aux_ok=0
+ASK-SUS-1358,intervísto,entrevista,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=1
+ASK-SUS-1365,trómbo,trompeta,4,opaco_revisable,dist_es=4;romances_ok=1;aux_ok=0
+ASK-SUS-1373,fisarmoníko,acordeon,9,opaco_revisable,dist_es=9;romances_ok=0;aux_ok=2
+ASK-SUS-1378,spádro,esgrima,6,opaco_total,dist_es=6;romances_ok=0;aux_ok=0
+ASK-SUS-1379,pesistíko,halterofilia,11,opaco_total,dist_es=11;romances_ok=0;aux_ok=0
+ASK-SUS-1380,kanottaggío,remo,9,opaco_total,dist_es=9;romances_ok=0;aux_ok=0
+ASK-SUS-1381,vélo,vela deportiva,10,opaco_revisable,dist_es=10;romances_ok=0;aux_ok=2
+ASK-SUS-1382,ekvitazióno,equitacion,4,opaco_total,dist_es=4;romances_ok=0;aux_ok=0
+ASK-SUS-1383,skío,esqui,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=2
+ASK-SUS-1384,pattinaggío,patinaje,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=2
+ASK-SUS-1386,arrampikáto,escalada,9,opaco_total,dist_es=9;romances_ok=0;aux_ok=0
+ASK-SUS-1387,eskursionísmo,senderismo,8,opaco_total,dist_es=8;romances_ok=0;aux_ok=0
+ASK-SUS-1388,pallakanéstro,baloncesto,7,opaco_revisable,dist_es=7;romances_ok=0;aux_ok=2
+ASK-SUS-1389,pallavólo,voleibol,6,opaco_revisable,dist_es=6;romances_ok=0;aux_ok=2
+ASK-SUS-1390,basebállo,beisbol,6,opaco_revisable,dist_es=6;romances_ok=0;aux_ok=3
+ASK-SUS-1394,suóro,monja,5,opaco_revisable,dist_es=5;romances_ok=0;aux_ok=2
+ASK-SUS-1395,veskóvo,obispo,6,opaco_total,dist_es=6;romances_ok=0;aux_ok=0
+ASK-SUS-1396,pápo,papa (sumo pontifice),17,opaco_revisable,dist_es=17;romances_ok=0;aux_ok=3
+ASK-SUS-1398,moskhéo,mezquita,7,opaco_revisable,dist_es=7;romances_ok=0;aux_ok=2
+ASK-SUS-1404,offérto,ofrenda,4,opaco_revisable,dist_es=4;romances_ok=0;aux_ok=2
+ASK-SUS-1405,pellegrinaggío,peregrinacion,5,opaco_total,dist_es=5;romances_ok=0;aux_ok=0
+ASK-SUS-1407,kredénzo,creencia,5,opaco_revisable,dist_es=5;romances_ok=0;aux_ok=1
+ASK-SUS-1410,generálo,general (grado),7,opaco_revisable,dist_es=7;romances_ok=0;aux_ok=3
+ASK-SUS-1411,kolonnéllo,coronel,5,opaco_total,dist_es=5;romances_ok=0;aux_ok=0
+ASK-SUS-1414,kaporálo,cabo,6,opaco_total,dist_es=6;romances_ok=0;aux_ok=0
+ASK-SUS-1421,skonfítto,derrota,7,opaco_total,dist_es=7;romances_ok=0;aux_ok=0
+ASK-SUS-1430,sekúndo,segundo (unidad SI),13,opaco_revisable,dist_es=13;romances_ok=0;aux_ok=2
+ASK-SUS-ENTO-0,énto,Entidad / Ente neutro genérico,26,opaco_total,dist_es=26;romances_ok=0;aux_ok=0
+ASK-SUS-ENTO-1,agénto,Ente Agente (el actor que ejecuta la acción),38,opaco_total,dist_es=38;romances_ok=0;aux_ok=0
+ASK-SUS-ENTO-2,paténto,Ente Paciente (recibe o sufre la acción),34,opaco_total,dist_es=34;romances_ok=0;aux_ok=0
+ASK-SUS-ENTO-3,iténto,Ente Instrumental (objeto/dispositivo medio),38,opaco_total,dist_es=38;romances_ok=0;aux_ok=0
+ASK-SUS-ENTO-4,ubénto,Ente Locativo (recinto/espacio de ubicación),40,opaco_total,dist_es=40;romances_ok=0;aux_ok=0
+ASK-SUS-1440,káuso,"caso (circunstancia, asunto, caso jurídico/lógico)",46,opaco_revisable,dist_es=46;romances_ok=0;aux_ok=1
+ASK-SUS-1441,kásoro,cazador,5,opaco_total,dist_es=5;romances_ok=0;aux_ok=0
