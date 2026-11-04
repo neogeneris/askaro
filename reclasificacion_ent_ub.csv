@@ -1,0 +1,1071 @@
+codigo,forma_original,forma_askaro_A,concepto_es,macrogrupo,sub_clase,morfologia_biologica,rol_ontologico
+ASK-SUS-0033,sólo,sólo,sol,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0034,lúna,lúno,luna,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0035,stélla,stéllo,estrella,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0036,máro,máro,mar,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0037,flumíno,flumíno,rio,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0038,montáña,montáña,montana,UB,ubicacion,neutro(-a lex.),lok
+ASK-SUS-0039,arbólo,arbólo,arbol,ENT,concreto,rol-general (-o),ent
+ASK-SUS-0040,folío,folío,hoja,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0041,flóro,flóro,flor,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0042,pétra,pétro,piedra,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0043,sangúino,sangúino,sangre,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0044,ósso,ósso,hueso,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0045,kárno,kárno,carne,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0046,pélo,pélo,piel,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0047,kordío,kordío,corazon,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0048,kapíto,kapíto,cabeza,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0049,máno,máno,mano,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0050,pédo,pédo,pie,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0051,ocúlo,ocúlo,ojo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0052,búka,búko,boca,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0053,dómo,dómo,casa,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0054,pórta,pórto,puerta,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0055,fenéstra,fenéstro,ventana,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0057,sílla,síllo,silla,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0058,káma,kámo,cama,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0059,kárto,kárto,carta,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0060,páno,páno,pan,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0061,víno,víno,vino,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0062,lákto,lákto,leche,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0063,bovído,bovído,carne de vaca,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0084,mátro,mátra,madre,ENT,rol,fa (-a),fa
+ASK-SUS-0085,pátro,pátro,padre,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0086,frátro,frátro,hermano,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0087,soróra,soróra,hermana,ENT,rol,fa (-a),fa
+ASK-SUS-0088,fílo,fílo,hijo,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0089,fíla,fíla,hija,ENT,rol,fa (-a),fa
+ASK-SUS-0090,libérta,libérto,libertad,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0091,veríta,veríto,verdad,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0092,síbda,síbda,ciudad,UB,ubicacion,neutro(-a lex.),lok
+ASK-SUS-0093,nasío,nasío,nacion,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0094,infeksío,infeksío,infeccion,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0095,publíka,publíko,publicidad,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0096,republíko,republíko,republica,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0097,demokráto,demokráto,democracia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0098,filosófo,filosófo,filosofo,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0099,istorío,istorío,historia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0100,musíko,musíko,musica,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0101,poesío,poesío,poesia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0102,gobiérno,gobiérno,gobierno,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0103,légo,légo,ley,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0104,guéra,guéro,guerra,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0105,páco,páco,paz,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0106,ekléso,ekléso,iglesia,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0107,déo,déo,dios,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0108,anímo,anímo,alma,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0109,múndo,múndo,mundo,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0110,témpro,témpro,tiempo,UB,tem,neutro(-o),tem
+ASK-SUS-0111,spasío,spasío,espacio,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0112,partído,partído,partido,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0113,eksersíto,eksersíto,ejercito,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0114,síno,síno,seno,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0115,kávo,kávo,llave,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0116,bárko,bárko,barca,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0117,návo,návo,navio,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0118,kabállo,kabállo,caballo,ENT,rol,ba (-o),ba
+ASK-SUS-0119,káno,káno,perro,ENT,rol,ba (-o),ba
+ASK-SUS-0120,káto,káto,gato,ENT,rol,ba (-o),ba
+ASK-SUS-0121,káta,káta,gata,ENT,rol,fa (-a),fa
+ASK-SUS-0122,váka,váka,vaca,ENT,rol,fa (-a),fa
+ASK-SUS-0123,táuro,táuro,toro,ENT,rol,ba (-o),ba
+ASK-SUS-0124,gálo,gálo,gallo,ENT,rol,ba (-o),ba
+ASK-SUS-0125,gallína,gallína,gallina,ENT,rol,fa (-a),fa
+ASK-SUS-0126,lúpo,lúpo,lobo,ENT,rol,ba (-o),ba
+ASK-SUS-0127,ráto,ráto,raton,ENT,rol,ba (-o),ba
+ASK-SUS-0128,avéso,avéso,ave,ENT,concreto,rol-general (-o),ent
+ASK-SUS-0129,písso,písso,pez,ENT,concreto,rol-general (-o),ent
+ASK-SUS-0130,pláyo,pláyo,playa,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0131,insúlo,insúlo,isla,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0132,sílo,sílo,selva,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0133,kámpo,kámpo,campo,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0134,kamíno,kamíno,camino,UB,ruta,neutro(-o),lok
+ASK-SUS-0135,pónto,pónto,puente,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0136,kolíno,kolíno,colina,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0137,vállo,vállo,valle,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0194,acído,acído,acido,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0195,gáso,gáso,gas,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0196,sálo,sálo,sal,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0197,sulfóro,sulfóro,azufre,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0198,féro,féro,hierro,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0199,áuro,áuro,oro,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0201,vítro,vítro,vidrio,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0202,makíno,makíno,maquina,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0203,komputadóro,komputadóro,computadora,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0204,prográmmo,prográmmo,programa,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0205,softwáro,softwáro,software,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0206,elektróno,elektróno,electron,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0207,protóno,protóno,proton,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0208,neutróno,neutróno,neutron,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0209,orbíto,orbíto,orbita,ENT,concreto,neutro(-o),ent
+ASK-SUS-0210,gravíta,gravíto,gravedad,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0211,energío,energío,energia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0212,viktorío,viktorío,victoria,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0213,medikíno,medikíno,medicina,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0214,doktóro,doktóro,doctor,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0215,hospitálo,hospitálo,hospital,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0216,micróbo,micróbo,microbio,ENT,concreto,rol-general (-o),ent
+ASK-SUS-0217,celúlo,celúlo,celula,ENT,concreto,rol-general (-o),ent
+ASK-SUS-0218,atómo,atómo,atom,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0219,argénto,argénto,plata metal Ag,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0220,sirkúlo,sirkúlo,circulo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0221,numéro,numéro,numero,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0222,súmmo,súmmo,suma,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0223,infiníto,infiníto,infinito,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0224,advokádo,advokádo,abogado,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0225,justitío,justitío,justicia,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0226,impósto,impósto,impuesto,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0227,merkádo,merkádo,mercado,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0228,deñéro,deñéro,dinero,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0229,bánko,bánko,banco,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0312,brakhío,brakhío,brazo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0313,kérno,kérno,pierna,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0314,genikúlo,genikúlo,rodilla,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0315,díto,díto,dedo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0316,ungúlo,ungúlo,una,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0317,labío,labío,labio,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0318,aurikúlo,aurikúlo,oreja,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0319,náso,náso,nariz,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0320,kóllo,kóllo,cuello,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0321,dórso,dórso,espalda,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0322,pektóro,pektóro,pecho,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0323,stomáko,stomáko,estomago,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0324,jekóro,jekóro,higado,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0325,réno,réno,rinon,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0326,pulmóno,pulmóno,pulmon,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0327,serébro,serébro,cerebro,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0328,nérvo,nérvo,nervio,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0329,muskúlo,muskúlo,musculo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0330,medisíno,medisíno,medicina,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0331,doktóro,doktóro,doctor,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0332,ospitálo,ospitálo,hospital,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0333,maladío,maladío,enfermedad,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0334,fébro,fébro,fiebre,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0335,tússo,tússo,tos,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0336,gríppo,gríppo,gripe,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0337,vulnéro,vulnéro,herida,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0338,sikatríko,sikatríko,cicatriz,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0339,salúto,salúto,salud,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0340,igiéno,igiéno,higiene,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0341,diéto,diéto,dieta,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0342,vitamíno,vitamíno,vitamina,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0343,protéino,protéino,proteina,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0344,bakterío,bakterío,bacteria,ENT,concreto,rol-general (-o),ent
+ASK-SUS-0345,virúso,virúso,virus,ENT,concreto,rol-general (-o),ent
+ASK-SUS-0346,vaka/vasíno,vaka/vasíno,vacuna,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0347,khirurgío,khirurgío,cirugia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0348,pharmasiámo,pharmasiámo,farmacia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0349,remedíumo,remedíumo,remedio,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0350,symptómo,symptómo,sintoma,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0351,syndrómo,syndrómo,sindrome,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0352,diagnósko,diagnósko,diagnostico,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0353,infektióno,infektióno,infeccion,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0354,inflamasío,inflamasío,inflamacion,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0355,allergío,allergío,alergia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0356,anemío,anemío,anemia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0357,kanséro,kanséro,cancer,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0358,diabéto,diabéto,diabetes,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0359,sellúlo,sellúlo,celula,ENT,concreto,rol-general (-o),ent
+ASK-SUS-0360,mikrobío,mikrobío,microbio,ENT,concreto,rol-general (-o),ent
+ASK-SUS-0361,véno,véno,vena,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0362,arterío,arterío,arteria,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0363,péllo,péllo,piel,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0364,skhelétro,skhelétro,esqueleto,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0365,intestíno,intestíno,intestino,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0367,kárno,kárno,carne,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0368,sangíno,sangíno,sangre,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0369,méso,méso,mesa,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0370,séllo,séllo,silla,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0371,kaméro,kaméro,cama,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0373,finéstro,finéstro,ventana,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0374,tékto,tékto,techo,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0375,paviménto,paviménto,piso,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0376,paréto,paréto,pared,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0377,kosíno,kosíno,cocina,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0378,balnéo,balnéo,bano,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0379,dormitorío,dormitorío,dormitorio,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0380,salóno,salóno,sala,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0381,jardíno,jardíno,jardin,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0382,klávo,klávo,llave,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0383,lampáno,lampáno,lampara,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0384,spesío,spesío,espejo,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0385,pláto,pláto,plato,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0386,pokúlo,pokúlo,taza,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0387,váso,váso,vaso,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0388,kultéllo,kultéllo,cuchillo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0389,tenedóro,tenedóro,tenedor,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0390,kokleáro,kokleáro,cuchara,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0391,buttikuláro,buttikuláro,botella,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0392,óllo,óllo,olla,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0393,patéllo,patéllo,sarten,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0394,továllo,továllo,toalla,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0395,sapóno,sapóno,jabon,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0396,sepéllo,sepéllo,cepillo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0397,pettíno,pettíno,peine,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0398,róbo,róbo,ropa,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0399,kamisío,kamisío,camisa,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0400,pantalonéso,pantalonéso,pantalon,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0401,sapáto,sapáto,zapato,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0402,sombréro,sombréro,sombrero,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0403,abríko,abríko,abrigo,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0404,búrso,búrso,bolsa,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0405,líbro,líbro,libro,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0406,papíro,papíro,papel,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0407,lapído,lapído,lapiz,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0408,makhíno,makhíno,maquina,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0409,komputatóro,komputatóro,computadora,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0410,prográmo,prográmo,programa,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0411,softwáro,softwáro,software,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0412,hardwáro,hardwáro,hardware,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0413,skriptorío,skriptorío,escritorio,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0414,bankílo,bankílo,banco (asiento),ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0415,tapéto,tapéto,alfombra,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0416,kortíno,kortíno,cortina,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0417,stállo,stállo,estante,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0418,materáso,materáso,colchon,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0419,kussíno,kussíno,almohada,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0420,linío,linío,sabana,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0421,mánto,mánto,manta,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0422,kojíno,kojíno,cojin,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0423,kvádro,kvádro,cuadro,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0424,florarío,florarío,florero,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0425,kanéstro,kanéstro,canasto,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0426,páno,páno,pan,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0427,ríso,ríso,arroz,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0428,óvo,óvo,huevo,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0429,késo,késo,queso,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0430,bútyro,bútyro,mantequilla,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0431,súkro,súkro,azucar,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0432,oléo,oléo,aceite,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0433,asetáto,asetáto,vinagre,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0434,sópo,sópo,sopa,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0435,insaláto,insaláto,ensalada,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0436,pásto,pásto,pasta,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0437,pízzo,pízzo,pizza,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0438,khokoláto,khokoláto,chocolate,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0439,káfo,káfo,cafe,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0440,tho,tho,te,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0442,bírro,bírro,cerveza,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0443,súko,súko,jugo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0444,písko,písko,pescado,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0445,pullástro,pullástro,pollo,ENT,concreto,rol-general (-o),ent
+ASK-SUS-0446,pórko,pórko,cerdo,ENT,concreto,ba/rol-general (-o/-or),ba
+ASK-SUS-0447,váko,váka,vaca,ENT,rol,fa (-a),fa
+ASK-SUS-0448,ovíno,ovína,oveja,ENT,rol,fa (-a),fa
+ASK-SUS-0449,gallíno,gallína,gallina,ENT,rol,fa (-a),fa
+ASK-SUS-0450,gállo,gállo,gallo,ENT,rol,ba (-o),ba
+ASK-SUS-0451,áno,áno,pato,ENT,rol,rol-general (-o),ag
+ASK-SUS-0452,tomáto,tomáto,tomate,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0453,patáto,patáto,papa,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0454,sépo,sépo,cebolla,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0455,allío,allío,ajo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0456,karótto,karótto,zanahoria,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0457,laktúko,laktúko,lechuga,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0458,orángo,orángo,naranja,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0459,appúlo,appúlo,manzana,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0460,platáno,platáno,platano,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0461,úvo,úvo,uva,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0462,lákto,lákto,leche,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0463,limóno,limóno,limon,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0464,núko,núko,nuez,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0465,méllo,méllo,miel,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0467,bovíno,bovíno,carne de vaca,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0468,bósko,bósko,bosque,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0469,sílvo,sílvo,selva,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0471,vállo,vállo,valle,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0472,desérto,desérto,desierto,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0473,insúlo,insúlo,isla,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0474,plagío,plagío,playa,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0475,láko,láko,lago,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0476,oseáno,oseáno,oceano,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0477,toníto,toníto,trueno,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0478,fulgúro,fulgúro,rayo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0479,nebúlo,nebúlo,niebla,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0480,glasío,glasío,hielo,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0481,aréno,aréno,arena,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0482,lúto,lúto,barro,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0483,pulvéro,pulvéro,polvo,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0484,férro,férro,hierro,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0486,argénto,argénto,plata,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0487,kúpro,kúpro,cobre,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0488,vétro,vétro,vidrio,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0489,línyo,línyo,madera,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0490,karbóno,karbóno,carbon,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0491,petroléo,petroléo,petroleo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0492,gáso,gáso,gas,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0493,leóno,leóno,leon,ENT,rol,ba (-o),ba
+ASK-SUS-0494,tígro,tígro,tigre,ENT,rol,ba (-o),ba
+ASK-SUS-0495,úrso,úrso,oso,ENT,rol,ba (-o),ba
+ASK-SUS-0497,vúlpo,vúlpo,zorro,ENT,rol,ba (-o),ba
+ASK-SUS-0498,sérvo,sérvo,ciervo,ENT,rol,ba (-o),ba
+ASK-SUS-0499,konilío,konilío,conejo,ENT,rol,ba (-o),ba
+ASK-SUS-0501,serpénto,serpénto,serpiente,ENT,concreto,rol-general (-o),ent
+ASK-SUS-0502,testudíno,testudína,tortuga,ENT,rol,fa (-a),fa
+ASK-SUS-0503,ráno,rána,rana,ENT,rol,fa (-a),fa
+ASK-SUS-0504,elephánto,elephánto,elefante,ENT,rol,ba (-o),ba
+ASK-SUS-0505,balaéno,balaéna,ballena,ENT,rol,fa (-a),fa
+ASK-SUS-0507,kátto,kátto,gato,ENT,rol,ba (-o),ba
+ASK-SUS-0508,gátto,gátta,gata,ENT,rol,fa (-a),fa
+ASK-SUS-0509,táuro,táuro,toro,ENT,rol,ba (-o),ba
+ASK-SUS-0510,avéso,avéso,ave,ENT,concreto,rol-general (-o),ent
+ASK-SUS-0511,písso,písso,pez,ENT,concreto,rol-general (-o),ent
+ASK-SUS-0512,ápo,ápa,abeja,ENT,rol,fa (-a),fa
+ASK-SUS-0513,farfállo,farfállo,mariposa,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0514,kavállo,kavállo,caballo,ENT,rol,ba (-o),ba
+ASK-SUS-0515,lúmo,lúmo,luz,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0516,úmbro,úmbro,sombra,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0517,névo,névo,nieve,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0518,pluvío,pluvío,lluvia,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0519,vénto,vénto,viento,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0520,núbo,núbo,nube,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0521,sélo,sélo,cielo,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0522,montanío,montanío,montana,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0524,volkáno,volkáno,volcan,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0525,kordilléro,kordilléro,cordillera,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0526,praterío,praterío,pradera,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0527,planitío,planitío,llanura,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0528,meséto,meséto,meseta,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0529,peninsúlo,peninsúlo,peninsula,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0530,gólfo,gólfo,golfo,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0531,báio,báio,bahia,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0532,strétto,strétto,estrecho (accidente geo.),UB,ubicacion,neutro(-o),lok
+ASK-SUS-0533,kanálo,kanálo,canal,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0534,arkhipelágo,arkhipelágo,archipielago,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0535,resífo,resífo,arrecife,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0536,rúpo,rúpo,acantilado,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0537,praténso,praténso,prado,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0538,flóro,flóro,flor,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0539,folío,folío,hoja,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0540,arbóro,arbóro,arbol,ENT,concreto,rol-general (-o),ent
+ASK-SUS-0541,pétro,pétro,piedra,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0542,flumíno,flumíno,rio,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0543,máro,máro,mar,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0544,maéstro,maéstro,maestro,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0545,professóro,professóro,profesor,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0546,studénto,studénto,estudiante,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0547,ingeniéro,ingeniéro,ingeniero,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0548,advokáto,advokáto,abogado,ENT,rol,ba/rol-general (-o),ag
+ASK-SUS-0549,judíko,judíko,juez,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0550,politío,politío,policia,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0551,soldáto,soldáto,soldado,ENT,rol,ba/rol-general (-o),ag
+ASK-SUS-0552,kapitáno,kapitáno,capitan,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0553,ro,ro,rey,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0554,regíno,regína,reina,ENT,rol,fa (-a),fa
+ASK-SUS-0555,presidénto,presidénto,presidente,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0556,minístro,minístro,ministro,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0557,gubernatóro,gubernatóro,gobernador,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0558,urbéstro,urbéstro,alcalde,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0559,sivitáno,sivitáno,ciudadano,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0560,popólo,popólo,pueblo,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0561,natióno,natióno,nacion,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0562,státo,státo,estado,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0563,govérno,govérno,gobierno,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0564,légo,légo,ley,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0565,júro,júro,derecho,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0566,justitío,justitío,justicia,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0567,ekvalitáto,ekvalitáto,igualdad,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0568,páso,páso,paz,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0569,gérro,gérro,guerra,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0570,eksersíto,eksersíto,ejercito,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0571,ármo,ármo,arma,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0572,skúto,skúto,escudo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0573,frontiéro,frontiéro,frontera,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0574,kapitálo,kapitálo,capital,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0575,sitáto,sitáto,ciudad,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0576,villágo,villágo,aldea,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0577,kvartéro,kvartéro,barrio,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0578,vikólo,vikólo,calle,UB,ruta,neutro(-o),lok
+ASK-SUS-0579,platío,platío,plaza,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0580,múro,múro,muro,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0581,túrro,túrro,torre,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0582,témplo,témplo,templo,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0583,eklesío,eklesío,iglesia,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0584,palatío,palatío,palacio,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0585,kastéllo,kastéllo,castillo,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0586,karséro,karséro,carcel,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0588,merkáto,merkáto,mercado,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0589,denarío,denarío,dinero,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0591,partíto,partíto,partido,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0592,republíko,republíko,republica,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0593,demokratío,demokratío,democracia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0594,publisitáto,publisitáto,publicidad,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0595,vóto,vóto,voto,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0596,eleksío,eleksío,eleccion,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0598,patrío,patrío,patria,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0599,tradisío,tradisío,tradicion,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0600,kultúro,kultúro,cultura,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0601,sivilisasío,sivilisasío,civilizacion,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0602,sosietáto,sosietáto,sociedad,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0603,familío,familío,familia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0604,skhólo,skhólo,escuela,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0605,universitáto,universitáto,universidad,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0606,klásso,klásso,clase,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0607,leksío,leksío,leccion,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0608,eksamíno,eksamíno,examen,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0609,nóto,nóto,nota,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0610,ssientío,ssientío,ciencia,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0611,philosophío,philosophío,filosofia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0612,mathematíko,mathematíko,matematica,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0613,physíko,physíko,fisica,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0614,khimíko,khimíko,quimica,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0615,biologío,biologío,biologia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0616,geologío,geologío,geologia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0617,astronomío,astronomío,astronomia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0618,geographío,geographío,geografia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0619,theorío,theorío,teoria,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0620,praktíko,praktíko,practica,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0621,methódo,methódo,metodo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0622,anályso,anályso,analisis,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0623,synthéso,synthéso,sintesis,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0624,ipotéso,ipotéso,hipotesis,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0625,eksperiménto,eksperiménto,experimento,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0626,resultáto,resultáto,resultado,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0627,solusío,solusío,solucion,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0628,kvestío,kvestío,pregunta,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0629,respónso,respónso,respuesta,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0630,idéo,idéo,idea,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0631,konsépto,konsépto,concepto,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0632,definisío,definisío,definicion,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0633,eksémplo,eksémplo,ejemplo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0634,veritáto,veritáto,verdad,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0635,mentíto,mentíto,mentira,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0636,erróro,erróro,error,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0637,logíko,logíko,logica,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0638,symbólo,symbólo,simbolo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0639,littéro,littéro,letra,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0640,philosóphro,philosóphro,filosofo,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0641,historío,historío,historia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0642,poesío,poesío,poesia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0643,sirkúlo,sirkúlo,circulo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0644,numéro,numéro,numero,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0646,infiníto,infiníto,infinito,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0647,triangúlo,triangúlo,triangulo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0648,kvadráto,kvadráto,cuadrado,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0649,linéo,linéo,linea,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0650,púnkto,púnkto,punto,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0651,angólo,angólo,angulo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0652,ekvasío,ekvasío,ecuacion,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0653,funkzío,funkzío,funcion,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0654,variabílo,variabílo,variable,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0655,konstánto,konstánto,constante,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0656,assiómo,assiómo,axioma,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0657,postuláto,postuláto,postulado,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0658,paradígmo,paradígmo,paradigma,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0659,modélo,modélo,modelo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0660,dáto,dáto,dato,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0661,informasío,informasío,informacion,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0662,konossentío,konossentío,conocimiento,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0663,apprendiménto,apprendiménto,aprendizaje,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0664,insenyaménto,insenyaménto,enseianza,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0665,risérko,risérko,investigacion,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0666,bibliothéko,bibliothéko,biblioteca,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0667,arkhívo,arkhívo,archivo,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0668,muséo,muséo,museo,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0669,motóro,motóro,motor,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0670,róto,róto,rueda,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0671,áuto,áuto,coche,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0672,tréno,tréno,tren,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0673,aviasío,aviasío,avion,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0675,bisiklétto,bisiklétto,bicicleta,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0676,móto,móto,moto,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0677,autobúso,autobúso,autobus,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0678,kamióno,kamióno,camion,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0679,pórto,pórto,puerto,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0680,aeropórto,aeropórto,aeropuerto,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0681,estasío,estasío,estacion,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0682,vío,vío,via,UB,ruta,neutro(-o),lok
+ASK-SUS-0683,ferrovío,ferrovío,ferrocarril,UB,ruta,neutro(-o),lok
+ASK-SUS-0684,telefóno,telefóno,telefono,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0685,radío,radío,radio,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0686,televizío,televizío,television,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0687,internéto,internéto,internet,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0688,réto,réto,red,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0689,skhérmo,skhérmo,pantalla,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0690,tastiéro,tastiéro,teclado,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0691,datíso,datíso,datos,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0692,korriéro,korriéro,correo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0693,messagío,messagío,mensaje,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0694,phóto,phóto,foto,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0695,kaméra,kaméro,camara,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0696,pellikúlo,pellikúlo,pelicula,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0697,elektrisitáto,elektrisitáto,electricidad,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0698,batterío,batterío,bateria,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0699,kávo,kávo,cable,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0700,anténno,anténno,antena,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0701,elettróno,elettróno,electron,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0702,protóno,protóno,proton,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0703,neutróno,neutróno,neutron,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0704,orbíto,orbíto,orbita,ENT,concreto,neutro(-o),ent
+ASK-SUS-0705,gravitáto,gravitáto,gravedad,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0706,energío,energío,energia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0707,atómo,atómo,atomo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0708,asído,asído,acido,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0709,sulphúro,sulphúro,sulfuro,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0710,robóto,robóto,robot,ENT,rol,ba/rol-general (-o),ag
+ASK-SUS-0711,sénso,sénso,sensor,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0712,mikrokhípo,mikrokhípo,chip,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0713,memorío,memorío,memoria informatica,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0714,prosessóro,prosessóro,procesador,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0715,algorítmo,algorítmo,algoritmo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0716,kodíko,kodíko,codigo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0717,servitóro,servitóro,servidor,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0718,terminálo,terminálo,terminal,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0719,árto,árto,arte,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0720,musíko,musíko,musica,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0721,piktúro,piktúro,pintura,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0722,skultúro,skultúro,escultura,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0723,novéllo,novéllo,novela,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0724,kónto,kónto,cuento,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0725,drámmo,drámmo,drama,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0726,komeddío,komeddío,comedia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0727,trageddío,trageddío,tragedia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0728,aktóro,aktóro,actor,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0729,theátro,theátro,teatro,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0730,sinémo,sinémo,cine,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0731,dánsso,dánsso,danza,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0732,kansío,kansío,cancion,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0733,instruménto,instruménto,instrumento,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0734,pianofórto,pianofórto,piano,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0735,gitárro,gitárro,guitarra,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0736,violíno,violíno,violin,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0737,tambúro,tambúro,tambor,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0738,fláuto,fláuto,flauta,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0739,rítmo,rítmo,ritmo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0740,melodío,melodío,melodia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0741,armonío,armonío,armonia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0742,konsérto,konsérto,concerto,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0743,statúo,statúo,estatua,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0744,ritrátto,ritrátto,retrato,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0745,paesaggío,paesaggío,paisaje,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0746,desínyo,desínyo,diseno,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0747,stylo,stylo,estilo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0748,autóro,autóro,autor,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0749,artísto,artísto,artista,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0750,skriptóro,skriptóro,escritor,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0751,poéto,poéto,poeta,ENT,rol,ba/rol-general (-o),ag
+ASK-SUS-0754,anímo,anímo,alma,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0755,spórto,spórto,deporte,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0756,footbállo,footbállo,futbol,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0757,ballóno,ballóno,balon,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0758,ekvípo,ekvípo,equipo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0759,jóko,jóko,juego,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0760,giokatóro,giokatóro,jugador,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0761,allenatóro,allenatóro,entrenador,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0762,kampióno,kampióno,campeon,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0763,premío,premío,premio,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0764,medalío,medalío,medalla,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0765,kórso,kórso,carrera,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0766,sálto,sálto,salto,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0767,nuotasío,nuotasío,natacion,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0768,tenníso,tenníso,tenis,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0769,gólfo,gólfo,golf,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0770,bókso,bókso,boxeo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0771,lúkta,lúkto,lucha,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0772,gymnasíumo,gymnasíumo,gimnasio,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0773,atléto,atléto,atleta,ENT,rol,ba/rol-general (-o),ag
+ASK-SUS-0774,stadío,stadío,estadio,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0775,troféo,troféo,trofeo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0776,tornéo,tornéo,torneo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0777,regúlo,regúlo,regla,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0778,punteggío,punteggío,puntaje,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0779,skáko,skáko,ajedrez,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0780,viktorío,viktorío,victoria,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0852,ánno,ánno,ano,UB,tem,neutro(-o),tem
+ASK-SUS-0853,lúno,lúno,mes (unidad de tiempo),UB,tem,neutro(-o),tem
+ASK-SUS-0854,septimáno,septimáno,semana,UB,tem,neutro(-o),tem
+ASK-SUS-0855,dío,dío,dia,UB,tem,neutro(-o),tem
+ASK-SUS-0856,óro,óro,hora,UB,tem,neutro(-o),tem
+ASK-SUS-0857,minúto,minúto,minuto,UB,tem,neutro(-o),tem
+ASK-SUS-0858,sekúndo,sekúndo,segundo,UB,tem,neutro(-o),tem
+ASK-SUS-0859,álbo,álbo,madrugada,UB,tem,neutro(-o),tem
+ASK-SUS-0860,matíno,matíno,manana,UB,tem,neutro(-o),tem
+ASK-SUS-0861,mediedío,mediedío,mediodia,UB,tem,neutro(-o),tem
+ASK-SUS-0862,postméso,postméso,tarde,UB,tem,neutro(-o),tem
+ASK-SUS-0863,vespéro,vespéro,atardecer,UB,tem,neutro(-o),tem
+ASK-SUS-0864,medienókto,medienókto,medianoche,UB,tem,neutro(-o),tem
+ASK-SUS-0865,moménto,moménto,momento,UB,tem,neutro(-o),tem
+ASK-SUS-0866,orologío,orologío,reloj,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-0867,khronométro,khronométro,cronometro,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0868,instánto,instánto,instante,UB,tem,neutro(-o),tem
+ASK-SUS-0869,sekúlo,sekúlo,siglo,UB,tem,neutro(-o),tem
+ASK-SUS-0870,dekádo,dekádo,decada,UB,tem,neutro(-o),tem
+ASK-SUS-0871,millenío,millenío,milenio,UB,tem,neutro(-o),tem
+ASK-SUS-0872,eternitáto,eternitáto,eternidad,UB,tem,neutro(-o),tem
+ASK-SUS-0873,passáto,passáto,pasado,UB,tem,neutro(-o),tem
+ASK-SUS-0874,presénto,presénto,presente,UB,tem,neutro(-o),tem
+ASK-SUS-0875,futúro,futúro,futuro,UB,tem,neutro(-o),tem
+ASK-SUS-0876,lunedío,lunedío,lunes,UB,tem,neutro(-o),tem
+ASK-SUS-0877,mardedío,mardedío,martes,UB,tem,neutro(-o),tem
+ASK-SUS-0878,merkurdío,merkurdío,miercoles,UB,tem,neutro(-o),tem
+ASK-SUS-0879,iovisdío,iovisdío,jueves,UB,tem,neutro(-o),tem
+ASK-SUS-0880,venerdío,venerdío,viernes,UB,tem,neutro(-o),tem
+ASK-SUS-0881,sabbáto,sabbáto,sabado,UB,tem,neutro(-o),tem
+ASK-SUS-0882,dominíko,dominíko,domingo,UB,tem,neutro(-o),tem
+ASK-SUS-0883,nórto,nórto,norte,UB,ruta,neutro(-o),lok
+ASK-SUS-0884,súdo,súdo,sur,UB,ruta,neutro(-o),lok
+ASK-SUS-0885,ésto,ésto,este,UB,ruta,neutro(-o),lok
+ASK-SUS-0886,ovésto,ovésto,oeste,UB,ruta,neutro(-o),lok
+ASK-SUS-0887,norésto,norésto,noreste,UB,ruta,neutro(-o),lok
+ASK-SUS-0888,norovésto,norovésto,noroeste,UB,ruta,neutro(-o),lok
+ASK-SUS-0889,surésto,surésto,sureste,UB,ruta,neutro(-o),lok
+ASK-SUS-0890,surovésto,surovésto,suroeste,UB,ruta,neutro(-o),lok
+ASK-SUS-0891,latitúdo,latitúdo,latitud,UB,ruta,neutro(-o),lok
+ASK-SUS-0892,longitúdo,longitúdo,longitud,UB,ruta,neutro(-o),lok
+ASK-SUS-0893,altitúdo,altitúdo,altitud,UB,ruta,neutro(-o),lok
+ASK-SUS-0894,ekvatóro,ekvatóro,ecuador,UB,ruta,neutro(-o),lok
+ASK-SUS-0895,emisferío,emisferío,hemisferio,UB,ruta,neutro(-o),lok
+ASK-SUS-0896,lóko,lóko,lugar,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0897,latéro,latéro,lado,UB,ruta,neutro(-o),lok
+ASK-SUS-0898,kontinénto,kontinénto,continente,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0899,regióno,regióno,region,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0900,provinsío,provinsío,provincia,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0901,distríkto,distríkto,distrito,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0902,munisipalitáto,munisipalitáto,municipio,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0903,impéro,impéro,imperio,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0904,rényo,rényo,reino,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0905,kolonío,kolonío,colonia,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0906,territorío,territorío,territorio,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0907,metropólo,metropólo,metropoli,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0908,visináto,visináto,vecindario,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0909,komárko,komárko,comarca,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0910,páiso,páiso,pais,UB,ubicacion,neutro(-o),lok
+ASK-SUS-0911,alégro,alégro,alegria,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0912,tristésso,tristésso,tristeza,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0913,pauróo,pauróo,miedo,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0914,íro,íro,ira,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0915,nauséo,nauséo,asco,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0916,surpréso,surpréso,sorpresa,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0917,dispréto,dispréto,desprecio,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0918,plaséro,plaséro,placer,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0919,dolóro,dolóro,dolor,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0920,indolentío,indolentío,indolencia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0921,ambivalentío,ambivalentío,ambivalencia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0922,serenitáto,serenitáto,serenidad,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0923,amóro,amóro,amor,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0924,odío,odío,odio,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0925,ansietáto,ansietáto,ansiedad,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0926,felisitáto,felisitáto,felicidad,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0927,orgoglío,orgoglío,orgullo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0928,zelóso,zelóso,celos,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0929,invidío,invidío,envidia,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0930,vergonío,vergonío,vergüenza,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0931,kólpo,kólpo,culpa,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0932,nostalgío,nostalgío,nostalgia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0933,melankolío,melankolío,melancolia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0934,euforío,euforío,euforia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0935,ekstasío,ekstasío,extasis,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0936,angustío,angustío,angustia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0937,paníko,paníko,panico,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0938,terróro,terróro,terror,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0939,furío,furío,furia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0940,rabío,rabío,rabia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0941,irritasío,irritasío,irritacion,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0942,frustrasío,frustrasío,frustracion,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0943,delusióno,delusióno,decepcion,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0944,sperantío,sperantío,esperanza,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0945,konfidentío,konfidentío,confianza,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0946,deskonfidentío,deskonfidentío,desconfianza,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0947,pátro,pátro,padre,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0948,mátro,mátra,madre,ENT,rol,fa (-a),fa
+ASK-SUS-0951,frátro,frátro,hermano,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0952,soróro,soróra,hermana,ENT,rol,fa (-a),fa
+ASK-SUS-0953,ávo,ávo,abuelo,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0954,áva,áva,abuela,ENT,rol,fa (-a),fa
+ASK-SUS-0955,nepóto,nepóto,nieto,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0956,népto,népta,nieta,ENT,rol,fa (-a),fa
+ASK-SUS-0957,zióro,zióro,tio,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0958,tía,tía,tia,ENT,rol,fa (-a),fa
+ASK-SUS-0959,prímo,prímo,primo,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0960,prína,prína,prima,ENT,rol,fa (-a),fa
+ASK-SUS-0961,sobríno,sobríno,sobrino,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0962,nepóta,nepóta,sobrina,ENT,rol,fa (-a),fa
+ASK-SUS-0963,soséro,soséro,suegro,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0964,suéro,suéra,suegra,ENT,rol,fa (-a),fa
+ASK-SUS-0965,genéro,genéro,yerno,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0966,nóro,nóra,nuera,ENT,rol,fa (-a),fa
+ASK-SUS-0967,kunyáto,kunyáto,cunado,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0968,kunyáta,kunyáta,cunada,ENT,rol,fa (-a),fa
+ASK-SUS-0969,bisávo,bisávo,bisabuelo,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0970,trisávo,trisávo,tatarabuelo,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0971,bisnipóto,bisnipóto,bisnieto,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-0972,monéto,monéto,moneda,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0973,presío,presío,precio,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0974,kósto,kósto,costo,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0975,valóro,valóro,valor,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0976,tásso,tásso,tasa,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0977,impréso,impréso,empresa,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0978,debíto,debíto,deuda,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0979,kredíto,kredíto,credito,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0980,pagaménto,pagaménto,pago,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0981,guadányo,guadányo,ganancia,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0982,perdíto,perdíto,perdida,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0983,kommersío,kommersío,comercio,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0984,transakzío,transakzío,transaccion,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0985,kontráto,kontráto,contrato,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0986,faktúro,faktúro,factura,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0987,resipúto,resipúto,recibo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0988,rikvézo,rikvézo,riqueza,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0989,povertáto,povertáto,pobreza,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0990,salarío,salarío,salario,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0991,benefisío,benefisío,beneficio,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0992,dámno,dámno,perjuicio,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0993,investménto,investménto,inversion,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0994,produksío,produksío,produccion,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0995,konsúmo,konsúmo,consumo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0996,industrío,industrío,industria,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0997,agrikultúro,agrikultúro,agricultura,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-0998,propriéto,propriéto,propiedad,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-0999,merkanzío,merkanzío,mercancia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1063,martéllo,martéllo,martillo,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-1064,sérro,sérro,sierra,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-1065,trivéllo,trivéllo,taladro,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1066,kakiavíto,kakiavíto,destornillador,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1067,tenaglío,tenaglío,alicate,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1068,khiave ingléso,khiave ingléso,llave inglesa,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1069,torníllo,torníllo,tornillo,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-1070,khióvo,khióvo,clavo,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-1071,ghiéro,ghiéro,tuerca,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1072,rosétto,rosétto,arandela,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1073,seséllo,seséllo,cincel,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-1074,límo,límo,lima,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-1075,levigatríko,levigatríko,lijadora,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1076,assío,assío,hacha,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-1077,píko,píko,pico,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-1078,pálo,pálo,pala,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-1079,rastréllo,rastréllo,rastrillo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1080,záppo,záppo,azada,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-1081,makhétto,makhétto,machete,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1082,sissóro,sissóro,tijeras,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1083,ágo,ágo,aguja,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1084,spíllo,spíllo,alfiler,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1085,spillo da balío,spillo da balío,imperdible,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1086,bottóno,bottóno,boton,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-1087,serniéro,serniéro,cierre,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1088,kórda,kórdo,cuerda,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-1089,katéno,katéno,cadena,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-1090,ferfílo,ferfílo,alambre,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-1091,túbo,túbo,tubo,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-1092,livéllo,livéllo,nivel,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1093,filo a piómbo,filo a piómbo,plomada,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1094,mesuridóro,mesuridóro,metro (instrumento),ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1095,kompásso,kompásso,compas,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1096,rególo,rególo,regla (instrumento),ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1097,skalpéllo,skalpéllo,formon,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1098,sirkoláro,sirkoláro,sierra circular,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1099,sega a máno,sega a máno,sierra de mano,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1100,koltéllo,koltéllo,cuchillo de cocina,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1101,kalzíno,kalzíno,calcetin,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-1102,guánto,guánto,guante,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1103,ssiárpo,ssiárpo,bufanda,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-1104,sintúro,sintúro,cinturon,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1105,kravátto,kravátto,corbata,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1106,kappukío,kappukío,gorra,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-1107,bóto,bóto,botas,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1108,sandálo,sandálo,sandalia,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-1109,siabátto,siabátto,zapatilla,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1110,giáko,giáko,chaqueta,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1111,maglióno,maglióno,sueter,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1112,gónno,gónno,falda,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-1113,vestíto,vestíto,vestido,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-1114,blúso,blúso,blusa,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1115,pantalonsíno,pantalonsíno,pantalon corto,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1116,biankherío,biankherío,ropa interior,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1117,reggiséno,reggiséno,sosten,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1118,pigiámo,pigiámo,pijama,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1119,vésto,vésto,bata,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1120,grembíulo,grembíulo,delantal,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1121,fazzolétto,fazzolétto,panuelo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1122,okulío,okulío,gafas,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1123,ombréllo,ombréllo,sombrilla,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1124,paragúo,paragúo,paraguas,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1125,jóya,jóyo,joya,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-1126,anéllo,anéllo,anillo,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-1127,kolláno,kolláno,collar,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-1128,brakialétto,brakialétto,pulsera,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-1129,tribunálo,tribunálo,tribunal,UB,ubicacion,neutro(-o),lok
+ASK-SUS-1130,domándo,domándo,demanda,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1131,sententío,sententío,sentencia,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-1132,testémo,testémo,testigo,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-1133,fiskálo,fiskálo,fiscal,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-1134,difensóro,difensóro,defensor,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-1135,akusáto,akusáto,acusado,ENT,rol,rol_general(-o),pat
+ASK-SUS-1136,vittímo,vittímo,victima,ENT,rol,rol_general(-o),pat
+ASK-SUS-1137,kolpevólo,kolpevólo,culpable,ENT,rol,rol_general(-o),pat
+ASK-SUS-1138,innosénto,innosénto,inocente,ENT,rol,rol_general(-o),pat
+ASK-SUS-1139,próvo,próvo,prueba,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-1140,testimonío,testimonío,testimonio,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-1141,delítto,delítto,delito,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-1142,krimíno,krimíno,crimen,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-1143,fálto,fálto,falta,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1144,péno,péno,pena,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-1145,múlto,múlto,multa,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1146,liberta kondizionálo,liberta kondizionálo,libertad condicional,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1147,konstitusío,konstitusío,constitucion,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1148,kodíso,kodíso,codigo legal,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1149,dekréto,dekréto,decreto,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1150,regolaménto,regolaménto,reglamento,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1151,akórdo,akórdo,acuerdo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1152,testaménto,testaménto,testamento,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1153,eredíto,eredíto,herencia,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-1154,khirúrgo,khirúrgo,cirujano,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-1155,infermiéro,infermiéro,enfermero,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-1156,risétto,risétto,receta,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1157,dóso,dóso,dosis,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1158,trattaménto,trattaménto,tratamiento,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1159,antibiotíko,antibiotíko,antibiotico,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1160,analgesíko,analgesíko,analgésico,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1161,anestesío,anestesío,anestesia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1162,trapiánto,trapiánto,transplante,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1163,radiografío,radiografío,radiografia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1164,ekografío,ekografío,ecografia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1165,emokrómo,emokrómo,hemograma,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1166,pressione arterióso,pressione arterióso,presion arterial,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1167,pólso,pólso,pulso,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1168,frattúro,frattúro,fractura,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1169,distorsióno,distorsióno,esguince,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1170,vitéllo,vitéllo,ternera,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1171,anyéllo,anyéllo,cordero,ENT,rol,rol-general (-o),ag
+ASK-SUS-1172,táko,táko,pavo,ENT,concreto,rol-general (-o),ent
+ASK-SUS-1173,singhiálo,singhiálo,jabali,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-1174,kamossío,kamossío,venado,ENT,rol,rol-general (-o),ag
+ASK-SUS-1175,salmóno,salmóno,salmon,ENT,concreto,rol-general (-o),ent
+ASK-SUS-1176,tónno,tónno,atun,ENT,concreto,rol-general (-o),ent
+ASK-SUS-1177,tróto,tróto,trucha,ENT,concreto,rol-general (-o),ent
+ASK-SUS-1178,merlúzzo,merlúzzo,bacalao,ENT,concreto,rol-general (-o),ent
+ASK-SUS-1179,sardíno,sardíno,sardina,ENT,concreto,rol-general (-o),ent
+ASK-SUS-1180,gambéro,gambéro,camaron,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1181,aragósto,aragósta,langosta,ENT,rol,fa (-a),fa
+ASK-SUS-1182,grankhío,grankhío,cangrejo,ENT,concreto,ba/rol-general (-o/-or),ba
+ASK-SUS-1183,pólpo,pólpo,pulpo,ENT,rol,ba (-o),ba
+ASK-SUS-1184,kalamáro,kalamáro,calamar,ENT,concreto,rol-general (-o),ent
+ASK-SUS-1185,kózzo,kózzo,mejillon,ENT,concreto,rol-general (-o),ent
+ASK-SUS-1186,ostríko,ostríka,ostra,ENT,rol,fa (-a),fa
+ASK-SUS-1187,riso biánko,riso biánko,arroz blanco,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1188,riso integrálo,riso integrálo,arroz integral,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1189,gráno,gráno,trigo,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-1190,máiso,máiso,maiz,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-1191,avéno,avéno,avena,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-1192,órzo,órzo,cebada,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-1193,segálo,segálo,centeno,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-1194,lentikhío,lentikhío,lenteja,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1195,siséro,siséro,garbanzo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1196,fagiólo,fagiólo,frijol,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1197,sóio,sóio,soja,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1198,mandórlo,mandórlo,almendra,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1199,nokiólo,nokiólo,avellana,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1200,arakhído,arakhído,cacahuete,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1201,pistakhío,pistakhío,pistacho,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1202,kastányo,kastányo,castana,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1203,ananáso,ananáso,pine,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1204,mángo,mángo,mango,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1205,papáio,papáio,papaya,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1206,angurío,angurío,sandia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1207,melóno,melóno,melon,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1208,fragólo,fragólo,fresa,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1209,lampóno,lampóno,frambuesa,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1210,mirtíllo,mirtíllo,arandano,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1211,siliegío,siliegío,cereza,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1212,prúnyo,prúnyo,ciruela,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1213,pésko,pésko,durazno,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1214,fíko,fíko,higo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1215,melográno,melográno,granada,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1216,akvílo,akvílo,aguila,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1217,fálko,fálko,halcon,ENT,concreto,rol-general (-o),ent
+ASK-SUS-1218,gúfo,gúfo,buho,ENT,concreto,rol-general (-o),ent
+ASK-SUS-1219,kórvo,kórvo,cuervo,ENT,concreto,rol-general (-o),ent
+ASK-SUS-1220,kolómbo,kolómba,paloma,ENT,concreto,fa (-a),fa
+ASK-SUS-1221,passéro,passéro,gorrion,ENT,concreto,rol-general (-o),ent
+ASK-SUS-1222,kanaríno,kanaríno,canario,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1223,pappagállo,pappagállo,loro,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1224,tukáno,tukáno,tucan,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1225,fenikottéro,fenikottéro,flamenco,ENT,concreto,rol-general (-o),ent
+ASK-SUS-1226,pengíno,pengíno,pengüino,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1227,avestrúso,avestrúsa,avestruz,ENT,rol,fa (-a),fa
+ASK-SUS-1228,pavóno,pavóno,pavo real,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-1229,sísno,sísna,cisne,ENT,rol,fa (-a),fa
+ASK-SUS-1230,óko,óko,ganso,ENT,concreto,rol-general (-o),ent
+ASK-SUS-1231,skválo,skválo,tiburon,ENT,rol,ba/rol-general (-o/-or),ba
+ASK-SUS-1232,delfíno,delfíno,delfin,ENT,rol,ba/rol-general (-o/-or),ba
+ASK-SUS-1233,fóko,fóka,foca,ENT,rol,fa (-a),fa
+ASK-SUS-1234,trikhéko,trikhéka,morsa,ENT,rol,fa (-a),fa
+ASK-SUS-1235,leone maríno,leone maríno,león marino,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1236,medúso,medúso,medusa,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1237,stella maríno,stella maríno,estrella de mar,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1238,kavallukío,kavallukío,caballito de mar,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1239,tartaruga maríno,tartaruga maríno,tortuga marina,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1240,kokodríllo,kokodríllo,cocodrilo,ENT,rol,rol-general (-o),ag
+ASK-SUS-1241,lusertólo,lusertólo,lagarto,ENT,concreto,rol-general (-o),ent
+ASK-SUS-1242,iguáno,iguáno,iguana,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1243,kamaleónto,kamaleónto,camaleon,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1244,vipéro,vipéro,vibora,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1245,skorpióno,skorpióno,escorpion,ENT,rol,ba (-o),ba
+ASK-SUS-1246,rányo,rányo,arana,ENT,concreto,rol-general (-o),ent
+ASK-SUS-1247,formíko,formíko,hormiga,ENT,concreto,rol-general (-o),ent
+ASK-SUS-1248,véspo,véspo,avispa,ENT,concreto,rol-general (-o),ent
+ASK-SUS-1249,libellúlo,libellúlo,libelula,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1250,kavallétto,kavallétto,saltamontes,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1251,gríllo,gríllo,grillo,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-1252,skarabéo,skarabéo,escarabajo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1253,mósko,mósko,mosca,ENT,concreto,rol-general (-o),ent
+ASK-SUS-1254,zanzáro,zanzáro,mosquito,ENT,concreto,rol-general (-o),ent
+ASK-SUS-1255,púlko,púlko,pulga,ENT,concreto,rol-general (-o),ent
+ASK-SUS-1256,zéko,zéko,garrapata,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1257,vérmo,vérmo,gusano,ENT,concreto,rol-general (-o),ent
+ASK-SUS-1258,khiokiólo,khiokiólo,caracol,ENT,rol,ba (-o),ba
+ASK-SUS-1259,limakío,limakío,babosa,ENT,concreto,rol-general (-o),ent
+ASK-SUS-1260,rikío,rikío,erizo,ENT,rol,ba (-o),ba
+ASK-SUS-1261,trámo,trámo,tranvia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1262,metrópo,metrópo,metro (transporte),ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1263,taksío,taksío,taxi,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1264,ambulánzo,ambulánzo,ambulancia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1265,autopattuglío,autopattuglío,coche policial,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1266,autopómpo,autopómpo,coche bomberos,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1267,elikottéro,elikottéro,helicoptero,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1268,aereo pikólo,aereo pikólo,avioneta,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1269,mongolfiéro,mongolfiéro,globo aerostatico,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1270,sottomaríno,sottomaríno,submarino,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1271,yákhto,yákhto,yate,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1272,veliéro,veliéro,velero,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1273,kanóo,kanóo,canoa,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-1274,zattéro,zattéro,balsa,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1275,monopattíno,monopattíno,patinete,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1276,skateboárdo,skateboárdo,monopatin,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1277,slítto,slítto,trineo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1278,karrétto,karrétto,carreta,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1279,karrózzo,karrózzo,carruaje,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1280,trattóro,trattóro,tractor,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1281,eskavatóro,eskavatóro,excavadora,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1282,pensiéro,pensiéro,pensamiento,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-1283,ragióno,ragióno,razon,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1284,reáltào,reáltào,realidad,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-1285,apparénzo,apparénzo,apariencia,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-1286,essénzo,essénzo,esencia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1287,esisténzo,esisténzo,existencia,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-1288,niénto,niénto,nada,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1289,tútto,tútto,todo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1290,kvalkóso,kvalkóso,algo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1291,núllo,núllo,nada (filos.),ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1292,témpo,témpo,tiempo,UB,tem,neutro(-o),tem
+ASK-SUS-1293,spatío,spatío,espacio,UB,ubicacion,neutro(-o),lok
+ASK-SUS-1294,univérso,univérso,universo,UB,ubicacion,neutro(-o),lok
+ASK-SUS-1295,kósmo,kósmo,cosmos,UB,ubicacion,neutro(-o),lok
+ASK-SUS-1296,natúro,natúro,naturaleza,UB,ubicacion,neutro(-o),lok
+ASK-SUS-1297,progrésso,progrésso,progreso,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-1298,evolusío,evolusío,evolucion,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-1299,rivolusío,rivolusío,revolucion,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-1300,modernitáto,modernitáto,modernidad,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1301,identítào,identítào,identidad,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1302,differénzo,differénzo,diferencia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1303,somigliánzo,somigliánzo,semejanza,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1304,kontrásto,kontrásto,contraste,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1305,relasío,relasío,relacion,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1306,káuzo,káuzo,causa,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-1307,effétto,effétto,efecto,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-1308,fíno,fíno,fin,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-1309,prinsipío,prinsipío,principio,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-1310,mézzo,mézzo,medio,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1311,primavéro,primavéro,primavera,UB,tem,neutro(-o),tem
+ASK-SUS-1312,estáto,estáto,verano,UB,tem,neutro(-o),tem
+ASK-SUS-1313,autúnno,autúnno,otono,UB,tem,neutro(-o),tem
+ASK-SUS-1314,invérno,invérno,invierno,UB,tem,neutro(-o),tem
+ASK-SUS-1340,novitáso,novitáso,noticia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1341,giornálo,giornálo,periodico,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1342,rivísto,rivísto,revista,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1343,kárta,kárto,carta,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1344,telegrámmo,telegrámmo,telegrama,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1345,páko,páko,paquete,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1346,fránko,fránko,sello,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1347,bústo,bústo,sobre (objeto),ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1348,indirízzo,indirízzo,direccion,UB,ruta,neutro(-o),lok
+ASK-SUS-1349,mitténto,mitténto,remitente,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-1350,destinatarío,destinatarío,destinatario,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-1351,selluláro,selluláro,movil,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1352,posta elettroníko,posta elettroníko,correo electronico,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1353,khiamáto,khiamáto,llamada,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1354,videokhiamáto,videokhiamáto,videollamada,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1355,stámpo,stámpo,prensa,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1356,giornalísto,giornalísto,periodista,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-1357,reportéro,reportéro,reportero,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-1358,intervísto,intervísto,entrevista,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1359,annunsío,annunsío,anuncio,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1360,violonséllo,violonséllo,violonchelo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1361,kontrabbásso,kontrabbásso,contrabajo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1362,klarinétto,klarinétto,clarinete,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1363,obóo,obóo,oboe,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1364,fagótto,fagótto,fagot,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1365,trómbo,trómbo,trompeta,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-1366,trombóno,trombóno,trombon,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1367,tubáo,tubáo,tuba,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1368,sassofóno,sassofóno,saxofon,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1369,timpáno,timpáno,timbal,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1370,ksilofóno,ksilofóno,xilofono,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1371,árpo,árpo,arpa,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-1372,orgáno,orgáno,organo,ENT,material,neutro/inanimado (-o),ent
+ASK-SUS-1373,fisarmoníko,fisarmoníko,acordeon,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1374,armoníko,armoníko,armonica,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1375,notamusikálo,notamusikálo,nota musical,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1376,atletíko,atletíko,atletismo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1377,siklísmo,siklísmo,ciclismo,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-1378,spádro,spádro,esgrima,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1379,pesistíko,pesistíko,halterofilia,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1380,kanottaggío,kanottaggío,remo,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1381,vélo,vélo,vela deportiva,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1382,ekvitazióno,ekvitazióno,equitacion,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1383,skío,skío,esqui,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1384,pattinaggío,pattinaggío,patinaje,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1385,súrfo,súrfo,surf,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1386,arrampikáto,arrampikáto,escalada,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1387,eskursionísmo,eskursionísmo,senderismo,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-1388,pallakanéstro,pallakanéstro,baloncesto,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1389,pallavólo,pallavólo,voleibol,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1390,basebállo,basebállo,beisbol,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1391,rúgbyo,rúgbyo,rugby,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1392,saserdóto,saserdóto,sacerdote,ENT,rol,ba/rol-general (-o),ag
+ASK-SUS-1393,monáko,monáko,monje,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-1394,suóro,suóra,monja,ENT,rol,fa (-a),fa
+ASK-SUS-1395,veskóvo,veskóvo,obispo,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-1396,pápo,pápo,papa (sumo pontifice),ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-1397,altáro,altáro,altar,UB,ubicacion,neutro(-o),lok
+ASK-SUS-1398,moskhéo,moskhéo,mezquita,UB,ubicacion,neutro(-o),lok
+ASK-SUS-1399,sinagógo,sinagógo,sinagoga,UB,ubicacion,neutro(-o),lok
+ASK-SUS-1400,orazióno,orazióno,oracion,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1401,ríto,ríto,rito,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-1402,serimonío,serimonío,ceremonia,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-1403,sakrifisío,sakrifisío,sacrificio,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1404,offérto,offérto,ofrenda,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1405,pellegrinaggío,pellegrinaggío,peregrinacion,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1406,fédo,fédo,fe,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-1407,kredénzo,kredénzo,creencia,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-1408,dógmo,dógmo,dogma,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-1409,pekáto,pekáto,pecado,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1410,generálo,generálo,general (grado),ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-1411,kolonnéllo,kolonnéllo,coronel,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-1412,tenénto,tenénto,teniente,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-1413,sergénto,sergénto,sargento,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-1414,kaporálo,kaporálo,cabo,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-1415,tróupo,tróupo,tropa,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1416,battaglío,battaglío,batalla,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1417,strategío,strategío,estrategia,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-1418,tattíko,tattíko,tactica,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-1419,assedío,assedío,asedio,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1420,ritiráto,ritiráto,retirada,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1421,skonfítto,skonfítto,derrota,ENT,abstracto,neutro/inanimado (-o),ent
+ASK-SUS-1422,spádo,spádo,espada,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1423,lansío,lansío,lanza,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1424,vólto,vólto,voltio,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1425,ámpo,ámpo,amperio,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1426,váto,váto,vatio,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1427,ómo,ómo,ohmio,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1428,kélvo,kélvo,kelvin,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1429,célso,célso,celsius,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1430,sekúndo,sekúndo,segundo (unidad SI),ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1431,métro,métro,metro,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1432,býto,býto,byte,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1439,áño,áño,año,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1440,káuso,káuso,"caso (circunstancia, asunto, caso jurídico/lógico)",ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-1441,kásoro,kásoro,cazador,ENT,rol,ba/rol-general (-o/-or),ag
+ASK-SUS-ENTO-0,énto,énto,Entidad / Ente neutro genérico,ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-ENTO-1,agénto,agénto,Ente Agente (el actor que ejecuta la acción),ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-ENTO-2,paténto,paténto,Ente Paciente (recibe o sufre la acción),ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-ENTO-3,iténto,iténto,Ente Instrumental (objeto/dispositivo medio),ENT,concreto,neutro/inanimado (-o),ent
+ASK-SUS-ENTO-4,ubénto,ubénto,Ente Locativo (recinto/espacio de ubicación),UB,ubicacion,neutro/inanimado (-o),lok
