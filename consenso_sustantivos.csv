@@ -93,7 +93,7 @@ id,codigo,forma_askaro,es,en,fr,it,pt,ro,ia,eo,backfill,bloque,votos_bloque,gana
 199,ASK-SUS-0202,makíno,maquina,machine,machine,macchina,máquina,mașină,machina,makhina,NO,machin,2,es-sin-bloque,0,0,1
 200,ASK-SUS-0203,komputadóro,computadora,computer,ordinateur,computer,computador,calculator,computare,komputare,NO,komputar,1,es-sin-bloque,0,0,1
 201,ASK-SUS-0204,prográmmo,programa,program,programme,programma,programa,program,gramma,gramma,NO,programm,4,es,0,1,6
-202,ASK-SUS-0205,softwáro,software,software,logiciel,software,software,software,,,NO,softwar,3,es,0,0,4
+202,ASK-SUS-0205,softwáro,software,software,logiciel,software,software,software,software,softvaro,NO,softwar,4,es,0,0,5
 203,ASK-SUS-0206,elektróno,electron,electron,électron,elettrone,elétron,electron,elektrone,elektrono,NO,electron,2,es-parcial,0,0,3
 204,ASK-SUS-0207,protóno,proton,proton,proton,protone,próton,proton,protose,protoso,NO,proton,4,es,0,1,6
 205,ASK-SUS-0208,neutróno,neutron,neutron,neutron,neutrone,neutrón,neutron,neutere,neutero,NO,neutron,4,es,0,1,6
@@ -215,7 +215,7 @@ id,codigo,forma_askaro,es,en,fr,it,pt,ro,ia,eo,backfill,bloque,votos_bloque,gana
 385,ASK-SUS-0408,makhíno,maquina,machine,machine,macchina,máquina,mașină,machina,makhina,NO,machin,2,es-sin-bloque,0,0,1
 386,ASK-SUS-0409,komputatóro,computadora,computer,ordinateur,computer,computador,calculator,computare,komputare,NO,komputar,1,es-sin-bloque,0,0,1
 387,ASK-SUS-0410,prográmo,programa,program,programme,programma,programa,program,programma,programma,NO,programm,6,es,0,1,8
-388,ASK-SUS-0411,softwáro,software,software,logiciel,software,software,software,,,NO,softwar,3,es,0,0,4
+388,ASK-SUS-0411,softwáro,software,software,logiciel,software,software,software,software,softvaro,NO,softwar,4,es,0,0,5
 389,ASK-SUS-0412,hardwáro,hardware,hardware,matériel,hardware,hardware,hardware,hardwaro,hardwaro,NO,hardwar,5,es,0,0,6
 390,ASK-SUS-0413,skriptorío,escritorio,desk,bureau,scrivania,escrivaninha,birou,scribtori,sribtori,NO,sribtor,1,es-sin-bloque,0,0,1
 391,ASK-SUS-0414,bankílo,banco (asiento),bench,banque,banca,banco,bancă,banco,banco,NO,banc,5,ia,0,0,5
@@ -1061,11 +1061,11 @@ id,codigo,forma_askaro,es,en,fr,it,pt,ro,ia,eo,backfill,bloque,votos_bloque,gana
 1386,ASK-SUS-1430,sekúndo,segundo (unidad SI),second (time unit),seconde,secondo,segundo,secundă,secunde,sekundo,NO,second,2,es-sin-bloque,0,0,1
 1387,ASK-SUS-1431,métro,metro,meter,mètre,metro,metro,metru,metro,metro,NO,metr,6,es,0,0,7
 1388,ASK-SUS-1432,býto,byte,byte,octet,byte,byte,octet,byto,byto,NO,octet,2,es-parcial,0,0,3
-1396,ASK-SUS-ENTO-0,énto,Entidad / Ente neutro genérico,,entité,ente,entidade,entitate,,,NO,entit,2,es-sin-bloque,0,0,1
-1397,ASK-SUS-ENTO-1,agénto,Ente Agente (el actor que ejecuta la acción),,agente,agente,agente,agent,,,NO,agent,4,it,0,0,4
-1398,ASK-SUS-ENTO-2,paténto,Ente Paciente (recibe o sufre la acción),,patient,paziente,paciente,pacient,,,NO,pacient,2,es-sin-bloque,0,0,1
-1399,ASK-SUS-ENTO-3,iténto,Ente Instrumental (objeto/dispositivo medio),,instrument,strumento,instrumento,instrument,,,NO,instrument,3,pt,0,0,3
-1400,ASK-SUS-ENTO-4,ubénto,Ente Locativo (recinto/espacio de ubicación),,lieu,luogo,lugar,loc,,,NO,lieu,1,es-sin-bloque,0,0,1
+1396,ASK-SUS-ENTO-0,énto,Entidad / Ente neutro genérico,entity,entité,ente,entidade,entitate,entitate,ento,NO,entit,3,ia,0,0,3
+1397,ASK-SUS-ENTO-1,agénto,Ente Agente (el actor que ejecuta la acción),agent,agente,agente,agente,agent,agente,agento,NO,agent,6,ia,0,0,6
+1398,ASK-SUS-ENTO-2,paténto,Ente Paciente (recibe o sufre la acción),patient,patient,paziente,paciente,pacient,paciente,patiento,NO,pacient,3,ia,0,0,3
+1399,ASK-SUS-ENTO-3,iténto,Ente Instrumental (objeto/dispositivo medio),instrument,instrument,strumento,instrumento,instrument,instrumento,instrumento,NO,instrument,5,ia,0,0,5
+1400,ASK-SUS-ENTO-4,ubénto,Ente Locativo (recinto/espacio de ubicación),location,lieu,luogo,lugar,loc,loco,loko,NO,loc,2,es-sin-bloque,0,0,1
 1401,ASK-SUS-1439,áño,año,year,année,anno,ano,an,anne,anno,NO,anne,6,es,0,1,8
 1403,ASK-SUS-1440,káuso,"caso (circunstancia, asunto, caso jurídico/lógico)","case (circumstance, legal/logical case)",cas,caso,caso,caz,case,kaso,NO,cas,4,ia,0,1,5
 1404,ASK-SUS-1441,kásoro,cazador,hunter,chasseur,cacciatore,caçador,vânător,chassator,chassator,NO,chassator,2,es-sin-bloque,0,0,1
